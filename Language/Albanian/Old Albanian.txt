@@ -1,0 +1,2014 @@
+Albanian Online
+Series Introduction
+Brian Joseph, Angelo Costanzo, and Jonathan Slocum
+
+Albanian is an Indo-European language spoken mainly in the Balkan Peninsula by approximately five million people. It is the principal and official language of Albania, the principal and a co-official language of Kosovo (with Serbian), and the principal and co-official language of many western municipalities of the Republic of Macedonia (with Macedonian). Albanian is also spoken widely in some areas in Greece, southern Montenegro, southern Serbia, and in some towns in southern Italy and Sicily.
+
+The terms Albania and Albanian are exonyms. The Albanians call themselves Shqiptar, their language shqip, and their country Shqipëria. These words are likely derived from the adverb shqip 'clearly' based on Latin excipere (whence shqipoj 'speak clearly'), though there are alternative explanations. In all other languages, a form from earlier *alban- or *arban- is used (the difference being most likely from a rhoticism process in Greek). In most other languages, a form with the same origin as Eng. Albanian is used (e.g., It. Albanese, Serb. Albanac, Germ. Albaner, etc). In Turkish, the Albanians are called Arnavut, derived in some way from arvan-. The terms Albania and Albanian are not to be confused with the area in the Caucasus referred to in ancient texts as Albania or the language spoken there referred to as Albanian (an ancestor of the modern Udi language spoken in Azerbaijan and a member of a language family with no confirmed connections to the Indo-European language family).
+
+When compared with most of the other Indo-European languages, Albanian's first attestations are rather recent, with the first surviving fragment from the mid-15th century and the first major text from the mid-16th century. For this reason, these lessons cover Albanian from the modern standard language back to earlier attestations, starting with the modern variety to get a grounding in the language and working back to older material.
+
+History
+Albanian and Indo-European
+Albanian forms a separate branch of Indo-European and cannot conclusively be closely connected with any other Indo-European language. There have been attempts to connect Albanian with some of the sparsely attested ancient languages of the Balkans, particularly Illyrian but also Dacian and Thracian. While this is plausible geographically, given that we know the Illyrians lived in an area that includes the modern Albanian-speaking area, there is no concrete linguistic evidence for any of these proposals. Some have proposed a connection between the ancestor of Albanian (without assigning a specific identity to this ancestor) and a Latinized variety of that ancestor that may have ultimately yielded Romanian, as there are several shared words not of Latin origin in both languages.
+
+Albanians and Albanian in the Historical Record
+Mention of the Albanian people and the Albanian language appears rather late in the historical record. The earliest uncontroversial mention of the Albanian people is in Michael Attaleiates's late 11th century history of the Byzantine Empire, where he refers to the Albanoi taking part in a revolt against Constantinople and the Arvanitai as subjects of the duke of Dyrrachium (modern Durrës, Albania's main port on the Adriatic).
+
+The first mentions of the Albanian language predate its first attestation by several centuries. Elsie (1991) describes a 1285 text in which the investigation of a robbery in Ragusa (modern Dubrovnik, Croatia) refers to a witness who said Audivi unam vocem clamantem in monte in lingua albanesca 'I heard a voice crying in the mountains in the Albanian language'. In the 1308 Anonymi Descriptio Europae Orientalis 'Anonymous description of Eastern Europe', the author writes Habent enim Albani prefati linguam distinctam a Latinis, Grecis et Sclavis ita quod in nullo se inteligunt cum aliis nationibus 'The aformentioned Albanians have a language which is entirely distinct from that of the Latins, Greeks and Slavs such that in no way can they communicate with other peoples'.
+
+Earliest Attestations of the Albanian Language
+While the earliest attested Albanian texts are from over a century later, the existence of Albanian texts is mentioned in 1332 in Directorium ad passagium faciendum (by a French monk whose identity is uncertain): licet Albanenses aliam omnino linguam a latina habeant et diversam, tamen litteram latinam habent in uso et in omnibus suis libris 'The Albanians have a language different from Latin, although they use Latin letters in their books' (note that this could potentially be saying that Albanians just wrote in Latin).
+
+The oldest unambiguous attested Albanian is a single line embedded in a Latin document from 1462. It is in a letter from Pal Engëlli, a bishop and associate of Skënderbeu, and is a translation of a baptismal formula (formula e pagëzimit) into Geg Albanian:
+
+Vnte' paghesont premenit Atit et birit et spertit senit
+'I baptize you in the name of the father, the son, and the holy spirit'
+cf. Std. Alb. Unë të pagëzoj në emër të Atit, të Birit, e të Shpirtit të Shenjtë
+Over the following century the attested Albanian "texts" are of similar size, including a single line in a Latin play from 1483 and a short list of Albanian words from 1496.
+
+The first larger text is Meshari i Gjon Buzukut 'The Missal of Gjon Buzuku', written in 1555 (see Lesson 5). Again, like the earlier attestations of Albanian, Buzuku's 'Missal' is written in Geg. Most of the early documentation of Albanian is in Geg, as that area was more difficult for the Ottomans to subdue (and consequently discourage the use of Albanian). The earliest attestation of Tosk Albanian is the E mbsuame e krështerë 'Christian doctrine' of Lekë Matrënga from 1592, written in Hora e Arbëreshëvet, an Arbëresh settlement in northeastern Sicily.
+
+Structure of Albanian
+Some general characteristics of the Albanian language:
+Albanian shows a fairly complex nominal inflection system. Albanian has a three-gender system (masculine, feminine, neuter), though the exact status of the neuter gender is disputed. Five cases remain from Proto-Indo-European: nominative, accusative, dative, genitive, and ablative, though the dative and genitive are morphologically identical. In addition to inflecting for case and number, Albanian nouns also inflect for definiteness. As is also seen in several other languages of the Balkans (e.g., Romanian, Macedonian, Bulgarian), Albanian has a postposed definite article, e.g., zog 'bird', zog-u 'the bird'
+The verb system is highly populated with analytic forms. This includes several compound past tenses (e.g., kam lexuar 'I have read'), the future tense (e.g., do të lexoj 'I will read'), the present progressive (e.g., po lexoj 'I am reading'), the past passive (e.g., u lexua 'it was read'), among others. In addition, Albanian also has a substantial inventory of synthetic verb forms, some familiar (e.g., present, imperfect, past definite, optative, etc.), and some that are less familiar to learners of Indo-European (e.g., the admirative mood, see Lesson 5).
+One of the most noticeable features of Albanian is the vast number of "small words" that exist. It is not that there is a huge inventory of different "small words" in Albanian; rather there are many instances in which words having the same form are found in different functions. Some of these small words include: the attributive article (or as we call it, nyje), that can take four different forms depending on a variety of factors and is required with most adjectives, some nouns, and all instances of nouns in the genitive case (it is what distinguishes the genitive from the dative); subordinators; weak pronouns; etc. This often gets a bit tricky as, e.g., të can be an attributive article, a pronominal clitic, and a subordinator.
+Variation in Albanian
+Dialects
+Albanian dialects are traditionally divided into two groups: Geg dialects in the north, and Tosk dialects in the south. The dividing line is traditionally considered to be the Shkumbin river, which runs east-west though central Albania (at approximately the 41st parallel north). Dialects spoken in Kosovo and Macedonia are Geg dialects, while those spoken in northwestern Greece are Tosk dialects. While they are technically Tosk dialects, Arvanitika (spoken in Greece, historically in Attica and Boeotia) and Arbëresh (spoken in southern Italy and Sicily) are also often considered major Albanian dialects; these dialects were brought to these areas after the Ottoman conquest of the western Balkans in the late 15th century, and they are maintained to this day.
+
+Major differences between Geg and Tosk
+Phonological variation:
+
+Geg has nasal vowels while Tosk does not, e.g., Geg âsht vs. Tosk është 'is'
+Geg has phonemic vowel length, e.g., dhē 'earth' vs. dhe 'and'. Nearly all Tosk dialects lack vowel length distinctions, e.g., dhe 'earth', 'and'.
+Tosk dialects have undergone a change by which intervocalic n became r. No such change has occurred in Geg, e.g., Geg Shqipnia vs. Tosk Shqipëria 'Albania', Geg gjarpën vs. Tosk gjarpër 'snake'.
+Morphosyntactic variation:
+
+The Tosk future tense is formed with the marker do followed by a conjugated present subjunctive form of the verb (e.g., do të shkoj 'I will go'), while the Geg future tense is formed by a conjugated form of the verb 'have' followed by an infinitive (e.g., kam me shkue 'I will go').
+Tosk lacks infinitives altogether (similar to several other languages of the Balkans), while Geg maintains the infinitive (composed of me plus the past participle).
+In Tosk, most verbs have a past participle in -r (e.g., fjetur 'slept', qeshur 'laughed', kërkuar 'requested'). In Geg, no verbs have this ending (e.g., fjetë 'slept', qeshë 'laughed, kërkuë 'requested').
+Standard Albanian
+Nearly all of the historical centers of Albanian culture (Durrës, Tiranë, Shkodër, Prishtinë, Tetovë, etc.) are located squarely in Geg-speaking territory. However, Standard Albanian is predominantly based on Tosk. The promotion of a Tosk-based variety as a standard is actually quite recent, and likely has much to do with the fact that Enver Hoxha, Albania's dictator from the 1940s until the 1980s, was from Gjirokastër (in southern Albania), and thus was a native speaker of a Tosk variety. Even though they are predominantly located in Geg-speaking areas, the standard variety used in Kosovo and Macedonia is the same one used in Albania (i.e., it is based on Tosk).
+
+Standard Albanian, while predominantly based on Tosk, does also have some Geg features. For example, the Standard Albanian 1st person singular present verb ending -j is a Geg feature; most Tosk dialects, on the other hand, have the ending -nj.
+
+Language Contact
+As with the other languages of the Balkans, the development of Albanian has been drastically affected by contact with speakers of other languages.
+
+Lexical Borrowing
+While reports of over 90 percent of Albanian's lexicon being composed of foreign words are definitely overstated, lexical borrowing has had an enormous effect on Albanian. There are several strata of lexical borrowings.
+
+Early Greek influence: Limited to a small group of borrowings, e.g., Ancient Greek makhana > mokërë 'millstone', lakhana > lakër 'cabbage'.
+Latin influence: The influence of Latin on the Albanian lexicon is vast, e.g., Latin lex > ligj 'law', amicus > mik 'friend', aurum > ar 'gold'. Albanian also shows a number of calques from Latin, e.g., decem-brius > dhjet-or 'December', manu-scriptus > dorë-shkrim 'manuscript'.
+South Slavic influence: There are also a substantial number of words borrowed from South Slavic, e.g., Slavic nevolja > Alb. nevojë 'need'; gotov > Alb. gati 'ready'.
+Modern Greek influence: While the Ancient Greek influence on Albanian is minimal, the influence from Modern Greek has been much larger, e.g., Greek kyverno > qeveris 'to govern', krevati > krevet 'bed', staphida > stafidhe 'raisin', as well as the pan-Balkan 'unceremonious mode of address' bre, more (along with several alternate forms, originally from Greek more).
+Turkish influence: As Albania was under Ottoman rule for over 400 years, there is a strong Turkish element in the Albanian lexicon, e.g, Turkish haydi > hajde 'c'mon!; let's go!', pencere > penxhere 'window'; along with a wide range of culinary vocabulary (e.g., patëllxhan 'eggplant'; çorbë 'soup'; byrek 'delicious pastry with a variety of fillings').
+Italian and English influence: Over the past century, the two major influences on the Albanian lexicon have been Italian and English, e.g., Italian bagno > banjë 'bathroom', tavolino > Alb. tavolinë 'table'; English jogging > Alb xhoging, to charge > Alb. çarxhoj.
+The Balkan Sprachbund
+As part of Balkan Sprachbund, Albanian shares a number of features with the other languages of the Balkans (e.g., Greek, Bulgarian, Macedonian, Romanian, Turkish, Romani, etc). The following are some of Albanian's more notable Balkan features:
+
+Albanian has a postposed definite article, e.g., qen 'dog', qen-i 'the dog'. This is also seen in Balkan Romance and Balkan Slavic as well (e.g., Mac. kuche 'dog', kuche-to 'the dog'). While many of the features of the Balkan Sprachbund are considered to have ultimately originated in Greek, it has been proposed that Albanian is the source of this particular feature (though it is difficult to tell, as the earliest attestations of Albanian only date back 500 years).
+While it does have a more recent formation that fulfills some of the roles of the infinitive in other languages, Tosk (like Greek, Macedonian, etc.) has lost the infinitive from earlier stages of the language. It is maintained in Geg (see Lesson 4 for a discussion of the Geg infinitive).
+The Tosk future tense is an analytic formation composed of an invariant particle from the verb for 'want' followed by a present subjunctive form of the verb (e.g., do të pi 'I will drink', where do is from the verb dua 'want'). Most of the other Balkan languages have the same pattern (e.g., Grk. tha pino, Mac. k'e pijam, where tha and k'e are invariant particles from the Greek and Macedonian verbs meaning 'want', respectively).
+Albanian has the admirative mood, which is used, among other things, to express shock or surprise (see Lesson 5). This is also seen in Turkish, Bulgarian and Macedonian.
+The Albanian Alphabet & Pronunciation
+The Albanian Alphabet
+The earliest texts were written in various forms of the Latin alphabet, with additional characters borrowed from the Greek alphabet (as well as some additional characters of other origins). Up until the late 19th century, the script used to write Albanian appears to have been dependent on the religion of the scribe: Latin for Catholics, Greek for Orthodox Christians, and Perso-Arabic script for Muslims. In the late 19th century there were various attempts to create a standardized alphabet for Albanian; in 1908, the modern Albanian alphabet was codified at the Congress of Manastir.
+
+The modern Albanian alphabet consists of 36 letters, several of which are digraphs.
+
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	A,a	 	B,b	 	C,c	 	Ç,ç	 	D,d	 	Dh,dh	 	E,e	 	Ë,ë	 	F,f	 	G,g	 	Gj,gj	 	H,h
+ 	 	I,i	 	J,j	 	K,k	 	L,l	 	Ll,ll	 	M,m	 	N,n	 	Nj,nj	 	O,o	 	P,p	 	Q,q	 	R,r
+ 	 	Rr,rr	 	S,s	 	Sh,sh	 	T,t	 	Th,th	 	U,u	 	V,v	 	X,x	 	Xh,xh	 	Y,y	 	Z,z	 	Zh,zh
+As briefly discussed above, Geg has nasalized vowels. The normal convention is to write these vowels with a circumflex accent. All other issues with the alphabet are discussed in the relevant lessons.
+
+Vowel Pronunciation
+Standard Albanian, as well as most Tosk dialects, has a seven-vowel system:
+
+ 	 	 	 	pronunciation
+ 	 	i	 	similar to the vowel in Eng. meat
+ 	 	e	 	similar to the vowel in Eng. met
+ 	 	a	 	similar to the vowel in Eng. hot
+ 	 	o	 	similar to the vowel in Eng. boat, but not diphthongal. More akin to the vowel in Spanish no.
+ 	 	u	 	similar to the vowel in Eng. boot
+ 	 	y	 	a high, front, rounded vowel; absent in English; similar to the vowel in French tu
+ 	 	ë	 	similar to the final vowel in Eng. sofa
+In Standard Albanian (as well as in most Geg dialects), the vowel ë is typically not pronounced in final position (e.g., nëntë 'nine' is pronounced nënt), except for in monosyllabic words (e.g., një 'one', që 'that', etc). This sound is also commonly elided in other unstressed syllables. In some (mainly Tosk) dialects, this vowel is fully pronounced.
+
+While Standard Albanian has a relatively simple seven-vowel system, most Geg varieties have a much more complex set of vowels. Any of the vowels above, with the exception of ë, can be nasalized. In addition, Geg has distinctive vowel length, so any of the vowels (except, again ë) can be long or short. Camaj (1984) also claims that some Geg varieties have a distinction between short nasal vowels and long nasal vowels.
+
+Consonant Pronunciation
+As for consonants, though most of the letter-sound correspondences will be familiar, there are some exceptions:
+
+ 	 	 	 	description	 	sounds like...
+ 	 	c	 	voiceless dental affricate	 	ts in English cats, z in Italian zio, c in Russian cvet
+ 	 	ç	 	voiceless postalveolar affricate	 	ch in English choose, c in Italian cento
+ 	 	dh	 	voiced dental fricative	 	th in English the
+ 	 	gj	 	voiced palatal stop	 	similar to g in English gear
+ 	 	ll	 	voiced velarized lateral	 	similar to ll in English ball; in Albanian, unlike in English, this sound can occur in any position in the word.
+ 	 	nj	 	palatal nasal	 	gn in French agneau, similar to ni in Eng. onion
+ 	 	q	 	voiceless palatal stop	 	similar to k in Eng. key
+ 	 	rr	 	alveolar trill	 	rr in Spanish sierra
+ 	 	th	 	voiceless dental fricative	 	th in English thing
+ 	 	x	 	voiced dental affricate	 	ds in English needs, z in Italian zero
+ 	 	xh	 	voiced postalveolar affricate	 	j in English judge, g in Italian giro
+ 	 	zh	 	voiced postalveolar fricative	 	s in English pleasure, j in French jour
+ 
+Brief bibliography
+Barleti, M. (1964). Historia e jetës dhe e vepravet të Skënderbeut. Tirana: Universiteti Shtetëror i Tiranës, Instituti i Historisë dhe i Gjuhësisë
+Camaj, M. (1984). Albanian grammar, with exercises, chrestomathy, and glossaries. Wiesbaden: O. Harrassowitz. 
+Elsie, R. (1991). The earliest references to the existence of the Albanian language. Zeitschrift für Balkanologie, 27.2. 101-105. 
+Elsie, R. (2005). Albanian literature: A short history. London: I.B. Tauris. 
+Hughes, C. (2006). Gegnishtja e sotme = A course in modern Geg Albanian. Hyattsville, MD: Dunwoody Press. 
+Kadare, I. (1963). Gjenerali i ushtërise së vdekur. Tirana: N. Frashëri. 
+Newmark, L. (1998). Albanian-English dictionary. Oxford: Oxford University Press. 
+Newmark, L., Hubbard, P., & Prifti, P.R. (1982). Standard Albanian: A reference grammar for students. Stanford: Stanford University Press. 
+Ressuli, N. (1958). Il "Messale" di Giovanni Buzuku: Riproduzione e trascrizione. Vatican City: Biblioteca Apostolica Vaticana. 
+Shtjefën, G & Fox, L.(Eds). (1989) Kanuni i Lekë Dukagjinit = The code of Lekë Dukagjini. New York: Gjonlekaj
+
+Lesson 1: Tosk
+Brian Joseph, Angelo Costanzo, and Jonathan Slocum
+Since the completion of the Ottoman conquest of the Balkan Peninsula, the Albanian-speaking lands had been united under Ottoman rule. However, upon the fall of the Ottoman Empire in the Balkans in 1912, Albania and Kosovo were separated. Albania was given independence and, in the roughly eighty years that followed, went though Italian occupation, a brutal isolationist communist dictatorship, and since 1991 a transition to democracy. Kosovo, on the other hand, became part of Serbia, and after World War II it was a province of the Socialist Republic of Serbia within the Socialist Federal Republic of Yugoslavia. As communism fell and several former Yugoslav republics declared their independence in the early 1990s, Kosovo remained part of the Federal Republic of Yugoslavia (later to be known as "Serbia and Montenegro" and, later yet, as "Serbia"). After years of war and a period of UN intervention, Kosovo declared its independence from Serbia in February 2008. While the independence of Kosovo has been recognized by several of the other Balkan nations, much of Western Europe, and the United States, more than half of the members of the United Nations have not recognized it and Serbia maintains that Kosovo is still a Serbian province. Due to the opposition to its independence, Kosovo is not a member of the United Nations, and a solution to the dispute remains to be reached.
+
+Reading and Textual Analysis
+The following text contains Articles 5, 6, and 7 of Kosovo's 2008 Constitution. It discusses the languages, symbols, and values of the Republic of Kosovo. Note that the use of this text here does not necessarily imply a stance on Kosovo's declaration of independence; rather, this is being treated as a historical document that, regardless of any final outcome for Kosovo, shows an important event in Albanian language history.
+
+Despite the fact that the Albanian-speaking areas of Kosovo are completely in Geg territory (north of the Shkumbin river), the official variety of Albanian used in Kosovo is the same as that used in Albania; that is, it is overwhelmingly based on the Tosk dialect. As this is the official dialect of Kosovo, its constitution was written in this dialect.
+
+Gjuhë zyrtare në Republikën e Kosovës janë Gjuha Shqipe dhe Gjuha Serbe.
+ Collapse All
+gjuhë -- noun, feminine; nominative plural indefinite of <gjuhë> language -- languages
+zyrtare -- adjective; feminine plural of <zyrtar> official -- official
+në -- preposition, accusative; <në> in, on, at -- in
+republikën -- noun, feminine; accusative singular definite of <republikë> republic -- the Republic
+e -- particle; feminine accusative singular definite of <e> NYJE -- ...
+Kosovës -- noun, feminine; genitive singular definite of <Kosovë> Kosovo -- of Kosovo
+janë -- verb; 3rd person plural present indicative active of <jam> be -- are
+gjuha -- noun, feminine; nominative singular definite of <gjuhë> language -- the language
+shqipe -- adjective; feminine singular of <shqip> Albanian -- Albanian
+dhe -- conjunction; <dhe> and -- and
+gjuha -- noun, feminine; nominative singular definite of <gjuhë> language -- the language
+serbe -- adjective; feminine singular of <serb> Serbian -- Serbian
+
+Gjuha Turke, Boshnjake dhe ajo Rome kanë statusin e gjuhëve zyrtare në nivel komune ose do të jenë në përdorim zyrtar në cilindo nivel në pajtim me ligj.
+ Collapse All
+gjuha -- noun, feminine; nominative singular definite of <gjuhë> language -- the languages
+turke -- adjective; feminine singular of <turk> Turkish -- Turkish
+boshnjake -- adjective; feminine singular of <boshnjak> Bosnian -- Bosnian
+dhe -- conjunction; <dhe> and -- and
+ajo -- pronoun; feminine nominative of <ai, ajo> (s)he, it, that -- ...
+rome -- adjective; feminine singular of <rom> Romani -- Romani
+kanë -- verb; 3rd person plural present indicative active of <kam> have -- have
+statusin -- noun, masculine; accusative singular definite of <status> status -- the status
+e -- particle; masculine accusative singular definite of <e> NYJE -- ...
+gjuhëve -- noun, feminine; genitive plural indefinite of <gjuhë> language -- of languages
+zyrtare -- adjective; feminine plural of <zyrtar> official -- official
+në -- preposition, accusative; <në> in, on, at -- at
+nivel -- noun, masculine; accusative singular indefinite of <nivel> level -- level
+komune -- noun, feminine; ablative singular indefinite of <komunë> province -- municipal
+ose -- conjunction; <ose> or -- or
+do -- marker; <do> FUTURE/CONDITIONAL -- ...
+të -- conjunction; <të> SUBORDINATOR -- ...
+jenë -- verb; 3rd person plural present subjunctive active of <jam> be -- will be
+në -- preposition, accusative; <në> in, on, at -- in
+përdorim -- noun, masculine; accusative singular indefinite of <përdorim> use -- use
+zyrtar -- adjective; masculine singular of <zyrtar> official -- official
+në -- preposition, accusative; <në> in, on, at -- in
+cilindo -- adjective; masculine accusative singular of <cilido> whichever -- all
+nivel -- noun, masculine; accusative singular indefinite of <nivel> level -- levels
+në -- preposition, accusative; <në> in, on, at -- in
+pajtim -- noun, masculine; accusative singular indefinite of <pajtim> accordance -- accordance
+me -- preposition, accusative; <me> with, by -- with
+ligj -- noun, masculine; accusative singular indefinite of <ligj> law -- law
+
+Flamuri, stema dhe himni janë simbolet shtetërore të Republikës së Kosovës të cilat pasqyrojnë karakterin shumetnik të saj.
+ Collapse All
+flamuri -- noun, masculine; nominative singular definite of <flamur> flag -- the flag
+stema -- noun, feminine; nominative singular definite of <stemë> seal -- the seal
+dhe -- conjunction; <dhe> and -- and
+himni -- noun, masculine; nominative singular definite of <himn> anthem -- the anthem
+janë -- verb; 3rd person plural present indicative active of <jam> be -- are
+simbolet -- noun, ambigeneric; nominative plural definite of <simbol> symbol -- the symbols
+shtetërore -- adjective; feminine plural of <shtetëror> state -- state
+të -- particle; masculine nominative plural definite of <e> NYJE -- ...
+Republikës -- noun, feminine; genitive singular definite of <republikë> republic -- of the Republic
+së -- particle; feminine genitive singular definite of <e> NYJE -- ...
+Kosovës -- noun, feminine; genitive singular definite of <Kosovë> Kosovo -- of Kosovo
+të -- particle; feminine genitive singular definite of <e> NYJE -- ...
+cilat -- pronoun; nominative feminine plural of <cili, e> that, which -- which
+pasqyrojnë -- verb; 3rd person plural present indicative active of <pasqyroj> reflect -- reflect
+karakterin -- noun, masculine; accusative singular definite of <karakter> character -- character
+shumetnik -- adjective; masculine singular of <shumetnik> multiethnic -- multi-ethnic
+të -- particle; masculine accusative singular definite of <e> NYJE -- ...
+saj -- pronoun; feminine genitive of <ai, ajo> (s)he, it, that -- its
+
+Pamja, mënyra e përdorimit dhe mbrojtja e flamurit dhe të simboleve të tjera shtetërore rregullohen me ligj.
+ Collapse All
+pamja -- noun, feminine; nominative singular definite of <pamje> appearance -- the appearance
+mënyra -- noun, feminine; nominative singular definite of <mënyrë> manner -- the manner
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+përdorimit -- noun, masculine; genitive singular definite of <përdorim> use -- of use
+dhe -- conjunction; <dhe> and -- and
+mbrojtja -- noun, feminine; nominative singular definite of <mbrojtje> defense, protection -- the protection
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+flamurit -- noun, masculine; genitive singular definite of <flamur> flag -- of the flag
+dhe -- conjunction; <dhe> and -- and
+të -- particle; feminine nominative singular definite of <e> NYJE -- ...
+simboleve -- noun, ambigeneric; genitive plural definite of <simbol> symbol -- symbols
+të -- particle; feminine genitive plural definite of <e> NYJE -- ...
+tjera -- adjective; feminine plural of <tjetër, e> other -- other # The adjective tjetër is unique in that it is treated as an unarticulated adjective in the singular (e.g., masc.sg. tjetër, rather than e tjetër, but as an articulated adjective in the plural (e.g., fem.pl. të tjera)
+shtetërore -- adjective; feminine plural of <shtetëror> state -- state
+rregullohen -- verb; 3rd person plural present indicative non-active of <rregullohem> be regulated -- are regulated
+me -- preposition, accusative; <me> with, by -- by
+ligj -- noun, masculine; accusative singular indefinite of <ligj> law -- law
+
+Mënyra e përdorimit dhe e mbrojtjes së simboleve kombëtare rregullohet me ligj.
+ Collapse All
+mënyra -- noun, feminine; nominative singular definite of <mënyrë> manner -- the manner
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+përdorimit -- noun, masculine; genitive singular definite of <përdorim> use -- of use
+dhe -- conjunction; <dhe> and -- and
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+mbrojtjes -- noun, feminine; genitive singular definite of <mbrojtje> defense, protection -- the protection
+së -- particle; feminine genitive singular definite of <e> NYJE -- ...
+simboleve -- noun, ambigeneric; genitive plural definite of <simbol> symbol -- of the symbols
+kombëtare -- adjective; feminine plural of <kombëtar> national -- national
+rregullohet -- verb; 3rd person singular present indicative non-active of <rregullohem> be regulated -- are regulated
+me -- preposition, accusative; <me> with, by -- by
+ligj -- noun, masculine; accusative singular indefinite of <ligj> law -- law
+
+Rendi kushtetues i Republikës së Kosovës bazohet në parimet e lirisë, paqes, demokracisë, barazisë, respektimit të të drejtave dhe lirive të njeriut dhe sundimit të ligjit, mosdiskriminimit, të drejtës së pronës, mbrojtjes e mjedisit, drejtësisë sociale, pluralizmit, ndarjes së pushtetit shtetëror dhe ekonomisë së tregut.
+ Collapse All
+rendi -- noun, masculine; nominative singular definite of <rend> order -- the order
+kushtetues -- adjective, masculine singular of; <kushtetues> constitutional -- constitutional
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+republikës -- noun, feminine; genitive singular definite of <republikë> republic -- of the Republic
+së -- particle; feminine genitive singular definite of <e> NYJE -- ...
+Kosovës -- noun, feminine; genitive singular definite of <Kosovë> Kosovo -- of Kosovo
+bazohet -- verb; 3rd person singular present indicative non-active of <bazohem> be based -- is based
+në -- preposition, accusative; <në> in, on, at -- on
+parimet -- noun, masculine; accusative plural definite of <parim> principle -- the principles
+e -- particle; masculine accusative plural definite of <e> NYJE -- ...
+lirisë -- noun, feminine; genitive singular definite of <liri> liberty, freedom -- of freedom
+paqes -- noun, feminine; genitive singular definite of <paqe> peace -- peace # Note that when there are multiple nouns in the genitive case modifying a single noun, only the first in the sequence requires a nyje particle.
+demokracisë -- noun, feminine; genitive singular definite of <demokraci> democracy -- democracy
+barazisë -- noun, feminine; genitive singular definite of <barazi> equality -- equality
+respektimit -- noun, masculine; genitive singular definite of <respektim> respect -- respect
+të -- particle; masculine genitive singular definite of <e> NYJE -- ...
+të -- particle; feminine genitive plural definite of <e> NYJE -- ...
+drejtave -- noun, feminine; genitive plural definite of <drejtë, e> right -- for rights
+dhe -- conjunction; <dhe> and -- and
+lirive -- noun, feminine; genitive plural definite of <liri> liberty, freedom -- freedoms
+të -- particle; feminine genitive plural definite of <e> NYJE -- ...
+njeriut -- noun, masculine; genitive singular definite of <njeri> human, person -- human
+dhe -- conjunction; <dhe> and -- and
+sundimit -- noun, masculine; genitive singular definite of <sundim> rule -- the rule
+të -- particle; masculine genitive singular definite of <e> NYJE -- ...
+ligjit -- noun, masculine; genitive singular definite of <ligj> law -- of law
+mosdiskriminimit -- noun, masculine; genitive singular definite of <mosdiskriminim> nondiscrimination -- non-discrimination
+të -- particle; feminine genitive singular definite of <e> NYJE -- ...
+drejtës -- noun, feminine; genitive singular definite of <drejtë, e> right -- the right
+së -- particle; feminine genitive singular definite of <e> NYJE -- ...
+pronës -- noun, feminine; genitive singular definite of <pronë> property -- to property
+mbrojtjes -- noun, feminine; genitive singular definite of <mbrojtje> defense, protection -- the protection
+e -- particle; feminine genitive singular definite of <e> NYJE -- ... # The use of e here is unusual if this is to mean 'of protection of the environment', as we would expect the NYJE to have the form së. This could be e meaning 'and' but then the sense would not be appropriate ('of protection and of the environment'). Inasmuch as the Serbian version has a genitive with the meaning 'protection of the environment', we consider this most likely to simply be an error in the original Albanian.
+mjedisit -- noun, masculine; genitive singular definite of <mjedis> environment -- of the environment
+drejtësisë -- noun, feminine; genitive singular definite of <drejtësi> justice -- justice
+sociale -- adjective; feminine singular of <social> social -- social
+pluralizmit -- noun, masculine; genitive singular definite of <pluralizm> pluralism -- pluralism
+ndarjes -- noun, masculine; genitive singular definite of <ndarje> separation -- separation
+së -- particle; masculine genitive singular definite of <e> NYJE -- ...
+pushtetit -- noun, masculine; genitive singular definite of <pushtet> power -- of powers
+shtetëror -- adjective; masculine singular of <shetëror> state -- state
+dhe -- conjunction; <dhe> and -- and
+ekonomisë -- noun, feminine; genitive singular definite of <ekonomi> economy -- economy
+së -- particle; feminine genitive singular definite of <e> NYJE -- ...
+tregut -- noun, masculine; genitive singular definite of <treg> market -- market
+
+Republika e Kosovës siguron barazinë gjinore si vlerë themelore për zhvillimin demokratik të shoqërisë, mundësi të barabarta për pjesëmarrje të femrave dhe meshkujve në jetën politike, ekonomike, sociale, kulturore dhe në fushat të tjera të jetës shoqërore.
+ Collapse All
+republika -- noun, feminine; nominative singular definite of <republikë> republic -- the Republic
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+Kosovës -- noun, feminine; genitive singular definite of <Kosovë> Kosovo -- of Kosovo
+siguron -- verb; 3rd person singular present indicative active of <siguroj> ensure -- ensures
+barazinë -- noun, feminine; accusative singular definite of <barazi> equality -- equality
+gjinore -- adjective; feminine singular of <gjinor> gender -- gender
+si -- conjunction; <si> as -- as
+vlerë -- noun, feminine; accusative singular indefinite of <vlerë> value -- value
+themelore -- adjective; feminine singular of <themelor> basic -- fundamental
+për -- preposition, accusative; <për> for, about -- for
+zhvillimin -- noun, masculine; accusative singular definite of <zhvillim> development -- the development
+demokratik -- adjective; masculine singular of <demokratik> democratic -- democratic
+të -- particle; masculine accusative singular definite of <e> NYJE -- ...
+shoqërisë -- noun feminine; genitive singular definite of <shoqëri> society -- of the society
+mundësi -- noun, feminine; accusative plural indefinite of <mundësi> possibility -- opportunities
+të -- particle; feminine accusative plural indefinite of <e> NYJE -- ...
+barabarta -- adjective; feminine plural of <barabartë, e> equal -- equal
+për -- preposition, accusative; <për> for, about -- for
+pjesëmarrje -- noun, feminine; accusative singular indefinite of <pjesëmarrje> participation -- participation
+të -- particle; feminine accusative singular indefinite of <e> NYJE -- ...
+femrave -- noun, feminine; genitive plural definite of <femër> female -- female
+dhe -- conjunction; <dhe> and -- and
+meshkujve -- noun, masculine; genitive plural definite of <mashkull> male -- male
+në -- preposition, accusative; <në> in, on, at -- in
+jetën -- noun, feminine; accusative singular definite of <jetë> life -- ...
+politike -- adjective; feminine singular of <politik> political -- political
+ekonomike -- adjective; feminine singular of <ekonomik> economic -- economic
+sociale -- adjective; feminine singular of <social> social -- social
+kulturore -- adjective; feminine singular of <kulturor> cultural -- cultural
+dhe -- conjunction; <dhe> and -- and
+në -- preposition, accusative; <në> in, on, at -- ...
+fushat -- noun, feminine; accusative plural definite of <fushë> field, area -- areas
+të -- particle; feminine accusative plural definite of <e> NYJE -- ...
+tjera -- adjective; feminine plural of <tjetër, e> other -- other # The adjective tjetër is unique in that it is treated as an unarticulated adjective in the singular (e.g., masc.sg. tjetër, rather than e tjetër, but as an articulated adjective in the plural (e.g., fem.pl. të tjera)
+të -- particle; feminine accusative plural definite of <e> NYJE -- ...
+jetës -- noun, feminine; genitive singular definite of <jetë> life -- of life
+shoqërore -- adjective; feminine singular of <shoqëror> social -- societal
+
+Lesson Text
+Gjuhë zyrtare në Republikën e Kosovës janë Gjuha Shqipe dhe Gjuha Serbe. Gjuha Turke, Boshnjake dhe ajo Rome kanë statusin e gjuhëve zyrtare në nivel komune ose do të jenë në përdorim zyrtar në cilindo nivel në pajtim me ligj. Flamuri, stema dhe himni janë simbolet shtetërore të Republikës së Kosovës të cilat pasqyrojnë karakterin shumetnik të saj. Pamja, mënyra e përdorimit dhe mbrojtja e flamurit dhe të simboleve të tjera shtetërore rregullohen me ligj. Mënyra e përdorimit dhe e mbrojtjes së simboleve kombëtare rregullohet me ligj. Rendi kushtetues i Republikës së Kosovës bazohet në parimet e lirisë, paqes, demokracisë, barazisë, respektimit të të drejtave dhe lirive të njeriut dhe sundimit të ligjit, mosdiskriminimit, të drejtës së pronës, mbrojtjes e mjedisit, drejtësisë sociale, pluralizmit, ndarjes së pushtetit shtetëror dhe ekonomisë së tregut. Republika e Kosovës siguron barazinë gjinore si vlerë themelore për zhvillimin demokratik të shoqërisë, mundësi të barabarta për pjesëmarrje të femrave dhe meshkujve në jetën politike, ekonomike, sociale, kulturore dhe në fushat të tjera të jetës shoqërore.
+Translation
+The official languages in the Republic of Kosovo are the Albanian language and the Serbian language. The Turkish, Bosnian, and Romani languages have the status of official languages at the municipal level or will be in official use at all levels in accordance with the law. The flag, the seal and the anthem are the state symbols of the Republic of Kosovo, which reflect its multi-ethnic character. The appearance, the manner of use, and the protection of the flag and other state symbols are regulated by law. The manner of use and the protection of the national symbols are regulated by law. The constitutional order of the Republic of Kosovo is based on the principles of freedom, peace, democracy, equality, respect for human rights and freedoms and the rule of law, non-discrimination, the right to property, the protection of environment, social justice, pluralism, separation of state powers, and a market economy. The Republic of Kosovo ensures gender equality as a fundamental value for the democratic development of the society, providing equal opportunities for both female and male participation in the political, economic, social, cultural and other areas of societal life.
+Grammar
+1 General Syntactic Concerns
+Albanian word order is generally SUBJECT-VERB-OBJECT, as illustrated by the Albanian for 'The girl saw the dog' --
+
+ 	 	Vajza	 	pa	 	qenin
+ 	 	the-girl	 	saw	 	the-dog
+While this is the normal word order, there is some flexibility.
+
+Adjectives normally follow the nouns that they modify. Consider the Albanian for 'The beautiful girl saw the white dog' --
+
+ 	 	Vajza	 	e bukur	 	pa	 	qenin	 	e bardhë
+ 	 	the-girl	 	beautiful	 	saw	 	the-dog	 	white
+There are some instances where adjectives precede the noun they modify, but these are somewhat uncommon. Additional syntactic issues are given attention in later lessons.
+
+2 The Albanian Noun
+2.1 Grammatical Gender
+Generally speaking, nouns in Modern Albanian are either masculine or feminine. There was a neuter gender in earlier stages of the language, but it has been almost completely eliminated (most of the earlier neuter nouns are now masculine nouns). A few nouns still show relics of being neuter; for more information on the status of the neuter gender in Modern Albanian, please see Newmark et al. (1982: 133-4).
+
+The grammatical gender of nouns is somewhat predictable from the ending of the noun stem (i.e., the nominative/accusative singular indefinite form). Most nouns that end in -ë, along with most other nouns that end in a vowel, are feminine (though there are exceptions in each category). Except for the set of nouns ending in -ër, -ël, -ur, and -ull (of which some are masculine and some are feminine), all nouns ending in consonants are masculine.
+
+While nouns are generally considered 'masculine' or 'feminine', there exist nouns that are masculine in the singular and feminine in the plural. In agreement, the singular takes masculine singular forms of adjectives, nyje particles, etc., while the feminine takes feminine plural forms of adjectives, nyje particles, etc. We refer to these as 'ambigeneric' nouns.
+
+2.2 Inflectional Categories
+Nouns in Albanian are inflected for number (singular, plural), case (nominative, accusative, genitive, dative, ablative), and definiteness. The dative and genitive forms are always identical (except for the genitive requiring a nyje particle, see below). Older stages of the language also had a locative case (this is discussed in Lesson 5). The uses of each of the cases are similar to those in other Indo-European languages. As mentioned in the series introduction, Albanian has a postposed definite article. As this can be treated as a suffix, it is discussed under noun inflection as well.
+
+The most daunting aspect of declining Albanian nouns is that the singular and plural paradigms often have different stems (very common in masculine nouns, less common in feminine nouns). While the correspondences between the singular and plural stems of nouns are often predictable, there are many cases in which they are not. What follows is a sketch of the most common inflectional patterns in feminine and masculine nouns.
+
+The citation form for Albanian nouns is the nominative/accusative singular indefinite form. Some nouns that are derived from adjectives are obligatorily preceded by a nyje particle (see below). These nouns are marked with an e in the citation form.
+
+3 Noun Inflection
+3.1 Feminine Noun Inflection
+The following is the basic pattern of endings for feminine nouns. Note that singular endings are attached to the singular stem and plural endings are attached to the plural stem. Most feminine nouns have a nominative/accusative indefinite form in -ë. This final vowel is lost when a vowel-initial suffix is added (e.g., nom.sg.def. -a, abl.sg.indef. -e, etc).
+
+ 	 	singular	 	 	 	plural	 	 
+ 	 	indefinite	 	definite	 	indefinite	 	definite
+nominative	 	-	 	-a	 	-	 	-t
+accusative	 	-	 	-n	 	-	 	-t
+gen/dat	 	-e	 	-s	 	-ve	 	-ve
+ablative	 	-e	 	-s	 	-sh	 	-ve
+Many feminine nouns have the same stem in the singular and the plural, e.g., gjuhë 'language'.
+
+Inflection of gjuhë 'language' (plural stem gjuhë):
+
+ 	 	singular	 	 	 	plural	 	 
+ 	 	indefinite	 	definite	 	indefinite	 	definite
+nominative	 	gjuhë	 	gjuh-a	 	gjuhë	 	gjuhë-t
+accusative	 	gjuhë	 	gjuhë-n	 	gjuhë	 	gjuhë-t
+gen/dat	 	gjuh-e	 	gjuhë-s	 	gjuhë-ve	 	gjuhë-ve
+ablative	 	gjuh-e	 	gjuhë-s	 	gjuhë-sh	 	gjuhë-ve
+A large group of feminine nouns in -ë have a plural stem in -a. The inflectional suffixes seen above are the same, but the plural suffixes are added to a stem in -a, e.g., nenë 'mother'.
+
+Inflection of nënë 'mother' (plural stem nena):
+
+ 	 	singular	 	 	 	plural	 	 
+ 	 	indefinite	 	definite	 	indefinite	 	definite
+nominative	 	nënë	 	nën-a	 	nena	 	nena-t
+accusative	 	nënë	 	nënë-n	 	nena	 	nena-t
+gen/dat	 	nën-e	 	nënë-s	 	nena-ve	 	nena-ve
+ablative	 	nën-e	 	nënë-s	 	nena-sh	 	nena-ve
+Feminine nouns ending in -ër or -ël have a plural stem in -a. When these nouns are inflected with a vowel-initial suffix, the ë is lost, e.g., motër 'sister'.
+
+Inflection of motër 'sister' (plural stem motra):
+
+ 	 	singular	 	 	 	plural	 	 
+ 	 	indefinite	 	definite	 	indefinite	 	definite
+nominative	 	motër	 	motr-a	 	motra	 	motra-t
+accusative	 	motër	 	motrë-n	 	motra	 	motra-t
+gen/dat	 	motr-e	 	motrë-s	 	motra-ve	 	motra-ve
+ablative	 	motr-e	 	motrë-s	 	motra-sh	 	motra-ve
+There are several other patterns that are followed by fewer nouns (or a single noun); e.g., the plural stem of natë 'night' is net, and the plural stem of grua 'woman' is gra.
+
+3.2 Masculine Noun Inflection
+As was the case with feminine nouns, the case endings for masculine nouns are consistent. What is not consistent are the correspondences between singular and plural stems (to which the endings in the chart below are attached).
+
+ 	 	singular	 	 	 	plural	 	 
+ 	 	indefinite	 	definite	 	indefinite	 	definite
+nominative	 	-	 	-i	 	-	 	-t(ë)
+accusative	 	-	 	-in	 	-	 	-t(ë)
+gen/dat	 	-i	 	-it	 	-ve	 	-ve
+ablative	 	-i	 	-it	 	-sh	 	-ve
+When the final sound of the noun stem is a velar consonant (that is, k, g or h) or a vowel, all of the singular suffixes in -i are replaced with -u (e.g. zog 'bird', nom.sg.def. zogu, dat.sg.def. zogut, etc). The nominative/accusative plural definite ending is -të when following a syllable with an unstressed vowel and -t when following a syllable with an unstressed vowel. If the noun ends in two consonants, an -i- is inserted between the stem and the ablative plural indefinite and nominative/accusative plural definite endings (e.g., peshq 'fish', abl.pl.indef. peshqish, nom./acc.pl.def. peshqit).
+
+The most common correspondence between singular and plural stems is where a plural stem is formed by the suffixation of -e, e.g., qytet 'city'.
+
+Inflection of qytet 'city' (plural stem qytete):
+
+ 	 	singular	 	 	 	plural	 	 
+ 	 	indefinite	 	definite	 	indefinite	 	definite
+nominative	 	qytet	 	qytet-i	 	qytete	 	qytete-t
+accusative	 	qytet	 	qytet-in	 	qytete	 	qytete-t
+gen/dat	 	qytet-i	 	qytet-it	 	qytete-ve	 	qytete-ve
+ablative	 	qytet-i	 	qytet-it	 	qytete-sh	 	qytete-ve
+There are also many nouns that form the plural stem via the suffixation of -ë (e.g., anglez 'Englishman', anglezë 'Englishmen') or the suffixation of -a (e.g., derr 'pig', derra 'pigs'). Masculine nouns in -ër usually form the plural stem by adding -a and deleting the ë. There are also plural stems that are formed by the suffixation of -nj, sometimes accompanied by a preceding vowel (e.g., gjarpër 'snake', gjarpërinj 'snakes') or -ër (e.g., mbret 'king', mbretër 'kings'). Some masculine nouns have the same stem in the singular and plural (e.g., qen 'dog', 'dogs'; tiranas 'person from Tirana', 'people from Tirana').
+
+In addition to forming the plural stem via suffixation, there are some nouns that form the plural stem via a stem change. Most nouns that end in -g or -k have a plural stem in which these consonants are palatalized to -gj and -q respectively, e.g., mik 'friend'.
+
+Inflection of mik 'friend' (plural stem miq):
+
+ 	 	singular	 	 	 	plural	 	 
+ 	 	indefinite	 	definite	 	indefinite	 	definite
+nominative	 	mik	 	mik-u	 	miq	 	miq-të
+accusative	 	mik	 	mik-un	 	miq	 	miq-të
+gen/dat	 	mik-u	 	mik-ut	 	miq-sh	 	miq-ve
+ablative	 	mik-u	 	mik-ut	 	miq-ve	 	miq-ve
+However, this case is not representative of all masculine nouns that end in -g or -k. Most of these nouns form a plural stem by the palatalization of the final consonant along with the suffixation of -e (e.g., dushk 'oak', dushqe 'oaks'). For some nouns the final consonant is not palatalized in the plural (e.g., flok 'hair', flokë 'hairs'). Similar variability is seen in nouns in -ll or -r, some of which are palatalized to form the plural stem (e.g., shekull 'century', shekuj 'centuries'), and some of which have palatalization and the addition of -e (e.g., pyll 'forest', pyje 'forests').
+
+There are additional patterns seen in the correspondences between masculine singular and plural stems. Many of these patterns are followed by just a few nouns, and some are rather anomalous (e.g., vëlla 'brother', vëllezër 'brothers'; ka 'ox', qe 'oxen').
+
+4 "Nyje" Particles
+As seen in the many instances of nouns in the genitive case in the text above, the Albanian genitive case obligatorily requires the presence of a particle. This particle is also required with some adjectives, as well as with some nouns that are derived from adjectives. In general, these particles are used to connect a noun and a modifier (be it an adjective or a noun in the genitive case). As there is no agreed upon name in English for these particles, we refer to them as "nyje" particles (short for the Albanian term nyje e përparme), following a suggestion by Jerry Morgan.
+
+The nyje particle has four forms: e, i, të, and së. The form that is used depends on the gender, number, case, and definiteness of the noun being modified. The following rules (based on Newmark 1998) are a simple way to remember which form of the particle is used in each situation:
+
+i : the referent is masculine, singular and in the nominative case
+e.g., fillimi i vjeshtës 'the beginning of autumn': the nyje is i because the referent fillimi 'beginning' is the nominative, singular, definite form of the masculine noun fillim.
+së : the referent is feminine, singular and in the genitive/dative/ablative case
+e.g., Republikës së Kosovës 'of the Republic of Kosovo' : the nyje is së because the referent Republikës 'of the Republic' is the genitive, singular, definite form of the feminine noun republikë.
+e : the referent is feminine and in the nominative case OR the referent is singular, definite and in the accusative case OR the referent is plural, definite and in the nominative or accusative case
+e.g., Republikën e Kosovës 'the Republic (accusative) of Kosovo': the nyje is e because the referent Republikën 'the Republic (accusative)' is the accusative, singular, definite form of the feminine noun republikë.
+të : elsewhere
+e.g., sundimit të ligjit: 'of the rule of law' : the nyje is të because the referent sundimit 'of the rule' is the genitive, singular, definite form of the masculine noun sundim.
+5 Adjectives
+Albanian adjectives are inflected for gender and number, but never for case and rarely for definiteness. The only situations in which adjectives are marked for definiteness are in the rare instances where an adjective precedes the noun it modifies (which is apparently more common in Geg). Albanian adjectives can be divided into two groups, depending on whether they require a nyje particle (articulated adjectives) or not (unarticulated adjectives). The citation form used for adjectives is the masculine singular. Articulated adjectives (i.e., those which require the presence of a nyje particle) are marked with an e (the default form of the nyje particle) in the citation form.
+
+5.1 Articulated Adjectives
+Articulated adjectives always require a nyje particle. Note that, in the following examples, articulated forms of adjectives are marked by e preceding the noun. This is done for convenience and it must be remembered that the gender, number, case, and definiteness of the referent must be taken into consideration when choosing the correct form of the nyje particle.
+
+With articulated adjectives, the masculine singular, feminine singular and masculine plural generally all have the same form. In adjectives in -ë or in a consonant, the masculine/feminine singular and masculine plural forms are generally identical and the feminine plural has the suffix -a, e.g., bardhë, e 'white' --
+
+ 	 	singular	 	plural
+masculine	 	e bardhë	 	e bardhë
+feminine	 	e bardhë	 	e bardha
+While this is the most common pattern, there are several common adjectives that show other patterns. Some of them show different masculine and feminine singular forms (e.g., e kuq 'red-masc.sg.', e kuqe 'red-masc.pl.'). Some adjectives also show different masculine singular and plural forms (e.g., e lig 'evil-masc.sg.', e ligj 'evil-masc.pl.'). Some articulated adjectives show four distinct forms, e.g., zi, e 'black' --
+
+ 	 	singular	 	plural
+masculine	 	e zi	 	e zinj
+feminine	 	e zezë	 	e zeza
+5.2 Unarticulated Adjectives
+Unarticulated adjectives do not require a nyje particle. In unarticulated adjectives, the feminine singular and feminine plural forms are derived via the suffixation of -e to the masculine singular form. The masculine plural is usually formed via the suffixation of -ë to the masculine singular form, e.g., normal 'normal' --
+
+ 	 	singular	 	plural
+masculine	 	normal	 	normalë
+feminine	 	normale	 	normale
+There is actually a bit of variation to how the masculine plural forms of unarticulated adjectives are formed. The example above represents the most common case, but some masculine plural adjectives have the same form as the masculine singular, some are formed via the suffixation of -nj (Newmark et al., 1982, states that all adjectives of Turkish origin have this ending), and most adjectives derived from nouns have the same plural ending that the corresponding noun has.
+
+6 Verb Basics: 'be' and 'have'
+The following are the present indicative and subjunctive paradigms for the verbs jam 'be' and kam 'have'. In addition to fulfilling this function, these two verbs serve as the major auxiliary verbs in Albanian.
+
+Present indicative paradigms of jam 'to be' and kam 'to have' --
+
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	jam	 	jemi	 	 	 	kam	 	kemi
+2nd person	 	je	 	jeni	 	 	 	ke	 	keni
+3rd person	 	është	 	janë	 	 	 	ka	 	kanë
+Present subjunctive paradigms of jam 'to be' and kam 'to have' --
+
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	të jem	 	të jemi	 	 	 	të kem	 	të kemi
+2nd person	 	të jesh	 	të jeni	 	 	 	të kesh	 	të keni
+3rd person	 	të jetë	 	të jenë	 	 	 	të ketë	 	të kenë
+Notes:
+
+The 2PL of jam and kam are jini and kini, respectively, in some dialects.
+In Geg, the 3SG of jam is âsht. In older Geg texts (e.g., Meshari), this is written as anshtë.
+As seen in the tables above, all subjunctive forms are preceded by the subordinator të. All instances of the Albanian subjunctive are subordinated by të (for more on subordination, see Lesson 4). In addition, in these examples, the differences in conjugation between indicative and subjunctive forms lie in all forms except the 1st and 2nd persons plural. In the following lessons this is shown to be rare, as the vast majority of present tense Albanian verbs only show difference between indicative and subjunctive in the present 2SG/3SG.
+
+The Standard Albanian/Tosk future tense is an analytic formation composed of the invariant future marker do (originally from the verb dua 'want') and a conjugated present subjunctive form of a verb (including the subordinator të). Thus do të jenë, seen in the text above, is the 3rd person plural future form of jam 'be'. For more details on the future tense (including dialectal differences), see Lesson 3.
+
+While there is some variation as to what is used as the citation form for Albanian verbs, we use the 1st person singular present indicative here. In Geg, the citation form is traditionally the infinitive. However, in order to be consistent, we use the 1st person singular present indicative form as the citation form for Geg verbs as well (see Lessons 4 and 5).
+
+Lesson 2: Tosk
+Brian Joseph, Angelo Costanzo, and Jonathan Slocum
+After being granted independence from the Ottoman Empire in 1912, Albania was under constant pressure from Italy to the west, Greece to the south, and what would become the Kingdom of Yugoslavia (later the Socialist Federal Republic of Yugoslavia) to the east. The country began to stabilize under the rule of President (and then King) Zog, who attempted to ally the country with Italy. However, Italy began to colonize and dominate Albania and finally invaded in 1939, bringing the reign of Zog to a close.
+
+Annexing Albania, along with much of the western Balkan peninsula, was part of Mussolini's plan to bring several territories that were once part of the Roman Empire under Italian rule. From their new Albanian territory, the Italian army attacked northern Greece, Montenegro and Kosovo, and brought them too under Italian control. However, after the fall of the fascist government and the surrender of Italy in 1943, the area soon fell under German control. Resistance to fascist rule in Albania was led by communist groups, the most powerful of which was headed by Enver Hoxha. The communists were successful in retaking the country, and thus began the forty year reign of Hoxha.
+
+Reading and Textual Analysis
+While the earliest Albanian literature only dates back several hundred years, Albania, Kosovo, and other Albanian-speaking territories have produced a number of notable authors. The Albanian author who has received the greatest worldwide recognition is Ismail Kadare. Kadare has published over twenty novels and has been the recipient of numerous awards.
+
+Among Kadare's earliest novels is Gjenerali i ushtrisë së vdekur (The General of the Dead Army). This novel tells the story of an Italian general who is sent to Albania to recover the remains of Italian soldiers who died there during the Second World War. The following text is the first paragraph of this novel.
+
+Mbi tokën e huaj binte shi dhe dëborë përzier bashkë.
+ Collapse All
+mbi -- preposition, accusative; <mbi> on, onto -- on
+tokën -- noun, feminine; accusative singular definite of <tokë> soil, land -- the soil
+e -- particle; feminine accusative singular definite of <e> NYJE -- ...
+huaj -- adjective; feminine singular of <huaj, e> foreign -- foreign
+binte -- verb; 3rd person singular imperfect indicative active of <bie> fall -- was falling
+shi -- noun, masculine; nominative singular indefinite of <shi> rain -- rain
+dhe -- conjunction; <dhe> and -- and
+dëborë -- noun, feminine; nominative singular indefinite of <dëborë> snow -- snow
+përzier -- adjective; masculine plural participle of <përziej> mix -- mixed
+bashkë -- adverb; <bashkë> together -- together
+
+Sqota kishte qullur betonin e pistës së aeroportit, ndërtesat, rojat.
+ Collapse All
+sqota -- noun, feminine; nominative singular definite of <sqotë> sleet -- the sleet
+kishte -- verb; 3rd person singular imperfect indicative active of <kam> have -- ...
+qullur -- verb; participle of <qull> drench -- had drenched
+betonin -- noun, masculine; accusative singular definite of <beton> concrete -- the concrete
+e -- particle; masculine accusative singular definite of <e> NYJE -- ...
+pistës -- noun, feminine; genitive singular definite of <pistë> runway -- of the runway
+së -- particle; feminine genitive singular definite of <e> NYJE -- ...
+aeroportit -- noun, masculine; genitive singular definite of <aeroport> airport -- of the airport
+ndërtesat -- noun, feminine; accusative plural definite of <ndërsë> building -- the buildings
+rojat -- noun, feminine; accusative plural definite of <rojë> garrison, guard -- the guards
+
+Ajo lagte fushën dhe brigjet dhe shkëlqente mbi asfaltin e zi të xhadesë.
+ Collapse All
+ajo -- pronoun; feminine nominative of <ai, ajo> (s)he, it, that -- it
+lagte -- verb; 3rd person singular imperfect indicative active of <lag> make wet -- made wet
+fushën -- noun, feminine; accusative singular definite of <fushë> field, area -- the field
+dhe -- conjunction; <dhe> and -- and
+brigjet -- noun, masculine; of nominative plural definite of <breg> bank, hill -- the hills
+dhe -- conjunction; <dhe> and -- and
+shkëlqente -- verb, 3rd person singular imperfect indicative active of; <shkëlqej> shine -- it was shining
+mbi -- preposition, accusative; <mbi> on, onto -- from
+asfaltin -- noun, masculine; accusative singular definite of <asfalt> asphalt -- the asphalt
+e -- particle; masculine accusative singular definite of <e> NYJE -- ...
+zi -- adjective; masculine singular of <zi, e> black -- black
+të -- particle; masculine accusative singular definite of <e> NYJE -- ...
+xhadesë -- noun, feminine; genitive singular definite of <xhade> highway -- of the highway
+
+Sikur të mos ishte fillimi i vjeshtës, çdo njeriu tjetër, përveç gjeneralit të porsaardhur, do t'i dukej ky shi monoton një koicidencë e trishtuar.
+ Collapse All
+sikur -- conjunction; <sikur> as if, as though -- as though
+të -- conjunction; <të> SUBORDINATOR -- ...
+mos -- adverb; <mos> NEGATOR -- not
+ishte -- verb; 3rd person singular imperfect indicative active of <jam> be -- was
+fillimi -- noun, masculine; nominative singular definite of <fillim> beginning -- the beginning
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+vjeshtës -- noun, feminine; genitive singular definite of <vjeshtë> autumn -- of autumn
+çdo -- determiner; <çdo> every -- every
+njeriu -- noun, masculine; nominative singular definite of <njeri> human, person -- person
+tjetër -- adjective; masculine singular of <tjetër, e> other -- other # Recall that tjetër is odd in that it is treated as an articulated adjective in the plural, but as an unarticulated adjective in the singular.
+përveç -- preposition, ablative; <përveç> except -- except
+gjeneralit -- noun, masculine; ablative singular definite of <gjeneral> general -- the general
+të -- particle; masculine ablative singular definite of <e> NYJE -- ...
+porsaardhur -- adjective; masculine singular of <porsaardhur, e> newly arrived -- newly-arrived
+do -- marker; <do> FUTURE/CONDITIONAL -- ...
+t'i -- conjunction; contraction of <të> SUBORDINATOR + pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+dukej -- verb; 3rd person singular imperfect subjunctive non-active of <dukem> look, seem -- would seem
+ky -- determiner; masculine nominative of <ky, kjo> this -- this
+shi -- noun, masculine; nominative singular indefinite of <shi> rain -- rain
+monoton -- verb; nominative singular of <monoton> monotonous -- monotonous
+një -- determiner; <një> a, one -- a
+koicidencë -- noun, feminine; nominative singular indefinite of <koicidencë> coincidence -- coincidence
+e -- particle; feminine nominative singular indefinite of <e> NYJE -- ...
+trishtuar -- adjective; feminine singular of <trishtuar, e> sad -- sad
+
+Ai po vinte në Shqipëri nga një shtet i huaj për tërheqjen e eshtrave të ushtarëve të vrarë këtu në luftën e fundit botërore.
+ Collapse All
+ai -- pronoun; masculine nominative of <ai, ajo> (s)he, it, that -- he
+po -- marker; <po> PROGRESSIVE -- ...
+vinte -- verb; 3rd person singular imperfect indicative active of <vij> come -- was coming
+në -- preposition, accusative; <në> in, on, at -- to
+Shqipëri -- noun, feminine; accusative singular indefinite of <Shqipëri> Albania -- Albania
+nga -- preposition, nominative; <nga> from, through -- from
+një -- determiner; <një> a, one -- a
+shtet -- noun, masculine; nominative singular indefinite of <shtet> state -- state
+i -- particle; masculine nominative singular indefinite of <e> NYJE -- ...
+huaj -- adjective; masculine singular of <huaj, e> foreign -- foreign
+për -- preposition, accusative; <për> for, about -- for
+tërheqjen -- noun, feminine; accusative singular definite of <tërheqje> pull, attraction, withdrawal -- the withdrawal
+e -- particle; feminine accusative singular definite of <e> NYJE -- ...
+eshtrave -- noun, feminine; genitive plural definite of <eshtër> bone -- of the bones
+të -- particle; feminine genitive plural definite of <e> NYJE -- ...
+ushtarëve -- noun, masculine; genitive plural definite of <ushtar> soldier -- of the soldiers
+të -- particle; masculine genitive plural definite of <e> NYJE -- ...
+vrarë -- adjective; masculine plural participle of <vras> kill -- killed
+këtu -- adverb; <këtu> here -- ...
+në -- preposition, accusative; <në> in, on, at -- in
+luftën -- noun, feminine; accusative singular definite of <luftë> war -- the war
+e -- particle; feminine accusative singular definite of <e> NYJE -- ...
+fundit -- adjective; feminine singular of <fundit, e> last -- last
+botërore -- adjective; feminine singular of <botëror> world -- world
+
+Bisedimet midis dy qeverive kishin filluar që në pranverë, por kontratat përfundimtare u nënshkruan vetëm në fund të gushtit, taman në kohën kur filluan vranësirat e para.
+ Collapse All
+bisedimet -- noun, masculine; nominative plural definite of <bisedim> talk -- the talks
+midis -- preposition, ablative; <midis> between, among -- between
+dy -- determiner; <dy> two -- two
+qeverive -- noun, feminine; ablative plural definite of <qeveri> government -- the governments
+kishin -- verb; 3rd person plural imperfect indicative active of <kam> have -- ...
+filluar -- verb participle of; <filloj> start, begin -- had started
+që -- preposition, accusative; <që> since, from, beyond -- ...
+në -- preposition, accusative; <në> in, on, at -- in
+pranverë -- noun, feminine; accusative singular indefinite of <pranvëre> spring -- spring
+por -- conjunction; <por> but, however -- but
+kontratat -- noun, feminine; accusative plural definite of <kontratë> contract -- the contracts
+përfundimtare -- adjective; feminine plural of <përfundimtar> final -- final
+u -- marker; <u> NON-ACTIVE -- ...
+nënshkruan -- verb; 3rd person plural past definite indicative active of <nënshkruaj> sign -- were signed
+vetëm -- adverb; <vetëm> alone, only -- only
+në -- preposition, accusative; <në> in, on, at -- at
+fund -- noun, masculine; accusative singular indefinite of <fund> end -- end
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+gushtit -- noun, masculine; genitive singular definite of <gusht> August -- of August
+taman -- adverb; <taman> precisely -- precisely
+në -- preposition, accusative; <në> in, on, at -- at
+kohën -- noun, feminine; accusative singular definite of <kohë> time, weather -- the time
+kur -- adverb; <kur> when -- when
+filluan -- verb; 3rd person plural past definite indicative active of <filloj> start, begin -- began
+vranësirat -- noun, feminine; nominative plural definite of <vranësirë> cloudy sky -- the cloudy skies
+e -- particle; feminine nominative plural definite of <e> NYJE -- ...
+para -- adjective; feminine plural of <parë, e> first -- first
+
+Pra ishte vjeshtë dhe shiu kishte kohën e tij. Gjenerali e dinte këtë.
+ Collapse All
+pra -- conjunction; <pra> so, therefore -- therefore
+ishte -- verb; 3rd person singular imperfect indicative active of <jam> be -- it was
+vjeshtë -- noun, feminine; nominative singular indefinite of <vjeshtë> autumn -- autumn
+dhe -- conjunction; <dhe> and -- and
+shiu -- noun, masculine; nominative singular definite of <shi> rain -- (of) rain
+kishte -- verb; 3rd person singular imperfect indicative active of <kam> have -- had (come)
+kohën -- noun, feminine; accusative singular definite of <kohë> time, weather -- time
+e -- particle; feminine accusative singular definite of <e> NYJE -- ...
+tij -- determiner; masculine accusative singular of <tij, e> his, its -- the
+gjenerali -- noun, masculine; nominative singular definite of <gjeneral> general -- the general
+e -- pronoun; accusative weak of <ai, ajo> (s)he, it, that -- ...
+dinte -- verb; 3rd person singular imperfect indicative active of <di> know -- knew
+këtë -- pronoun; feminine accusative of <ky, kjo> this -- this
+
+Para se të nisej, kishte mësuar midis të tjerave edhe diçka për klimën e Shqipërisë.
+ Collapse All
+para -- adverb; <para> before -- before
+se -- conjunction; <se> that, than, because -- ...
+të -- conjunction; <të> SUBORDINATOR -- ...
+nisej -- verb; 3rd person singular imperfect indicative non-active of <nisem> set out -- he set out
+kishte -- verb; 3rd person singular imperfect indicative active of <kam> have -- ...
+mësuar -- verb; participle of <mësoj> learn -- he had learned
+midis -- preposition, ablative; <midis> between, among -- among
+të -- particle; masculine ablative plural definite of <e> NYJE -- ...
+tjerave -- noun, masculine; ablative plural definite of <tjetër, e> other -- other things
+edhe -- adverb; <edhe> also, yet, still, even -- ...
+diçka -- pronoun; <diçka> something -- something
+për -- preposition, accusative; <për> for, about -- about
+klimën -- noun, feminine; accusative singular definite of <klimë> climate -- the climate
+e -- particle; feminine accusative singular definite of <e> NYJE -- ...
+Shqipërisë -- noun, feminine; genitive singular definite of <Shqipëri> Albania -- of Albania
+
+Gjenerali e dinte që në Shqipëri vjeshta është e lagët dhe me shi.
+ Collapse All
+gjenerali -- noun, masculine; nominative singular definite of <gjeneral> general -- the general
+e -- pronoun; accusative weak of <ai, ajo> (s)he, it, that -- ...
+dinte -- verb; 3rd person singular imperfect indicative active of <di> know -- knew
+që -- conjunction; <që> that, which -- that
+në -- preposition, accusative; <në> in, on, at -- in
+Shqipëri -- noun, feminine; accusative singular indefinite of <Shqipëri> Albania -- Albania
+vjeshta -- noun, feminine; nominative singular definite of <vjeshtë> autumn -- the autumn
+është -- verb; 3rd person singular present indicative active of <jam> be -- is
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+lagët -- adjective; feminine singular of <lagët, e> rainy, humid -- humid
+dhe -- conjunction; <dhe> and -- and
+me -- preposition, accusative; <me> with, by -- ...
+shi -- noun, masculine; accusative singular indefinite of <shi> rain -- rainy
+
+Por, edhe sikur në librin që kishte lexuar të shkruhej se në Shqipëri vjeshta është me diell dhe e thatë, atij nuk do t'i dukej ky shi i papritur.
+ Collapse All
+por -- conjunction; <por> but, however -- however
+edhe -- adverb; <edhe> also, yet, still, even -- even
+sikur -- conjunction; <sikur> as if, as though -- though
+në -- preposition, accusative; <në> in, on, at -- in
+librin -- noun, masculine; accusative singular definite of <libër> book -- the book
+që -- conjunction; <që> that, which -- that
+kishte -- verb; 3rd person singular imperfect indicative active of <kam> have -- ...
+lexuar -- verb; participle of <lexoj> read -- he had read
+të -- conjunction; <të> SUBORDINATOR -- ...
+shkruhej -- verb; 3rd person singular imperfect subjunctive non-active of <shkruhem> be written -- it was written
+se -- conjunction; <se> that, than, because -- that
+në -- preposition, accusative; <në> in, on, at -- in
+Shqipëri -- noun, feminine; accusative singular indefinite of <Shqipëri> Albania -- Albania
+vjeshta -- noun, feminine; nominative singular definite of <vjeshtë> autumn -- autumn
+është -- verb; 3rd person singular present indicative active of <jam> be -- is
+me -- preposition, accusative; <me> with, by -- ...
+diell -- noun, masculine; accusative singular indefinite of <diell> sun -- sunny
+dhe -- conjunction; <dhe> and -- and
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+thatë -- adjective; feminine singular of <thatë, e> arid -- dry
+atij -- pronoun; masculine dative of <ai, ajo> (s)he, it, that -- ...
+nuk -- adverb; <nuk> NEGATOR -- not
+do -- marker; <do> FUTURE/CONDITIONAL -- ...
+t'i -- conjunction; contraction of <të> SUBORDINATOR + pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+dukej -- verb; 3rd person singular imperfect subjunctive non-active of <dukem> look, seem -- would have seemed
+ky -- determiner; masculine nominative of <ky, kjo> this -- this
+shi -- noun, masculine; nominative singular indefinite of <shi> rain -- rain
+i -- particle; masculine nominative singular indefinite of <e> NYJE -- ...
+papritur -- adjective; masculine singular of <papritur, e> unexpected, sudden -- unexpected
+
+Përkundrazi. Dhe shkaku ishte se atij i ishte dukur gjithmonë se misioni i tij mund të kryhej vetëm në shi.
+ Collapse All
+përkundrazi -- adverb; <pëkundrazi> quite the opposite -- quite the opposite
+dhe -- conjunction; <dhe> and -- and
+shkaku -- noun, masculine; nominative singular definite of <shkak> reason -- the reason
+ishte -- verb; 3rd person singular imperfect indicative of <jam> be -- was
+se -- conjunction; <se> that, than, because -- that
+atij -- pronoun; dative of <ai, ajo> (s)he, it, that -- to him
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+ishte -- verb; 3rd person singular imperfect indicative active of <jam> be -- ...
+dukur -- verb; participle of <dukem> look, seem -- it had seemed
+gjithmonë -- adverb; <gjithmonë> always -- always
+se -- conjunction; <se> that, than, because -- that
+misioni -- noun, masculine; nominative singular definite of <mision> mission -- mission
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+tij -- determiner; masculine nominative singular of <tij, e> his, its -- his
+mund -- verb; 3rd person singular present indicative active of <mund> can, may -- could
+të -- conjunction; <të> SUBORDINATOR -- ...
+kryhej -- verb; 3rd person singular imperfect subjunctive non-active of <kryhem> be accomplished -- be accomplished
+vetëm -- adverb; <vetëm> alone, only -- only
+në -- preposition, accusative; <në> in, on, at -- in
+shi -- noun, masculine; accusative singular indefinite of <shi> rain -- rain
+
+Lesson Text
+Mbi tokën e huaj binte shi dhe dëborë përzier bashkë. Sqota kishte qullur betonin e pistës së aeroportit, ndërtesat, rojat. Ajo lagte fushën dhe brigjet dhe shkëlqente mbi asfaltin e zi të xhadesë. Sikur të mos ishte fillimi i vjeshtës, çdo njeriu tjetër, përveç gjeneralit të porsaardhur, do t'i dukej ky shi monoton një koicidencë e trishtuar. Ai po vinte në Shqipëri nga një shtet i huaj për tërheqjen e eshtrave të ushtarëve të vrarë këtu në luftën e fundit botërore. Bisedimet midis dy qeverive kishin filluar që në pranverë, por kontratat përfundimtare u nënshkruan vetëm në fund të gushtit, taman në kohën kur filluan vranësirat e para. Pra ishte vjeshtë dhe shiu kishte kohën e tij. Gjenerali e dinte këtë. Para se të nisej, kishte mësuar midis të tjerave edhe diçka për klimën e Shqipërisë. Gjenerali e dinte që në Shqipëri vjeshta është e lagët dhe me shi. Por, edhe sikur në librin që kishte lexuar të shkruhej se në Shqipëri vjeshta është me diell dhe e thatë, atij nuk do t'i dukej ky shi i papritur. Përkundrazi. Dhe shkaku ishte se atij i ishte dukur gjithmonë se misioni i tij mund të kryhej vetëm në shi.
+Translation
+Rain and snow mixed together was falling on the foreign soil. The sleet had drenched the concrete of the runway of the airport, the buildings, and the guards. It made the field and the hills wet and it was was shining from the black asphalt of the highway. As though it was not the beginning of autumn, to every other person except the newly-arrived general this monotonous rain would seem a sad coincidence. He was coming to Albania from a foreign state for the withdrawal of the bones of the soldiers killed in the last world war. The talks between the two governments had started in the spring, but the final contracts were only signed at the end of August, precisely at the time when the first cloudy skies began. Therefore it was autumn and the time of rain had come. The General knew this. Before he set out he had learned, among other things, something about the climate of Albania. The general knew that in Albania autumn is humid and rainy. However even though, in the book that he had read, it was written that in Albania autumn is sunny and dry, this rain would not have seemed unexpected. Quite the opposite. And the reason was that, to him, it had always seemed that his mission could only be accomplished in rain.
+Grammar
+7 Prepositions
+Most of the common Albanian prepositions take an object in the accusative case, e.g.,
+
+ 	 	në	 	'in, on, at'	 	 	 	me	 	'with, by'
+ 	 	pa	 	'without'	 	 	 	për	 	'for'
+ 	 	mbi	 	'on, over'	 	 	 	nën	 	'under'
+There are a few prepositions that take an object in the nominative case:
+
+ 	 	nga	 	'from'	 	 	 	tek	 	'to', 'at'
+The remaining prepositions have an object in the ablative case, including but not limited to the following:
+
+ 	 	prej	 	'from, of, by'	 	 	 	brenda	 	'inside'
+ 	 	gjatë	 	'during'	 	 	 	para	 	'before'
+ 	 	midis	 	'between'	 	 	 	sipas	 	'according to'
+8 The Albanian Verb
+The Albanian verb has two main tense systems from which a considerable number of verbal forms can be generated. As in many Indo-European languages, most important are the present and aorist systems. The present system is the basis for the present and imperfect tense, as well as analytic structures using as a base the present (e.g., present subjunctive, future tense) or the imperfect (e.g., imperfect subjunctive, conditional mood). The aorist system is the basis for the past definite tense (the simple perfective past tense, see Lesson 4) and, in most instances, the optative mood (see Lesson 5). The formation of Albanian (past) participles overlaps greatly, but not completely, with the aorist stem (as in Latin and other Indo-European languages). Thus a third system could be proposed, which we call the "participial system," as the basis of the participle (see below) and the various tenses of the admirative mood (see Lesson 5).
+
+9 The Present Tense
+9.1 Use of the Present Tense
+The present tense is used to describe actions that occur at the time of speaking. It can also be used to describe events that will occur in the future, if there is an accompanying adverb with future time reference. The present subjunctive is used in subordinate clauses after a predicate, as well as without another verb to express doubt, possibility, or obligation.
+
+9.2 Present Tense Conjugation - Active voice
+While there are actually numerous patterns of conjugation, most traditional accounts consider the Albanian verbal system to be broken up into two conjugational classes: one made up of verbs with a vowel-final stem (class 1), and another made up of verbs with a consonant-final stem (class 2). Each of the classes is then traditionally broken down into smaller classes depending on a variety of other factors (aorist formation, participle formation, small differences within the present conjugation, etc). Other accounts propose three (or many more) conjugational classes for Albanian.
+
+Note the the present indicative and subjunctive differ only in the 2nd and 3rd persons singular. The rest of the paradigms are identical (except, of course, for the subjunctive requiring the subordinator të). The exceptions to this tendency, the verbs jam 'to be' and kam 'to have', are described in Lesson 1.
+
+Basic present indicative and subjunctive endings for vowel-stem (class 1) verbs:
+
+ 	 	indicative	 	 	 	 	 	subjunctive	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	-j	 	-jmë	 	 	 	-j	 	-jmë
+2nd person	 	-n	 	-ni	 	 	 	-sh	 	-ni
+3rd person	 	-n	 	-jnë	 	 	 	-jë	 	-jnë
+Present indicative and subjunctive paradigms of laj 'wash':
+
+ 	 	indicative	 	 	 	 	 	subjunctive	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	laj	 	lajmë	 	 	 	të laj	 	të lajmë
+2nd person	 	lan	 	lani	 	 	 	të lash	 	të lani
+3rd person	 	lan	 	lajnë	 	 	 	të lajë	 	të lajnë
+Basic present indicative and subjunctive endings for consonant-stem (class 2) verbs:
+
+ 	 	indicative	 	 	 	 	 	subjunctive	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	-	 	-im	 	 	 	-	 	-im
+2nd person	 	-	 	-ni	 	 	 	-ësh	 	-ni
+3rd person	 	-	 	-in	 	 	 	-ë	 	-in
+Present indicative and subjunctive paradigms of hap 'open':
+
+ 	 	indicative	 	 	 	 	 	subjunctive	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	hap	 	hapim	 	 	 	të hap	 	të hapim
+2nd person	 	hap	 	hapni	 	 	 	të hapësh	 	të hapni
+3rd person	 	hap	 	hapin	 	 	 	të hapë	 	të hapin
+Many verbs show patterns of stem allomorphy within the present tense. Some of the more common patterns are as follows:
+
+Some verbs with stem -e raise this vowel to -i in the 2nd person plural (e.g., fle 'sleep-1SG', flini 'sleep-2PL').
+Some verbs with stem -a change this vowel to -e in the 2nd and 3rd persons singular (e.g., marr 'take-1SG', merr 'take-2/3SG').
+Most verbs with stem-final -s change this to -t in the 2nd and 3rd persons singular (e.g., flas 'speak-1SG', flet 'speak-2/3SG').
+There are additional verbs that show a higher degree of irregularity. The two most common irregular verbs, jam 'to be' and kam 'to have', are discussed in Lesson 1.
+
+9.3 Present Tense Conjugation - Non-active voice
+Albanian has an "active/non-active" voice distinction, also referred to as "active/middle" or "active/passive" or "active/mediopassive." While non-active voice is expressed differently in compound verbal forms and in the aorist system, it is expressed using with a synthetic verbal form in the present system. There is a distinct derivational process by which active verbs become non-active verbs; this is discussed in Lesson 4. Note that there is no difference between the indicative and subjunctive in the non-active present tense conjugation, other than the presence of të in the subjunctive.
+
+Basic present indicative and subjunctive endings for non-active verbs:
+
+ 	 	indicative	 	 	 	 	 	subjunctive	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	-m	 	-mi	 	 	 	-m	 	-mi
+2nd person	 	-sh	 	-ni	 	 	 	-sh	 	-ni
+3rd person	 	-t	 	-n	 	 	 	-t	 	-n
+Present indicative and subjunctive paradigms of quhem 'to be called':
+
+ 	 	indicative	 	 	 	 	 	subjunctive	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	quhem	 	quhemi	 	 	 	të quhem	 	të quhemi
+2nd person	 	quhesh	 	quheni	 	 	 	të quhesh	 	të quheni
+3rd person	 	quhet	 	quhen	 	 	 	të quhet	 	të quhen
+10 The Imperfect Tense
+10.1 Use of the Imperfect
+The imperfect is the past tense of the present system, and is used to describe continuous or habitual events that occurred in the past. Note that the imperfect subjunctive is usual after a past tense main verb, and the present subjunctive after a present tense verb, e.g. dua të shkosh 'I want (PRES.) that you go (PRES.SUBJ.)', but desha të shkoje 'I wanted (IMPF.) that you-went (IMPF.SUBJ.)'.
+
+10.2 Imperfect Tense Conjugation
+Except for a few verbs that have a suppletive imperfect stem, Albanian verbs have the same stem in the imperfect as they do in the present. The imperfect indicative and subjunctive are identical, except for the fact that the subjunctive must be subordinated by të.
+
+ 	 	singular	 	plural
+1st person	 	-ja	 	-nim
+2nd person	 	-je	 	-nit
+3rd person	 	-(n)te	 	-nin
+Note that the 3rd person singular ending is -nte when the stem is vowel-final, and -te when consonant-final.
+
+Imperfect paradigms of laj 'wash' and hap 'to open':
+
+ 	 	laj	 	 	 	 	 	hap	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	laja	 	lanim	 	 	 	hapja	 	hapnim
+2nd person	 	laje	 	lanit	 	 	 	hapje	 	hapnit
+3rd person	 	lante	 	lanin	 	 	 	hapte	 	hapnin
+The imperfect of jam 'be' and kam 'have' have suppletive imperfect stems. They also do not show the initial -j- of the 1st and 2nd person singular endings:
+
+ 	 	jam	 	 	 	 	 	kam	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	isha	 	ishim	 	 	 	kisha	 	kishim
+2nd person	 	ishe	 	ishit	 	 	 	kishe	 	kishit
+3rd person	 	ishte	 	ishin	 	 	 	kishte	 	kishin
+10.3 The Imperfect Tense in Geg
+The Geg imperfect endings, while similar to those seen in Standard Albanian, show an additional segment -sh-. If the stem is vowel-final, -j- is inserted after the stem and before the endings.
+
+Basic Geg imperfect tense endings (Hughes 2006):
+
+ 	 	singular	 	plural
+1st person	 	-sha	 	-shim
+2nd person	 	-she	 	-shit
+3rd person	 	-ke	 	-shin
+Imperfect paradigm of Geg mêndoj 'to think':
+
+ 	 	singular	 	plural
+1st person	 	mêndojsha	 	mêndojshim
+2nd person	 	mêndojshe	 	mêndojshit
+3rd person	 	mêndojke	 	mêndojshin
+11 Participles
+11.1 Uses of the Participle
+Albanian participles have a number of uses. In addition to being used as adjectives (always articulated, see Lesson 1), participles are used in the formation of several perfect tenses, which are composed of a conjugated auxiliary (in Standard Albanian, kam when active and jam when non-active) plus the past participle. They are also used in the formation of infinitives (composed of për te + past participle in Tosk, me + participle in Geg), gerunds (composed of Tosk duke/Geg tue + past participle) and privative constructions (composed of pa + past participle). These functions are discussed in more detail in Lesson 4. Participles are also used as the basis for conjugation of the various tenses of the admirative mood (see Lesson 5).
+
+11.2 Formation of the Past Participle
+As discussed briefly above, the stem used in the formation of the past participle is usually the aorist stem (that used for the past definite, see Lesson 4). However, there are some cases where the participial stem is the same as the present stem, and there are other cases where it does not correspond to the present or aorist stem. In most cases the participle must simply be memorized.
+
+In cases where the participial stem is identical to the present or aorist stem, the participle is formed by adding -r to vowel-final stems (e.g., the participle of shkruaj 'write' is shkrua-r) and -ur to consonant-final stems (e.g., the participle of flas 'speak' is fol-ur). Where the participial stem is not identical to the present or aorist stem, the following generalizations hold. In general, if the verb stem ends in a consonant, the participle is formed by adding the suffix -ur to the stem. If the verb stem ends in an unstressed vowel, the participle is formed by simply adding -r to the stem. If the verb stem ends in a stressed vowel, the suffix -rë is added to form the participle. There are additional participial formations in -ë or -në.
+
+In the majority of cases, the participle is immediately recognizable from the present stem. However, particularly with verbs that have a suppletive aorist stem, this is not always the case. These include many of the "irregular" verbs already discussed (e.g., jam 'be' has a participle qenë, kam 'have' has a participle pasur) as well as other verbs (e.g., shoh 'see' has a participle parë, ha 'eat' has a participle ngrënë, etc).
+
+11.3 Participles in Geg
+Unlike Tosk/Standard Albanian, Geg has two forms of participles depending on whether they are used as adjectives or not. If they are used as adjectives, Geg participles have an ending -un (cognate with the common Tosk participial ending -ur), or -uem. If they are used in a verbal construction, they lack these suffixes. Normally, to find the Geg equivalent of a Tosk participle in -ur, remove this ending and replace it with -ë, e.g., Tosk pyetur, Geg pyetë 'ask'; Tosk djegur, Geg djegë 'burn'. Tosk participles in -ë not preceded by r usually have the same ending in Geg. Some Tosk participles in -rë correspond to a Geg participle with no ending (e.g., Tosk vrarë, Geg vra 'kill'), and some correspond to a Geg participle ending in a nasal vowel (e.g., Tosk bërë, Geg bâ 'make'; Tosk hyre, Geg hŷ 'enter').
+
+12 The Present Perfect Tense
+12.1 Use of the Present Perfect Tense
+The Albanian present perfect tense is used to describe events that took place and were completed in the past. This is similar to the use of the past definite (see Lesson 4), but the present perfect is prescriptively used to describe past events that have some connection with the present. As the uses of the present perfect and past definite are so similar, there is a general trend toward using the present perfect in situations where the past definite would be prescribed -- akin to the situation in French and Italian, where the compound past tense has taken over the domain of use of the simple past tense in the spoken language.
+
+12.2 Formation of the Present Perfect
+The present perfect tense is formed with a present indicative form of kam plus the past participle.
+
+Present perfect paradigm of shkruaj 'to write':
+
+ 	 	singular	 	plural
+1st person	 	kam shkruar	 	kemi shkruar
+2nd person	 	ke shkruar	 	keni shkruar
+3rd person	 	ka shkruar	 	kanë shkruar
+The present perfect subjunctive is formed in the same manner, except that a present subjunctive form of kam is used.
+
+Present perfect subjunctive of shkruaj 'to write':
+
+ 	 	singular	 	plural
+1st person	 	të kem shkruar	 	të kemi shkruar
+2nd person	 	të kesh shkruar	 	të keni shkruar
+3rd person	 	të ketë shkruar	 	të kenë shkruar
+12.3 The Present Perfect in Geg
+In Standard Albanian, the auxiliary kam is always used in the present perfect if the verb is active. To form the non-active, the auxiliary jam is used (see Lesson 4). In Geg the pattern is slightly different, as kam is used for transitive verbs and jam is used for intransitive verbs (which can be linked to passives and reflexives as well). This again is akin to the compound past tense in French and Italian, where the auxiliary 'have' is used for transitive verbs and the auxiliary 'be' is used for intransitives, passives, reflexives, etc.
+
+For example, the 1st person singular present perfect of shkoj 'to go' in Standard Albanian is kam shkuar, as kam is generalized as the auxiliary for all active verbs in Standard Albanian. The corresponding form in Geg is jam shkuë, where shkuë is the Geg participle of shkoj. The verb jam is used here as an auxiliary, because shkoj is an intransitive verb.
+
+Lesson 3: Tosk
+Brian Joseph, Angelo Costanzo, and Jonathan Slocum
+
+Gjergj Kastrioti Skënderbeu (commonly known as "Skanderbeg") was born to a noble Albanian family in the early 15th century. As a child, he was forced to serve in the Ottoman Army. After great success as an Ottoman general, Skanderbeg left the army to lead the Albanians against the Ottoman forces. In 1444 he formed the League of Lezhë, an alliance of Albanian nobles who agreed to resist the Ottoman conquest of Albania. Skanderbeg fought the Ottomans in Albania and abroad until his death two decades later. Though the Ottoman advances were held off by Skanderbeg's efforts, all of modern Albania was under Ottoman control by the turn of the century.
+
+While Albania and Kosovo remained under Ottoman rule until 1912, efforts were started to revive Albanian identity in the 19th century. Among other efforts, Skanderbeg was adopted as a national hero. Skanderbeg remains the most visible symbol of Albanian cultural identity, with his family's symbol (a double-headed eagle) on the flag of Albania and a prominent statue of Skanderbeg present in every major Albanian city's main square.
+
+Reading and Textual Analysis
+Marin Barleti, a native of Shkodër in northern Albania, near the modern Montenegrin border, lived through the loss of Albania to the Ottoman Empire in the late 15th century. He later went on to write a biography of Skanderbeg, which was first published in Latin as Historia de vita et gestis Scanderbegi epirotarum principis (The history of the life and deeds of Skanderbeg, prince of the Epirots).
+
+The following text is from the 1964 Albanian translation of Barleti's biography of Skanderbeg. After abandoning the Ottoman army in 1443, Skanderbeg led Albanian forces to drive the invading Ottoman army out of what is now northern Albania. The final step of this process was to capture the last Ottoman stronghold in the area, the town of Svetigrad (now known as Kodzhadzhik, a town in what is now western Macedonia). Several years later, the Ottomans embarked on another attempt to take Albania, an early and essential part of which involved retaking Svetigrad, then under Albanian control. To motivate the troops, Skanderbeg arrived in Svetigrad and gave the following speech.
+
+Ishte e pamundur, o sfetigradas, që Zoti i madh e i vërtetë t'ju jepte juve sot
+ Collapse All
+ishte -- verb; 3rd person singular imperfect indicative active of <jam> be -- it was
+e -- particle; feminine nominative singular of <e> NYJE -- ...
+pamundur -- adjective; feminine singular of <pamundur, e> impossible -- impossible
+o -- interjection; <o> VOCATIVE -- O
+sfetigradas -- noun, masculine; nominative plural indefinite of <svetigradas> inhabitant of Svetigrad -- men of Svetigrad
+që -- conjunction; <që> that, which -- that
+Zoti -- noun, masculine; nominative singular definite of <zot> master, lord, god -- god
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+madh -- adjective; masculine singular of <madh, e> big, large, great -- great
+e -- conjunction; <e> and -- and
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+vërtetë -- adjective; masculine singular of <vërtetë> true -- true
+t'ju -- conjunction; contraction of <të> SUBORDINATOR + pronoun; dative weak of <ju> you (pl.) -- you all
+jepte -- verb; 3rd person singular imperfect subjunctive active of <jap> give -- would give
+juve -- pronoun; dative of <ju> you (pl.) -- ...
+sot -- adverb; <sot> today -- today
+
+një rast më të mirë, të jepte për zëmrat e flakta dhe për ushtarët e zjarrtë
+ Collapse All
+një -- determiner; <një> a, one -- a
+rast -- noun, masculine; accusative singular indefinite of <rast> case, opportunity -- opportunity
+më -- adverb; <më> more -- ...
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+mirë -- adjective; masculine singular of <mirë, e> good -- better
+të -- conjunction; <të> SUBORDINATOR -- that
+jepte -- verb; 3rd person singular imperfect subjunctive active of <jap> give -- he would give
+për -- preposition, accusative; <për> for, about -- to
+zëmrat -- noun, feminine; accusative plural definite of <zëmër> heart -- hearts # Std. Alb. zemër
+e -- particle; feminine accusative plural definite of <e> NYJE -- ...
+flakta -- adjective; feminine plural of <flaktë, e> burning, passionate -- burning
+dhe -- conjunction; <dhe> and -- and
+për -- preposition, accusative; <për> for, about -- ...
+ushtarët -- noun, masculine; accusative plural definite of <ushtar> soldier -- soldiers
+e -- particle; masculine accusative plural definite of <e> NYJE -- ...
+zjarrtë -- adjective; masculine plural of <zjarrtë, e> fiery, passionate -- passionate
+
+një rast më të bukur se sa ky që me plot të drejtë ju ka dhënë,
+ Collapse All
+një -- determiner; <një> a, one -- a
+rast -- noun, masculine; accusative singular indefinite of <rast> case, opportunity -- opportunity
+më -- adverb; <më> more -- more
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+bukur -- adjective; masculine singular of <bukur, e> beautiful -- beautiful
+se -- conjunction; <se> that, than, because -- than
+sa -- adverb; <sa> as -- ...
+ky -- pronoun; masculine nominative of <ky, kjo> this -- this
+që -- conjunction; <që> that, which -- that
+me -- preposition, accusative; <me> with, by -- ...
+plot -- adverb; <plot> fully, completely, quite -- fully
+të -- particle; feminine accusative singular indefinite of <e> NYJE -- ...
+drejtë -- noun, feminine; accusative singular indefinite of <drejtë, e> right -- right
+ju -- pronoun; dative weak of <ju> you (pl.) -- you all
+ka -- verb; 3rd person singular present indicative active of <kam> have -- ...
+dhënë -- verb; past definite participle of <jap> give -- he has given
+
+të rrëmbeni tani armët për ta lënë të vulosur për gjithëmonë
+ Collapse All
+të -- conjunction; <të> SUBORDINATOR -- ...
+rrëmbeni -- verb; 2nd person plural present subjunctive active of <rrëmbej> grab, seize -- to seize
+tani -- adverb; <tani> now -- ...
+armët -- noun, feminine; accusative plural definite of <armë> weapon -- your weapons
+për -- preposition, accusative; <për> for, about -- in order that
+ta -- conjunction; contraction of <të> SUBORDINATOR + contraction of accusative singular weak of; <ai, ajo> (s)he, it, that -- it
+lënë -- verb; participle of <lë> leave -- be # për të lënë is an example of the Tosk 'infinitive'.
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+vulosur -- adjective; masculine singular participle of <vulos> seal, mark -- marked
+për -- preposition, accusative; <për> for, about -- for
+gjithëmonë -- adverb; <gjithmonë> always -- ever
+
+me shëmbëllën e lartë besnikërinë tuaj edhe kundrejt meje, edhe kundrejt mbarë Epirit.
+ Collapse All
+me -- preposition, accusative; <me> with, by -- with
+shëmbëllën -- noun, feminine; accusative singular definite of <shëmbëllë> example -- the example # Std. Alb. shembull
+e -- particle; feminine accusative singular definite of <e> NYJE -- ...
+lartë -- adjective; feminine singular of <lart, e> high, loud -- high
+besnikërinë -- noun, feminine; accusative singular definite of <besnikëri> fidelity, loyalty, honesty -- of loyalty
+tuaj -- pronoun; accusative singular of <juaj> your (pl.) -- your
+edhe -- adverb; <edhe> also, yet, still, even -- ...
+kundrejt -- preposition, ablative; <kundrejt> opposite, towards -- towards
+meje -- pronoun; ablative of <unë> I -- me
+edhe -- adverb; <edhe> also, yet, still, even -- as well as
+kundrejt -- preposition, ablative; <kundrejt> opposite, towards -- towards
+mbarë -- determiner; <mbarë> all, the entire -- all (of)
+Epirit -- noun, masculine; ablative singular definite of <Epir> Epirus -- Eprius
+
+Gjer tani ne kemi luftuar për fitoren, për nderin e mbretërisë; tani ju duhet të luftoni për shpëtimin, për lirinë, për muret e atdheut.
+ Collapse All
+gjer -- preposition, accusative; <gjer> up to, until -- up to
+tani -- adverb; <tani> now -- now
+ne -- pronoun; nominative of <ne> we -- we
+kemi -- verb; 1st person plural present indicative active of <kam> have -- ...
+luftuar -- verb; participle of <luftoj> fight -- have fought
+për -- preposition, accusative; <për> for, about -- for
+fitoren -- noun, feminine; accusative singular definite of <fitore> victory -- victory
+për -- preposition, accusative; <për> for, about -- ...
+nderin -- noun, masculine; accusative singular definite of <nder> honor -- the honor
+e -- particle; masculine accusative singular definite of <e> NYJE -- ...
+mbretërisë -- noun, feminine; genitive singular definite of <mbretëri> kingdom -- of the kingdom
+tani -- adverb; <tani> now -- now
+ju -- pronoun; nominative of <ju> you (pl.) -- you all
+duhet -- verb; 3rd person singular present indicative non-active impersonal of <duhem> must, should -- must
+të -- conjunction; <të> SUBORDINATOR -- ...
+luftoni -- verb; 2nd person plural present indicative active of <luftoj> fight -- fight
+për -- preposition, accusative; <për> for, about -- for
+shpëtimin -- noun, masculine; accusative singular definite of <shpëtim> rescue, salvation -- salvation
+për -- preposition, accusative; <për> for, about -- for
+lirinë -- noun, feminine; accusative singular definite of <liri> liberty, freedom -- freedom
+për -- preposition, accusative; <për> for, about -- for
+muret -- noun, masculine; accusative plural definite of <mur> wall -- the walls
+e -- particle; masculine accusative plural definite of <e> NYJE -- ...
+atdheut -- noun, masculine; genitive singular definite of <atdhe> fatherland -- of the fatherland
+
+Tani ju duhet të përpiqeni që lavdet, të cilat i kini merituar në sa e sa luftra të kryera me sukses nën udhëheqjen time
+ Collapse All
+tani -- adverb; <tani> now -- now
+ju -- pronoun; nominative of <ju> you (pl.) -- you
+duhet -- verb; 3rd person singular present indicative non-active impersonal of <duhem> must, should -- should # duhet is an impersonal form and is normally in the 3SG, regardless of the subject.
+të -- conjunction; <të> SUBORDINATOR -- ...
+përpiqeni -- verb; 2nd person plural present subjunctive non-active of <përpiqem> try, strive -- strive
+që -- preposition, accusative; <që> since, from, beyond -- beyond
+lavdet -- noun, feminine; accusative plural definite of <lavde> praise -- the praises
+të -- particle; feminine accusative plural definite of <e> NYJE -- ...
+cilat -- pronoun; feminine plural of <cili, e> that, which -- that
+i -- pronoun; accusative weak of <ata, ato> they, those -- ...
+kini -- verb; 2nd person plural present indicative active of <kam> have -- have # As discussed in Lesson 1, kini is a variant of Standard keni.
+merituar -- verb; participle of <meritoj> deserve -- you earned
+në -- preposition, accusative; <në> in, on, at -- in
+sa -- conjunction; <sa> as many as, as soon as, as long as, so much -- many
+e -- conjunction; <e> and -- ...
+sa -- conjunction; <sa> as many as, as soon as, as long as, so much -- many
+luftra -- noun, feminine; accusative plural indefinite of <luftë> war -- wars
+të -- particle; feminine accusative plural indefinite of <e> NYJE -- ...
+kryera -- adjective; feminine plural participle of <kryej> carry out, perform -- carried out
+me -- preposition, accusative; <me> with, by -- with
+sukses -- noun, masculine; accusative singular indefinite of <sukses> success -- success
+nën -- preposition, accusative; <nën> under -- under
+udhëheqjen -- noun, feminine; accusative singular definite of <udhëheqje> leadership -- leadership
+time -- pronoun; feminine accusative singular of <im> my -- my
+
+të mos i ktheni në turp të madh nga plogështia dhe në pjesën më të madhe fati i kësaj varet nga ju,
+ Collapse All
+të -- conjunction; <të> SUBORDINATOR -- ...
+mos -- particle; <mos> NEGATOR -- lest
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+ktheni -- verb; 2nd person plural present subjunctive active of <kthen> turn, return, regain health -- you return
+në -- preposition, accusative; <në> in, on, at -- in
+turp -- noun, masculine; accusative singular indefinite of <turp> shame, disgrace -- shame
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+madh -- adjective; masculine singular of <madh, e> big, large, great -- great
+nga -- preposition, nominative; <nga> from, through -- from
+plogështia -- noun, feminine; nominative singular definite of <plogështi> sloth, lethargy -- lethargy
+dhe -- conjunction; <dhe> and -- and
+në -- preposition, accusative; <në> in, on, at -- in
+pjesën -- noun, feminine; accusative singular definite of <pjesë> part, section, share -- the part
+më -- adverb; <më> more -- ...
+të -- particle; feminine accusative singular definite of <e> NYJE -- ...
+madhe -- adjective; feminine singular of <madh, e> big, large, great -- larger
+fati -- noun, masculine; nominative singular definite of <fat> fate -- the fate
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+kësaj -- pronoun; feminine genitive of <ky, kjo> this -- of this
+varet -- verb; 3rd person singular present indicative non-active of <varem> hang, depend -- depends
+nga -- preposition, nominative; <nga> from, through -- on
+ju -- pronoun; nominative of <ju> you (pl.) -- you all
+
+sepse nga ju do t'ia fillojë Murati hyrjes për në Epir.
+ Collapse All
+sepse -- conjunction; <sepse> because -- because
+nga -- preposition, nominative; <nga> from, through -- through
+ju -- pronoun; nominative of <ju> you (pl.) -- you all
+do -- marker; <do> FUTURE/CONDITIONAL -- ...
+t'ia -- conjunction; contraction of <të> SUBORDINATOR + pronoun; dative weak of <ai, ajo> (s)he, it, that + pronoun; contraction of accusative weak of <ai, ajo> (s)he, it, that -- it
+fillojë -- verb; 3rd person singular present subjunctive active of <filloj> start, begin -- will begin
+Murati -- noun, masculine; nominative singular definite of <Murat> Murad -- Murad
+hyrjes -- noun, feminine; dative singular definite of <hyrje> entry -- (as far as) the entrance (is concerned) # This is an "ethical dative," and literally, this phrase could be translated as "Murat will begin it as far as the entrance is concerned."
+për në -- preposition, accusative; <për në> into, towards -- into
+Epir -- noun, masculine; accusative singular indefinite of <Epir> Epirus -- Epirus
+
+Lesson Text
+Ishte e pamundur, o sfetigradas, që Zoti i madh e i vërtetë t'ju jepte juve sot një rast më të mirë, të jepte për zëmrat e flakta dhe për ushtarët e zjarrtë një rast më të bukur se sa ky që me plot të drejtë ju ka dhënë, të rrëmbeni tani armët për ta lënë të vulosur për gjithëmonë me shëmbëllën e lartë besnikërinë tuaj edhe kundrejt meje, edhe kundrejt mbarë Epirit. Gjer tani ne kemi luftuar për fitoren, për nderin e mbretërisë; tani ju duhet të luftoni për shpëtimin, për lirinë, për muret e atdheut. Tani ju duhet të përpiqeni që lavdet, të cilat i kini merituar në sa e sa luftra të kryera me sukses nën udhëheqjen time të mos i ktheni në turp të madh nga plogështia dhe në pjesën më të madhe fati i kësaj varet nga ju, sepse nga ju do t'ia fillojë Murati hyrjes për në Epir.
+Translation
+It was impossible, O men of Svetigrad, that the great and true God would give you all today a better opportunity, that he would give to burning hearts and passionate soldiers a more beautiful opportunity than this that he has rightfully given you all to seize your weapons in order that it be marked forever with the high example of your loyalty towards me, as well as towards all of Epirus. Up to now we have fought for victory and the honor of the kingdom. Now you all must fight for salvation, for freedom, for the walls of the fatherland. Now you should strive beyond the praises that you have earned with success in many many wars carried out under my leadership, lest you return in great shame from lethargy; and in the larger part, the fate of this depends on you all because, through you all, Murad will begin it as far as the entrance into Epirus is concerned.
+Grammar
+13 Negation
+Like several other Indo-European languages, in particular Indo-Iranian, Armenian and Greek, Albanian has different negators depending on whether or not the verb is in the indicative mood. When the verb is in the indicative mood, either nuk or s' is used in negating the verb. Nuk and s' are synonymous, e.g. nuk ha = s'ha 'I do not eat'. The negator mos is used with subjunctives, imperatives, optatives, and any participial formation, e.g., mos ha! 'don't eat!', për të mos ngrënë 'in order not to eat', etc.
+
+14 Subordination
+14.1 Indicative Subordination
+The most common subordinators in indicative clauses are se or që, which have the same meaning and function (both translate to 'that'). Camaj (1984) claims that se originally held this function, but që (originally used with subjunctives and as a relative pronoun) has become used under these conditions as well.
+
+Consider the following examples from Lesson 2's text. The first, "...it was written that in Albania autumn is...," uses the subordinator se, while the second, "The general knew that in Albania autumn is...," uses the subordinator që.
+
+ 	 	të shkruhej	 	SE	 	në	 	Shqipëri	 	vjeshta	 	është
+ 	 	it-was-written	 	that	 	in	 	Albania	 	the-autumn	 	is
+ 	 	Gjenerali	 	e	 	dinte	 	QË	 	në	 	Shqipëri	 	vjeshta	 	është
+ 	 	the-general	 	it	 	knew	 	that	 	in	 	Albania	 	the-autumn	 	is
+14.2 Subjunctive Subordination
+As discussed in Lesson 1, the subjunctive always occurs preceded by the subordinator të. Clearly, të is the subordinator for subjunctive clauses. Recall that Tosk Albanian, like many of the other languages of the Balkan Sprachbund, does not have an infinitival form that can be the complement of a verb. For example, in a sentence like 'I want to learn Albanian," an infinitival form of "to learn" would be used in English, Russian, French and most other European languages (even Geg Albanian, see below). However, in Tosk/Standard Albanian, a structure would have to be used that would roughly translate to "I want that I learn Albanian," with the second verb in the subjunctive.
+
+ 	 	Dua	 	TË mesoj	 	gjuhën	 	shqipe
+ 	 	I-want	 	(that) I-learn	 	the-language	 	Albanian
+In saying something like "It is not difficult to learn Albanian," a similar construction is used. Instead of an infinitive, a finite verb is used.
+
+ 	 	nuk	 	është	 	e veshtirë	 	TË mesojë	 	gjuhën	 	shqipe
+ 	 	not	 	it-is	 	difficult	 	that learn	 	the-language	 	Albanian
+In some cases, a construction që + SUBJECT + të + VERB is used. This would be roughly equivalent to a construction like "for SUBJECT INFINITIVE" in English. For example, "It is not difficult for John to learn Albanian" would be expressed as the following:
+
+ 	 	Nuk	 	është	 	e veshtirë	 	QË	 	Gjoni	 	TË mesojë	 	gjuhën	 	shqipe
+ 	 	not	 	it-is	 	difficult	 	that	 	John	 	learns	 	the-language	 	Albanian
+Note that the constructions above, while representative of Tosk and Standard Albanian, are rare in Geg. In these situations, an infinitival form would be used in Geg. For example, the Geg equivalent of Standard Albanian Dua të flas gjuhën shqipe. 'I want to speak Albanian' would be Due me folë gjuhën shqipe, where me folë is the infinitive of flas 'speak'. More information about the Geg infinitive (along with other participial constructions) is given in Lesson 4.
+
+14.3 Relative Clauses
+In Standard Albanian, the relative pronoun is declined. The following are the forms of the relative pronoun; the genitive forms must take an additional nyje particle.
+
+ 	 	masculine	 	 	 	 	 	feminine	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+nominative	 	i cili	 	të cilët	 	 	 	e cila	 	të cilat
+accusative	 	të cilin	 	të cilët	 	 	 	të cilën	 	të cilat
+gen/dat.	 	të cilit	 	të cilëve	 	 	 	së cilës	 	të cilave
+ablative	 	të cilit	 	të cilëve	 	 	 	së cilës	 	të cilave
+The relative pronoun appears in first position in the relative clause, and has the case that is appropriate to its use in the relative clause, but with the gender and number determined by the head noun (the noun that is modified by the relative clause). For example, from the text in Lesson 1, "The flag, the seal, and the anthem are... symbols... that reflect..."
+
+ 	 	Flamuri,	 	stema	 	dhe	 	himni	 	janë	 	simbolet,	 	të cilat	 	pasqyrojnë...
+ 	 	the-flag	 	the-seal	 	and	 	the-anthem	 	are	 	symbols	 	that	 	reflect...
+In this example the form of the relative pronoun is të cilat, and is feminine nominative plural. It modifies the noun simbolet, which is the nominative plural form of the ambigeneric noun simbol (which, being ambigeneric and plural, has feminine agreement).
+
+Note that, in spoken Albanian, it is more common to use invariant që (Geg qi) instead of the relative pronoun cili, e. This is much more common in the texts presented in these lessons, for example in the following phrase from Lesson 2:
+
+ 	 	në	 	librin	 	QË	 	kishte lexuar
+ 	 	in	 	the-book	 	that	 	he-had read
+15 Demonstrative Adjectives/Pronouns
+When the object being described is not specified for gender, the default form of the pronouns is the feminine form. Thus, in an impersonal construction in which there is an adjective predicated of an understood (unexpressed) expletive subject along with a clausal complement (thus equivalent to English "extraposed" sentential subject), the adjective takes the feminine form, e.g. është e veshtirë të mesoni shqip '(it)-is difficult/FEM that you-learn Albanian' (that veshtirë is feminine is shown by the nyje e rather than masculine i -- see Lesson 1).
+
+15.1 Distal Demonstratives
+Forms of ai, ajo 'that' are used when the object being described is not near the speaker. These are also used as the third person personal pronouns.
+
+ 	 	masculine	 	 	 	 	 	feminine	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+nominative	 	ai	 	ata	 	 	 	ajo	 	ato
+accusative	 	atë	 	ata	 	 	 	atë	 	ato
+gen/dat.	 	atij	 	atyre	 	 	 	asaj	 	atyre
+ablative	 	atij	 	atyre	 	 	 	asaj	 	atyre
+15.2 Proximal Demonstratives
+When the object discussed is near the speaker, forms of ky, kjo 'this' are used.
+
+ 	 	masculine	 	 	 	 	 	feminine	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+nominative	 	ky	 	këta	 	 	 	kjo	 	këto
+accusative	 	këtë	 	këta	 	 	 	këtë	 	këto
+gen/dat.	 	këtij	 	këtyre	 	 	 	kësaj	 	këtyre
+ablative	 	këtij	 	këtyre	 	 	 	kësaj	 	këtyre
+16 Personal Pronouns
+As discussed above, the function of the 3rd person personal pronouns is filled by the distal demonstrative pronouns. Unlike 3rd person pronouns, the rest of the personal pronouns are not marked for gender.
+
+ 	 	1st person	 	 	 	 	 	2nd person	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+nominative	 	unë	 	ne	 	 	 	ti	 	ju
+accusative	 	mua	 	ne	 	 	 	ty	 	ju
+gen/dat.	 	mua	 	neve	 	 	 	ty	 	juve
+ablative	 	meje	 	nesh	 	 	 	teje	 	jesh
+17 Weak Pronouns
+17.1 Forms of Weak Pronouns
+The following are the forms of the Albanian weak pronouns (also commonly called "clitic pronouns"):
+
+ 	 	singular	 	plural
+1st person	 	më	 	na
+2nd person	 	të	 	ju
+3rd person	 	e (acc.)	 	i (acc.)
+ 	 	i (dat.)	 	u (dat.)
+reflexive	 	u	 	 
+17.2 Position of weak pronouns
+With the exception of imperatives (on which see below), weak pronouns always come before the verb, regardless of mood, tense, etc. For example, in the following examples meaning "I eat it" and "I have eaten it," the weak pronoun e comes directly before the verb.
+
+ 	 	Unë	 	e	 	ha.	 	 	 	 	 	 	 	Unë	 	e	 	kam ngrënë.
+ 	 	I	 	it	 	eat	 	 	 	 	 	 	 	I	 	it	 	have-eaten
+When using a verb form obligatorily preceded by a particle of some sort, such as të in the subjunctive or do të in the future and conditional, the clitics still occur directly before the verb (i.e., between the particle and the verb). For example, in the sentence "I will eat it," the clitic e is positioned between the subordinator të and the verb ha. The combination of të and e actually gives a contraction ta (on such contractions, see below).
+
+ 	 	Unë	 	do	 	ta	 	ha
+ 	 	I	 	FUT	 	TË+it	 	eat
+Weak pronoun placement is more complicated in the imperative, where there is some variability as to where they appear. In negative imperatives, weak pronouns still come directly before the verb (i.e., between the negator and the verb). In positive imperatives, weak pronouns can come either before or after the verb: if they come before the verb, they are written as separate words; if they come after the verb, the clitics are attached to the verb. If clitics come after a plural imperative, they are placed between the stem and the 2nd person plural imperative ending -ni. In the following examples meaning "Open the door for me!" from Newmark et al. (1982), where the weak pronouns are capitalized, the example on the left has the clitic combination ma (dative më plus accusative e) as a separate word placed before the verb, while the example on the right has the clitic combination ma attached to the end of the verb.
+
+ 	 	MA	 	hap	 	derën	 	 	 	OR	 	 	 	hapMA	 	derën
+ 	 	for me-it	 	open!	 	the-door	 	 	 	 	 	 	 	open!-for me-it	 	the-door
+In the following examples meaning "Write to me!" the clitic either comes before the verb (as in the example on the left) or between the stem and the 2PL imperative ending -ni (as in the example on the right).
+
+ 	 	MË	 	shkruani	 	 	 	OR	 	 	 	shkruaMËni
+ 	 	to me	 	write!	 	 	 	 	 	 	 	write!-to me
+17.3 Use of clitic pronouns
+Direct object weak pronouns are not obligatory, but optional when the direct object is overtly expressed. For example, both of the following are acceptable for "I saw the dog."
+
+ 	 	Unë	 	pashë	 	qenin	 	 	 	OR	 	 	 	Unë	 	e	 	pashë	 	qenin
+ 	 	I	 	saw	 	the-dog	 	 	 	 	 	 	 	I	 	it	 	saw	 	the-dog
+If the direct object is not overtly expressed, then the weak pronoun is obligatory. For example, if saying "I saw it" (where 'it' is 'the dog'), the clitic must be present.
+
+ 	 	Unë	 	e	 	pashë
+ 	 	I	 	it	 	saw
+Indirect object weak pronouns are obligatory when there is an indirect object, even if it is overtly expressed. For example, in the sentence "I wrote to John," the indirect object weak pronoun is required.
+
+ 	 	Unë	 	i	 	shkrova	 	Gjonit
+ 	 	I	 	to-him	 	wrote	 	to-John
+Where the indirect object is a pronoun, an overt form of the pronoun is optional but not obligatory. For example, in the sentence "I wrote to you all," both of the following are acceptable:
+
+ 	 	Unë	 	ju	 	shkrova	 	 	 	OR	 	 	 	Unë	 	ju	 	shkrova	 	juve
+ 	 	I	 	to-you (pl.)	 	wrote	 	 	 	 	 	 	 	I	 	to-you (pl.)	 	wrote	 	to-you (pl.)
+17.4 Weak Pronoun Combinations, Combinations With të
+When a dative and an accusative weak pronoun are used together, they often combine. The dative weak pronoun always comes before the accusative weak pronoun. The following chart shows the different possible combinations.
+
+ 	 	 	 	 	 	 	 	Acc.	 	 
+ 	 	 	 	 	 	e	 	i	 	u
+ 	 	Dat.	 	 	 	 	 	 	 	 
+ 	 	më	 	 	 	ma	 	m'i	 	m'u
+ 	 	të	 	 	 	ta	 	t'i	 	t'u
+ 	 	i	 	 	 	ia	 	ia	 	iu
+ 	 	na	 	 	 	na e	 	na i	 	na u
+ 	 	ju	 	 	 	jua	 	jua	 	ju
+ 	 	u	 	 	 	ua	 	ua	 	ju
+In addition to weak pronouns combining to give special forms, weak pronouns (or combinations thereof) can combine with the subordinator të:
+
+të plus accusative e gives ta
+If the weak pronoun (or the combination of pronouns) begins with a vowel or j, the vowel of the subordinator is lost and it becomes t', e.g. të + i gives t'i, të + jua gives t'jua, etc.
+If the weak pronoun (or the combination of pronouns) begins with any other sound, there is no special combination, e.g., të + m'i gives të m'i, të + na gives të na
+18 Possessive Pronouns
+18.1 Forms of Possessive Pronouns
+These forms are originally the combination of a nyje particle and a pronoun. In most instances they have combined to form a single word, but in others they have not. The following are the forms for the 1st and 2nd person possessive pronouns. Note that e preceding some forms signals that an appropriate nyje particle is required: in some instances it will actually be e, in others it will not.
+
+ 	 	 	 	 	 	1SG	 	1PL	 	2SG	 	2PL
+Masc.	 	Sg.	 	nom.	 	im	 	ynë	 	yt	 	juaj
+ 	 	 	 	acc.	 	tim	 	tonë	 	tët	 	tuaj
+ 	 	 	 	gen/dat/abl.	 	tim	 	tonë	 	tët	 	tuaj
+ 	 	Pl.	 	nom.	 	e mi	 	tanë	 	e tu	 	tuaj
+ 	 	 	 	acc.	 	e mi	 	tanë	 	e tu	 	tuaj
+ 	 	 	 	gen/dat/abl.	 	e mi	 	tanë	 	e tu	 	tuaj
+ 	 	 	 	 	 	 	 	 	 	 	 	 
+Fem.	 	Sg.	 	nom.	 	mie	 	jonë	 	jote	 	juaj
+ 	 	 	 	acc.	 	time	 	tonë	 	tënde	 	juaj
+ 	 	 	 	gen/dat/abl.	 	sime	 	sonë	 	sate	 	suaj
+ 	 	Pl.	 	nom.	 	e mia	 	tona	 	e tua	 	tuaja
+ 	 	 	 	acc.	 	e mia	 	tona	 	e tua	 	tuaja
+ 	 	 	 	gen/dat/abl.	 	e mia	 	tona	 	e tua	 	tuaja
+The third person possessive adjectives tij, e 'his', saj, e 'her', tyre, e 'their' are treated like typical adjectives.
+
+18.2 Placement of Possessive Pronouns
+Possessive pronouns nearly always follow the noun they modify, e.g. gjuha jonë 'our language', miku im 'my friend', etc. The only cases where the possessive pronouns can precede the noun they modify is with a small group of kinship terms (e.g., vella 'brother', motër 'sister', and several others). When the possessive pronoun follows the noun, the noun is always in the definite form (e.g., vëllai im 'my brother', motra jotë 'your (pl.) sister'). In the rare cases where it can precede the noun, the noun is in the indefinite form (e.g., im vëlla, jotë motër). The 3rd person possessive pronouns never precede the noun.
+
+19 The Future Tense
+19.1 Future
+As briefly discussed in Lesson 1, the Albanian future tense is formed from the particle do followed by the subordinator të and a present subjunctive form of the verb.
+
+Future paradigm of shkruaj 'write':
+
+ 	 	singular	 	plural
+1st person	 	do të shkruaj	 	do të shkruajmë
+2nd person	 	do të shkruash	 	do të shkruani
+3rd person	 	do të shkruajë	 	do të shkruajnë
+19.2 Future Perfect
+The future perfect is formed with the invariant particle do followed by the subordinator të and a present perfect subjunctive form of the verb. The future perfect is used to describe events that will occur in the future before another specified point in the future. For example, it would be used in a phrase like ai do të ketë shkruar librin... "he will have written the book..."
+
+Future perfect paradigm of shkruaj 'write':
+
+ 	 	singular	 	plural
+1st person	 	do të kem shkruar	 	do të kemi shkruar
+2nd person	 	do të kesh shkruar	 	do të keni shkruar
+3rd person	 	do të ketë shkruar	 	do të kenë shkruar
+19.3 The Future Tense in Geg
+Note that there is substantial variation across Albanian dialects in the formation of the future tense. In other (non-standard) Tosk dialects, the subordinator të is often omitted, and even in the standard language it can be omitted in colloquial usage or fast speech. Constructions with the future marker do are seen in Geg dialects. They are used to show obligation, rather than future time reference (as seen in the texts presented in Lessons 4 and 5). Geg dialects have a completely different future tense construction, which is composed of a conjugated present tense form of kam 'have' followed by the infinitive, which is formed from the preposition me followed by the participle (note that the Geg infinitive is a distinct formation from the Tosk/Standard Albanian "infinitive," discussed in Lesson 4). The equivalent of do të jenë in Geg would be kanë me qenë, where kanë is the 3rd person plural present form of kam 'have' and me qenë is the infinitive of jam 'be'. The Geg future perfect is formed with a present perfect form of kam plus the infinitive.
+
+20 The Conditional Mood
+20.1 The Present Conditional
+The conditional is formed in the same way as the future, except that an imperfect subjunctive form of the verb is used. The present conditional is also often referred to as the "Future Imperfect" due to the fact that its formation is similar to that of the future. The conditional is used to describe a potential or hypothetical event, and verbs in the conditional mood are often translated into English as 'would VERB', e.g. 'I would read the book' would be Do të lexuaja librin.
+
+Present conditional paradigm of shkruaj 'write':
+
+ 	 	singular	 	plural
+1st person	 	do të shkruaja	 	do të shkruanim
+2nd person	 	do të shkruaje	 	do të shkruanit
+3rd person	 	do të shkruante	 	do të shkruanin
+20.2 The Past Conditional
+The Albanian past conditional is formed with do plus the subordinator të plus a past perfect subjunctive verb form. The past conditional is translated into English as 'would have VERBed', e.g. 'I would have read the book' would be Do të kisha lexuar librin.
+
+Past conditional paradigm of shkruaj 'write':
+
+ 	 	singular	 	plural
+1st person	 	do të kisha shkruar	 	do të kishim shkruar
+2nd person	 	do të kishe shkruar	 	do të kishit shkruar
+3rd person	 	do të kishte shkruar	 	do të kishin shkruar
+20.3 The Conditional Mood in Geg
+Similar to the Geg future tense, the Geg conditional is formed from a conjugated imperfect form of kam plus the infinitive. For example, the Geg equivalent of do të lexoja librin 'I would read' would be kisha me lexuë librin (where me lexuë is the infinitive of lexoj).
+Lesson 4: Geg
+Brian Joseph, Angelo Costanzo, and Jonathan Slocum
+
+In 1444, Skanderbeg formed an alliance between several northern Albanian noble families to ward off the Ottoman invasion of the area. Among these was the Dukagjini family, of whom Lekë Dukagjini became one of the most important figures in Albanian history. Skanderbeg's exploits and devotion to his people in the face of invasion earned him fame throughout Europe. While Lekë Dukagjini fought at Skanderbeg's side and led the resistance (with less success than his predecessor) upon Skanderbeg's death, his fame is due to something else entirely.
+
+The Kanun is a set of laws that cover all aspects of life. The most famous and widespread was the Kanun i Lekë Dukagjinit. While it is usually attributed to Lekë Dukagjini himself, it is more likely that this was the set of rules held in his family's territory (around the modern Albania-Kosovo border). There were other Kanuns (e.g., Kanuni i Skënderbeut, etc.), but the territory in which the laws of the Kanun i Lekë Dukagjinit were followed expanded. Generally, the different sets of laws followed in northern Albania were rather similar. The age of the laws of the Kanun is yet to be determined. Many aspects that the Kanun shares with law codes followed by other Indo-European peoples point to this as potentially inherited from Proto-Indo-European.
+
+The Kanun i Lekë Dukagjinit covers a wide range of topics in great detail, including rules regarding property (e.g., if your bees escape and go on someone else's property, you have the right to enter their property to retrieve them; however, if no one is pursuing the bees, whoever finds them can keep them), rules regarding marriage and the family (e.g., in addition to the required "wedding ox," a wedding feast is obliged to have certain amounts of coffee, cheese, raki, etc.), rules regarding damages (e.g., if your goat ruins someone else's vineyard, you are required to give them the amount of wine and raki that the destroyed vines would have produced), and various rules of hospitality (e.g., while the master of the house washes his hands before the guest and drinks the first glass of raki, the guest must take the first bite of food, violation of this rule being punishable by fine), as well as controversial rules regarding blood feuds.
+
+The rules of the Kanun were transmitted orally, and were not written down until the 19th century (and then, only in fragments). In the late 19th century, Shtjefën Gjeçovi, a priest-folklorist from Kosovo, collected and organized the rules, and the collection was published in 1933 (several years after Gjeçovi's death). A bilingual edition was published in 1989, containing Gjeçovi's original version along with an English translation by Leonard Fox.
+
+Reading and Textual Analysis
+The following excerpt from the Kanun i Lekë Dukagjinit contains thirteen laws that describe the process of welcoming guests into the home. This excerpt makes up part of the eighth book of Gjeçovi's edition, which discusses personal honor, social honor (including hospitality, violation of hospitality, and the consequences of a violation of hospitality), and rules for brotherhood and godparenthood.
+
+Given that the Kanun i Lekë Dukagjinit originates from northern Albania, it is written in Geg. As the rules were collected by Gjeçovi long before the establishment of any type of standardized Geg (or any standard variety of Albanian), the text contains dialectal characteristics of the area from which the data were collected: the Mirditë district in modern north-central Albania.
+
+"Shpija e Shqyptarit âsht e Zotit e e mikut."
+ Collapse All
+shpija -- noun, feminine; nominative singular definite of <shpi> house -- the house # Std. Alb. shtëpi
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+shqyptarit -- noun, masculine; genitive singular definite of <shqyptar> Albanian -- of the Albanian # Std. Alb. shqiptar
+âsht -- verb; 3rd person singular present indicative active of <jam> be -- is
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+Zotit -- noun, masculine; genitive singular definite of <zot> master, lord, God -- of God
+e -- conjunction; <e> and -- and
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+mikut -- noun, masculine; genitive singular definite of <mik> friend, guest -- of the guest
+
+Miku nuk mund të hîjë në shpí, pá bâ zâ n'oborr.
+ Collapse All
+miku -- noun, masculine; nominative singular definite of <mik> friend, guest -- the guest
+nuk -- adverb; <nuk> NEGATOR -- not
+mund -- verb; 3rd person singular present indicative active of <mund> can, be able -- can
+të -- conjunction; <të> SUBORDINATOR -- ...
+hîjë -- verb; 3rd person singular present subjunctive active of <hîj> enter -- enter # Std. Alb. hyj
+në -- preposition, accusative; <në> in, on, at -- ...
+shpí -- noun, feminine; accusative singular indefinite of <shpi> house -- house
+pá -- preposition, accusative; <pa> without -- without # Std. Alb. pa
+bâ -- verb; participle of <bâj> do, make -- making # Std. Alb. bëj, participle bërë
+zâ -- noun, masculine; accusative singular indefinite of <zâ> sound, voice -- noise # Std. Alb. zë
+n'oborr -- preposition, accusative; contraction of <në> in, on, at + noun, masculine; accusative singular indefinite of <oborr> courtyard -- in courtyard
+
+Si të bâjë zâ miku, i zoti i shpís a kush i shpís i pergjegjet e i del perpara.
+ Collapse All
+si -- adverb; <si> upon, when -- when
+të -- conjunction; <të> SUBORDINATOR -- ...
+bâjë -- verb; 3rd person singular present subjunctive active of <bâj> do, make -- makes
+zâ -- noun, masculine; accusative singular indefinite of <zâ> sound, voice -- noise # Std. Alb. zë
+miku -- noun, masculine; nominative singular definite of <mik> friend, guest -- the guest
+i -- pronoun; masculine nominative singular definite of <e> NYJE -- ...
+zoti -- noun, masculine; nominative singular indefinite of <zoti, e> owner, boss, master -- master # This is a nominalized form of the adjective zoti, e meaning 'able, capable'
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+shpís -- noun, feminine; genitive singular definite of <shpi> house -- of the house
+a -- conjunction; <a> or -- or
+kush -- pronoun; nominative of <kush> someone, anyone -- someone else
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+shpís -- noun, feminine; genitive singular definite of <shpi> house -- of the house
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- him
+pergjegjet -- verb; 3rd person singular present indicative non-active of <pergjegjem> answer -- answers # Std. Alb. përgjijem
+e -- conjunction; <e> and -- and
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- to him
+del -- verb; 3rd person singular present indicative active of <dal> leave, go out, rise, arrive -- goes
+perpara -- preposition; <perpara> ahead, forward, forth -- out # Std. Alb. përpara
+
+Falet me mik, armen i a mêrr, e i prîn në shpí.
+ Collapse All
+falet -- verb; 3rd person singular present indicative non-active of <falem> be greeted -- he is greeted
+me -- preposition, accusative; <me> with, by -- by
+mik -- noun, masculine; accusative singular indefinite of <mik> friend, guest -- guest
+armen -- noun, feminine; accusative singular definite of <armë> weapon -- weapon
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+a -- pronoun; contraction of accusative weak of <ai, ajo> (s)he, it, that -- his # In Standard Albanian, ia is written as a single word. a here is a sandhi variant of e in this position.
+mêrr -- verb, 3rd person singular present indicative active of; <mârr> take -- he takes # Std. Alb. marr
+e -- conjunction; <e> and -- and
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- him
+prîn -- verb; 3rd person singular present indicative active of <prîj> lead -- leads # Std. Alb. prij
+në -- preposition, accusative; <në> in, on, at -- into
+shpí -- noun, feminine; accusative singular indefinite of <shpi> house -- house
+
+Armen i a varë në krrabë, edhè e çon në krye të vendit ke votra
+ Collapse All
+armen -- noun, feminine; accusative singular definite of <armë> weapon -- weapon
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+a -- pronoun; contraction of accusative weak of <ai, ajo> (s)he, it, that -- his # In Standard Albanian, ia is written as a single word. a here is a sandhi variant of e in this position.
+varë -- verb; 3rd person singular present indicative active of <var> hang -- he hangs # varë is actually what is expected for the 3SG present subjunctive, not indicative, form.
+në -- preposition, accusative; <në> in, on, at -- on
+krrabë -- noun, feminine; accusative singular indefinite of <krrabë> hook -- a hook # Std. Alb. kërrabë
+edhè -- conjunction; <edhe> and -- and
+e -- pronoun; accusative weak of <ai, ajo> (s)he, it, that -- him
+çon -- verb; 3rd person singular present indicative active of <çoj> lead -- leads
+në -- preposition, accusative; <në> in, on, at -- to
+krye -- noun, masculine; accusative singular indefinite of <krye> head, beginning -- head
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+vendit -- noun, masculine; genitive singular definite of <vend> place, seat, country -- the place
+ke -- preposition, nominative; <ke> at -- near
+votra -- noun, feminine; nominative singular definite of <votër> hearth -- the hearth
+
+Perpushet zjarmi, lypen edhè drû. "Miku don drû."
+ Collapse All
+perpushet -- verb; 3rd person singular present indicative non-active of <perpushem> scratch, twitch, stir -- is stirred
+zjarmi -- noun, nominative singular definite of; <zjarm> fire -- the fire # Std. Alb. zjarr
+lypen -- verb; 3rd person singular present indicative active of <lypej> ask for, request -- he requests
+edhè -- adverb; <edhe> also, yet, still, even -- more
+drû -- noun, masculine; accusative singular indefinite of <drû> wood -- wood # Std. Alb. dru.
+miku -- noun, masculine; nominative singular definite of <mik> friend, guest -- the guest
+don -- verb; 3rd person singular present indicative active of <due> want -- wants # Std. Alb. dua, 3SG pres. indic. do.
+drû -- noun, masculine; accusative singular indefinite of <drû> wood -- wood # Std. Alb. dru.
+
+Mikut do t'i bâhet nderë: "Bukë e krypë e zêmer."
+ Collapse All
+mikut -- noun, masculine; dative singular definite of <mik> friend, guest -- for the guest
+do -- marker; <do> FUTURE/CONDITIONAL -- ...
+t'i -- conjunction; contraction of <të> SUBORDINATOR + pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+bâhet -- 3rd person singular present subjunctive non-active of; <bâhem> become -- must be made # Std. Alb. bëhem. As discussed in Lesson 4, do të... constructions in Geg usually have more of a connotation of obligation rather than future time reference.
+nderë -- noun, feminine; nominative singular indefinite of <nderë> honor -- honor # Std. Alb. nder
+bukë -- noun, feminine; nominative singular indefinite of <bukë> bread, food -- bread
+e -- conjunction; <e> and -- and
+krypë -- noun, feminine; nominative singular indefinite of <krypë> salt -- salt # Std. Alb. kripë
+e -- conjunction; <e> and -- and
+zêmer -- noun, feminine; nominative singular indefinite of <zêmer> heart -- heart # Std. Alb. zemër
+
+Buka e krypa e zêmra, zjarmi e trungu e do firi per shtrojë do të gjindet gadi per mik në çdo kohë të natës e të ditës
+ Collapse All
+buka -- noun, feminine; nominative singular definite of <bukë> bread, food -- the bread
+e -- conjunction; <e> and -- ...
+krypa -- noun, feminine; nominative singular definite of <krypë> salt -- the salt
+e -- conjunction; <e> and -- and
+zêmra -- noun, feminine; nominative singular definite of <zêmer> heart -- the heart
+zjarmi -- noun, masculine; nominative singular definite of <zjarm> fire -- the fire
+e -- conjunction; <e> and -- and
+trungu -- noun, masculine; nominative singular definite of <trung> log -- the log
+e -- conjunction; <e> and -- and
+do -- determiner; <do> some -- some
+firi -- noun, masculine; nominative singular definite of <fir> fern -- material # This probably is not specifically referring to ferns, but rather some sort of plant material that could be used as bedding.
+per -- preposition, accusative; <për> for, about, by, through -- for
+shtrojë -- noun, feminine; accusative singular indefinite of <shtrojë> mattress, bed -- a bed
+do -- marker; <do> FUTURE/CONDITIONAL -- ...
+të -- conjunction; <të> SUBORDINATOR -- ...
+gjindet -- verb; 3rd person singular present subjunctive non-active <gjindem> be located, be present, exist -- must be present
+gadi -- adverb; <gadi> ready -- ready # Std. Alb. gati
+per -- preposition, accusative; <për> for, about, by, through -- for
+mik -- noun, masculine; accusative singular indefinite of <mik> friend, guest -- a guest
+në -- preposition, accusative; <në> in, on, at -- at
+çdo -- adverb; <çdo> every -- any
+kohë -- noun, feminine; accusative singular indefinite of <kohë> time, weather -- time
+të -- particle; feminine accusative singular indefinite of <e> NYJE -- ...
+natës -- noun, feminine; genitive singular definite of <natë> night -- of the night
+e -- conjunction; <e> and -- or
+të -- particle; feminine accusative singular indefinite of <e> NYJE -- ...
+ditës -- noun, feminine; genitive singular definite of <ditë> day -- of the day
+
+Mikut të lodhun do t'i vîhet rreth me të pritun me nderë. Mikut i lahen kambët.
+ Collapse All
+mikut -- noun, masculine; dative singular definite of <mik> friend, guest -- the guest
+të -- particle; masculine dative singular definite of <e> NYJE -- ...
+lodhun -- adjective; masculine singular of <lodhun, e> tired -- tired # Std. Alb. lodhur, e
+do -- marker; <do> FUTURE/CONDITIONAL -- ...
+t'i -- conjunction; contraction of <të> SUBORDINATOR + pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+vîhet -- verb; 3rd person singular present subjunctive non-active of <vîhem> be placed -- should be # Std. Alb. vihem
+rreth -- preposition, ablative; <rreth> surrounded -- surrounded
+me -- preposition, accusative; <me> with, by -- by
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+pritun -- noun, masculine; accusative singular indefinite of <pritun, e> hospitality -- hospitality # Std. Alb. pritur, e
+me -- preposition, accusative; <me> with, by -- with
+nderë -- noun, masculine; accusative singular indefinite of <nderë> honor -- honor
+mikut -- noun, masculine; dative singular definite of <mik> friend, guest -- of the guest
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+lahen -- verb; 3rd person plural present indicative non-active of <lahem> be washed -- are washed
+kambët -- noun, feminine; nominative plural definite of <kambë> foot, leg -- the feet # Std. Alb. këmbë
+
+Per çdo mik duhet buka si han vetë.
+ Collapse All
+per -- preposition, accusative; <për> for, about, by, through -- for
+çdo -- determiner; <çdo> every -- every
+mik -- noun, masculine; accusative singular indefinite of <mik> friend, guest -- guest
+duhet -- verb; present of <duhet> must, should, be necessary -- is needed # duhet is an impersonal verb. The form is duhet regardless of the subject. This is technically the 3.sg.pres.ind.nonact. of a putative verb duhem.
+buka -- noun, feminine; nominative singular definite of <bukë> bread, food -- the food
+si -- adverb; <si> in the way that, such as -- that
+han -- verb; 3rd person plural present indicative active of <ha> eat -- they eat
+vetë -- adverb; <vëtë> themselves -- themselves
+
+Per mik të mirë duhet kafija, rakija e buka e shtrueme me ndo'i send mâ teper.
+ Collapse All
+per -- preposition, accusative; <për> for, about, by, through -- for
+mik -- noun, masculine; accusative singular indefinite of <mik> friend, guest -- a friend
+të -- particle; masculine accusative singular indefinite of <e> NYJE -- ...
+mirë -- adjective; masculine singular of <mirë, e> good -- good
+duhet -- verb; present of <duhet> must, should, be necessary -- are necessary
+kafija -- noun, feminine; nominative singular definite of <kafe> coffee -- coffee
+rakija -- noun, feminine; nominative singular definite of <raki> raki -- raki
+e -- conjunction; <e> and -- and
+buka -- noun, feminine; nominative singular definite of <bukë> bread, food -- food
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+shtrueme -- adjective, feminine singular participle of; <shtroj> lay -- laid out
+me -- preposition, accusative; <me> with, by -- with
+ndo'i -- determiner; <ndo'i> some, any -- some # This is a shortened form of ndonji (Std. Alb. ndonjë)
+send -- noun, masculine; accusative singular indefinite of <send> thing, item -- thing
+mâ -- adverb; <mâ> more -- more # Std. Alb. më
+teper -- adverb; <teper> very, too, excessively -- as well # Std. Alb. tepër
+
+Per mik zêmret duhet duhâni, kafija e ambel, rakija e bukë e mish.
+ Collapse All
+per -- preposition, accusative; <për> for, about, by, through -- for
+mik -- noun, masculine; accusative singular indefinite of <mik> friend, guest -- a friend
+zêmret -- adjective; masculine singular of <zêmret> cherished -- cherished
+duhet -- verb; present of <duhet> must, should, be necessary -- are necessary
+duhâni -- noun, masculine; nominative singular definite of <duhân> tobacco -- tobacco # Std. Alb. duhan
+kafija -- noun, feminine; nominative singular definite of <kafe> coffee -- coffee
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+ambel -- adjective; feminine singular of <ambel, e> sweet -- sweet # Std. Alb. ëmbël, e
+rakija -- noun, feminine; nominative singular definite of <raki> raki -- raki
+e -- conjunction; <e> and -- and
+bukë -- noun, feminine; nominative singular indefinite of <bukë> bread, food -- bread
+e -- conjunction; <e> and -- and
+mish -- noun, masculine; nominative singular indefinite of <mish> meat -- meat
+
+"Mikut të zêmres i lshohet shpija."
+ Collapse All
+mikut -- noun, masculine; dative singular definite of <mik> friend, guest -- to the guest
+të -- particle; masculine dative singular definite of <e> NYJE -- ...
+zêmres -- noun, feminine; genitive singular definite of <zêmer> heart -- of the heart
+i -- pronoun; dative weak of <ai, ajo> (s)he, it, that -- ...
+lshohet -- verb; 3rd person singular present indicative non-active of <lshohem> be given freely -- is given freely # Std. Alb. lëshohem
+shpija -- noun, feminine; nominative singular definite of <shpi> house -- the house # Std. Alb. shtëpi
+
+Lesson Text
+"Shpija e Shqyptarit âsht e Zotit e e mikut." Miku nuk mund të hîjë në shpí, pá bâ zâ n'oborr. Si të bâjë zâ miku, i zoti i shpís a kush i shpís i pergjegjet e i del perpara. Falet me mik, armen i a mêrr, e i prîn në shpí. Armen i a varë në krrabë, edhè e çon në krye të vendit ke votra Perpushet zjarmi, lypen edhè drû. "Miku don drû." Mikut do t'i bâhet nderë: "Bukë e krypë e zêmer." Buka e krypa e zêmra, zjarmi e trungu e do firi per shtrojë do të gjindet gadi per mik në çdo kohë të natës e të ditës Mikut të lodhun do t'i vîhet rreth me të pritun me nderë. Mikut i lahen kambët. Per çdo mik duhet buka si han vetë. Per mik të mirë duhet kafija, rakija e buka e shtrueme me ndo'i send mâ teper. Per mik zêmret duhet duhâni, kafija e ambel, rakija e bukë e mish. "Mikut të zêmres i lshohet shpija."
+Translation
+"The house of the Albanian is of God and of the guest." The guest cannot enter the house without making noise in the courtyard. When the guest makes noise, the master of the house or someone else of the house answers him and goes out to him. He is greeted by the guest, he takes his weapon, and leads him into the house. He hangs his weapon on a hook, and leads him to the head place near the hearth. The fire is stirred; he requests more wood. "The guest sees to the fire." For the guest, honor must be made: "Bread and salt and the heart." The bread, the salt and the heart, the fire and the log and some material for a bed must be present, ready for a guest at any time of the day or of the night. The tired guest should be surrounded by hospitality, with honor. The feet of the guest are washed. For every guest, the food that they eat themselve is needed. For a good friend, coffee, raki and food laid out are necessary, with something more as well. For a cherished friend, tobacco, sweet coffee, raki and bread and meat are necessary. "To the guest of the heart, the house is given freely."
+Grammar
+21 The Past Definite Tense
+21.1 Use of the Past Definite Tense
+The Albanian past definite tense is the simple, perfective, past tense. It is used to describe completed events that occurred in the past. In modern Albanian, the past definite is losing ground to the present perfect, to which it is nearly identical semantically.
+
+21.2 Formation of the Past Definite Tense
+As discussed briefly in Lesson 2, the past definite is formed from the aorist stem. As in several other Indo-European languages, the difficulty in conjugating the simple perfect past tense in Albanian is knowing the correlation between the present stem and the aorist stem. The endings are consistent, and where there are different endings, the choice is phonologically predictable. As with all of the other verb formations besides the present, the past definite indicative and subjunctive are always identical. The following are the basic endings for the Albanian past definite tense.
+
+ 	 	singular	 	plural
+1st person	 	-a	 	-ëm/-më/-m
+2nd person	 	-e	 	-ët/-të/-t
+3rd person	 	-i/-u	 	-ën/-në/-n
+Notes:
+
+Vowel-stem verbs have -v- inserted before the 1st and 2nd person singular endings (e.g., puno-v-a 'I worked', puno-v-e 'you worked', but puno-i 's/he worked')
+Similar to some of the noun endings seen earlier, the 3rd person singular ending is -u (e.g., la-u 's/he washed'), when immediately following a velar consonant or i, a, or e. Elsewhere, the 3rd person singular ending is -i
+As shown in the chart above, there is some variation in the plural endings with regard to the presence of the vowel ë either preceding or following the consonantal ending. This is completely phonologically predictable. Vowel-stems have the plural endings -më,-të,-në. If the preceding syllable is unstressed, the final -ë is dropped. Consonant-stems have the endings -ëm,-ët,-ën.
+In most verbs, the aorist stem (from which the past definite is formed) is identical to the present stem. The following are the past definite paradigms of the vowel-stem verb punoj 'work' and the consonant-stem verb hap 'open'
+
+Past definite paradigms of punoj 'work' (aor.stem puno-) and hap 'open' (aor.stem hap-)
+
+ 	 	punoj	 	 	 	 	 	hap	 	 
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	punova	 	punuam	 	 	 	hapa	 	hapëm
+2nd person	 	punove	 	punuat	 	 	 	hape	 	hapët
+3rd person	 	punoi	 	punuan	 	 	 	hapi	 	hapën
+There are also many verbs that have some sort of stem change in the past definite. Similar to Latin, some of these stem changes are also seen in the participle (see Lesson 2). Some verbs have a stem extension in the aorist not seen in the present (e.g., bër- 'make-PERF' vs. bë- 'make-PRES'; dit- 'know-PERF' vs. di- 'know-PRES'). There are other verbs that have some sort of vowel change in the past (e.g., hoq- 'pull-PAST' vs. heq- 'pull-PRES'; dol- 'emerge-PAST', dal- 'emerge-PRES'). There are also some verbs that have a suppletive past tense, including the auxiliary verb kam (cf. PAST pat-), among others (e.g., hëngr- 'eat-PAST' vs. ha- 'eat-PRES). In all of these cases, the suffixes are the same as seen above.
+
+Additionally, there is a small class of verbs that take an ending -shë in the 1SG past definite (often along with a suppletive stem). This class includes the irregular/auxiliary verb jam 'be' (1SG past qeshë), as well as bie 'fall' (1SG past ra-shë), shoh 'see' (1SG past pa-shë), lë 'let' (1SG past la-shë), and them 'say' (1SG past tha-shë).
+
+Past definite paradigms of jam 'be' (aor. stem qe-) and kam 'have' (aor.stem pat-)
+
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	qeshë	 	qemë	 	 	 	pata	 	patëm
+2nd person	 	qe	 	qetë	 	 	 	pate	 	patët
+3rd person	 	qe	 	qenë	 	 	 	pati	 	patën
+22 Pluperfect and Past Perfect Tenses
+22.1 Use of the Pluperfect and the Past Perfect
+According to Newmark et al. (1982), these two tenses are essentially identical, semantically. They both refer to an action that occurred in the past before a certain point in time. They also comment that the past perfect is used to a much greater extent than the pluperfect.
+
+22.2 Formation of the Pluperfect and the Past Perfect
+The pluperfect and past perfect tenses are formed in the same manner as the present perfect tense, discussed in Lesson 2. As in the present perfect, these tenses are formed using a conjugated form of the auxiliary kam plus the past participle. The only differences are that in the pluperfect, a past definite form of kam is used, and in the past perfect, an imperfect form of kam is used.
+
+Pluperfect paradigm of shkruaj 'to write':
+
+ 	 	singular	 	plural
+1st person	 	pata shkruar	 	patëm shkruar
+2nd person	 	pate shkruar	 	patët shkruar
+3rd person	 	pati shkruar	 	patën shkruar
+Past perfect paradigm of shkruaj 'to write':
+
+ 	 	singular	 	plural
+1st person	 	kisha shkruar	 	kishin shkruar
+2nd person	 	kishe shkruar	 	kishit shkruar
+3rd person	 	kishte shkruar	 	kishin shkruar
+23 Voice
+As discussed in lesson 2, Albanian has a distinction between active and non-active voice. The formation of a non-active verb form depends on the verb stem in question. If the form is based on the present stem (e.g., present, imperfect, etc.), the non-active is formed via a suffix and a distinct set of inflectional endings. If the form is any other synthetic formation (e.g., past definite, admirative, optative, etc.), the non-active is formed with a clitic. If it is a compound tense (e.g., present perfect, past perfect), this is done with a change of the auxiliary verb from kam to jam.
+
+23.1 Present stem non-actives
+The formation of the non-active present stem is accomplished by the suffixation of -he- to the verb stem (e.g., quaj 'call', stem qu-, non-active stem qu-he-). If the stem in question is consonant-final, this suffix has the form -e- (e.g., hap 'open', stem hap-, non-active stem hap-e-). The present tense of non-active verbs is formed with the stem described above plus the non-active present endings presented in Lesson 2.
+
+Present non-active paradigms of quhem 'to be called' and hapem 'to be opened'
+
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	qu-he-m	 	qu-he-mi	 	 	 	hap-e-m	 	hap-e-mi
+2nd person	 	qu-he-sh	 	qu-he-ni	 	 	 	hap-e-sh	 	hap-e-ni
+3rd person	 	qu-he-t	 	qu-he-n	 	 	 	hap-e-t	 	hap-e-n
+In the imperfect tense, the non-active stem is the same as above. The endings are the normal imperfect endings with -sh- preceding them. The 3SG form would then have an ending -shj- which is not permissible in Albanian, so either the -sh- (e.g., in Standard Albanian) or the -j- (in some non-standard varieties) is dropped.
+
+Imperfect non-active paradigms of quhem 'to be called' and hapem 'to be opened'
+
+ 	 	singular	 	plural	 	 	 	singular	 	plural
+1st person	 	qu-he-sha	 	qu-he-shim	 	 	 	hap-e-sha	 	hap-e-shim
+2nd person	 	qu-he-she	 	qu-he-shit	 	 	 	hap-e-she	 	hap-e-shit
+3rd person	 	qu-he-j	 	qu-he-shin	 	 	 	hap-e-j	 	hap-e-shin
+ 	 	qu-he-sh	 	 	 	 	 	hap-e-sh	 	 
+There are no differences in conjugation between the present/imperfect indicative and the present/imperfect subjunctive in non-active verbs.
+
+23.2 Aorist stem non-actives
+In any synthetic verb formation that is not formed from the present tense (e.g., past definite, admirative, optative), the non-active form is simply formed by adding the clitic u before the verb. The only other change is in the 3rd person singular past definite, where the suffix -i (or -u) is lost.
+
+Past definite non-active paradigm of hap 'to open':
+
+ 	 	singular	 	 	 	plural
+1st person	 	u hapa	 	 	 	u hapëm
+2nd person	 	u hape	 	 	 	u hapët
+3rd person	 	u hap	 	 	 	u hapën
+In addition, some verbs that show allomorphy in the past definite, extend the plural stem allomorph into the 3SG in the non-active. For example, for the verb punoj work, the past definite stem is puno- in the singular and punua- in the plural. In the non active, the stem punua- is extended to the 3SG.
+
+In any other verb forms built from the aorist stem (e.g., the admirative and optative, to be discussed in the following lesson), the non-active forms are formed the same way (though there is no issue in the 3SG).
+
+23.3 Compound non-actives
+In the preceding two sections we have seen several compound past tenses formed with the verb kam. To form the corresponding non-active forms, the auxiliary verb is simply changed to jam 'be'.
+
+Present perfect non-active paradigms of shkruaj 'to write':
+
+ 	 	singular	 	 	 	plural
+1st person	 	jam shkruar	 	 	 	jemi shkruar
+2nd person	 	je shkruar	 	 	 	jeni shkruar
+3rd person	 	është shkruar	 	 	 	janë shkruar
+Past perfect non-active paradigm of shkruaj 'to write':
+
+ 	 	singular	 	 	 	plural
+1st person	 	qeshë shkruar	 	 	 	qemë shkruar
+2nd person	 	qe shkruar	 	 	 	qetë shkruar
+3rd person	 	qe shkruar	 	 	 	qenë shkruar
+24 Participial Formations
+24.1 Infinitives in Tosk/Standard Albanian
+While this formation in Tosk/Standard Albanian is commonly referred to as the "infinitive," it does not fulfill most typical infinitival properties (unlike the Geg infinitive, or the infinitive in most other Indo-European languages). The Tosk infinitive is mainly used for "in order to..." type statements (though they can also convey a sense of obligation).
+
+The Tosk "infinitive" is built up of për + të + PARTICIPLE. See the following example (from the text in Lesson 3) meaning "in order to leave it marked for always" contains an Tosk infinitive.
+
+ 	 	për ta lënë	 	të vulosur	 	për	 	gjithëmonë
+ 	 	in-order-to-leave-it	 	marked	 	for	 	always
+Note that in the above example, that ta is a contraction of the subordinator të with the weak accusative singular pronoun e. As in other participial constructions, the only elements that can immediately precede the main verb are weak pronouns and the negator mos.
+
+24.2 Infinitives in Geg
+The Geg infinitive is formed with me + PARTICIPLE. It has a much wider range of use than the Tosk "infinitive." It is commonly used after modal verbs such as mund 'can', dua 'want', etc. For example, the Geg translation of "We want to learn Albanian" would be:
+
+ 	 	Duem	 	me folë	 	gjuhën	 	shqipe
+ 	 	we-want	 	to-speak	 	the-langauge	 	Albanian
+In this sentence, me folë is the infinitive of flas 'speak'. Recall that in Tosk, such a construction is not possible, and the infinitive is replaced by a conjugated form of the present subjunctive.
+
+ 	 	Duam	 	të flasim	 	gjuhën	 	shqipe
+ 	 	we-want	 	that we-speak	 	the-language	 	Albanian
+24.3 Gerundives
+The gerundive is used to express an action that is occurring simultaneously with the verb in the main clause. Though the gerundive has no tense marking (or any inflection of any sort), it can have present, future, or past-time reference, depending on the main verb. This is usually translated as "while VERBing" in English. The Tosk gerundive is formed with the particle duke plus the participle. The Geg gerundive is formed with the particle tue plus the participle. For example, the following phrase from Buzuku's Missal meaning "And our lord blessed them, (while he was) saying," where tue is the gerundive particle and thashunë is an old participle of them 'say' (the participle would be thënë in Std. Albanian).
+
+ 	 	E	 	ata	 	bekoi	 	Zot'ynë	 	tue	 	thashunë
+ 	 	and	 	them	 	blessed	 	lord-our	 	while	 	saying
+As with the other participial constructions discussed above, the only elements that can come between the particle duke/tue is a weak pronoun and the negator mos (recall that mos, rather than nuk is used to negate participial constructions) as in the following example meaning "while not saying it to him"
+
+ 	 	duke	 	mos	 	ia	 	thënë
+ 	 	while	 	not	 	to him-it	 	saying
+24.4 Privative
+The privative is essentially a negative gerundive, and these constructions are normally translated into English as "without VERBing." The privative is formed with the particle pa (the preposition meaning 'without') plus the participle. For example, the following phrase from the text above meaning "without making a sound in the courtyard."
+
+ 	 	...pá	 	bâ	 	zâ	 	n'oborr
+ 	 	without	 	making	 	sound	 	in-courtyard
+Lesson 5: Geg
+Brian Joseph, Angelo Costanzo, and Jonathan Slocum
+While there are a few brief attestations (one sentence or less) of Albanian from the 15th century, the earliest major text that has been discovered is Meshari i Gjon Buzukut (The Missal of Gjon Buzuku), written in 1555. The missal contains various sections of the Bible translated into Albanian.
+
+Elsie (2005) writes that not much is known about Gjon Buzuku, except for the information he provided in the postscript of the Missal. From the postscript we have his name, the dates of its composition, his reasons for composing the Missal (essentially because there was no translation of scriptures in Albanian), and a sincere apology for any mistakes he might have made in the translation. It is generally assumed that he probably lived outside of Albania where, particularly after the Ottoman conquest of the Western Balkans, he would be able to become a priest. It was originally believed that the Missal was first published in Venice, though Elsie believes that this is not necessarily the case, and it is just as likely that it was published in one of the major centers along the Dalmatian coast, e.g. Ragusa (modern Dubrovnik, Croatia). Given the dialectal features present in the Missal, it is believed that Buzuku was likely originally from the northwestern Geg-speaking area, north of Shkodër, probably in modern-day southern Montenegro.
+
+As discussed in the series introduction, the alphabet used to write Albanian was heavily dependent on the religious affiliation of the scribe. As the north of Albania was predominantly Catholic and considerably more difficult for the Ottomans to conquer, like all of the other early attestations of Albanian, Buzuku's Missal was written in a modified version of the Latin alphabet. However, the alphabet used by Buzuku differs greatly from that used for Modern Albanian, and is quite different from the alphabets used for other early Albanian texts. Many of the letters used by Buzuku have several values (basically due to Albanian having a wider range of consonant sounds than Latin). For example, r is used for r and rr, c is used for c, ç and k, and s is used for s, sh and sometimes z and zh. As discussed earlier, the modern Albanian alphabet has avoided this issue via the extensive use of digraphs. In addition to several characters having multiple values, some non-Latin letters were used in the Missal as well, e.g., the Greek letter xi represents Albanian dh and th and the Cyrillic letter tshe represents Albanian q, gj and occasionally g. Long vowels are usually indicated by the doubling of a vowel character (e.g. aa = ā), and nasal vowels are represented with a vowel + nasal sequence (e.g. anshtë = âsht).
+
+The edition of Meshari used here is Namik Ressuli's 1958 Il "messale" di Giovanni Buzuku: riproduzione e trascrizione, the first modern edition of the entire text. Ressuli (1958) presents each page of the original text from 1455, along with a transcription into the (more or less) modern Albanian alphabet. For the sake of clarity we have chosen to use Ressuli's transliteration of the text, with one exception. Ressuli chose to leave the Cyrillic character uku (a vertical ligature of o and y with phonetic value [u]) as such; we have converted all of these instances to u. To see the original manuscript, please consult Ressuli (1958). To see a transliterated, but unmodified (with all original characters intact) version of the text, please visit the TITUS (Thesaurus Indogermanischer Text- und Sprachmaterialien) project website, a link to which is available here.
+
+Reading and Textual Analysis
+As this text is substantially older than the texts presented in Lessons 1 through 4, there are features present in Buzuku's missal that have been lost or modified in modern Albanian. One of the more striking differences is the presence of neuter nouns in this text. As discussed in Lesson 1, the neuter gender has been nearly completely lost in the modern language; however, the neuter was alive and well in the 16th century. A number of nouns that appear in this lesson are neuter (e.g., firmuom, e 'vault', erët, e 'darkness, etc). Most nouns formed from adjectives were, in Old Albanian, neuter (and note that their adjectival origin explains why they require the nyje particle). The main difference in the inflection of neuter nouns is the singular definite ending -t/-të. In addition, Old Albanian shows the locative case, which has been mostly lost in modern Albanian (though it survives in some varieties of Arberisht). The locative endings seen in the Missal are -sh for singular nouns and and -shit for plural nouns. In addition, there is quite a bit of inconsistency throughout Buzuku's Missal. For example, for the plural of zog 'bird', Buzuku has alternate forms zogjtë and zojtë within a single paragraph. There are even instances of alternate forms within a single line, e.g. ishnë and ishnjinë as the 3rd person imperfect of 'be' (cf. Std. Alb. ishin), as seen in the excerpt below. We have not made any changes to the text; dealing with inconsistencies is an essential part of being able to interpret these texts.
+
+The following text contains Buzuku's Albanian translation of Genesis 1:1-10. To see a picture of the corresponding text in the original manuscript, please click here. As discussed above, the Missal is written in Geg, and it specifically shows some features of dialects spoken north of Shkodër.
+
+Ëndë e zanët të shekullit bani Zot'ynë qiellë e dhenë.
+ Collapse All
+ëndë -- preposition, accusative; <ëndë> in -- in # Std. Alb. në
+e -- particle; neuter accusative singular definite of <e> NYJE -- ...
+zanët -- noun, neuter; accusative singular definite of <zanë, e> beginning, start -- the beginning
+të -- particle; feminine accusative plural definite of <e> NYJE -- ...
+shekullit -- noun, masculine; genitive singular definite of <shekull> century, time -- of time
+bani -- verb; 3rd person singular past definite indicative active of <bâj> do, make -- made # Std. Alb. bëj
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+qiellë -- noun, masculine; accusative plural indefinite of <qiell> sky, heaven -- heavens
+e -- conjunction; <e> and -- and
+dhenë -- noun, masculine; accusative singular definite of <dhe> land, earth -- the earth
+
+E dheu ish i pāfrujt e i shprazëtë, e t'erëtitë ish për-ënbī faqet të fondit ujit, e shpirti i t'inë Zot vëlizee për-ënbī ujënat.
+ Collapse All
+e -- conjunction; <e> and -- and
+dheu -- noun, masculine; nominative singular definite of <dhe> land, earth -- the earth
+ish -- verb; 3rd person singular imperfect indicative active of <jam> be -- was # ish is a short variant of Standard ishte still seen in contemporary Albanian.
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+pāfrujt -- adjective; masculine singular of <pāfrujt> fruitless, barren -- barren
+e -- conjunction; <e> and -- and
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+shprazëtë -- adjective; masculine singular of <shprazëtë, e> empty -- empty # Std. Alb. zbrazët, e
+e -- conjunction; <e> and -- and
+t'erëtitë -- particle; contraction of neuter nominative singular definite of <e> NYJE + noun, neuter; nominative singular definite of <erët, e> darkness -- the darkness # Std. Alb. errët, e
+ish -- verb; 3rd person singular imperfect indicative active of <jam> be -- was # ish is a short variant of Standard ishte still seen in contemporary Albanian.
+për-ënbī -- preposition, ablative; <për-ënbī> on top of, over, about -- over # Std. Alb. përmbi
+faqet -- noun, feminine; ablative singular definite of <faqe> page, face, surface -- the surface
+të -- particle; feminine ablative singular definite of <e> NYJE -- ...
+fondit -- noun, masculine; genitive singular definite of <fond> pool, deep -- of the deep
+ujit -- noun, ambigeneric; ablative singular definite of <ujë> water -- of the water
+e -- conjunction; <e> and -- and
+shpirti -- noun, masculine; nominative singular definite of <shpirt> spirit -- the spirit
+i -- particle; masculine nominative singular definite of <e> NYJE -- ...
+t'inë -- pronoun; genitive singular of <ynë> our -- of our # As discussed in Lesson 3, the possessive pronouns were originally a combination of a nyje particle and a pronoun. The standard Albanian form of this would be tone, but this form probably shows an earlier stage in the combination of nyje të and pronoun ynë.
+Zot -- noun, masculine; genitive singular indefinite of <zot> master, lord, God -- Lord # Recall that in the rare cases where possessive pronouns precede the noun they modify, the noun can be unmarked (this information can be carried on the pronoun).
+vëlizee -- verb; 3rd person singular imperfect indicative active of <vëliz> move -- was moving # Std. Alb. lëviz
+për-ënbī -- preposition, accusative; <për-ënbī> on top of, over, about -- over
+ujënat -- noun, ambigeneric; accusative plural definite of <ujë> water -- the waters
+
+E tha Zot'ynë: Kloftë bām drita. E u bā drita.
+ Collapse All
+e -- conjunction; <e> and -- and
+tha -- verb; 3rd person singular past definite indicative active of <them> say, speak -- said
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our lord
+kloftë -- verb; 3rd person singular present optative of <jam> be -- may... be
+bām -- verb; participle of <bâj> do, make -- made
+drita -- noun, feminine; nominative singular definite of <dritë> light -- the light
+e -- conjunction; <e> and -- and
+u -- marker; <u> NON-ACTIVE -- ...
+bā -- verb; 3rd person singular past definite of <bâj> do, make -- was made
+drita -- noun, feminine; nominative singular definite of <dritë> light -- the light
+
+E pā Zot'ynë se drita ish e mirë; e dau Zot'ynë dritënë ën s'erëtit.
+ Collapse All
+e -- conjunction; <e> and -- and
+pā -- verb; 3rd person singular past definite indicative active of <shoh> see -- saw
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+se -- conjunction; <se> that -- that
+drita -- noun, feminine; nominative singular definite of <dritë> light -- the light
+ish -- verb; 3rd person singular imperfect indicative active of <jam> be -- was # ish is a short variant of Standard ishte still seen in contemporary Albanian.
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+mirë -- adjective; feminine singular of <mirë, e> good -- good
+e -- conjunction; <e> and -- and
+dau -- verb; 3rd person singular past definite indicative active of <daj> separate -- separated # Std. Alb. ndaj
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+dritënë -- noun, feminine; accusative singular definite of <dritë> light -- the light
+ën -- preposition, ablative; <ën> from, by, with -- from
+s'erëtit -- particle; contraction of neuter ablative singular definite of <e> NYJE + noun, neuter; ablative singular definite of <erët, e> darkness -- the darkness
+
+E grishi Zot'ynë dritënë ditë, e t'erëtitë natë. E u bā natë, e duol drita.
+ Collapse All
+e -- conjunction; <e> and -- and
+grishi -- verb; 3rd person singular past definite indicative active of <gërshas> call -- called
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+dritënë -- noun, feminine; accusative singular definite of <dritë> light -- the light
+ditë -- noun, feminine; accusative singular indefinite of <ditë> day -- day
+e -- conjunction; <e> and -- and
+t'erëtitë -- particle; contraction of neuter nominative singular definite of <e> NYJE + noun, neuter; nominative singular definite of <erët, e> darkness -- the darkness # Std. Alb. errët, e
+natë -- noun, feminine; accusative singular indefinite of <natë> night -- night
+e -- conjunction; <e> and -- and
+u -- marker; <u> NON-ACTIVE -- ...
+bā -- verb; 3rd person singular past definite indicative of <bâj> do, make -- was made
+natë -- noun, feminine; nominative singular indefinite of <natë> night -- night
+e -- conjunction; <e> and -- and
+duol -- verb; 3rd person singular past definite indicative active of <dal> leave, go out, rise, arrive -- arrived
+drita -- noun, feminine; nominative singular definite of <dritë> light -- the light
+
+E tha Zot'ynë: Kloftë bām të firmuomitë për viedmis ujënavet, e ata të fërmuom të daë ujënatë ën ujënashit.
+ Collapse All
+e -- conjunction; <e> and -- and
+tha -- verb; 3rd person singular past definite indicative active of <them> say, speak -- said
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+kloftë -- verb; 3rd person singular present optative of <jam> be -- may... be
+bām -- verb; participle of <bâj> do, make -- made
+të -- particle; neuter accusative plural definite of <e> NYJE -- ...
+firmuomitë -- noun, neuter; accusative singular definite of <firmuom, e> vault -- vault
+për -- preposition, ablative; <për> for, about, by, through -- in
+viedmis -- noun, feminine; ablative singular definite of <viedmi> midst -- the midst
+ujënavet -- noun, ambigeneric; of ablative plural definite of <ujë> water -- of the waters
+e -- conjunction; <e> and -- and
+ata -- pronoun; masculine accusative of <ata, ato> they, those -- ...
+të -- particle; neuter nominative singular indefinite of <e> NYJE -- ...
+fërmuom -- noun, neuter; nominative singular indefinite of <firmuom, e> vault -- vault
+të -- conjunction; <të> SUBORDINATOR -- ...
+daë -- verb; 3rd person singular present subjunctive active of <daj> separate -- separate
+ujënatë -- noun, ambigeneric; accusative plural definite of <ujë> water -- waters
+ën -- preposition, ablative; <ën> from, by, with -- from
+ujënashit -- noun, ambigeneric; ablative plural definite of <ujë> water -- waters # This is an alternative locative plural definite form of ujë that is formed by the suffixation of -t to the locative plural indefinite form. This is not necessarily uncommon in Old or Modern Albanian. There are some varieties that have generalized -t as a definite marker throughout the plural paradigm (e.g., dat.pl.indef. in -ve, dat.pl.def. in -ve-t), as opposed to Standard Albanian now with t-less -ve as dat.pl.def (as well as indef).
+
+E bani Zot'ynë të firmuomitë e dau ujënatë qi ishnjinë për ëndënë të firmuomitë, e ato qi ishnë për-ënbī të firmuomitë. E ashtu u bā.
+ Collapse All
+e -- conjunction; <e> and -- and
+bani -- verb; 3rd person singular past definite indicative active of <bâj> do, make -- made # Std. Alb. bëj
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+të -- particle; masculine accusative plural definite of <e> NYJE -- ...
+firmuomitë -- noun, neuter; accusative singular definite <firmuom, e> vault -- the vault
+e -- conjunction; <e> and -- and
+dau -- verb; 3rd person singular past definite indicative active of <daj> separate -- separated # Std. Alb. ndaj
+ujënatë -- noun, ambigeneric; accusative plural definite of <ujë> water -- the waters
+qi -- conjunction; <qi> that, which -- that # Std. Alb. që
+ishnjinë -- verb; 3rd person plural imperfect indicative active of <jam> be -- were
+për -- preposition, accusative; <për> for, about, by, through -- ...
+ëndënë -- preposition, accusative /loc.; <ëndënë> under -- under # Std. Alb. nën, nëndë
+të -- particle; neuter accusative singular definite of <e> NYJE -- ...
+firmuomitë -- noun, neuter; accusative singular definite of <firmuom, e> vault -- the vault
+e -- conjunction; <e> and -- and
+ato -- pronoun; feminine accusative of <ata, ato> they, those -- those
+qi -- conjunction; <qi> that, which -- that # Std. Alb. që
+ishnë -- verb; 3rd person plural imperfect indicative active of <jam> be -- were # ishnë, and ishnjinë (seen several lines above) are both variants of the 3.pl.imperf. of jam.
+për-ënbī -- preposition, accusative; <për-ënbī> on top of, over, about -- over
+të -- particle; neuter accusative singular definite of <e> NYJE -- ...
+firmuomitë -- noun, neuter; accusative singular definite of <firmuom, e> vault -- the vault
+e -- conjunction; <e> and -- and
+ashtu -- adverb; <ashtu> so, thus -- so
+u -- marker; <u> NON-ACTIVE -- ...
+bā -- verb; 3rd person singular past definite indicative of <bâj> do, make -- it was done
+
+E grishi Zot'ynë të firmuomitë qiell. E u bā natë, e duol drita, qi anshtë e dyta ditë.
+ Collapse All
+e -- conjunction; <e> and -- and
+grishi -- verb; 3rd person singular past definite indicative active of <gërshas> call -- called
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+të -- particle; accusative singular definite of <e> NYJE -- ...
+firmuomitë -- noun, neuter; accusative singular definite of <firmuom, e> vault -- the vault
+qiell -- noun, masculine; accusative singular indefinite of <qiell> sky, heaven -- heaven
+e -- conjunction; <e> and -- and
+u -- marker; <u> NON-ACTIVE -- ...
+bā -- verb; 3rd person singular past definite indicative of <bâj> do, make -- was made
+natë -- noun, feminine; nominative singular indefinite of <natë> night -- night
+e -- conjunction; <e> and -- and
+duol -- verb; 3rd person singular past definite indicative active of <dal> leave, go out, rise, arrive -- arrived
+drita -- noun, feminine; nominative singular definite of <dritë> light -- the light
+qi -- conjunction; <qi> that, which -- which
+anshtë -- verb; 3rd person singular present indicative active of <jam> be -- is
+e -- particle; feminine nominative singular definite of <e> NYJE -- ...
+dyta -- adjective; feminine singular definite of of <dytë, e> second -- the second
+ditë -- noun, feminine; nominative singular of <ditë> day -- day # The sequence e dyta ditë shows the somewhat rare case (briefly discussed in Lesson 2) of an adjective preceding the noun it modifies. Recall that if an adjective does precede the noun in modifies, the adjective is marked for definiteness (thus, dyta rather than dytë in this example).
+
+E tha Zot'ynë: u ënbëliedhshinë ujënatë për ëndënë qiellt ënbë një vend, e u duktë thatë. E ashtu kle.
+ Collapse All
+e -- conjunction; <e> and -- and
+tha -- verb; 3rd person singular perfect indicative active of <them> say, speak -- said
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+u -- marker; <u> NON-ACTIVE -- ...
+ënbëliedhshinë -- verb; 3rd person plural present optative of <ënbëledh> gather -- may... be gathered # Std. Alb. mbledh
+ujënatë -- noun, masculine; nominative plural definite of <ujë> water -- the waters
+për -- preposition, accusative; <për> for, about, by, through -- ...
+ëndënë -- preposition, accusative /loc.; <ëndënë> under -- under # Std. Alb. nën, nëndë
+qiellt -- noun, masculine; locative singular of <qiell> sky, heaven -- the sky
+ënbë -- preposition, accusative; <ënbë> at -- at
+një -- determiner; <një> a, one -- one
+vend -- noun, masculine; accusative singular indefinite of <vend> place, seat, country -- place
+e -- conjunction; <e> and -- and
+u -- marker; <u> NON-ACTIVE -- ...
+duktë -- verb; 3rd person singular present optative of <dukem> appear -- may...appear # Note that although this is a non-active form morphologically, it does not have a non-active meaning ('appear' rather than 'be appeared' or 'appear to oneself'); this is true for dukem in general.
+thatë -- noun, neuter; nominative singular indefinite of <thatë, e> dry ground -- dry ground # Since this noun is derived from the adjective thatë, e, we would expect it to require a nyje particle (e.g., see the next section of the text where the acc.sg.def. of this noun is të thatëtë). However, for some reason the nyje particle has been omitted in this instance.
+e -- conjunction; <e> and -- and
+ashtu -- adverb; <ashtu> so, thus -- so
+kle -- verb; 3rd person singular past definite indicative active of <jam> be -- it was
+
+E grishi Zot'ynë të thatëtë dhē, e të ënbëliedhunitë e ujënavet grishi dēt. E pā Zot'ynë se ish fort mirë.
+ Collapse All
+e -- conjunction; <e> and -- and
+grishi -- verb; 3rd person singular past definite indicative active of <gërshas> call -- called
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+të -- particle; accusative plural definite of <e> NYJE -- ...
+thatëtë -- noun, neuter; accusative plural definite of <thatë, e> dry ground -- the dry ground
+dhē -- noun, masculine; accusative singular of <dhe> land, earth -- earth
+e -- conjunction; <e> and -- and
+të -- particle; neuter accusative singular definite of <e> NYJE -- ...
+ënbëliedhunitë -- noun, neuter; accusative singular definite participle of <ënbëledh> gather -- the gathering
+e -- particle; feminine genitive plural definite of <e> NYJE -- ...
+ujënavet -- noun, ambigeneric; genitive plural definite of <ujë> water -- of waters
+grishi -- verb; 3rd person singular past definite indicative active of <gërshas> call -- he called
+dēt -- noun, masculine; accusative singular indefinite of <det> sea -- sea
+e -- conjunction; <e> and -- and
+pā -- verb; 3rd person singular past definite indicative active of <shoh> see -- saw
+Zot'ynë -- noun, masculine; contraction of nominative singular definite of <zot> master, lord, God + pronoun; masculine nominative of <ynë> our -- our Lord
+se -- conjunction; <se> that -- that
+ish -- verb; 3rd person singular imperfect indicative active of <jam> be -- it was
+fort -- adverb; <fort> very, loudly, strongly -- very
+mirë -- adverb; masculine singular of <mirë> well -- good
+
+Lesson Text
+Ëndë e zanët të shekullit bani Zot'ynë qiellë e dhenë. E dheu ish i pāfrujt e i shprazëtë, e t'erëtitë ish për-ënbī faqet të fondit ujit, e shpirti i t'inë Zot vëlizee për-ënbī ujënat. E tha Zot'ynë: Kloftë bām drita. E u bā drita. E pā Zot'ynë se drita ish e mirë; e dau Zot'ynë dritënë ën s'erëtit. E grishi Zot'ynë dritënë ditë, e t'erëtitë natë. E u bā natë, e duol drita. E tha Zot'ynë: Kloftë bām të firmuomitë për viedmis ujënavet, e ata të fërmuom të daë ujënatë ën ujënashit. E bani Zot'ynë të firmuomitë e dau ujënatë qi ishnjinë për ëndënë të firmuomitë, e ato qi ishnë për-ënbī të firmuomitë. E ashtu u bā. E grishi Zot'ynë të firmuomitë qiell. E u bā natë, e duol drita, qi anshtë e dyta ditë. E tha Zot'ynë: u ënbëliedhshinë ujënatë për ëndënë qiellt ënbë një vend, e u duktë thatë. E ashtu kle. E grishi Zot'ynë të thatëtë dhē, e të ënbëliedhunitë e ujënavet grishi dēt. E pā Zot'ynë se ish fort mirë.
+Translation
+In the beginning of time our Lord made heavens and the earth. And the earth was barren and empty and the darkness was over the surface of the deep of the water and the spirit of our Lord was moving over the waters. And our Lord said: May the light be made. And the light was made. And our Lord saw that the light was good, and our Lord separated the light from the darkness. And our Lord called the light 'day' and the darkness 'night'. And night was made, and the light arrived. And our Lord said: May a vault be made in the midst of the waters and (may the) vault separate waters from waters. And our Lord made the vault and separated the waters that were under the vault and those that were over the vault. And so it was done. And our Lord called the vault 'heaven'. And night was made, and the light arrived, which is the second day. And our Lord said "May the waters under the sky be gathered at one place and may dry ground appear. And it was so. And our Lord called the dry ground 'earth' and the gathering of waters he called 'sea'. And our Lord saw that it was very good.
+Grammar
+25 Numerals
+25.1 Cardinal Numbers
+ 	 	1	 	një	 	 	 	6	 	gjashtë
+ 	 	2	 	dy	 	 	 	7	 	shtatë
+ 	 	3	 	tre/tri	 	 	 	8	 	tetë
+ 	 	4	 	katër	 	 	 	9	 	nëntë
+ 	 	5	 	pesë	 	 	 	10	 	dhjetë
+The Albanian numbers 11 through 19 are formed following the pattern DIGIT - ON(mbë) - TEN(dhjetë). For example, the number '15' is FIVE(pesë) - ON(mbë) - TEN(dhjetë) > pesëmbëdhjetë. The word for '20' is njëzet and the word for '40' is dyzet. The rest of the multiples of ten are formed on the pattern DIGIT - TEN(dhjetë). For example, '50' is pesëdhjetë. The Albanian patterns used to form 11-19 and the multiples of ten are found in other Balkan languages as well (e.g., Mac. FIVE(pet) - ON(na) - TEN (deset) > petnaeset '15'; FIVE(pet) - TEN (deset) > pedeset '50')
+
+'100' is njëqind, and to form other multiples of 100, replace një with another number, e.g., '500' is pesëqind. 'One thousand' is një mijë, and 'one million' is një milion.
+
+25.2 Ordinal numbers
+ 	 	1st	 	parë, e	 	 	 	6th	 	gjashtë, e
+ 	 	2nd	 	dytë, e	 	 	 	7th	 	shtatë, e
+ 	 	3rd	 	tretë, e	 	 	 	8th	 	tetë, e
+ 	 	4th	 	katërt, e	 	 	 	9th	 	nëntë, e
+ 	 	5th	 	pestë, e	 	 	 	10th	 	dhjetë, e
+The word for 'first' is suppletive and not related to the cardinal number një. 'Second' through 'fifth' are formed via the suffixation of -të (sometimes with slight modification of the numerical root or the suffix). 'sixth' through 'tenth' have the identical forms to their corresponding cardinal numbers though, since they are articulated adjectives, a nyje particle is obligatory.
+
+26 The Imperative Mood
+The imperative mood is used for commands, requests, etc. Positive and negative imperatives are morphologically identical. The negator mos is used to form a negative imperative.
+
+26.1 Formation of the Second Person Plural Imperative
+The 2nd person plural imperative form is almost always identical to the 2nd person plural present indicative form. For example, the 2nd person plural present indicative of punoj work is punoni. Thus, this is also the plural imperative, punoni '(you all) work!' The only exceptions to this generalization are 'be' (jini 'be!' vs. jeni 'you (pl.) are', though jini 'you (pl.) are' occurs dialectally) and 'have' (kini 'have!' vs. keni 'you (pl.) have', though keni 'you (pl)' occurs for the indicative dialectally, as seen in Lesson 4).
+
+26.2 Formation of the Second Person Singular Imperative
+The formation of the singular imperative is not as consistent as that of the plural form. The general pattern for consonant stems is that the 2SG imperative is identical to the 2PL with -ni removed. However, in some cases, the 2SG imperative of consonant stems will be identical to the 2SG indicative (e.g., hap 's/he opens', hap! 'open!'). Vowel stems in -o or -e take no ending in the 2SG imperative (e.g., puno! 'work!'). Vowel stems in any other vowel have the 2SG imperative ending -j (e.g., shkruaj! 'write!'). There are also a number of more unpredictable cases.
+
+27 The Optative Mood
+27.1 Use of the Optative Mood
+The optative mood is used to express wishes or desires. The function of the optative overlaps somewhat with the present subjunctive. Optatives are usually translated into English as "may SUBJECT VERB". For example, the text above has the phrase u ënbëliedhshinë ujënatë, where u is the non-active marker, ënbëliedhshinë is the 3PL present optative of the Old Albanian verb ënbëledh, and ujënatë is the nominative plural of 'water'. Thus, this translates to 'may the waters be gathered'.
+
+27.2 Formation of the Present Optative
+The optative stem is formed by attaching the suffix -fsh/-sh/-ç to the verbal stem. Newmark et al. (1982) describe the general pattern as that -fsh is used with vowel stems, -ç is used with consonant stems in n or sh, and -sh is used elsewhere. The verbal stem to which the suffix is attached is usually identical to the stem used in the past definite. The present optative endings are as follows:
+
+ 	 	singular	 	plural
+1st person	 	-a	 	-im
+2nd person	 	-	 	-i
+3rd person	 	-të	 	-in
+In the 3rd person singular, the segment sh is lost when the optative ending is -fsh- or -sh-. If the ending is -ç-, it becomes s in the 3rd person singular. For example, the verb shkruaj 'write' has the verb stem shkro and the optative stem formation suffix -fsh-. Thus, the present optative paradigm of this verb is as follows:
+
+Present optative paradigm of shkruaj 'write':
+
+ 	 	singular	 	plural
+1st person	 	shkrofsha	 	shkrofshim
+2nd person	 	shkrofsh	 	shkrofshi
+3rd person	 	shkroftë	 	shkrofshin
+Recall that the stem to which the optative suffix is attached is normally the past definite stem. For example, as discussed in Lesson 4, the past definite of jam 'be' has the stem qe (as in qeshë). The stem of the optative of 'be' is made from a modified form of this stem, qo-.
+
+Present optative paradigm of jam 'be':
+
+ 	 	singular	 	plural
+1st person	 	qofsha	 	qofshim
+2nd person	 	qofsh	 	qofshi
+3rd person	 	qoftë	 	qofshin
+Included here is the paradigm of kam 'have', which has an optative stem paç-, essential due to its use in the compound optative tense.
+
+Present optative paradigm of kam 'have':
+
+ 	 	singular	 	plural
+1st person	 	paça	 	paçim
+2nd person	 	paç	 	paçi
+3rd person	 	pastë	 	paçin
+27.3 Formation of the Present Perfect Optative
+The present perfect optative is formed with the optative of kam 'have' (or jam 'be' if non-active), followed by the participle.
+
+Present perfect optative paradigm of shkruaj 'write':
+
+ 	 	singular	 	plural
+1st person	 	paça shkruar	 	paçim shkruar
+2nd person	 	paç shkruar	 	paçi shkruar
+3rd person	 	pastë shkruar	 	paçin shkruar
+28 The Admirative Mood
+28.1 Use of the Admirative Mood
+The admirative mood is used to express shock/surprise at an event. It can also be used to express doubt, or other strong emotions connected to a lack of confirmation of knowledge of an event.
+
+28.2 Present Admirative
+The present admirative is formed from the short form of the participle suffixed by a present tense form of kam 'have'. The final -ë of kanë is lost in the 3PL admirative. The example below gives the present admirative of the verb jam be. Recall that the past participle of jam is qenë, and thus the shortened form of the participle to which the forms of kam is attached is qen-.
+
+ 	 	singular	 	plural
+1st person	 	qenkam	 	qenkemi
+2nd person	 	qenke	 	qenkeni
+3rd person	 	qenka	 	qenkan
+28.3 Imperfect Admirative
+The imperfect admirative is formed as described above for the present admirative, except that an imperfect form of kam is suffixed to the participle.
+
+Imperfect admirative paradigm of jam 'be':
+
+ 	 	singular	 	plural
+1st person	 	qenkësha	 	qenkëshim
+2nd person	 	qenkëshe	 	qenkëshit
+3rd person	 	qenkësh	 	qenkëshin
+28.4 Compound Admirative Tenses
+There are two compound admirative tenses: the present perfect and the past perfect. They are formed by the present admirative and imperfect admirative of kam (or jam if non-active), respectively, plus the participle.
+
+Present perfect admirative paradigm of jam 'be':
+
+ 	 	singular	 	plural
+1st person	 	paskam qenë	 	paskemi qenë
+2nd person	 	paske qenë	 	paskeni qenë
+3rd person	 	paska qenë	 	paskan qenë
+Past perfect admirative paradigm of jam 'be':
+
+ 	 	singular	 	plural
+1st person	 	paskësha qenë	 	paskëshim qenë
+2nd person	 	paskëshe qenë	 	paskëshit qenë
+3rd person	 	paskësh qenë	 	paskëshin qenë
+29 Questions
+Forming interrogative statements in Albanian is fairly straightforward. If a question is seeking information (rather than a yes/no answer), an interrogative pronoun is used. It is important to note that some of the interrogative pronouns have different case forms, e.g., Kush flet? 'Who is talking?" vs. Me kë flet? 'With whom are you talking?'.
+
+To form a yes/no question, the interrogative marker a is required, e.g., A di shqip? 'Do you know/speak Albanian?'

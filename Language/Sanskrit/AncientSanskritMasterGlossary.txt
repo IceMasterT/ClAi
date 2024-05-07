@@ -1,0 +1,1546 @@
+Ancient Sanskrit Online
+Master Glossary
+Jonathan Slocum and Karen Thomson
+This Master Glossary page lists, in an alphabetical order suitable to Ancient Sanskrit and the script employed for it, every unique word form that appears in lesson texts and, for each word, its unique glosses. In addition to the gloss information, sans contextual translation, links are provided to every appearance, in every numbered lesson, of the word/gloss in question. With this index one may perform a quick "word look-up" and, in addition, study how words are used in context by clicking on their links.
+
+Two points should be noted: (1) the usual practice of Sanskrit dictionaries is to arrange ṃ and ḥ according to the original sounds that they replace. In this glossary they consistently occupy their alphabetical position immediately preceding the consonants; (2) translations that are debated are in italics.
+
+Note: this page is for systems/browsers with Unicode® support and fonts spanning the Unicode 3 character set relevant to (Romanized) Sanskrit. Versions of this page rendered in alternate character sets are available via links (Romanized and Unicode 2) in the upper-left margin.
+áṃhasas
+noun; ablative singular neuter of <áṃhas> trouble -- 2.143, 5.48, 5.128
+aṃhós
+noun; ablative singular of <aṃhú> narrowness, anxiety -- 5.28
+ákr̥ṇot
+verb; 3rd person singular active imperfect of <√kr̥, kr̥ṇóti> do, make -- 8.19
+aktúbhis
+noun; instrumental plural masculine of <aktú> twilight ray -- 2.23, 2.69, 7.112
+agníbhis
+noun; instrumental plural masculine of <agní> fire, Agni -- 5.100
+agnís
+noun; nominative singular masculine of <agní> fire, Agni -- 1.30, 1.37, 5.99
+agháśaṃsas
+adjective; nominative singular masculine of <agháśaṃsa> of wicked praise -- 9.68
+ácha
+preverb; <ácha> towards -- 3.37, 8.55
+ájījanat
+verb; 3rd person singular active reduplicating aorist of <√jan, jánati> produce, create, bear -- 2.43
+ájmasya
+noun; genitive singular masculine of <ájma> course, path -- 2.91
+ájre
+noun; locative singular masculine of <ájra> plain, flatland -- 10.177
+áti riricé
+verb; 3rd person singular middle perfect of <√ric, riṇákti> leave + preverb <áti> beyond -- 6.19
+adarśi
+see práti adarśi
+ádābhyas
+adjective; nominative singular masculine of <ádābhya> not to be deceived -- 2.78
+áditis
+noun; nominative singular feminine of <áditi> freedom, Aditi -- 1.65, 5.39, 5.43, 5.46, 5.62
+adite
+noun; vocative singular feminine of <áditi> freedom, Aditi -- 5.7
+ádites
+noun; genitive singular feminine of <áditi> freedom, Aditi -- 5.24
+adyá
+adverb; <adyá> on this day, today -- 7.15, 10.95, 10.203
+adruhas
+adjective; vocative plural masculine of <adrúh> not betraying -- 10.112
+ádvayās
+adjective; nominative singular feminine of <ádvayas> not duplicitous, trustworthy -- 5.45
+ádhvan
+noun; locative singular masculine of <ádhvan> way -- 7.137
+ádhvanas
+noun; accusative plural masculine of <ádhvan> way -- 10.162
+anamīvā́s
+adjective; nominative plural masculine of <anamīvá> without sickness -- 7.63
+anayat
+verb; 3rd person singular active imperfect of <√nī, náyati> lead, conduct -- 3.60
+ánāgasas
+adjective; nominative plural masculine of <ánāgas> without guilt -- 7.64
+anāgāstvéna
+adjective; instrumental singular neuter of <anāgastvá> guiltlessness, innocence -- 7.113
+anibādhé
+noun; locative singular masculine of <anibādhá> liberty -- 8.102
+ánu cárantīs
+participle; nominative plural feminine present active participle of <√car, cárati> move + preverb <ánu> after -- 3.11
+ánu maṃsīrata
+verb; 3rd person plural middle aorist optative of <√man, mányate> think + preverb <ánu> after -- 7.22
+ánu yemur
+verb; 3rd person plural active perfect of <√yam, yáchati> extend, stretch out + preverb <ánu> after -- 6.115
+ánu
+preposition; <ánu> after -- 7.13, 9.43
+anehásas
+adjective; nominative plural masculine of <anehás> incomparable, peerless -- 5.31
+antárikṣam
+noun; accusative singular neuter of <antárikṣa> airy space, atmosphere -- 2.101, 8.78
+ányām
+adjective; accusative singular feminine of <ánya> inexhaustible -- 10.38
+ápa ahan
+verb; 3rd person singular active imperfect of <√han, hánti> strike, destroy + preverb <ápa> away -- 3.55
+ápa uchat
+verb; 3rd person singular active injunctive of <√vas, ucháti> shine + preverb <ápa> away -- 4.127
+ápa vyayati
+verb; 3rd person singular active present of <√vyā, vyáyati> cover + preverb <ápa> away -- 4.12
+ápa sedhata
+verb; 2nd person plural active imperative of <√sidh, sédhati> drive away + preverb <ápa> away -- 5.123
+ápa
+preverb; <ápa> away -- 5.69, 5.89, 5.110, 5.119, 5.121
+aparám
+adverb; <aparám> in the future -- 10.97
+apás
+noun; accusative plural feminine of <áp> water -- 9.158
+ápi mr̥ṣṭhās
+verb; 2nd person singular middle simple aorist injunctive of <√mr̥ṣ, mŕ̥ṣyate> ignore, forget + preverb <ápi> on -- 3.102
+aprās
+see ā́ aprās
+abdimā́n
+adjective; nominative singular masculine of <abdimánt> consisting of storm-clouds -- 8.38
+abhí rakṣati
+verb; 3rd person singular active present of <√rakṣ, rákṣati> protect + preverb <abhí> towards -- 2.117
+abhí rakṣate
+verb; 3rd person singular middle present of <√rakṣ, rákṣati> protect + preverb <abhí> towards -- 2.84
+abhipitvé
+noun; locative singular neuter of <abhipitvá> homecoming -- 10.226
+abhibhā́
+noun; nominative singular feminine of <abhibhā́> lit. shining-against -- 9.20
+abhiśrī́s
+noun; nominative singular masculine of <abhiśrī́> sustainer -- 1.12
+abhíṣṭaye
+noun; dative singular feminine of <abhíṣṭi> being at hand, ready help -- 10.71
+abhutsmahi
+see práti abhutsmahi
+ámatim
+noun; accusative singular feminine of <ámati> lack of thought -- 5.142
+ámīvām
+noun; accusative singular feminine of <ámīvā> affliction -- 5.120
+amŕ̥tam
+adjective; accusative singular neuter of <amŕ̥ta> immortal, undying -- 4.118
+amŕ̥tasya
+adjective; genitive singular masculine of <amŕ̥ta> immortal, undying -- 6.39
+amr̥tā
+adjective; vocative dual masculine of <amŕ̥ta> immortal, undying -- 8.123
+áyanam
+noun; accusative singular neuter of <áyana> going, course -- 3.89
+ayān
+see út ayān
+ayā́sas
+adjective; accusative plural masculine of <ayā́s> nimble -- 8.67
+aradat
+verb; 3rd person singular active imperfect of <√rad, rádati> dig -- 3.53
+arapā́s
+adjective; nominative singular masculine of <arapás> without sickness, wholesome -- 5.109
+aritā́
+noun; nominative singular masculine of <aritŕ̥> oarsman -- 9.10
+áriṣṭabharman
+adjective; vocative singular feminine of <áriṣṭabharman> (lit.) of unbroken-support -- 5.8
+áriṣṭas
+adjective; nominative singular masculine of <áriṣṭa> unharmed -- 10.146
+arkás
+noun; nominative singular masculine of <arká> song of praise, eulogy -- 6.71
+árcāmasi
+verb; 1st person plural active present of <√arc, árcati> praise -- 6.116
+arcivát
+adjective; nominative singular neuter of <arcivánt> possessing rays, flaming -- 4.31
+arṇavám
+adjective; accusative singular masculine of <arṇavá> billowing, foaming -- 9.137
+arthínas
+adjective; nominative plural masculine of <arthín> purposeful -- 10.57
+aryamā́
+noun; nominative singular masculine of <aryamán> Aryaman -- 10.163
+áva kranda
+verb; 2nd person singular active imperative of <√krand, krándati> cry out + preverb <áva> down -- 9.57
+avamásya
+adjective; genitive singular masculine of <avamá> lowest, most recent -- 6.97
+avayunám
+adjective; accusative singular neuter of <avayuná> without distinction, without certainty -- 6.31
+ávarāsas
+adjective; nominative plural masculine of <ávara> lower, more recent -- 6.109
+ávasā
+noun; instrumental singular neuter of <ávas> help -- 8.112
+ávase
+noun; dative singular neuter of <ávas> help -- 10.69
+avasyús
+adjective; nominative singular masculine of <avasyú> desiring help -- 3.40
+ávidhat
+verb; 3rd person singular active simple aorist of <√vidh> pay homage to, honour -- 10.124
+áviśran
+see ní áviśran
+aśánis
+noun; nominative singular feminine of <aśáni> thunderbolt -- 10.189
+aśīmahi
+verb; 1st person plural middle optative of <√aṃś, aśnóti> reach -- 7.50
+aśyās
+see prá aśyās, út aśyās
+aśvínā
+noun; nominative dual masculine of <aśvín> horseman, Ashvin -- 5.85
+aśvínos
+noun; genitive dual masculine of <aśvín> horseman, Ashvin -- 8.111
+ásat
+verb; 3rd person singular active subjunctive of <√as, ásti> be -- 7.138
+ásurasya
+noun; genitive singular masculine of <ásura> spiritual lord -- 2.11
+asurās
+noun; vocative plural masculine of <ásura> spiritual lord -- 10.227
+ásr̥kṣi
+see úpa ā́ ásr̥kṣi
+ástā
+noun; nominative singular masculine of <ástr̥> shooter, hunter -- 9.41
+ásti
+verb; 3rd person singular active present of <√as, ásti> be -- 10.5, 10.11
+astu
+verb; 3rd person singular active imperative of <√as, ásti> be -- 1.55
+ásthāt
+see út ásthāt
+asmát
+personal pronoun; ablative of <vayám> we -- 5.138
+asmábhyam
+personal pronoun; dative of <vayám> we -- 4.121
+asmāt
+demonstrative pronoun; ablative singular masculine of <ayám, iyám, idám> this -- 10.188
+asmā́n
+personal pronoun; accusative of <vayám> we -- 1.56, 3.52
+asmé
+personal pronoun; dative of <vayám> we -- 2.140
+asmai
+demonstrative pronoun; dative singular masculine of <ayám, iyám, idám> this -- 10.179
+asrāk
+see prá asrāk
+ásredhantī
+participle; nominative singular feminine active participle of <√sridh, srédhati> slip, fail + privative prefix <a-> (reverses meaning) -- 10.193
+ahan
+see ápa ahan
+áhim
+noun; accusative singular masculine of <áhi> snake, dragon -- 3.82
+áheḷayan
+participle; nominative singular masculine present active causative participle of <√hīḍ> be hostile + privative prefix <a-> (reverses meaning) -- 7.10
+áhnā
+noun; instrumental singular neuter of <áhan> day, daylight -- 7.132
+áhnāhnā
+iterative compound; <áhnā-ahnā> with repeated daylight -- 7.116
+ahve
+verb; 1st person singular middle simple aorist of <√hū, hávate> invoke, call upon -- 3.41
+ā́ aprās
+verb; 3rd person singular active sigmatic aorist of <√prā> fill + preverb <ā́> (intensifies or reverses meaning) -- 2.54
+ā́
+see úpa ā́ ásr̥kṣi
+ā́ gamat
+verb; 3rd person singular active aorist subjunctive of <√gam, gáchati> go + preverb <ā́> (intensifies or reverses meaning) -- 5.64
+ā́ gahi
+verb; 2nd person singular active aorist imperative of <√gam, gáchati> go +preverb <ā́> (intensifies or reverses meaning) -- 5.9
+ā́ ghóṣān
+verb; 3rd person plural active subjunctive of <√ghuṣ, ghóṣate> sound + preverb <ā́> (intensifies or reverses meaning) -- 3.105
+ā́ carati
+verb; 3rd person singular active present of <√car, cárati> move + preverb <ā́> (intensifies or reverses meaning) -- 6.61
+ā́ bhara
+verb; 2nd person singular active imperative of <√bhr̥, bhárati> bring, bear + preverb <ā́> (intensifies or reverses meaning) -- 4.97
+ā́ vartayāmasi
+verb; 1st person plural active causative of <√vr̥t, vártate> turn + preverb <ā́> (intensifies or reverses meaning) -- 9.89
+ā́ vahatam
+verb; 2nd person dual active imperative of <√vah, váhati> conduct, bring + preverb <ā́> (intensifies or reverses meaning) -- 8.119
+ā́ viveśa
+verb; 3rd person singular active perfect of <√viś, viśáte> enter, come to rest + preverb <ā́> (intensifies or reverses meaning) -- 1.34
+ā́
+preposition; <ā́> from, in -- 5.139, 10.184, 10.240
+ā́dityās
+noun; vocative plural masculine of <ādityá> of Aditi, son of Aditi -- 5.159
+ā́dityāsas
+noun; vocative plural masculine of <ādityá> of Aditi, son of Aditi -- 5.125, 5.140
+ā́pas
+noun; nominative plural feminine of <áp> water -- 3.88, 7.36
+āpr̥ṇán
+participle; nominative singular masculine present active participle of <pr̥̄, pr̥ṇā́ti> fill + preverb <ā́> (intensifies or reverses meaning) -- 2.41
+ā́pyam
+noun; nominative singular neuter of <ā́pya> alliance -- 10.12
+āyatī́
+participle; nominative singular feminine present active participle of <√i, éti> go + preverb <ā́> (intensifies or reverses meaning) -- 4.7
+ā́yan
+verb; 3rd person plural active imperfect of <√i, éti> go -- 3.87
+āróhantam
+participle; accusative singular masculine present active participle of <√ruh, róhati> rise up + preverb <ā́> (intensifies or reverses meaning) -- 7.88
+āsúr
+verb; 3rd person plural active perfect of <√as, ásti> be -- 6.89
+āhanā́s
+adjective; nominative singular masculine of <āhanás> abundantly productive -- 8.14
+ichámānās
+participle; nominative plural feminine present middle participle of <√iṣ, icháti> long for, desire -- 3.90
+iḷás
+noun; genitive singular feminine of <íḍ> refreshment -- 8.32
+ít
+emphatic particle; <ít> indeed, just -- 4.33, 6.29
+itás
+adverb; <itás> from here -- 1.13, 5.87
+idám
+demonstrative pronoun; accusative singular neuter of <ayám, iyám, idám> this -- 1.16, 8.20, 9.194
+idā́
+adverb; <idā́> at this moment -- 6.83, 10.27, 10.31
+indra
+noun; vocative singular masculine of <índra> Indra -- 6.72, 6.113
+índram
+noun; accusative singular masculine of <índra> Indra -- 6.8
+índras
+noun; nominative singular masculine of <índra> Indra -- 3.51, 6.58, 7.37
+índrasya
+noun; genitive singular masculine of <índra> Indra -- 3.79
+invati
+verb; 3rd person singular active present of <√inv, ínvati> set in motion -- 2.113
+íyakṣantas
+participle; nominative plural masculine desiderative present active participle of <√yaj, yájati> worship -- 6.41
+íyarti
+verb; 3rd person singular active of <√r̥, íyarti> go, send -- 8.40
+íyarti
+verb; 3rd person singular active present of <√r̥, íyarti> go, send -- 9.8
+iva
+particle; <iva> like -- 9.11, 10.39
+íṣas
+noun; accusative plural feminine of <íṣ> refreshment -- 10.137
+íṣumān
+adjective; nominative singular masculine of <íṣumant> bearing arrows -- 9.39
+ihá
+adverb; <ihá> here, here on earth -- 9.49, 9.90
+ihi
+see út ihi
+īmahe
+verb; 3rd person plural middle present of <√yā, yā́ti> approach with longing, solicit -- 4.81
+ī́rate
+see prá ī́rate
+īśata
+verb; 3rd person singular middle aorist injunctive of <√īś, ī́śe> have mastery over -- 9.66
+u
+particle; <u> and, now -- 4.5, 6.6, 10.47
+ukthéṣu
+noun; locative plural neuter of <ukthá> holy song -- 3.108
+ukthyàm
+adjective; accusative singular neuter of <ukthyà> worthy of holy song -- 2.46
+ukṣámāṇas
+see prá ukṣámāṇas
+uccárasi
+verb; 2nd person singular active present of <√car, cárati> move + preverb <út> up -- 7.11
+uchat
+see ápa uchat
+uchántī
+participle; nominative singular feminine present active participle of <√vas, ucháti> shine -- 4.8, 4.69
+út ayān
+verb; 3rd person singular active sigmatic aorist of <√yam, yáchati> extend, stretch out + preverb <út> up -- 2.21
+út aśyās
+verb; 3rd person singular active aorist optative of <√aṃś, aśnóti> reach + preverb <út> up -- 8.59
+út ásthāt
+verb; 3rd person singular active simple aorist of <√sthā, tíṣṭhati> stand + preverb <út> up -- 10.52
+út ihi
+verb; 2nd person singular active imperative of <√i, éti> go + preverb <út> up -- 7.119
+út vadhīt
+verb; 3rd person singular active aorist injunctive of <√vadh> slay + preverb <út> up -- 9.33
+út sr̥jate
+verb; 3rd person singular middle present of <√sr̥j, sr̥játi> let go + preverb <út> up -- 4.26
+utá
+conjunction; <utá> and -- 1.68, 5.57, 5.78, 5.141, 6.94, 6.96, 8.120
+úttarā
+adjective; nominative plural neuter of <úttara> higher, future -- 3.106
+udanimā́n
+adjective; nominative singular masculine of <udanimánt> rich in water -- 8.39
+udyát
+participle; nominative singular neuter present active participle of <√i, éti> go + preverb <út> up -- 4.29
+udyatí
+participle; locative singular masculine present active participle of <√i, éti> go + preverb <út> up -- 10.205
+udyántam
+participle; accusative singular masculine present active participle of <√i, éti> go + preverb <út> up -- 7.65
+úpa ā́ ásr̥kṣi
+verb; 1st person singular middle sigmatic aorist of <√sr̥j, sr̥játi> let go + preverb <úpa> up to + preverb <ā́> (intensifies or reverses meaning) -- 10.37
+úpa stuhi
+verb; 2nd person singular active imperative of <√stu, stuṣé> praise + preverb <úpa> up to -- 8.65
+úpa stheyāma
+verb; 1st person plural active simple aorist optative of <√sthā, tíṣṭhati> stand + preverb <úpa> up to -- 10.238
+úpa
+preposition; <úpa> up to -- 3.32
+upabrávāmahai
+verb; 1st person plural middle subjunctive of <√brū, brávīti> say + preverb <úpa> up to -- 7.18
+úpastutim
+noun; accusative singular feminine of <úpastuti> paean of praise -- 10.30
+úpastutīnām
+noun; genitive plural feminine of <úpastuti> paean of praise -- 10.114
+ubháyasya
+adjective; genitive singular neuter of <ubháya> both -- 2.131
+urú
+adjective; accusative singular neuter of <urú> broad, spacious -- 2.42
+urucákrayas
+adjective; nominative plural masculine of <urucákri> (lit.) space-making -- 5.30
+uraú
+adjective; locative singular masculine of <urú> broad, spacious -- 8.100
+urvī́s
+adjective; nominative plural feminine of <urú> broad, spacious -- 3.67
+uṣas
+noun; vocative singular feminine of <uṣás> dawn -- 4.34, 4.50, 4.98
+uṣásam
+noun; accusative singular feminine of <uṣás> dawn -- 9.172
+uṣā́s
+noun; nominative singular feminine of <uṣás> dawn -- 4.126
+usríyās
+noun; accusative plural feminine of <usríyā> beam -- 4.25
+ūtyā́
+noun; instrumental singular feminine of <ūtí> help -- 5.63
+ūrdhvás
+adjective; nominative singular masculine of <ūrdhvá> upright, straight -- 10.53
+r̥tám
+noun; accusative singular neuter of <r̥tá> Truth -- 10.207, 10.228
+ŕ̥tāvarīs
+adjective; vocative plural feminine of <r̥tā́van> possessed of Truth, holy -- 3.31
+r̥té
+preposition; <r̥té> without -- 10.156
+ŕ̥dhak
+adverb; <ŕ̥dhak> separately, on one side -- 5.143
+etát
+demonstrative pronoun; accusative singular neuter of <eṣás, eṣā́, etát> this -- 3.98
+edhate
+verb; 3rd person singular middle present of <√edh, édhate> thrive -- 10.148
+énasas
+noun; ablative singular neuter of <énas> sin -- 5.164
+énasvantam
+noun; accusative singular masculine of <énasvant> possessing sin -- 5.162
+enā́
+adverb; <enā́> in this way -- 3.5
+evá
+adverb; <evá> so, just -- 6.120
+évais
+noun; instrumental plural masculine of <éva> going, course -- 3.34
+eṣás
+demonstrative pronoun; nominative singular masculine of <eṣás, eṣā́, etát> this -- 8.51, 8.75
+eṣā́
+demonstrative pronoun; nominative singular feminine of <eṣás, eṣā́, etát> this -- 10.186
+óṣadhīs
+noun; accusative plural feminine of <óṣadhi> plant -- 1.33, 8.80, 9.160
+katamás
+interrogative pronoun; nominative singular masculine of <katamás, katamā́, katamát> who, which (of many) -- 6.73
+kadā́
+interrogative adverb; <kadā́> when? -- 6.36
+kánikradat
+participle; nominative singular masculine present active intensive participle of <√krand, krándati> cry out -- 9.5, 9.45
+kám
+interrogative pronoun; accusative singular masculine of <kás, kā́, kát, kím> who, which, what? -- 6.59
+kam
+particle; <kam> indeed -- 1.10
+kar
+see ní kar
+karat
+verb; 3rd person singular active aorist subjunctive of <√kr̥, kr̥ṇóti> do, make -- 5.68, 5.101
+karatas
+verb; 3rd person dual active aorist subjunctive of <√kr̥, kr̥ṇóti> do, make -- 5.84
+kárma
+noun; accusative singular neuter of <kárman> act, deed -- 3.80
+kavís
+noun; nominative singular masculine of <kaví> sage -- 2.38
+kás
+interrogative pronoun; nominative singular masculine of <kás, kā́, kát, kím> who, which, what? -- 6.64, 6.70
+kā́ cit
+interrogative pronoun; nominative singular feminine of <kás, kā́, kát, kím> who, which, what? + particle <cit> even, all -- 9.19
+kā́mas
+noun; nominative singular masculine of <kā́ma> longing -- 8.60
+kāro
+noun; vocative singular masculine of <kārú> bard -- 3.109
+kā́su
+interrogative pronoun; locative plural feminine of <kás, kā́, kát, kím> who, which, what? -- 6.62
+kiṃyús
+adjective; nominative singular masculine of <kiṃyú> what-desiring? -- 3.16
+kuśikásya
+noun; genitive singular masculine of <kuśiká> Kushika -- 3.42
+kúha
+interrogative adverb; <kúha> where? -- 6.56
+kr̥ṇuta
+verb; 2nd person plural active imperative of <√kr̥, kr̥ṇóti> do, make -- 5.145
+kr̥ṇute
+verb; 3rd person singular middle present of <√kr̥, kr̥ṇóti> do, make -- 2.60
+kr̥ṇutha
+verb; 2nd person plural active present of <√kr̥, kr̥ṇóti> do, make -- 10.180
+kr̥ṇoti
+verb; 3rd person singular active present of <√kr̥, kr̥ṇóti> do, make -- 4.16
+kr̥ṇóṣi
+verb; 2nd person singular active present of <√kr̥, kr̥ṇóti> do, make -- 4.71
+ketúnā
+noun; instrumental singular masculine of <ketú> appearance, shining out, ray -- 7.107
+krátum
+noun; accusative singular masculine of <krátu> power, intellectual ability -- 7.23
+kranda
+see áva kranda
+kṣáyam
+noun; accusative singular masculine of <kṣáya> home -- 10.133
+kṣáyāya
+noun; dative singular masculine of <kṣáya> home -- 2.141, 9.91
+gamat
+see ā́ gamat
+gamema
+see sám gamema
+gamemahi
+see sám gamemahi
+gahi
+see ā́ gahi
+gíram
+noun; accusative singular feminine of <gír> song -- 8.9
+gírvāhasam
+adjective; accusative singular masculine of <gírvāhas> brought by song -- 6.11
+gīrbhís
+noun; instrumental plural feminine of <gír> song -- 6.12
+gr̥ṇántas
+participle; nominative plural masculine present active participle of <√gr̥, gr̥ṇā́ti> sing -- 10.75
+gr̥hā́ṇām
+noun; genitive plural masculine of <gr̥há> house -- 9.59
+gómatas
+adjective; accusative plural masculine of <gómant> consisting of cattle -- 4.122
+ghr̥ṇéna
+noun; instrumental singular masculine of <ghr̥ṇá> warmth -- 7.135
+ghóṣān
+see ā́ ghóṣān
+ca
+conjunction; <ca> and -- 4.37, 7.108, 7.110, 9.14, 9.217, 9.219
+cakāra
+verb; 3rd person singular active perfect of <√kr̥, kr̥ṇóti> do, make -- 6.35, 6.54
+cákṣasā
+noun; instrumental singular neuter of <cákṣas> seeing, sight -- 7.130
+cákṣase
+noun; dative singular neuter of <cákṣas> seeing, sight -- 4.13
+cákṣuṣe-cakṣuṣe
+iterative compound; <cákṣuṣe-cakṣuṣe> to every eye -- 7.86
+cátasras
+numeral; accusative plural feminine of <catúr> four -- 9.125
+cáturbhr̥ṣṭim
+adjective; accusative singular feminine of <cáturbhr̥ṣṭi> four-cornered -- 9.115
+cátuṣpādas
+adjective; nominative plural masculine of <cátuṣpad> four-footed -- 10.56
+carati
+see ā́ carati
+cárantīs
+see ánu cárantīs
+caṣṭe
+see ví caṣṭe
+cit
+see kā́ cit
+cit
+particle; <cit> even, all -- 5.29, 5.163, 10.178, 10.183, 10.187
+citrám
+adjective; accusative singular neuter of <citrá> bright, radiant -- 4.95, 7.144
+codayitrī́
+noun; nominative singular feminine of <codayitrī́> rouser -- 4.123
+chardís
+noun; accusative singular neuter of <chardís> protection, shield -- 2.13, 10.230
+jágat
+noun; accusative singular neuter of <jágat> moving world -- 2.70, 9.195
+jágatas
+noun; genitive singular neuter of <jágat> moving world -- 2.129
+jagā́ma
+verb; 3rd person singular active perfect of <√gam, gáchati> go -- 9.85
+jaghāna
+see ví jaghāna
+jánam
+noun; accusative singular masculine of <jána> person, people -- 6.60
+janúṣam
+noun; accusative singular masculine of <janús> descent, kind -- 9.6
+jaraṇā́m
+noun; accusative singular feminine of <jaraṇā́> old age -- 7.49
+jaritar
+noun; vocative singular masculine of <jaritŕ̥> singer -- 3.100, 8.34
+jātás
+verbal adjective; nominative singular masculine of past participle of <√jan, jánati> produce, create, bear -- 1.14
+jāyate
+see prá jāyate
+jā́yamānām
+adjective; accusative singular feminine of present middle participle of <√jā, jā́yate> be born -- 8.12
+jīrā́s
+adjective; nominative plural masculine of <jīrá> eager -- 4.51
+jī́vantas
+participle; nominative plural masculine present active participle of <√jīv, jī́vati> be alive -- 7.48
+jīváse
+infinitive; dative infinitive from <√jīv, jī́vati> be alive -- 9.92
+jīvā́s
+adjective; nominative plural masculine of <jīvá> alive, living -- 7.70, 7.93
+juṣasva
+see práti juṣasva
+johavīti
+verb; 3rd person singular active present intensive of <√hū, hávate> invoke, call upon -- 3.19
+jyók
+adverb; <jyók> for a long time -- 7.69
+jyótis
+noun; accusative singular neuter of <jyótis> light -- 4.15, 7.81
+tát
+adverb; <tát> then -- 9.87, 10.234
+tát
+demonstrative pronoun; accusative singular neuter of <sás, sā́, tát> that; he, she, it -- 1.60, 2.5, 2.18, 3.78, 4.94, 4.106, 5.154, 7.34, 7.140
+tát
+demonstrative pronoun; nominative singular neuter of <sás, sā́, tát> that; he, she, it -- 1.53
+tatanvát
+participle; accusative singular neuter perfect active participle of <√tan, tanute> stretch, stretch out -- 6.32
+tapatu
+verb; 3rd person singular active imperative of <√tap, tápati> heat, warm -- 5.104
+tám
+demonstrative pronoun; accusative singular masculine of <sás, sā́, tát> that; he, she, it -- 6.5, 6.107, 7.19, 7.31, 10.116
+támas
+noun; accusative singular neuter of <támas> darkness -- 4.14, 6.30
+táva
+personal pronoun; genitive singular of <tvám> you -- 1.52, 4.32
+tásya
+demonstrative pronoun; genitive singular masculine of <sás, sā́, tát> that; he, she, it -- 3.63
+tásyās
+demonstrative pronoun; genitive singular feminine of <sás, sā́, tát> that; he, she, it -- 4.78
+tā́
+demonstrative pronoun; accusative plural neuter of <sás, sā́, tát> that; he, she, it -- 6.53
+tā́t
+adverb; <tā́t> so -- 6.122
+tirate
+see prá tirate
+tisrás
+numeral; accusative plural feminine of <tisŕ̥> three -- 2.109, 2.112
+tú
+particle; <tú> then, but -- 10.99
+tucé
+noun; dative singular feminine of <túc> offspring -- 10.98
+té
+demonstrative pronoun; nominative plural masculine of <sás, sā́, tát> that; he, she, it -- 5.21, 10.93, 10.96
+te
+personal pronoun; dative/genitive singular enclitic form of <tvám> you -- 3.104, 3.117, 4.79, 4.102, 6.37, 6.65, 6.85, 6.112, 7.104, 9.81, 9.88, 9.101, 9.113, 9.124, 9.135, 9.146, 9.157, 9.169, 9.181, 9.192, 9.204, 9.215
+tmánā
+noun; instrumental singular masculine of <tmán> nature, self -- 2.17, 2.118
+tyā́
+demonstrative pronoun; nominative dual masculine of <syás, syā́, tyát> that -- 5.79
+trā́yante
+verb; 3rd person plural middle present of <√trā> rescue, protect -- 10.168
+tribhís
+numeral; instrumental plural neuter of <trí> three -- 2.114
+trivárūtham
+adjective; accusative singular neuter of <trivárūtha> with threefold protection -- 2.142
+trís
+adverb; <trís> thrice -- 2.100
+trī́
+numeral; accusative neuter of <trí> three -- 2.104
+trī́ṇi
+numeral; accusative neuter of <trí> three -- 2.107
+tvā
+personal pronoun; accusative singular enclitic form of <tvám> you -- 4.47, 6.123, 7.16, 7.59, 7.66, 7.83, 9.18, 9.31, 9.37
+dakṣiṇatás
+adverb; <dakṣiṇatás> from the right side -- 9.58
+dadhá
+verb; 2nd person plural active perfect of <√dhā, dádhāti> place, grant -- 10.208
+dā́śati
+verb; 3rd person singular middle present of <√dāś, dā́śati> worship -- 10.141
+dāśúṣe
+noun; dative singular masculine of <dāśvā́ṃs> the one worshipping -- 2.15, 4.60, 10.232
+dívam
+noun; accusative singular masculine of <dyú, dív> sky, heaven, day -- 6.15, 9.102
+dívas
+noun; accusative plural feminine of <dyú, dív> sky, heaven, day -- 2.110
+divás
+noun; genitive singular masculine of <dyú, dív> sky, heaven, day -- 2.31, 4.10, 4.49, 4.103, 10.216
+dívā
+adverb; <dívā> by day -- 1.40, 5.41, 5.60
+diví
+noun; locative singular masculine of <dyú, dív> sky, heaven, day -- 1.29
+divé-dive
+iterative compound; <divé-dive> day after day -- 7.68
+divyā́ni
+adjective; accusative plural neuter of <divyá> heavenly -- 2.56
+dīrghaśrúttamam
+adjective; nominative singular neuter of <dīrghaśrúttama> most widely known, famed -- 4.100
+duroṇé
+noun; locative singular neuter of <duroṇá> home -- 7.139
+durgé
+noun; locative singular neuter of <durgá> hard way -- 10.182
+durmatím
+noun; accusative singular feminine of <durmatí> bad thought, envy -- 5.124
+durmataú
+noun; locative singular feminine of <durmatí> bad thought, envy -- 8.91
+duhitar
+noun; vocative singular feminine of <duhitŕ̥> daughter -- 4.48, 4.104
+duhitā́
+noun; nominative singular feminine of <duhitŕ̥> daughter -- 4.9
+duhitúr
+noun; genitive singular feminine of <duhitŕ̥> daughter -- 8.15
+dūrakám
+adverb; <dūrakám> far away -- 9.86
+dr̥śé
+infinitive; dative infinitive of <√dr̥ś> see, appear -- 4.77
+deváṃ-devam
+iterative compound; <deváṃ-devam> god after god -- 10.67, 10.70, 10.72
+devákr̥tam
+adjective; accusative singular masculine of <devákr̥ta> god-made -- 3.10
+devás
+noun; nominative singular masculine of <devá> divine, god -- 2.22, 2.59, 2.82, 2.136, 3.59
+devásya
+noun; genitive singular masculine of <devá> divine, god -- 2.6
+devā́s
+noun; nominative plural masculine of <devá> divine, god -- 7.21
+devās
+noun; vocative plural masculine of <devá> divine, god -- 8.101
+devā́sas
+noun; nominative plural masculine of <devá> divine, god -- 10.85
+dévāsas
+noun; vocative plural masculine of <devá> divine, god -- 10.10
+devi
+noun; vocative singular feminine of <devī́> divine, goddess -- 4.75, 5.6
+devébhis
+noun; instrumental plural masculine of <devá> divine, god -- 5.5
+devó-devas
+iterative compound; <devó-devas> god after god -- 8.83
+devyā́
+adjective; instrumental singular feminine of <devī́> divine, goddess -- 10.76
+daívyā
+adjective; nominative dual masculine of <daívya> divine -- 5.80
+dyā́vāpr̥thivī́
+noun; nominative dual feminine of <dyā́vāpr̥thivī́> Heaven and Earth -- 7.33
+dyaús
+noun; nominative singular masculine of <dyú, dív> sky, heaven, day -- 1.69
+dráviṇam
+noun; accusative singular neuter of <dráviṇa> provision -- 7.142
+drāpím
+noun; accusative singular masculine of <drāpí> mantle -- 2.36
+dvipā́das
+adjective; nominative plural masculine of <dvipád> two-footed -- 10.55
+dvéṣas
+noun; accusative neuter singular of <dvéṣas> hatred -- 5.144
+dvéṣāṃsi
+noun; accusative plural neuter of <dvéṣas> hatred -- 5.26
+dhartā́
+noun; nominative singular masculine of <dhartŕ̥> supporter, upholder -- 2.32
+dhármaṇas
+noun; ablative singular neuter of <dhárman> support, fixed order -- 10.144
+dhármaṇe
+noun; dative singular neuter of <dhárman> support, fixed order -- 2.62
+dhāt
+verb; 3rd person singular active aorist injunctive of <√dhā, dádhāti> place, grant -- 8.92
+dhā́ma
+noun; accusative singular neuter of <dhā́man> foundation, just law, precept -- 6.40
+dhā́mabhyas
+noun; dative plural neuter of <dhā́man> foundation, just law, precept -- 10.123
+dhiyā́
+noun; instrumental singular feminine of <dhī́> thought -- 10.77
+dhūrtís
+noun; nominative singular feminine of <dhūrtí> injury -- 10.117
+dhr̥távratas
+adjective; nominative singular masculine of <dhr̥távrata> whose command is firm -- 2.89
+dhehi
+verb; 2nd person singular active imperative of <√dhā, dádhāti> place, grant -- 7.143
+ná
+particle; <ná> like -- 4.59, 4.85
+ná
+particle; <ná> not -- 3.12, 6.42, 10.115
+náktam
+adverb; <náktam> by night -- 1.43, 5.44
+nákṣatram
+noun; nominative singular neuter of <nákṣatra> star -- 4.30
+nadī́nām
+noun; genitive plural feminine of <nadī́> stream -- 3.58
+nadyàs
+noun; accusative plural feminine of <nadī́> stream -- 3.18
+námas
+noun; nominative singular neuter of <námas> honour -- 3.116
+namasyús
+adjective; nominative singular masculine of <namasyú> honouring -- 10.36
+návyasīm
+adjective; accusative singular feminine of <návyāṃs> newer -- 8.11
+návyase
+comparative adjective; dative singular neuter of <návyāṃs> newer -- 10.19
+naśyatu
+see ví naśyatu
+nas
+personal pronoun; accusative/dative/genitive enclitic form of <vayám> we -- 1.39, 1.61, 2.19, 2.116, 2.135, 3.110, 3.113, 5.40, 5.59, 5.83, 5.103, 5.127, 5.156, 7.20, 7.32, 7.35, 7.117, 7.128, 7.131, 8.21, 8.88, 8.117, 9.64, 10.13, 10.94, 10.100
+nā́vam
+noun; accusative singular feminine of <naú> boat -- 9.12
+ní áviśran
+verb; 3rd person plural middle simple aorist of <√viś, viśáte> enter, come to rest + preverb <ní> down -- 10.58
+ní kar
+verb; 2nd person singular active simple aorist injunctive of <√kr̥, kr̥ṇóti> do, make + preverb <ní> down -- 3.114
+ní viśánte
+verb; 3rd person plural middle present of <√viś, viśáte> enter, come to rest + preverb <ní> down -- 7.111
+nimrúci
+noun; locative singular feminine of <nimrúc> setting, sunset -- 10.210
+nivéśanas
+noun; nominative singular masculine of <nivéśana> the source of rest -- 2.128
+niveśáyan
+participle; nominative singular masculine present active causative participle of <√viś, viśáte> enter, come to rest + preverb <ní> down -- 2.67
+nú
+adverb; <nú> now -- 10.191
+nū́tanāsas
+adjective; nominative plural masculine of <nū́tana> now existing -- 6.95
+nū́tanena
+adjective; instrumental singular neuter of <nū́tana> now existing -- 8.113
+nūnám
+adverb; <nūnám> now -- 8.35
+nyáñcanam
+noun; accusative singular of <nyáñcana> downward slope -- 10.181
+patayiṣṇávas
+adjective; nominative plural masculine of <patayiṣṇú> flying -- 10.59
+pátim
+noun; accusative singular masculine of <páti> lord -- 8.33
+páyasā
+noun; instrumental singular neuter of <páyas> fruitfulness, plenty -- 3.7
+parás
+adverb; <parás> in the distance -- 10.190
+párāṇi
+adjective; accusative plural neuter of <pára> former, farther -- 6.110
+parāvátas
+noun; accusative plural feminine of <parāvát> distance -- 9.206
+párās
+adjective; accusative plural feminine of <pára> former, farther -- 9.205
+pári
+preposition; <pári> around, out of -- 7.91, 10.145
+paridhím
+noun; accusative singular masculine of <paridhí> surrounder, imprisoner -- 3.57
+paribhū́s
+adjective; nominative singular masculine of <paribhū́> encompassing -- 2.106
+pariṣádas
+noun; accusative plural masculine of <pariṣád> surrounding thing, coil -- 3.85
+párvatān
+noun; accusative plural masculine of <párvata> mountain -- 9.182
+paśúm
+noun; accusative singular masculine of <paśú> cattle -- 5.42
+paśyema
+see práti paśyema
+pā́jasas
+noun; ablative singular neuter of <pā́jas> radiance, lustre -- 7.90
+pātu
+verb; 3rd person singular active imperative of <√pā, pā́ti> protect -- 1.42, 5.47
+pā́rthivā
+adjective; accusative plural neuter of <pā́rthiva> earthly -- 2.57
+pítryām
+adjective; accusative singular feminine of <pítrya> of the fathers -- 9.42
+pínvamānās
+participle; nominative plural feminine present middle participle of <√pī, pínvati> swell, yield abundantly -- 3.8
+piśáṅgam
+adjective; accusative singular masculine of <piśáṅga> variegated -- 2.35
+putrā́sas
+noun; nominative plural masculine of <putrá> son -- 5.23
+purājā́s
+adjective; nominative plural masculine of <purājā́> born aforetime -- 6.87
+purú
+adjective; accusative singular neuter of <purú> much, many -- 4.55
+purukr̥t
+adjective; vocative singular masculine of <purukŕ̥t> doing much -- 6.90
+purupriye
+adjective; vocative singular feminine of <purupriyá> much loved -- 5.12
+purumāyásya
+adjective; genitive singular masculine of <purumāyá> wonderful -- 6.18
+puruṣatrā́
+adverb; <puruṣatrā́> as a man -- 3.115
+puruhūta
+adjective; vocative singular nominative of <puruhūtá> much invoked -- 6.98
+pū́rvasmai
+adjective; dative singular neuter of <pū́rva> former, previous -- 10.14
+pr̥chántas
+participle; nominative plural masculine present active participle of <√prach, pr̥cháti> ask, ask for -- 6.108
+pr̥thivī́
+noun; nominative singular feminine of <pr̥thivī́> earth -- 1.67, 8.90
+pr̥thivī́m
+noun; accusative singular feminine of <pr̥thivī́> earth -- 8.77, 9.104
+pr̥thivī́s
+noun; accusative plural feminine of <pr̥thivī́> earth -- 2.111
+pr̥thivyā́m
+noun; locative singular feminine of <pr̥thivī́> earth -- 1.31
+pr̥thivyā́s
+noun; ablative singular feminine of <pr̥thivī́> earth -- 6.17
+pŕ̥ṣadaśvān
+adjective; accusative plural masculine of <pŕ̥ṣadaśva> with white-flecked horses -- 8.66
+pr̥ṣṭás
+verbal adjective; nominative singular masculine of past participle of <√prach, pr̥cháti> ask, ask for -- 1.28
+prá aśyās
+verb; 3rd person singular active aorist optative of <√aṃś, aśnóti> reach + preverb <prá> forth -- 8.36, 8.82
+prá asrāk
+verb; 3rd person singular active sigmatic aorist of <√sr̥j, sr̥játi> let go + preverb <prá> forth -- 2.64, 2.85
+prá ī́rate
+verb; 3rd person plural middle present of <√r̥, íyarti> go, send + preverb <prá> forth -- 7.109
+prá ukṣámāṇas
+participle; nominative singular masculine present middle participle of <√ukṣ, ukṣáte> sprinkle + preverb <prá> forth -- 8.43
+prá jāyate
+verb; 3rd person singular middle present of <√jā, jā́yate> be born + preverb <prá> forth -- 10.143
+prá tirate
+verb; 3rd person singular middle present of <√tr̥̄, tiráti> cross + preverb <prá> forth -- 10.134
+prá bhare
+verb; 1st person singular middle present of <√bhr̥, bhárati> bring, bear + preverb <prá> forth -- 8.10
+prá vocata
+verb; 2nd person plural active simple aorist imperative of <√vac> speak + preverb <prá> forth -- 10.16
+prá śaṃsāmi
+verb; 1st person singular present active of <√śaṃs, śáṃsati> praise + preverb <prá> forth -- 10.111
+prá
+preverb; <prá> forth -- 3.35
+prakhyaí
+infinitive; dative infinitive of <√khyā> look upon + preverb <prá> forth -- 4.74
+pracā́kaśat
+participle; nominative singular masculine present active intensive participle of <√kāś, cā́kaśīti> observe, pay attention to + preverb <prá> forth -- 2.80
+prácetasas
+adjective; genitive singular masculine of <prácetas> mindful -- 2.12
+prajā́patis
+noun; nominative singular masculine of <prajā́pati> creature-lord, lord of creatures -- 2.34
+prajā́bhis
+noun; instrumental plural feminine of <prajā́> creature, progeny -- 10.142
+prajā́bhyas
+noun; dative plural feminine of <prajā́> creature, progeny -- 2.88
+prajā́vantas
+adjective; nominative plural masculine of <prajā́vant> having progeny -- 7.62
+práti adarśi
+verb; 3rd person singular passive aorist of <√dr̥ś> see, appear + preverb <práti> against -- 4.6
+práti abhutsmahi
+verb; 1st person plural middle sigmatic aorist of <√budh, bódhati> wake, observe + preverb <práti> against -- 4.52
+práti juṣasva
+verb; 2nd person singular middle imperative of <√juṣ, juṣáte> enjoy + preverb <práti> against -- 3.111
+práti paśyema
+verb; 1st person plural active optative of <√paś, páśyati> see + preverb <práti> against -- 7.71, 7.94
+práti muñcate
+verb; 3rd person singular middle present of <√muc, muñcáte> make free + preverb <práti> against -- 2.37
+pratnā́
+adjective; accusative plural neuter of <pratná> ancient -- 6.111
+pratnā́sas
+adjective; nominative plural masculine of <pratná> ancient -- 6.88
+pratháyan
+participle; nominative singular masculine present active causative participle of <√prath, práthate> spread -- 2.40
+pradíśam
+noun; accusative singular feminine of <pradíś> direction, region -- 9.44
+pradíśas
+noun; accusative plural feminine of <pradíś> direction, region -- 9.126
+prabúdhi
+noun; locative singular feminine of <prabúdh> wakening -- 10.211
+prabruvāṇás
+participle; nominative singular masculine present middle participle of <√brū, brávīti> say + preverb <prá> forth -- 9.7
+pravátas
+noun; genitive singular feminine of <pravát> mountain slope, height -- 9.148
+pravā́cyam
+adjective; accusative singular neuter of <pravā́cya> to be celebrated -- 3.75
+prasavás
+noun; nominative singular masculine of <prasavá> (lit.) forth-impelling -- 3.14
+prasavītā́
+noun; nominative singular masculine of <prasavītŕ̥> enlivener -- 2.127
+prasavé
+noun; locative singular masculine of <prasavá> (lit.) forth-impelling -- 3.65
+prasuván
+participle; nominative singular masculine present active participle of <sū, suváti> generate, impel + preverb <prá> forth -- 2.68
+príyakṣatrās
+adjective; vocative plural masculine of <priyákṣatra> ruling benevolently -- 10.206
+préṣitas
+participle; nominative singular masculine past participle of <√iṣ, íṣyati> send + preverb <prá> forth -- 7.7
+bāhū́
+noun; accusative dual masculine of <bāhú> arm -- 2.63, 2.86
+bíbhratam
+participle; accusative singular masculine present active participle of <√bhr̥, bhárati> bring, bear -- 7.82
+br̥hát
+adverb; <br̥hát> on high -- 9.69
+br̥hatás
+adjective; ablative singular neuter of <br̥hánt> high, lofty -- 7.89
+br̥hatás
+adjective; accusative plural masculine of <br̥hánt> high, lofty -- 9.183
+br̥hatī́
+adjective; nominative singular feminine of <br̥hánt> high, lofty -- 3.38
+br̥hátsumnas
+adjective; nominative singular masculine of <br̥hátsumna> lofty-favoured -- 2.126
+bodhi
+verb; 2nd person singular active aorist imperative of <√budh, bódhati> wake, observe -- 6.99
+brahmavāhas
+adjective; vocative singular masculine of <bráhmavāhas> brought by prayer -- 6.118
+bhaktáye
+noun; dative singular feminine of <bhaktí> distribution -- 10.33
+bhakténa
+noun; instrumental singular of <bhaktá> what is apportioned -- 4.38
+bhadrám
+adjective; accusative singular neuter of <bhadrá> fortunate, happy -- 7.47
+bhadravādī́
+adjective; nominative singular masculine of <bhadravādín> of fortunate pronouncement -- 9.47, 9.61
+bhara
+see ā́ bhara
+bhare
+see prá bhare
+bhava
+verb; 2nd person singular active imperative of <√bhū, bhávati> be -- 7.129
+bhávantu
+verb; 3rd person plural active imperative of <√bhū, bhávati> be -- 10.101
+bhávāsi
+verb; 2nd person singular active subjunctive of <√bhū, bhávati> be -- 9.16
+bhávyam
+verbal adjective; accusative singular neuter of future passive participle of <√bhū, bhávati> be -- 9.218
+bhānúnā
+noun; instrumental singular masculine of <bhānú> brightness, shining -- 7.133
+bhā́svantam
+adjective; accusative singular masculine of <bhā́svant> possessing light, brightness -- 7.85
+bhiṣájā
+noun; nominative dual masculine of <bhiṣáj> healer -- 5.81
+bhunájāmahai
+verb; 1st person plural middle subjunctive of <√bhuj, bhuñjáte> turn to account -- 4.108
+bhúvanasya
+noun; genitive singular neuter of <bhúvana> being, existence -- 2.33, 2.87
+bhúvanānām
+noun; genitive plural neuter of <bhúvana> being, existence -- 1.11
+bhúvanāni
+noun; accusative plural neuter of <bhúvana> being, existence -- 2.79
+bhúvanāni
+noun; nominative plural neuter of <bhúvana> being, existence -- 7.106
+bhūtám
+verbal adjective; accusative singular neuter of past participle of <√bhū, bhávati> be -- 9.216
+bhūtu
+verb; 3rd person singular active aorist imperative of <√bhū, bhávati> be -- 8.85
+bhūma
+verb; 1st person plural active aorist injunctive of of <√bhū, bhávati> be -- 7.44
+bhū́mim
+noun; accusative singular feminine of <bhū́mi> earth, land -- 9.114
+maṃsīrata
+see ánu maṃsīrata
+maṃhánā
+adverb; <maṃhánā> assuredly -- 4.72
+makṣū́
+adverb; <makṣū́> swiftly, soon -- 10.17
+maghávānas
+adjective; nominative plural masculine of <maghávan> gracious -- 1.58
+maghónas
+adjective; genitive singular masculine of <maghávan> gracious -- 4.124
+matís
+noun; nominative singular feminine of <matí> thought -- 5.61
+madhyáṃdine
+noun; locative singular masculine of <madhyáṃdina> midday, middle time -- 10.215
+madhyamā́sas
+adjective; nominative plural masculine of <madhyamá> middle, middle one -- 6.93
+mádhye
+noun; locative singular neuter of <mádhya> middle -- 10.239
+mánave
+noun; dative singular masculine of <mánu> man, mankind -- 10.88
+mánas
+noun; nominative singular neuter of <mánas> understanding, spirit -- 9.84
+mánase
+noun; dative singular neuter of <mánas> understanding, spirit -- 6.67
+manīṣā́
+noun; nominative singular feminine of <manīṣā́> thought, expression of thought -- 3.39
+máyas
+noun; accusative singular neuter of <máyas> happiness -- 4.61, 5.67, 7.87
+mayobhúvā
+adjective; instrumental singular neuter of <mayobhū́> bringing happiness -- 8.114
+márīcīs
+noun; accusative plural feminine of <márīci> particle of light, gleaming light -- 9.147
+marútas
+noun; nominative plural masculine of <marút> Marut, storm god -- 7.39
+martabhójanam
+noun; nominative singular neuter of <martabhójana> mortal sustenance -- 4.105
+mártās
+noun; nominative plural masculine of <márta> mortal -- 6.38
+mártyam
+noun; accusative singular masculine of <mártya> mortal man -- 10.120
+mahát
+adjective; accusative singular neuter of <mahánt> great, mighty -- 2.9
+mahás
+adjective; genitive singular masculine of <máh> great -- 2.90
+mahā́n
+adjective; nominative singular masculine of <mahánt> great, mighty -- 2.20
+mahā́ntam
+adjective; accusative singular masculine of <mahánt> great, mighty -- 6.124
+máhi
+adjective; accusative singular neuter of <máh> great -- 4.11, 7.80
+mahi
+adjective; vocative singular feminine of <máh> great -- 4.73
+mahitvanā́
+noun; instrumental singular neuter of <mahitvaná> majesty -- 2.103
+mahitvám
+noun; nominative singular neuter of <mahitvá> greatness, majesty -- 6.20
+mahī́s
+adjective; accusative plural feminine of <máh> great -- 10.136
+mahé
+adjective; dative singular masculine of <máh> great -- 8.6
+mahnā́
+noun; instrumental singular neuter of <mahán> greatness -- 6.16
+máhyam
+personal pronoun; dative singular of <ahám> I -- 8.86
+mā́
+particle; <mā́> not, that not -- 3.101, 3.112, 7.42, 8.87, 9.17, 9.30, 9.34, 9.36, 9.63, 9.67
+mā
+personal pronoun; accusative singular enclitic form of <ahám> I -- 8.63
+mātā́
+noun; nominative singular feminine of <mātŕ̥> mother -- 8.89
+mātúr
+noun; genitive singular feminine of <mātŕ̥> mother -- 4.84
+māmahantām
+verb; 3rd person plural middle imperative of <√maṃh, máṃhate> effect, bring about -- 1.64
+mā́rutam
+adjective; accusative singular neuter of <mā́ruta> of the storm gods, the Maruts' -- 8.53
+mitra
+noun; vocative singular masculine of <mitrá> friend, Mitra -- 10.119
+mitramahas
+adjective; vocative singular masculine of <mitrámahas> friend-great, many-friended -- 7.67
+mitrás
+noun; nominative singular masculine of <mitrá> friend, Mitra -- 1.62, 10.164
+minanti
+verb; 3rd person plural active present of <√mī, minā́ti> vary, transgress -- 6.43
+minānás
+participle; nominative singular masculine present middle participle of <√mī, minā́ti> vary, transgress -- 8.18
+muñcate
+see práti muñcate
+múmocati
+verb; 3rd person singular active perfect subjunctive of <√muc, muñcáte> make free -- 5.161
+muhūrtám
+noun; accusative singular masculine/neuter of <muhūrtá> moment -- 3.33
+mr̥ṣṭhās
+see ápi mr̥ṣṭhās
+me
+personal pronoun; dative/genitive enclitic form of <ahám> I -- 3.28
+medhā́m
+noun; accusative singular feminine of <medhā́> wise thought -- 8.8
+yachata
+verb; 2nd person plural active imperative of <√yam, yáchati> extend, stretch out -- 5.158
+yáchati
+verb; 3rd person singular active present of <√yam, yáchati> extend, stretch out -- 2.16
+yachatu
+verb; 3rd person singular active imperative of <√yam, yáchati> extend, stretch out -- 2.139
+yajñávr̥ddham
+adjective; accusative singular masculine of <yajñávr̥ddha> strengthened by worship -- 6.13
+yajñás
+noun; nominative singular masculine of <yajñá> worship -- 6.66
+yát
+conjunction; <yát> that, when -- 3.81, 7.14, 9.80, 9.100, 9.103, 9.112, 9.123, 9.134, 9.145, 9.156, 9.159, 9.168, 9.171, 9.180, 9.191, 9.203, 9.214, 10.202, 10.209, 10.213, 10.224
+yát
+relative pronoun; accusative singular neuter of <yás, yā́, yát> who, which -- 3.103
+yát
+relative pronoun; nominative singular neuter of <yás, yā́, yát> who, which -- 4.99, 4.101, 5.160
+yatate
+verb; 3rd person singular middle present of <√yat, yátate> take one's place -- 1.19
+yaté
+participle; dative singular masculine present active participle of <√i, éti> go -- 10.229
+yáthā
+conjunction; <yáthā> as, so that -- 7.136
+yám
+relative pronoun; accusative singular masculine of <yás, yā́, yát> who, which -- 10.167
+yamám
+noun; accusative singular masculine of <yamá> twin, Yama -- 9.82
+yás
+relative pronoun; nominative singular masculine of <yás, yā́, yát> who, which -- 2.132, 6.9, 6.52, 8.13, 8.37, 10.121, 10.138
+yásya
+relative pronoun; genitive singular masculine of <yás, yā́, yát> who, which -- 6.14, 7.103
+yā́
+relative pronoun; nominative singular feminine of <yás, yā́, yát> who, which -- 4.53, 4.70
+yā́t
+adverb; <yā́t> so far as, in as much as -- 6.119
+yāti
+verb; 3rd person singular active present of <√yā, yā́ti> go, travel -- 10.161
+yāmas
+verb; 1st person plural active present of <√yā, yā́ti> go, travel -- 3.66
+yugā́ni
+noun; nominative plural neuter of <yugá> generation -- 3.107
+yudhás
+noun; ablative singular feminine of <yúdh> fighting -- 10.159
+yuyuyā́tām
+verb; 3rd person dual active optative of <√yu, yuyóti> keep away -- 5.86
+yuyóta
+verb; 2nd person plural active imperative of <√yu, yuyóti> keep away -- 5.136
+yuyótana
+verb; 2nd person plural active imperative of <√yu, yuyóti> keep away -- 5.126
+yuvanyū́n
+adjective; accusative plural masculine of <yuvanyú> ever young -- 8.58
+yé
+relative pronoun; nominative plural masculine of <yás, yā́, yát> who, which -- 6.92
+yéna
+relative pronoun; instrumental singular neuter of <yás, yā́, yát> who, which -- 2.14
+yemá
+see ví yemá
+yemur
+see ánu yemur
+yótave
+infinitive; dative infinitive from <√yu, yuyóti> keep away -- 5.27
+yónim
+noun; accusative singular masculine of <yóni> home -- 3.9
+rakṣati
+see abhí rakṣati
+rakṣate
+see abhí rakṣate
+rákṣasi
+verb; 2nd person singular active present of <√rakṣ, rákṣati> protect -- 7.8
+rájāṃsi
+noun; accusative plural neuter of <rájas> airy space, dark region -- 2.55, 2.105
+ratnabhā́jas
+adjective; genitive singular feminine of <ratnabhā́j> dispensing treasure -- 4.80
+rátnam
+noun; accusative singular neuter of <rátna> treasure -- 4.58
+rápas
+noun; accusative singular neuter of <rápas> sickness -- 5.88
+rámadhvam
+verb; 2nd person plural middle imperative of <√ram, rámate> rest, stay -- 3.27
+rayím
+noun; accusative singular masculine of <rayí> possession, treasure -- 8.118
+rājati
+verb; 3rd person singular active present of <√rāj, rā́jati> rule, shine -- 2.92
+rā́jā
+noun; nominative singular masculine of <rā́jan> king, ruler -- 1.8
+rā́dhas
+noun; accusative singular neuter of <rā́dhas> favour, gift -- 4.96
+rā́yas
+noun; nominative plural masculine of <rayí> possession, treasure -- 1.57
+rāyé
+noun; dative singular masculine of <rayí> possession, treasure -- 8.61, 8.81
+rāsva
+verb; 2nd person singular middle aorist imperative of <√rā> grant -- 4.107
+riricé
+see áti riricé
+riśādasas
+adjective; vocative plural masculine of <riśā́das> benign -- 10.9
+riṣás
+noun; ablative singular feminine of <ríṣ> harm -- 1.41
+rudrásya
+noun; genitive singular masculine of <rudrá> Rudra -- 8.56
+ruvántam
+participle; accusative singular masculine present active participle of <√ru, ruváti> roar -- 8.31
+rūpā́
+noun; accusative plural neuter of <rūpá> form -- 8.17
+rocanā́
+noun; accusative plural neuter of <rocaná> sphere of light -- 2.108
+ródasī
+noun; accusative dual feminine of <ródas> world -- 8.42
+vakṣáṇāsu
+noun; locative plural feminine of <vakṣáṇā> fertile place -- 8.16
+vácas
+noun; accusative singular neuter of <vácas> word, speech -- 3.99, 7.41
+vácase
+noun; dative singular neuter of <vácas> word, speech -- 3.29
+vájrabāhus
+adjective; nominative singular masculine of <vájrabāhu> weapon-armed -- 3.54
+vájreṇa
+noun; instrumental singular masculine of <vájra> weapon -- 3.84
+vada
+verb; 2nd person singular active imperative of <√vad, vádati> speak -- 9.48
+vadema
+verb; 1st person plural active optative of <√vad, vádati> speak -- 9.70
+vadhīt
+see út vadhīt
+vananvati
+noun; vocative singular feminine of <vánanvant> lovely -- 4.57
+vánaspátīn
+noun; accusative plural masculine of <vánaspáti> forest lord, tree -- 8.79
+vayám
+personal pronoun; nominative of <vayám> we -- 3.6, 3.64, 4.82, 7.92, 10.233
+vayúnavat
+adjective; accusative singular neuter of <vayúnavant> possessing distinction, certainty -- 6.34
+várāya
+noun; dative singular masculine of <vára> wish -- 6.69, 10.140
+varivovídas
+adjective; nominative plural masculine of <varivovíd> providers of space -- 10.102
+varuṇa
+noun; vocative singular masculine of <váruṇa> Varuna -- 10.118
+váruṇas
+noun; nominative singular masculine of <váruṇa> Varuna -- 1.63, 10.165
+váreṇyas
+adjective; nominative singular masculine of <váreṇya> beloved -- 10.54
+vartayāmasi
+see ā́ vartayāmasi
+vártave
+infinitive; dative infinitive from <√vr̥, vr̥ṇóti> contain, hinder -- 3.13
+vaśī́
+adjective; nominative singular masculine of <vaśín> having sway -- 2.133
+vas
+personal pronoun; accusative/dative/genitive enclitic form of <yūyám> you (pl.) -- 10.7, 10.29, 10.34, 10.49, 10.68, 10.110, 10.122, 10.139, 10.235
+vasavas
+adjective; vocative plural masculine of <vásu> good, beneficent -- 10.236
+vasutvanám
+noun; accusative singular neuter of <vasutvaná> prosperity -- 4.119
+vásyasā-vasyasā
+iterative compound; <vásyasā-vasyasā> with better and better -- 7.118
+vahatam
+see ā́ vahatam
+váhasi
+verb; 2nd person singular active present of <√vah, váhati> conduct, bring -- 4.54
+vā
+conjunction; <vā> or -- 10.214, 10.225
+vā́cam
+noun; accusative singular feminine of <vā́c> voice, speech -- 9.9
+vā́jasātaye
+noun; dative singular feminine of <vā́jasāti> lit. strength-winning -- 10.74
+vā́jān
+noun; accusative plural masculine of <vā́ja> power, strength -- 4.120
+vā́tas
+noun; nominative singular masculine of <vā́ta> wind -- 5.107
+vātu
+verb; 3rd person singular active imperative of <√vā, vā́ti> blow -- 5.108
+vāmásya
+noun; genitive singular neuter of <vāmá> dear, beloved thing -- 10.32
+vā́ryam
+noun; accusative singular neuter of <vā́rya> choice (thing), precious gift -- 2.8
+ví caṣṭe
+verb; 3rd person singular middle present of <√cakṣ, cáṣṭe> see + preverb <ví> apart -- 1.17
+ví jaghāna
+verb; 3rd person singular active perfect of <√han, hánti> strike, destroy + preverb <ví> apart -- 3.86
+ví naśyatu
+verb; 3rd person singular active imperative of <√naś, náśyati> be lost + preverb <ví> apart -- 10.194
+ví yemá
+verb; 2nd person plural active perfect of <√yam, yáchati> extend, stretch out + preverb <ví> apart -- 10.231
+ví
+preverb; <ví> apart -- 10.135
+vikṣú
+noun; locative plural feminine of <víś> settlement, folk -- 6.63
+vicakṣaṇa
+adjective; vocative singular masculine of <vicakṣaṇá> far-sighted, discerning -- 7.84
+vicakṣaṇás
+adjective; nominative singular masculine of <vicakṣaṇá> far-sighted, discerning -- 2.39
+vidat
+verb; 3rd person singular active aorist injunctive of <√vid, vindáti> find -- 9.22, 9.38
+vidáthe
+noun; locative singular neuter of <vidátha> confident knowledge, wise judgement -- 9.71
+vídānas
+participle; nominative singular masculine perfect middle participle of <√vid, véda> know -- 6.10
+vidúr
+verb; 3rd person plural active perfect of <√vid, véda> know -- 5.25
+vidmá
+verb; 1st person plural active perfect of <√vid, véda> know -- 6.121
+vidyútā
+noun; instrumental singular feminine of <vidyút> lightning flash -- 8.41
+vindate
+verb; 3rd person singular middle present of <√vid, vindáti> find -- 10.158
+vípras
+noun; nominative singular masculine of <vípra> poet -- 3.17
+vivr̥ścát
+verb; 3rd person singular active imperfect of <√vraśc, vr̥ścáti> cut up + preverb <ví> apart -- 3.83
+viveśa
+see ā́ viveśa
+viśánte
+see ní viśánte
+víśvam
+adjective; accusative singular neuter of <víśva> all -- 1.15, 9.193
+viśvavedasas
+noun; vocative plural masculine of <viśvávedas> all-knowing one -- 5.146, 10.35, 10.212, 10.237
+víśvasya
+adjective; genitive singular masculine of <víśva> all -- 7.5
+víśvā
+adjective; nominative plural neuter of <víśva> all -- 7.105
+víśvāni
+adjective; accusative plural neuter of <víśva> all -- 8.122
+víśvās
+adjective; accusative plural feminine of <víśva> all -- 1.32
+viśvā́hā
+adverb; <viśvā́hā> always -- 7.58
+víśve
+adjective; nominative plural masculine of <víśva> all -- 10.90
+víśvyā
+indeclinable; <víśvyā> anywhere -- 9.21
+vīra
+noun; vocative singular masculine of <vīrá> hero, man, strong son -- 6.117
+vīrás
+noun; nominative singular masculine of <vīrá> hero, man, strong son -- 9.40
+vīrā́n
+noun; accusative plural nominative of <vīrá> hero, man, strong son -- 8.121
+vīryàm
+noun; accusative singular neuter of <vīryà> heroic deed, manly strength -- 3.77
+vr̥ṇīmáhe
+verb; 1st person plural middle present of <√vr̥, vr̥ṇīté> choose, accept -- 2.10
+vr̥trám
+noun; accusative singular masculine of <vr̥trá> hindrance, demon, Vritra -- 3.56
+véviṣatas
+participle; genitive singular masculine present active intensive participle of <√viṣ, viveṣṭi> be active -- 6.86
+vaivasvatám
+adjective; accusative singular masculine of <vaivasvatá> son of Vivasvat -- 9.83
+vaíśvānara
+noun; vocative singular masculine of <vaiśvānará> for all men, universal -- 1.51
+vaiśvānarás
+noun; nominative singular masculine of <vaiśvānará> for all men, universal -- 1.18, 1.35
+vaiśvānarásya
+noun; genitive singular masculine of <vaiśvānará> for all men, universal -- 1.5
+vocata
+see prá vocata
+vyayati
+see ápa vyayati
+vyúṣi
+noun; locative singular feminine of <vyúṣ> brightening -- 4.35
+vratám
+noun; accusative singular neuter of <vratá> holy law, divine commandment -- 7.9
+vratā́ni
+noun; accusative plural neuter of <vratá> holy law, divine commandment -- 2.81
+vrataís
+noun; instrumental plural neuter of <vratá> holy law, divine commandment -- 2.115
+śáṃtāti
+adjective; accusative singular neuter of <śáṃtāti> blessed -- 5.66
+śaṃsāmi
+see prá śaṃsāmi
+śakune
+noun; vocative singular masculine of <śakúni> (a kind of bird) -- 9.15
+śakunte
+noun; vocative singular masculine of <śakúnti> (a kind of bird) -- 9.62
+śám
+indeclinable; <śám> blessing, blessed -- 5.82, 5.98, 5.102, 5.106, 6.68, 7.127
+śárum
+noun; accusative singular feminine of <śáru> arrow -- 5.137
+śárdhas
+noun; accusative singular neuter of <śárdhas> troop -- 8.54
+śárma
+noun; accusative singular neuter of <śárman> refuge, shelter -- 2.138, 5.157
+śaśvadhā́
+adverb; <śaśvadhā́> evermore -- 3.76
+śū́ne
+noun; locative singular neuter of <śū́na> lack, want -- 7.43
+śr̥ṇvantu
+verb; 3rd person plural active imperative of <√śru, śr̥ṇóti> hear -- 7.38
+śyenás
+noun; nominative singular masculine of <śyená> eagle -- 9.32
+śrávas
+noun; accusative singular neuter of <śrávas> fame -- 4.116
+śrútyā
+noun; accusative plural neuter of <śrútya> deed worthy of fame -- 6.114
+ślókam
+noun; accusative singular masculine of <ślóka> song of praise -- 2.58
+saṃdŕ̥śi
+noun; locative singular feminine of <saṃdŕ̥ś> sight -- 7.46
+saṃsthé
+preposition; <saṃsthé> in amongst -- 10.113
+sákhāyas
+noun; nominative plural masculine of <sákhi> friend -- 6.91
+sacantām
+verb; 3rd person plural middle imperative of <√sac, sácate> accompany -- 1.59
+sácā
+adverb; <sácā> at the same time -- 4.28
+sajātyàm
+noun; nominative singular neuter of <sajātyà> kinship -- 10.8
+sajóṣasas
+adjective; nominative plural masculine of <sajóṣas> accordant -- 10.169
+satyám
+adjective; nominative singular neuter of <satyá> true -- 1.54
+sadā́vr̥dhā
+adjective; nominative singular feminine of <sadā́vr̥dha> ever-beneficent -- 5.49
+sám gamema
+noun; 1st person plural active aorist optative of <√gam, gáchati> go + preverb <sám> together -- 8.116
+sám gamemahi
+verb; 1st person plural middle aorist optative of <√gam, gáchati> go + preverb <sám> together -- 4.39
+sámanyavas
+adjective; nominative plural masculine of <sámanyu> of the same mind -- 10.89
+samudrám
+noun; accusative singular masculine of <samudrá> gathering place of waters, sea -- 9.136
+sárātayas
+adjective; nominative plural masculine of <sárāti> giving together -- 10.92, 10.166
+sárgataktas
+adjective; nominative singular masculine of <sárgatakta> (lit.) outpouring-rushed -- 3.15
+sárvas
+adjective; nominative singular masculine of <sárva> whole, all -- 10.147
+savitā́
+noun; nominative singular masculine of <savitŕ̥> enlivener, Savitar -- 2.44, 2.65, 2.83, 2.102, 2.137, 3.61, 10.50
+savitúr
+noun; genitive singular masculine of <savitŕ̥> enlivener, Savitar -- 2.7
+sávīmani
+noun; locative singular neuter of <sávīman> bringing to life -- 2.66
+sás
+demonstrative pronoun; nominative singular masculine of <sás, sā́, tát> that; he, she, it -- 1.38, 2.134, 6.28, 6.55, 6.74, 10.132, 10.157
+sáhasā
+noun; instrumental singular neuter of <sáhas> might -- 1.36
+sā́
+demonstrative pronoun; nominative singular feminine of <sás, sā́, tát> that; he, she, it -- 5.65, 10.192
+sākám
+preposition; <sākám> together -- 10.91
+síndhum
+noun; accusative singular masculine/feminine of <síndhu> river -- 3.36
+síndhus
+noun; nominative singular masculine/feminine of <síndhu> river -- 1.66
+sú
+particle; <sú> well, surely -- 5.155, 8.5
+sugébhis
+adjective; instrumental plural neuter of <sugá> good passage -- 10.160
+sucákṣasas
+adjective; nominative plural masculine of <sucákṣas> well-sighted -- 7.61
+sudānavas
+adjective; vocative plural masculine of <sudā́nu> generous, liberal -- 5.165
+suparṇás
+adjective; nominative singular masculine of <suparṇá> finely-plumed -- 9.35
+supāṇís
+adjective; nominative singular masculine of <supāṇí> lovely-handed -- 3.62
+supraṇītayas
+adjective; vocative plural masculine of <supráṇīti> guiding safely -- 10.51
+supráṇītī
+noun; instrumental singular feminine of <supráṇīti> safe guidance -- 8.115
+sumaṅgálas
+adjective; nominative singular masculine of <sumaṅgála> auspicious, bringing luck -- 9.13, 9.46, 9.60
+sumataú
+noun; locative singular feminine of <sumatí> good thought, favour -- 1.6
+sumánasas
+adjective; nominative plural masculine of <sumánas> good-minded, well-disposed -- 7.60
+sumnám
+noun; accusative singular neuter <sumná> favour, boon -- 2.45
+sumnā́ya
+noun; dative singular neuter of <sumná> favour, boon -- 10.18
+suvitā́ya
+noun; dative singular neuter of <suvitá> well-being -- 10.15
+suvī́rās
+adjective; nominative plural masculine of <suvī́ra> of good manhood -- 9.72
+suśaraṇā́ya
+noun; dative singular masculine of <suśaraṇá> good shelterer, good protector -- 8.7
+suśármabhis
+adjective; instrumental plural masculine of <suśárman> of good shelter, tutelary -- 5.13
+suṣṭutís
+noun; nominative singular feminine of <suṣṭutí> fine hymn of praise -- 8.29
+susaraṇám
+noun; accusative singular neuter of <susaraṇá> good passage -- 10.185
+suhávas
+adjective; nominative singular masculine of <suháva> easily invoked -- 8.84
+sūnárī
+noun; nominative singular feminine of <sūnárī> fair lady -- 4.17
+sūnávas
+noun; nominative plural masculine of <sūnú> son -- 4.86
+sūnús
+noun; nominative singular masculine of <sūnú> son -- 3.43
+sūnū́n
+noun; accusative plural masculine of <sūnú> son -- 8.57
+sūnŕ̥tāvatī
+adjective; nominative singular feminine of <sūnŕ̥tāvant> possessing joy, joyous -- 4.125
+sūríbhis
+noun; instrumental plural masculine of <sūrí> prince -- 5.11
+sūríbhyas
+noun; dative plural masculine of <sūrí> prince -- 4.117
+sūrya
+noun; vocative singular masculine of <sū́rya> sun -- 7.17, 7.72, 7.95, 7.115, 7.141
+sū́ryam
+noun; accusative singular masculine of <sū́rya> sun -- 9.170
+sū́ryas
+noun; nominative singular masculine of <sū́rya> sun -- 4.27, 5.105
+sū́ryasya
+noun; genitive singular masculine of <sū́rya> sun -- 4.36, 7.45
+sū́rye
+noun; locative singular masculine of <sū́rya> sun -- 10.204
+sū́ryeṇa
+noun; instrumental singular masculine of <sū́rya> sun -- 1.20, 6.33
+sr̥jate
+see út sr̥jate
+sedhata
+see ápa sedhata
+somyā́ya
+adjective; dative singular neuter of <somyá> inspired -- 3.30
+saúbhagāni
+noun; accusative plural neuter of <saúbhaga> gift of fortune -- 8.124
+stanáyantam
+participle; accusative singular masculine present active causative participle of <√stan> thunder -- 8.30
+stuṣe
+verb; 1st person singular middle present of <√stu, stuṣé> praise -- 6.7
+stuhi
+see úpa stuhi
+stenás
+noun; nominative singular masculine of <stená> thief -- 9.65
+stómas
+noun; nominative singular masculine of <stóma> eulogy -- 8.52, 8.76
+sthātúr
+noun; genitive singular neuter of <sthātŕ̥> stander, standing world -- 2.130
+stheyāma
+see úpa stheyāma
+spārhám
+adjective; accusative singular neuter of <spārhá> desirable -- 4.56
+smát
+preposition; <smát> together with -- 5.10
+smā
+particle; <sma, smā> indeed -- 10.87
+syás
+demonstrative pronoun; nominative singular masculine of <syás, syā́, tyát> that -- 10.48
+syā́
+demonstrative pronoun; nominative singular feminine of <syás, syā́, tyát> that -- 5.58
+syāma
+verb; 1st person plural active optative of <√as, ásti> be -- 1.7, 4.83, 8.103
+srídham
+noun; accusative singular feminine of <srídh> failure, misfortune -- 5.122
+srídhas
+noun; accusative plural feminine of <srídh> failure, misfortune -- 4.128, 5.70, 5.90, 5.111
+svadhāvas
+noun; vocative singular masculine of <svadhā́vant> possessing inherent power, self-powerful -- 6.44
+svadhā́s
+noun; accusative plural feminine of <svadhā́> inherent power -- 7.12
+svàr
+noun; accusative singular neuter of <svàr> sunlight, heaven -- 4.76
+svastí
+noun; instrumental singular feminine of <svastí> wellbeing -- 8.64
+svā́ya
+possessive pronoun; dative singular neuter of <svá> own -- 2.61
+svit
+enclitic particle; <svit> pray? -- 6.57
+harikeśa
+adjective; vocative singular masculine of <hárikeśa> gold-tressed -- 7.114
+havate
+verb; 3rd person singular middle of <√hū, hávate> invoke, call upon -- 8.62
+hávam
+noun; accusative singular masculine of <háva> call -- 7.40
+hí
+particle; <hí> for, because -- 1.9, 5.22, 6.84, 7.6, 10.6, 10.28, 10.86
+himā́
+noun; instrumental singular masculine of <himá> cold, frost -- 7.134
+huvema
+verb; 1st person plural active optative of <√hū, hávate> invoke, call upon -- 10.73
+hótā
+noun; nominative singular masculine of <hótr̥> celebrant -- 6.75

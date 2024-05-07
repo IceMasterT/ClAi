@@ -1,0 +1,1044 @@
+Ancient Sanskrit Online
+Base Form Dictionary
+Jonathan Slocum and Karen Thomson
+This Base Forms Dictionary index lists, in an alphabetical order suitable to Ancient Sanskrit and the script employed for it, every unique base form underlying one or more surface (word) forms in lesson texts. For each base form a general meaning (if any) is shown, along with links to every usage, in every numbered lesson, of the associated surface forms. With this index, one may click on any link to perform a quick "usage look-up," and thereby study how surface forms in texts are constructed from base forms.
+
+Two points should be noted: (1) the usual practice of Sanskrit dictionaries is to arrange ṃ and ḥ according to the original sounds that they replace. In this glossary they consistently occupy their alphabetical position immediately preceding the consonants; (2) translations that are debated are in italics.
+
+Note: this page is for systems/browsers with Unicode® support and fonts spanning the Unicode 3 character set relevant to (Romanized) Sanskrit. Versions of this page rendered in alternate character sets are available via links (Romanized and Unicode 2) in the upper-left margin.
+<a->   (reverses meaning)   --
+7.10, 10.193
+<√aṃś, aśnóti>   reach   --
+7.50, 8.36, 8.59, 8.82
+<áṃhas>   trouble   --
+2.143, 5.48, 5.128
+<aṃhú>   narrowness, anxiety   --
+5.28
+<aktú>   twilight ray   --
+2.23, 2.69, 7.112
+<agní>   fire, Agni   --
+1.30, 1.37, 5.99, 5.100
+<agháśaṃsa>   of wicked praise   --
+9.68
+<ácha>   towards   --
+3.37, 8.55
+<ájma>   course, path   --
+2.91
+<ájra>   plain, flatland   --
+10.177
+<áti>   beyond   --
+6.19
+<ádābhya>   not to be deceived   --
+2.78
+<áditi>   freedom, Aditi   --
+1.65, 5.7, 5.24, 5.39, 5.43, 5.46, 5.62
+<adyá>   on this day, today   --
+7.15, 10.95, 10.203
+<adrúh>   not betraying   --
+10.112
+<ádvayas>   not duplicitous, trustworthy   --
+5.45
+<ádhvan>   way   --
+7.137, 10.162
+<anamīvá>   without sickness   --
+7.63
+<ánāgas>   without guilt   --
+7.64
+<anāgastvá>   guiltlessness, innocence   --
+7.113
+<anibādhá>   liberty   --
+8.102
+<ánu>   after   --
+3.11, 6.115, 7.13, 7.22, 9.43
+<anehás>   incomparable, peerless   --
+5.31
+<antárikṣa>   airy space, atmosphere   --
+2.101, 8.78
+<ánya>   inexhaustible   --
+10.38
+<áp>   water   --
+3.88, 7.36, 9.158
+<ápa>   away   --
+3.55, 4.12, 4.127, 5.69, 5.89, 5.110, 5.119, 5.121, 5.123
+<aparám>   in the future   --
+10.97
+<ápi>   on   --
+3.102
+<abdimánt>   consisting of storm-clouds   --
+8.38
+<abhí>   towards   --
+2.84, 2.117
+<abhipitvá>   homecoming   --
+10.226
+<abhibhā́>   lit. shining-against   --
+9.20
+<abhiśrī́>   sustainer   --
+1.12
+<abhíṣṭi>   being at hand, ready help   --
+10.71
+<ámati>   lack of thought   --
+5.142
+<ámīvā>   affliction   --
+5.120
+<amŕ̥ta>   immortal, undying   --
+4.118, 6.39, 8.123
+<áyana>   going, course   --
+3.89
+<ayám, iyám, idám>   this   --
+1.16, 8.20, 9.194, 10.179, 10.188
+<ayā́s>   nimble   --
+8.67
+<arapás>   without sickness, wholesome   --
+5.109
+<aritŕ̥>   oarsman   --
+9.10
+<áriṣṭa>   unharmed   --
+10.146
+<áriṣṭabharman>   (lit.) of unbroken-support   --
+5.8
+<arká>   song of praise, eulogy   --
+6.71
+<√arc, árcati>   praise   --
+6.116
+<arcivánt>   possessing rays, flaming   --
+4.31
+<arṇavá>   billowing, foaming   --
+9.137
+<arthín>   purposeful   --
+10.57
+<aryamán>   Aryaman   --
+10.163
+<áva>   down   --
+9.57
+<avamá>   lowest, most recent   --
+6.97
+<avayuná>   without distinction, without certainty   --
+6.31
+<ávara>   lower, more recent   --
+6.109
+<ávas>   help   --
+8.112, 10.69
+<avasyú>   desiring help   --
+3.40
+<aśáni>   thunderbolt   --
+10.189
+<aśvín>   horseman, Ashvin   --
+5.85, 8.111
+<√as, ásti>   be   --
+1.7, 1.55, 4.83, 6.89, 7.138, 8.103, 10.5, 10.11
+<ásura>   spiritual lord   --
+2.11, 10.227
+<ástr̥>   shooter, hunter   --
+9.41
+<áhan>   day, daylight   --
+7.132
+<ahám>   I   --
+3.28, 8.63, 8.86
+<áhi>   snake, dragon   --
+3.82
+<áhnā-ahnā>   with repeated daylight   --
+7.116
+<ā́>   (intensifies or reverses meaning)   --
+1.34, 2.41, 2.54, 3.105, 4.7, 4.97, 5.9, 5.64, 6.61, 7.88, 8.119, 9.89, 10.37
+<ā́>   from, in   --
+5.139, 10.184, 10.240
+<ādityá>   of Aditi, son of Aditi   --
+5.125, 5.140, 5.159
+<ā́pya>   alliance   --
+10.12
+<āhanás>   abundantly productive   --
+8.14
+<√i, éti>   go   --
+3.87, 4.7, 4.29, 7.65, 7.119, 10.205, 10.229
+<íḍ>   refreshment   --
+8.32
+<ít>   indeed, just   --
+4.33, 6.29
+<itás>   from here   --
+1.13, 5.87
+<idā́>   at this moment   --
+6.83, 10.27, 10.31
+<índra>   Indra   --
+3.51, 3.79, 6.8, 6.58, 6.72, 6.113, 7.37
+<√inv, ínvati>   set in motion   --
+2.113
+<iva>   like   --
+9.11, 10.39
+<íṣ>   refreshment   --
+10.137
+<√iṣ, icháti>   long for, desire   --
+3.90
+<√iṣ, íṣyati>   send   --
+7.7
+<íṣumant>   bearing arrows   --
+9.39
+<ihá>   here, here on earth   --
+9.49, 9.90
+<√īś, ī́śe>   have mastery over   --
+9.66
+<u>   and, now   --
+4.5, 6.6, 10.47
+<ukthá>   holy song   --
+3.108
+<ukthyà>   worthy of holy song   --
+2.46
+<√ukṣ, ukṣáte>   sprinkle   --
+8.43
+<út>   up   --
+2.21, 4.26, 4.29, 7.11, 7.65, 7.119, 8.59, 9.33, 10.52, 10.205
+<utá>   and   --
+1.68, 5.57, 5.78, 5.141, 6.94, 6.96, 8.120
+<úttara>   higher, future   --
+3.106
+<udanimánt>   rich in water   --
+8.39
+<úpa>   up to   --
+3.32, 7.18, 8.65, 10.37, 10.238
+<úpastuti>   paean of praise   --
+10.30, 10.114
+<ubháya>   both   --
+2.131
+<urú>   broad, spacious   --
+2.42, 3.67, 8.100
+<urucákri>   (lit.) space-making   --
+5.30
+<uṣás>   dawn   --
+4.34, 4.50, 4.98, 4.126, 9.172
+<usríyā>   beam   --
+4.25
+<ūtí>   help   --
+5.63
+<ūrdhvá>   upright, straight   --
+10.53
+<√r̥, íyarti>   go, send   --
+7.109, 8.40, 9.8
+<r̥tá>   Truth   --
+10.207, 10.228
+<r̥tā́van>   possessed of Truth, holy   --
+3.31
+<r̥té>   without   --
+10.156
+<ŕ̥dhak>   separately, on one side   --
+5.143
+<√edh, édhate>   thrive   --
+10.148
+<énas>   sin   --
+5.164
+<énasvant>   possessing sin   --
+5.162
+<enā́>   in this way   --
+3.5
+<evá>   so, just   --
+6.120
+<éva>   going, course   --
+3.34
+<eṣás, eṣā́, etát>   this   --
+3.98, 8.51, 8.75, 10.186
+<óṣadhi>   plant   --
+1.33, 8.80, 9.160
+<katamás, katamā́, katamát>   who, which (of many)   --
+6.73
+<kadā́>   when?   --
+6.36
+<kam>   indeed   --
+1.10
+<kárman>   act, deed   --
+3.80
+<kaví>   sage   --
+2.38
+<kás, kā́, kát, kím>   who, which, what?   --
+6.59, 6.62, 6.64, 6.70, 9.19
+<kā́ma>   longing   --
+8.60
+<kārú>   bard   --
+3.109
+<√kāś, cā́kaśīti>   observe, pay attention to   --
+2.80
+<kiṃyú>   what-desiring?   --
+3.16
+<kuśiká>   Kushika   --
+3.42
+<kúha>   where?   --
+6.56
+<√kr̥, kr̥ṇóti>   do, make   --
+2.60, 3.114, 4.16, 4.71, 5.68, 5.84, 5.101, 5.145, 6.35, 6.54, 8.19, 10.180
+<ketú>   appearance, shining out, ray   --
+7.107
+<krátu>   power, intellectual ability   --
+7.23
+<√krand, krándati>   cry out   --
+9.5, 9.45, 9.57
+<kṣáya>   home   --
+2.141, 9.91, 10.133
+<√khyā>   look upon   --
+4.74
+<√gam, gáchati>   go   --
+4.39, 5.9, 5.64, 8.116, 9.85
+<gír>   song   --
+6.12, 8.9
+<gírvāhas>   brought by song   --
+6.11
+<√gr̥, gr̥ṇā́ti>   sing   --
+10.75
+<gr̥há>   house   --
+9.59
+<gómant>   consisting of cattle   --
+4.122
+<√ghuṣ, ghóṣate>   sound   --
+3.105
+<ghr̥ṇá>   warmth   --
+7.135
+<ca>   and   --
+4.37, 7.108, 7.110, 9.14, 9.217, 9.219
+<√cakṣ, cáṣṭe>   see   --
+1.17
+<cákṣas>   seeing, sight   --
+4.13, 7.130
+<cákṣuṣe-cakṣuṣe>   to every eye   --
+7.86
+<catúr>   four   --
+9.125
+<cáturbhr̥ṣṭi>   four-cornered   --
+9.115
+<cátuṣpad>   four-footed   --
+10.56
+<√car, cárati>   move   --
+3.11, 6.61, 7.11
+<cit>   even, all   --
+5.29, 5.163, 9.19, 10.178, 10.183, 10.187
+<citrá>   bright, radiant   --
+4.95, 7.144
+<codayitrī́>   rouser   --
+4.123
+<chardís>   protection, shield   --
+2.13, 10.230
+<jágat>   moving world   --
+2.70, 2.129, 9.195
+<√jan, jánati>   produce, create, bear   --
+1.14, 2.43
+<jána>   person, people   --
+6.60
+<janús>   descent, kind   --
+9.6
+<jaraṇā́>   old age   --
+7.49
+<jaritŕ̥>   singer   --
+3.100, 8.34
+<√jā, jā́yate>   be born   --
+8.12, 10.143
+<jīrá>   eager   --
+4.51
+<√jīv, jī́vati>   be alive   --
+7.48, 9.92
+<jīvá>   alive, living   --
+7.70, 7.93
+<√juṣ, juṣáte>   enjoy   --
+3.111
+<jyók>   for a long time   --
+7.69
+<jyótis>   light   --
+4.15, 7.81
+<tát>   then   --
+9.87, 10.234
+<√tan, tanute>   stretch, stretch out   --
+6.32
+<√tap, tápati>   heat, warm   --
+5.104
+<támas>   darkness   --
+4.14, 6.30
+<tā́t>   so   --
+6.122
+<tisŕ̥>   three   --
+2.109, 2.112
+<tú>   then, but   --
+10.99
+<túc>   offspring   --
+10.98
+<√tr̥̄, tiráti>   cross   --
+10.134
+<tmán>   nature, self   --
+2.17, 2.118
+<√trā>   rescue, protect   --
+10.168
+<trí>   three   --
+2.104, 2.107, 2.114
+<trivárūtha>   with threefold protection   --
+2.142
+<trís>   thrice   --
+2.100
+<tvám>   you   --
+1.52, 3.104, 3.117, 4.32, 4.47, 4.79, 4.102, 6.37, 6.65, 6.85, 6.112, 6.123, 7.16, 7.59, 7.66, 7.83, 7.104, 9.18, 9.31, 9.37, 9.81, 9.88, 9.101, 9.113, 9.124, 9.135, 9.146, 9.157, 9.169, 9.181, 9.192, 9.204, 9.215
+<dakṣiṇatás>   from the right side   --
+9.58
+<√dāś, dā́śati>   worship   --
+10.141
+<dāśvā́ṃs>   the one worshipping   --
+2.15, 4.60, 10.232
+<dívā>   by day   --
+1.40, 5.41, 5.60
+<divé-dive>   day after day   --
+7.68
+<divyá>   heavenly   --
+2.56
+<dīrghaśrúttama>   most widely known, famed   --
+4.100
+<duroṇá>   home   --
+7.139
+<durgá>   hard way   --
+10.182
+<durmatí>   bad thought, envy   --
+5.124, 8.91
+<duhitŕ̥>   daughter   --
+4.9, 4.48, 4.104, 8.15
+<dūrakám>   far away   --
+9.86
+<√dr̥ś>   see, appear   --
+4.6, 4.77
+<devá>   divine, god   --
+2.6, 2.22, 2.59, 2.82, 2.136, 3.59, 5.5, 7.21, 8.101, 10.10, 10.85
+<deváṃ-devam>   god after god   --
+10.67, 10.70, 10.72
+<devákr̥ta>   god-made   --
+3.10
+<devī́>   divine, goddess   --
+4.75, 5.6, 10.76
+<devó-devas>   god after god   --
+8.83
+<daívya>   divine   --
+5.80
+<dyā́vāpr̥thivī́>   Heaven and Earth   --
+7.33
+<dyú, dív>   sky, heaven, day   --
+1.29, 1.69, 2.31, 2.110, 4.10, 4.49, 4.103, 6.15, 9.102, 10.216
+<dráviṇa>   provision   --
+7.142
+<drāpí>   mantle   --
+2.36
+<dvipád>   two-footed   --
+10.55
+<dvéṣas>   hatred   --
+5.26, 5.144
+<dhartŕ̥>   supporter, upholder   --
+2.32
+<dhárman>   support, fixed order   --
+2.62, 10.144
+<√dhā, dádhāti>   place, grant   --
+7.143, 8.92, 10.208
+<dhā́man>   foundation, just law, precept   --
+6.40, 10.123
+<dhī́>   thought   --
+10.77
+<dhūrtí>   injury   --
+10.117
+<dhr̥távrata>   whose command is firm   --
+2.89
+<ná>   like   --
+4.59, 4.85
+<ná>   not   --
+3.12, 6.42, 10.115
+<náktam>   by night   --
+1.43, 5.44
+<nákṣatra>   star   --
+4.30
+<nadī́>   stream   --
+3.18, 3.58
+<námas>   honour   --
+3.116
+<namasyú>   honouring   --
+10.36
+<návyāṃs>   newer   --
+8.11, 10.19
+<√naś, náśyati>   be lost   --
+10.194
+<ní>   down   --
+2.67, 3.114, 7.111, 10.58
+<nimrúc>   setting, sunset   --
+10.210
+<nivéśana>   the source of rest   --
+2.128
+<√nī, náyati>   lead, conduct   --
+3.60
+<nú>   now   --
+10.191
+<nū́tana>   now existing   --
+6.95, 8.113
+<nūnám>   now   --
+8.35
+<naú>   boat   --
+9.12
+<nyáñcana>   downward slope   --
+10.181
+<patayiṣṇú>   flying   --
+10.59
+<páti>   lord   --
+8.33
+<páyas>   fruitfulness, plenty   --
+3.7
+<pára>   former, farther   --
+6.110, 9.205
+<parás>   in the distance   --
+10.190
+<parāvát>   distance   --
+9.206
+<pári>   around, out of   --
+7.91, 10.145
+<paridhí>   surrounder, imprisoner   --
+3.57
+<paribhū́>   encompassing   --
+2.106
+<pariṣád>   surrounding thing, coil   --
+3.85
+<párvata>   mountain   --
+9.182
+<√paś, páśyati>   see   --
+7.71, 7.94
+<paśú>   cattle   --
+5.42
+<√pā, pā́ti>   protect   --
+1.42, 5.47
+<pā́jas>   radiance, lustre   --
+7.90
+<pā́rthiva>   earthly   --
+2.57
+<pítrya>   of the fathers   --
+9.42
+<piśáṅga>   variegated   --
+2.35
+<√pī, pínvati>   swell, yield abundantly   --
+3.8
+<putrá>   son   --
+5.23
+<purājā́>   born aforetime   --
+6.87
+<purú>   much, many   --
+4.55
+<purukŕ̥t>   doing much   --
+6.90
+<purupriyá>   much loved   --
+5.12
+<purumāyá>   wonderful   --
+6.18
+<puruṣatrā́>   as a man   --
+3.115
+<puruhūtá>   much invoked   --
+6.98
+<pū́rva>   former, previous   --
+10.14
+<pr̥thivī́>   earth   --
+1.31, 1.67, 2.111, 6.17, 8.77, 8.90, 9.104
+<pŕ̥ṣadaśva>   with white-flecked horses   --
+8.66
+<pr̥̄, pr̥ṇā́ti>   fill   --
+2.41
+<prá>   forth   --
+2.64, 2.68, 2.80, 2.85, 3.35, 4.74, 7.7, 7.109, 8.10, 8.36, 8.43, 8.82, 9.7, 10.16, 10.111, 10.134, 10.143
+<prácetas>   mindful   --
+2.12
+<√prach, pr̥cháti>   ask, ask for   --
+1.28, 6.108
+<prajā́>   creature, progeny   --
+2.88, 10.142
+<prajā́pati>   creature-lord, lord of creatures   --
+2.34
+<prajā́vant>   having progeny   --
+7.62
+<práti>   against   --
+2.37, 3.111, 4.6, 4.52, 7.71, 7.94
+<pratná>   ancient   --
+6.88, 6.111
+<√prath, práthate>   spread   --
+2.40
+<pradíś>   direction, region   --
+9.44, 9.126
+<prabúdh>   wakening   --
+10.211
+<pravát>   mountain slope, height   --
+9.148
+<pravā́cya>   to be celebrated   --
+3.75
+<prasavá>   (lit.) forth-impelling   --
+3.14, 3.65
+<prasavītŕ̥>   enlivener   --
+2.127
+<√prā>   fill   --
+2.54
+<priyákṣatra>   ruling benevolently   --
+10.206
+<bāhú>   arm   --
+2.63, 2.86
+<√budh, bódhati>   wake, observe   --
+4.52, 6.99
+<br̥hát>   on high   --
+9.69
+<br̥hátsumna>   lofty-favoured   --
+2.126
+<br̥hánt>   high, lofty   --
+3.38, 7.89, 9.183
+<bráhmavāhas>   brought by prayer   --
+6.118
+<√brū, brávīti>   say   --
+7.18, 9.7
+<bhaktá>   what is apportioned   --
+4.38
+<bhaktí>   distribution   --
+10.33
+<bhadrá>   fortunate, happy   --
+7.47
+<bhadravādín>   of fortunate pronouncement   --
+9.47, 9.61
+<bhānú>   brightness, shining   --
+7.133
+<bhā́svant>   possessing light, brightness   --
+7.85
+<bhiṣáj>   healer   --
+5.81
+<√bhuj, bhuñjáte>   turn to account   --
+4.108
+<bhúvana>   being, existence   --
+1.11, 2.33, 2.79, 2.87, 7.106
+<√bhū, bhávati>   be   --
+7.44, 7.129, 8.85, 9.16, 9.216, 9.218, 10.101
+<bhū́mi>   earth, land   --
+9.114
+<√bhr̥, bhárati>   bring, bear   --
+4.97, 7.82, 8.10
+<√maṃh, máṃhate>   effect, bring about   --
+1.64
+<maṃhánā>   assuredly   --
+4.72
+<makṣū́>   swiftly, soon   --
+10.17
+<maghávan>   gracious   --
+1.58, 4.124
+<matí>   thought   --
+5.61
+<mádhya>   middle   --
+10.239
+<madhyáṃdina>   midday, middle time   --
+10.215
+<madhyamá>   middle, middle one   --
+6.93
+<√man, mányate>   think   --
+7.22
+<mánas>   understanding, spirit   --
+6.67, 9.84
+<manīṣā́>   thought, expression of thought   --
+3.39
+<mánu>   man, mankind   --
+10.88
+<máyas>   happiness   --
+4.61, 5.67, 7.87
+<mayobhū́>   bringing happiness   --
+8.114
+<márīci>   particle of light, gleaming light   --
+9.147
+<marút>   Marut, storm god   --
+7.39
+<márta>   mortal   --
+6.38
+<martabhójana>   mortal sustenance   --
+4.105
+<mártya>   mortal man   --
+10.120
+<máh>   great   --
+2.90, 4.11, 4.73, 7.80, 8.6, 10.136
+<mahán>   greatness   --
+6.16
+<mahánt>   great, mighty   --
+2.9, 2.20, 6.124
+<mahitvá>   greatness, majesty   --
+6.20
+<mahitvaná>   majesty   --
+2.103
+<mā́>   not, that not   --
+3.101, 3.112, 7.42, 8.87, 9.17, 9.30, 9.34, 9.36, 9.63, 9.67
+<mātŕ̥>   mother   --
+4.84, 8.89
+<mā́ruta>   of the storm gods, the Maruts'   --
+8.53
+<mitrá>   friend, Mitra   --
+1.62, 10.119, 10.164
+<mitrámahas>   friend-great, many-friended   --
+7.67
+<√mī, minā́ti>   vary, transgress   --
+6.43, 8.18
+<√muc, muñcáte>   make free   --
+2.37, 5.161
+<muhūrtá>   moment   --
+3.33
+<√mr̥ṣ, mŕ̥ṣyate>   ignore, forget   --
+3.102
+<medhā́>   wise thought   --
+8.8
+<√yaj, yájati>   worship   --
+6.41
+<yajñá>   worship   --
+6.66
+<yajñávr̥ddha>   strengthened by worship   --
+6.13
+<yát>   that, when   --
+3.81, 7.14, 9.80, 9.100, 9.103, 9.112, 9.123, 9.134, 9.145, 9.156, 9.159, 9.168, 9.171, 9.180, 9.191, 9.203, 9.214, 10.202, 10.209, 10.213, 10.224
+<√yat, yátate>   take one's place   --
+1.19
+<yáthā>   as, so that   --
+7.136
+<√yam, yáchati>   extend, stretch out   --
+2.16, 2.21, 2.139, 5.158, 6.115, 10.231
+<yamá>   twin, Yama   --
+9.82
+<yás, yā́, yát>   who, which   --
+2.14, 2.132, 3.103, 4.53, 4.70, 4.99, 4.101, 5.160, 6.9, 6.14, 6.52, 6.92, 7.103, 8.13, 8.37, 10.121, 10.138, 10.167
+<√yā, yā́ti>   approach with longing, solicit   --
+4.81
+<√yā, yā́ti>   go, travel   --
+3.66, 10.161
+<yā́t>   so far as, in as much as   --
+6.119
+<√yu, yuyóti>   keep away   --
+5.27, 5.86, 5.126, 5.136
+<yugá>   generation   --
+3.107
+<yúdh>   fighting   --
+10.159
+<yuvanyú>   ever young   --
+8.58
+<yūyám>   you (pl.)   --
+10.7, 10.29, 10.34, 10.49, 10.68, 10.110, 10.122, 10.139, 10.235
+<yóni>   home   --
+3.9
+<√rakṣ, rákṣati>   protect   --
+2.84, 2.117, 7.8
+<rájas>   airy space, dark region   --
+2.55, 2.105
+<rátna>   treasure   --
+4.58
+<ratnabhā́j>   dispensing treasure   --
+4.80
+<√rad, rádati>   dig   --
+3.53
+<rápas>   sickness   --
+5.88
+<√ram, rámate>   rest, stay   --
+3.27
+<rayí>   possession, treasure   --
+1.57, 8.61, 8.81, 8.118
+<√rā>   grant   --
+4.107
+<√rāj, rā́jati>   rule, shine   --
+2.92
+<rā́jan>   king, ruler   --
+1.8
+<rā́dhas>   favour, gift   --
+4.96
+<√ric, riṇákti>   leave   --
+6.19
+<riśā́das>   benign   --
+10.9
+<ríṣ>   harm   --
+1.41
+<√ru, ruváti>   roar   --
+8.31
+<rudrá>   Rudra   --
+8.56
+<√ruh, róhati>   rise up   --
+7.88
+<rūpá>   form   --
+8.17
+<rocaná>   sphere of light   --
+2.108
+<ródas>   world   --
+8.42
+<vakṣáṇā>   fertile place   --
+8.16
+<√vac>   speak   --
+10.16
+<vácas>   word, speech   --
+3.29, 3.99, 7.41
+<vájra>   weapon   --
+3.84
+<vájrabāhu>   weapon-armed   --
+3.54
+<√vad, vádati>   speak   --
+9.48, 9.70
+<√vadh>   slay   --
+9.33
+<vánanvant>   lovely   --
+4.57
+<vánaspáti>   forest lord, tree   --
+8.79
+<vayám>   we   --
+1.39, 1.56, 1.61, 2.19, 2.116, 2.135, 2.140, 3.6, 3.52, 3.64, 3.110, 3.113, 4.82, 4.121, 5.40, 5.59, 5.83, 5.103, 5.127, 5.138, 5.156, 7.20, 7.32, 7.35, 7.92, 7.117, 7.128, 7.131, 8.21, 8.88, 8.117, 9.64, 10.13, 10.94, 10.100, 10.233
+<vayúnavant>   possessing distinction, certainty   --
+6.34
+<vára>   wish   --
+6.69, 10.140
+<varivovíd>   providers of space   --
+10.102
+<váruṇa>   Varuna   --
+1.63, 10.118, 10.165
+<váreṇya>   beloved   --
+10.54
+<vaśín>   having sway   --
+2.133
+<√vas, ucháti>   shine   --
+4.8, 4.69, 4.127
+<vásu>   good, beneficent   --
+10.236
+<vasutvaná>   prosperity   --
+4.119
+<vásyasā-vasyasā>   with better and better   --
+7.118
+<√vah, váhati>   conduct, bring   --
+4.54, 8.119
+<vā>   or   --
+10.214, 10.225
+<√vā, vā́ti>   blow   --
+5.108
+<vā́c>   voice, speech   --
+9.9
+<vā́ja>   power, strength   --
+4.120
+<vā́jasāti>   lit. strength-winning   --
+10.74
+<vā́ta>   wind   --
+5.107
+<vāmá>   dear, beloved thing   --
+10.32
+<vā́rya>   choice (thing), precious gift   --
+2.8
+<ví>   apart   --
+1.17, 3.83, 3.86, 10.135, 10.194, 10.231
+<vicakṣaṇá>   far-sighted, discerning   --
+2.39, 7.84
+<√vid, vindáti>   find   --
+9.22, 9.38, 10.158
+<√vid, véda>   know   --
+5.25, 6.10, 6.121
+<vidátha>   confident knowledge, wise judgement   --
+9.71
+<vidyút>   lightning flash   --
+8.41
+<√vidh>   pay homage to, honour   --
+10.124
+<vípra>   poet   --
+3.17
+<víś>   settlement, folk   --
+6.63
+<√viś, viśáte>   enter, come to rest   --
+1.34, 2.67, 7.111, 10.58
+<víśva>   all   --
+1.15, 1.32, 7.5, 7.105, 8.122, 9.193, 10.90
+<viśvávedas>   all-knowing one   --
+5.146, 10.35, 10.212, 10.237
+<viśvā́hā>   always   --
+7.58
+<víśvyā>   anywhere   --
+9.21
+<√viṣ, viveṣṭi>   be active   --
+6.86
+<vīrá>   hero, man, strong son   --
+6.117, 8.121, 9.40
+<vīryà>   heroic deed, manly strength   --
+3.77
+<√vr̥, vr̥ṇīté>   choose, accept   --
+2.10
+<√vr̥, vr̥ṇóti>   contain, hinder   --
+3.13
+<√vr̥t, vártate>   turn   --
+9.89
+<vr̥trá>   hindrance, demon, Vritra   --
+3.56
+<vaivasvatá>   son of Vivasvat   --
+9.83
+<vaiśvānará>   for all men, universal   --
+1.5, 1.18, 1.35, 1.51
+<√vyā, vyáyati>   cover   --
+4.12
+<vyúṣ>   brightening   --
+4.35
+<vratá>   holy law, divine commandment   --
+2.81, 2.115, 7.9
+<√vraśc, vr̥ścáti>   cut up   --
+3.83
+<śáṃtāti>   blessed   --
+5.66
+<√śaṃs, śáṃsati>   praise   --
+10.111
+<śakúni>   (a kind of bird)   --
+9.15
+<śakúnti>   (a kind of bird)   --
+9.62
+<śám>   blessing, blessed   --
+5.82, 5.98, 5.102, 5.106, 6.68, 7.127
+<śáru>   arrow   --
+5.137
+<śárdhas>   troop   --
+8.54
+<śárman>   refuge, shelter   --
+2.138, 5.157
+<śaśvadhā́>   evermore   --
+3.76
+<śū́na>   lack, want   --
+7.43
+<śyená>   eagle   --
+9.32
+<śrávas>   fame   --
+4.116
+<√śru, śr̥ṇóti>   hear   --
+7.38
+<śrútya>   deed worthy of fame   --
+6.114
+<ślóka>   song of praise   --
+2.58
+<saṃdŕ̥ś>   sight   --
+7.46
+<saṃsthé>   in amongst   --
+10.113
+<sákhi>   friend   --
+6.91
+<√sac, sácate>   accompany   --
+1.59
+<sácā>   at the same time   --
+4.28
+<sajātyà>   kinship   --
+10.8
+<sajóṣas>   accordant   --
+10.169
+<satyá>   true   --
+1.54
+<sadā́vr̥dha>   ever-beneficent   --
+5.49
+<sám>   together   --
+4.39, 8.116
+<sámanyu>   of the same mind   --
+10.89
+<samudrá>   gathering place of waters, sea   --
+9.136
+<sárāti>   giving together   --
+10.92, 10.166
+<sárgatakta>   (lit.) outpouring-rushed   --
+3.15
+<sárva>   whole, all   --
+10.147
+<savitŕ̥>   enlivener, Savitar   --
+2.7, 2.44, 2.65, 2.83, 2.102, 2.137, 3.61, 10.50
+<sávīman>   bringing to life   --
+2.66
+<sás, sā́, tát>   that; he, she, it   --
+1.38, 1.53, 1.60, 2.5, 2.18, 2.134, 3.63, 3.78, 4.78, 4.94, 4.106, 5.21, 5.65, 5.154, 6.5, 6.28, 6.53, 6.55, 6.74, 6.107, 7.19, 7.31, 7.34, 7.140, 10.93, 10.96, 10.116, 10.132, 10.157, 10.192
+<sáhas>   might   --
+1.36
+<sākám>   together   --
+10.91
+<√sidh, sédhati>   drive away   --
+5.123
+<síndhu>   river   --
+1.66, 3.36
+<sú>   well, surely   --
+5.155, 8.5
+<sugá>   good passage   --
+10.160
+<sucákṣas>   well-sighted   --
+7.61
+<sudā́nu>   generous, liberal   --
+5.165
+<suparṇá>   finely-plumed   --
+9.35
+<supāṇí>   lovely-handed   --
+3.62
+<supráṇīti>   guiding safely   --
+10.51
+<supráṇīti>   safe guidance   --
+8.115
+<sumaṅgála>   auspicious, bringing luck   --
+9.13, 9.46, 9.60
+<sumatí>   good thought, favour   --
+1.6
+<sumánas>   good-minded, well-disposed   --
+7.60
+<sumná>   favour, boon   --
+2.45, 10.18
+<suvitá>   well-being   --
+10.15
+<suvī́ra>   of good manhood   --
+9.72
+<suśaraṇá>   good shelterer, good protector   --
+8.7
+<suśárman>   of good shelter, tutelary   --
+5.13
+<suṣṭutí>   fine hymn of praise   --
+8.29
+<susaraṇá>   good passage   --
+10.185
+<suháva>   easily invoked   --
+8.84
+<sū, suváti>   generate, impel   --
+2.68
+<sūnárī>   fair lady   --
+4.17
+<sūnú>   son   --
+3.43, 4.86, 8.57
+<sūnŕ̥tāvant>   possessing joy, joyous   --
+4.125
+<sūrí>   prince   --
+4.117, 5.11
+<sū́rya>   sun   --
+1.20, 4.27, 4.36, 5.105, 6.33, 7.17, 7.45, 7.72, 7.95, 7.115, 7.141, 9.170, 10.204
+<√sr̥j, sr̥játi>   let go   --
+2.64, 2.85, 4.26, 10.37
+<somyá>   inspired   --
+3.30
+<saúbhaga>   gift of fortune   --
+8.124
+<√stan>   thunder   --
+8.30
+<√stu, stuṣé>   praise   --
+6.7, 8.65
+<stená>   thief   --
+9.65
+<stóma>   eulogy   --
+8.52, 8.76
+<√sthā, tíṣṭhati>   stand   --
+10.52, 10.238
+<sthātŕ̥>   stander, standing world   --
+2.130
+<spārhá>   desirable   --
+4.56
+<sma, smā>   indeed   --
+10.87
+<smát>   together with   --
+5.10
+<syás, syā́, tyát>   that   --
+5.58, 5.79, 10.48
+<srídh>   failure, misfortune   --
+4.128, 5.70, 5.90, 5.111, 5.122
+<√sridh, srédhati>   slip, fail   --
+10.193
+<svá>   own   --
+2.61
+<svadhā́>   inherent power   --
+7.12
+<svadhā́vant>   possessing inherent power, self-powerful   --
+6.44
+<svàr>   sunlight, heaven   --
+4.76
+<svastí>   wellbeing   --
+8.64
+<svit>   pray?   --
+6.57
+<√han, hánti>   strike, destroy   --
+3.55, 3.86
+<hárikeśa>   gold-tressed   --
+7.114
+<háva>   call   --
+7.40
+<hí>   for, because   --
+1.9, 5.22, 6.84, 7.6, 10.6, 10.28, 10.86
+<himá>   cold, frost   --
+7.134
+<√hīḍ>   be hostile   --
+7.10
+<√hū, hávate>   invoke, call upon   --
+3.19, 3.41, 8.62, 10.73
+<hótr̥>   celebrant   --
+6.75

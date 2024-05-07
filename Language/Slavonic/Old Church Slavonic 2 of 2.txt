@@ -1,0 +1,741 @@
+Lesson 10
+
+Todd B. Krause and Jonathan Slocum
+
+There are some OCS manuscripts important for their obvious local characteristics. Among these are the following:
+
+(i) The Ostromir Gospel, from the 11th cent. This is a Cyrillic manuscript of 294 folia containing an evangelistary. The source was presumably East Bulgarian, but the scribe's native Russian shows through in the treatment of certain sounds: ǫ > u; trŭt > tŭrt; tlŭt > tŭlt; trĭt > tĭrt; 3rd. sg. and pl. pres. ending in -tĭ.
+
+(ii) The Prague Fragments, from the 11th cent. The two folia contain translations of liturgical material copied in the Clagolitic script. The linguistic traits are evidently Czech: CS tj, dj > c, z; vĭšěxŭ with -š- for OCS vĭsěxŭ; retention of dl; gen. sg. of ja-stems in -ě.
+
+(iii) The Freising Texts, from the late 10th to early 11th cents. These are three texts found in a Latin codex; the orthography is based on that of Old High German. The texts are a confessional formula, a homily, and a prayer. The language is believed to be somewhere between Slovene and OCS, but has not been precisely characterized.
+
+Reading and Textual Analysis
+
+The following is an excerpt from the Life of Constantine (Cyril). It relates the story of the original request from the Moravian prince to the Byzantine emperor for a priest who could teach the Christian doctrine in their native language. Of course the emperor chose Constantine, and thus began the chain of events which led to the object of study in these lessons.
+
+The following passage has several features which should be pointed out. First there are some simple orthographic conventions: ѡ is often written for о; щ is typical for шт; у may be written for ѹ; ѳ is written for ф. Second, there are important phonological shifts represented in the orthography. In particular, in the dialect of the author or scribe, ǫ was denasalized to u. Thus one finds the first person singular present form могѹ instead of the expected могѫ. Similarly there is loss of the nasal quality of ę, so that ѧ and а merge. This leads to forms such as ѹчитєлѧ for the usual genitive singular ѹчитєл҄ꙗ, as well as ꙗзꙑкъ for the usual ѩзꙑкъ. The third person singular and plural of the present tense also shows the ending -ть rather than -тъ, e.g. имѹть for usual имѫтъ, можєть for usual можєтъ.
+
+Вєсєлѧщѹ жє сѧ ѡ боѕѣ филосоѳу, пакꙑ дрѹгаа рѣчь приспѣ и трѹдъ нє мнєи пръвꙑхъ |
+
+ Collapse All
+
+• вєсєлѧщѹ -- verb; present active participle <вєсєлити, -л҄ѭ, -лиши> entertain; (refl.) rejoice -- while... was rejoicing
+
+• жє -- conjunction; <жє> and, but -- and
+
+• сѧ -- reflexive pronoun; accusative of <сєбє> self -- ...
+
+• ѡ -- preposition; <о> around, concerning; against -- in
+
+• боѕѣ -- noun, masculine; locative singular of <богъ> god -- God
+
+• филосоѳу -- noun, masculine; dative singular of <философъ> philosopher -- the Philosopher
+
+• пакꙑ -- adverb; <пакꙑ> back, again -- ...
+
+• дрѹгаа -- adjective; nominative singular feminine of <дрѹгъ> other -- another
+
+• рѣчь -- noun, feminine; nominative singular of <рѣчь> speech -- request
+
+• приспѣ -- verb; 3rd person singular aorist of <приспѣти, -ѣѭ, -ѣѥши> happen -- came
+
+• и -- conjunction; <и> and -- and
+
+• трѹдъ -- noun, masculine; nominative singular of <трѹдъ> labor -- a task
+
+• нє -- particle; <нє> not -- no
+
+• мнєи -- comparative adjective; nominative singular masculine of <мьнии> smaller, less -- lesser
+
+• пръвꙑхъ -- adjective used as substantive; genitive plural masculine of <прьвъ> first, primary -- than the previous
+
+Ростиславъ бо, Моравьскꙑи кнѧзь, богомъ ѹстимъ, съвѣтъ сътвори съ кнѧзи своими и с Моравлѧнꙑ, посла къ царю Михаилѹ, глаголѧ, людємъ нашимъ поганьства сѧ ѡтвръгшимъ, и по христꙇанєскъ сѧ законъ дръжащимъ, ѹчитєлѧ нє имамъ таковаго, ижє бꙑ нꙑ въ свои ꙗзꙑкъ истѹю вѣрѹ христꙇаньскѹю сказалъ, да бꙑша и инꙑ странꙑ того зрѧщє подобилисѧ намъ |
+
+ Collapse All
+
+• Ростиславъ -- proper noun, masculine; nominative singular of <Ростиславъ> Rostislav -- Rostislav
+
+• бо -- conjunction; <бо> for -- for
+
+• Моравьскꙑи -- adjective; nominative singular masculine of <Моравьскъ> Moravian -- the Moravian
+
+• кнѧзь -- noun, masculine; nominative singular of <кънѧзь> prince -- prince
+
+• богомъ -- noun, masculine; instrumental singular of <богъ> god -- by God
+
+• ѹстимъ -- verb; present passive participle <ѹстити, -штѫ, -стиши> exhort -- roused
+
+• съвѣтъ -- noun, masculine; accusative singular of <съвѣтъ> counsel -- counsel
+
+• сътвори -- verb; 3rd person singular aorist of <сътворити, -рѭ, -риши> do, make -- took
+
+• съ -- preposition; <съ> with -- with
+
+• кнѧзи -- noun, masculine; instrumental plural of <кънѧзь> prince -- princes
+
+• своими -- reflexive adjective; instrumental plural masculine of <свои, своє, своꙗ> own, one's own -- his
+
+• и -- conjunction; <и> and -- and
+
+• с -- preposition; <съ> with -- with
+
+• Моравлѧнꙑ -- adjective used as substantive; instrumental plural masculine of <Моравлꙗнинъ> Moravian -- the Moravians
+
+• посла -- verb; 3rd person singular aorist of <посълати, -л҄ѭ, -л҄ѥши> send, summon -- sent
+
+• къ -- preposition; <къ> to, for -- to
+
+• царю -- noun, masculine; dative singular of <царь> emperor, tsar -- Tsar
+
+• Михаилѹ -- proper noun, masculine; dative singular of <Михаилъ> Michael -- Michael
+
+• глаголѧ -- verb; present active participle <глаголати, -л҄ѭ, -л҄ѥши> say, speak -- saying
+
+• людємъ -- noun, masculine; dative plural of <людъ> people -- people
+
+• нашимъ -- possessive adjective; dative plural masculine of <нашь> our, of us -- our
+
+• поганьства -- noun, neuter; genitive singular of <поганьство> paganism -- paganism
+
+• сѧ -- reflexive pronoun; accusative of <сєбє> self -- ...
+
+• ѡтвръгшимъ -- verb; past active participle <отъврѣшти, -врьгѫ, -врьгєши> throw away, renounce -- having cast off
+
+• и -- conjunction; <и> and -- and
+
+• по -- preposition; <по> after; according to -- according to
+
+• христꙇанєскъ -- adjective; accusative singular masculine of <христꙇаньскъ> Christian -- Christian
+
+• сѧ -- reflexive pronoun; accusative of <сєбє> self -- themselves
+
+• законъ -- noun, masculine; accusative singular of <законъ> law -- law
+
+• дръжащимъ -- verb; present active participle <дрьжати, -жѫ, -жиши> hold -- conducting #
+
+• ѹчитєлѧ -- noun, masculine; genitive singular of <ѹчитєль> teacher -- teacher #
+
+• нє -- particle; <нє> not -- no
+
+• имамъ -- verb; 1st person plural present of <имѣти, имамь, имаши> have, hold -- (we) have
+
+• таковаго -- adjective; genitive singular masculine of <таковъ> such, of that sort -- such
+
+• ижє -- relative pronoun; genitive singular feminine of <ижє> who, which -- who
+
+• бꙑ -- verb; 3rd person singular aorist of <бꙑти, бѫдѫ, бѫдєши> be, become -- would
+
+• нꙑ -- pronoun; accusative plural of <азъ> I -- us
+
+• въ -- preposition; <въ> in, into -- in
+
+• свои -- reflexive adjective; accusative singular masculine of <свои, своє, своꙗ> own, one's own -- our own
+
+• ꙗзꙑкъ -- noun, masculine; accusative singular of <ѩзꙑкъ> tongue, language, nation -- tongue
+
+• истѹю -- adjective; accusative singular feminine of <истъ> true, real -- the true #
+
+• вѣрѹ -- noun, feminine; accusative singular of <вѣра> faith, belief -- faith #
+
+• христꙇаньскѹю -- adjective; accusative singular feminine of <христꙇаньскъ> Christian -- Christian #
+
+• сказалъ -- verb; resultative participle <съказати, -заѭ, -заѥши> announce, explain, make known -- explain
+
+• да -- conjunction; <да> in order to, that; may, let; and, then -- so that
+
+• бꙑша -- verb; 3rd person plural aorist of <бꙑти, бѫдѫ, бѫдєши> be, become -- might #
+
+• и -- adverb; <и> even -- even
+
+• инꙑ -- demonstrative adjective; nominative plural feminine of <инъ> this, this one here -- here
+
+• странꙑ -- noun, feminine; nominative plural of <страна> country; area, region; (pl) heathen -- the countries
+
+• того -- demonstrative pronoun; genitive singular neuter of <тъ> that, that one -- this
+
+• зрѧщє -- verb; present active participle <зьрѣти, -р҄ѭ, -риши> see -- seeing
+
+• подобилисѧ -- reflexive resultative participle; nominative plural feminine of <подобити, -бл҄ѭ, -биши> imitate -- imitate
+
+• намъ -- pronoun; dative plural of <азъ> I -- us
+
+То посли намъ, владꙑкѡ, єпископа и ѹчитєлѧ таковаго |
+
+ Collapse All
+
+• то -- conjunction; <то> but, then, therefore -- so
+
+• посли -- verb; 2nd person singular imperative of <посълати, -л҄ѭ, -л҄ѥши> send, summon -- send
+
+• намъ -- pronoun; dative plural of <азъ> I -- us
+
+• владꙑкѡ -- noun, masculine; vocative singular of <владꙑка> lord, master; leader -- master
+
+• єпископа -- noun, masculine; genitive singular of <єпископъ> bishop -- a bishop
+
+• и -- conjunction; <и> and -- and
+
+• ѹчитєлѧ -- noun, masculine; genitive singular of <ѹчитєль> teacher -- teacher #
+
+• таковаго -- adjective; genitive singular masculine of <таковъ> such, of that sort -- such
+
+Ѡтъ васъ бо на всѧ странꙑ въсєгда добрꙑи законъ исходить |
+
+ Collapse All
+
+• ѡтъ -- preposition; <отъ> by, from, of -- from
+
+• васъ -- pronoun; genitive plural of <тꙑ> you, thou -- you
+
+• бо -- conjunction; <бо> for -- for
+
+• на -- preposition; <на> in, on; at, against; for -- into
+
+• всѧ -- adjective; accusative plural feminine of <вьсь> all, every; whole -- all
+
+• странꙑ -- noun, feminine; nominative plural of <страна> country; area, region; (pl) heathen -- countries
+
+• въсєгда -- adverb; <въсєгда> always, at all times -- always
+
+• добрꙑи -- adjective; nominative singular masculine of <добръ> good -- the good
+
+• законъ -- noun, masculine; nominative singular of <законъ> law -- law
+
+• исходить -- verb; 3rd person singular present of <исходити, -ждѫ, -диши> exit from, go out of -- flows #
+
+Събравъ жє царь съборъ, призва Коньстантина филосѡѳа, и сътвори и слꙑшати рѣчь сꙇю и рєчє, филосѡѳє, вѣмь тѧ трѹдна сѹща, но достоить тєбѣ тамо ити |
+
+ Collapse All
+
+• събравъ -- verb; past active participle <събьрати, -бєрѫ, -бєрєши> collect, gather -- convening
+
+• жє -- conjunction; <жє> and, but -- ...
+
+• царь -- noun, masculine; nominative singular of <царь> emperor, tsar -- the Tsar
+
+• съборъ -- noun, masculine; accusative singular of <съборъ> counsel, meeting -- a counsel
+
+• призва -- verb; 3rd person singular aorist of <призъвати, -зовѫ, -зовєши> call, summon -- summoned
+
+• Коньстантина -- proper noun, masculine; genitive singular of <Коньстантинъ> Constantine -- Constantine
+
+• филосѡѳа -- noun, masculine; genitive singular of <философъ> philosopher -- the Philosopher
+
+• и -- conjunction; <и> and -- and
+
+• сътвори -- verb; 3rd person singular aorist of <сътворити, -рѭ, -риши> do, make -- bade
+
+• и -- pronoun; accusative singular masculine of <*и> he -- him
+
+• слꙑшати -- verb; infinitive of <слꙑшати, -шѫ, -шиши> hear -- hear
+
+• рѣчь -- noun, feminine; accusative singular of <рѣчь> speech -- request
+
+• сꙇю -- demonstrative adjective; accusative singular feminine of <сь> this -- this #
+
+• и -- conjunction; <и> and -- and
+
+• рєчє -- verb; 3rd person singular aorist of <рєшти, рєкѫ, рєчєши> say, tell -- said
+
+• филосѡѳє -- noun, masculine; vocative singular of <философъ> philosopher -- Philosopher
+
+• вѣмь -- verb; 1st person singular present of <вѣдѣти, вѣмь, вѣси> see, know -- I see (that)
+
+• тѧ -- pronoun; accusative singular of <тꙑ> you, thou -- you
+
+• трѹдна -- adjective; genitive singular masculine of <трѹдьнъ> tired, weary -- weary
+
+• сѹща -- verb; present active participle <ѥс-, ѥсмь, ѥси> be -- are
+
+• но -- conjunction; <нъ> but -- but
+
+• достоить -- verb; 3rd person singular present of <достоꙗти, -стоѭ, -стоиши> befit, be proper -- it does... suit
+
+• тєбѣ -- pronoun; dative singular of <тꙑ> you, thou -- you
+
+• тамо -- adverb; <тамо> there, to that place, thither -- there
+
+• ити -- verb; infinitive of <ити, идѫ, идєши> go -- to go
+
+Сꙇа бо рѣчи нє можєть инъ никтожє исправити, ꙗкожє тꙑ |
+
+ Collapse All
+
+• сꙇа -- demonstrative adjective; genitive singular feminine of <сь> this -- this #
+
+• бо -- conjunction; <бо> for -- but
+
+• рѣчи -- noun, feminine; genitive singular of <рѣчь> speech -- request
+
+• нє -- particle; <нє> not -- ...
+
+• можєть -- verb; 3rd person singular present of <мошти, могѫ, могєши> be able, can -- (there) is... so able
+
+• инъ -- demonstrative adjective; nominative singular masculine of <инъ> this, this one here -- ...
+
+• никтожє -- interrogative pronoun; nominative singular masculine of <никътожє> no one, nobody -- no one
+
+• исправити -- verb; infinitive of <исправити, -вл҄ѭ, -виши> accomplish -- to fulfil
+
+• ꙗкожє -- conjunction; <ꙗкожє> as, like, than, so as to -- as
+
+• тꙑ -- pronoun; nominative singular of <тꙑ> you, thou -- you
+
+Ѡтвѣща филосѡѳъ, и трѹдєнъ сꙑ тѣлѡмъ и болєнъ, радъ идѹ тамо, ащє имѹть бѹкви въ ꙗзꙑкъ свои |
+
+ Collapse All
+
+• ѡтвѣща -- verb; 3rd person singular aorist of <отвѣштати, -таѭ, -таѥши> respond, answer -- answered
+
+• филосѡѳъ -- noun, masculine; nominative singular of <философъ> philosopher -- the Philosopher
+
+• и -- conjunction; <и> and -- ...
+
+• трѹдєнъ -- adjective; nominative singular masculine of <трѹдьнъ> tired, weary -- tired
+
+• сꙑ -- verb; present active participle <ѥс-, ѥсмь, ѥси> be -- ...
+
+• тѣлѡмъ -- noun, neuter; instrumental singular of <тѣло> body -- in body
+
+• и -- conjunction; <и> and -- and
+
+• болєнъ -- adjective; nominative singular masculine of <больнъ> sick -- feeble
+
+• радъ -- adjective; nominative singular masculine of <радъ> glad, happy -- gladly
+
+• идѹ -- verb; 1st person singular present of <ити, идѫ, идєши> go -- I will... go #
+
+• тамо -- adverb; <тамо> there, to that place, thither -- there
+
+• ащє -- particle; <аштє> if, whether -- if
+
+• имѹть -- verb; 3rd person plural present of <ѩти, имѫ, имєши> take, seize -- they have
+
+• бѹкви -- noun, feminine; accusative plural of <бѹкꙑ> letter, writing -- letters
+
+• въ -- preposition; <въ> in, into -- for
+
+• ꙗзꙑкъ -- noun, masculine; accusative singular of <ѩзꙑкъ> tongue, language, nation -- tongue
+
+• свои -- reflexive adjective; accusative singular masculine of <свои, своє, своꙗ> own, one's own -- their
+
+И рєчє царь къ нємѹ, дѣдъ мои, и ѡтьцъ мои, и инꙇи мноѕи, искавшє того нє обрѣли сѹть |
+
+ Collapse All
+
+• и -- conjunction; <и> and -- and
+
+• рєчє -- verb; 3rd person singular aorist of <рєшти, рєкѫ, рєчєши> say, tell -- said
+
+• царь -- noun, masculine; nominative singular of <царь> emperor, tsar -- the Tsar
+
+• къ -- preposition; <къ> to, for -- to
+
+• нємѹ -- pronoun; dative singular masculine of <*и> he -- him
+
+• дѣдъ -- noun, masculine; nominative singular of <дѣдъ> grandfather -- grandfather
+
+• мои -- possessive adjective; nominative singular masculine of <мои> my -- my
+
+• и -- conjunction; <и> and -- and
+
+• ѡтьцъ -- noun, masculine; nominative singular of <отьць> father -- father
+
+• мои -- possessive adjective; nominative singular masculine of <мои> my -- my
+
+• и -- conjunction; <и> and -- and
+
+• инꙇи -- demonstrative adjective; nominative plural masculine of <инъ> this, this one here -- those... (others)
+
+• мноѕи -- adjective; nominative plural masculine of <мъногъ> much, many -- many
+
+• искавшє -- verb; past active participle <искати, иштѫ, иштєши> search, seek, try -- though they sought
+
+• того -- demonstrative pronoun; genitive singular neuter of <тъ> that, that one -- this
+
+• нє -- particle; <нє> not -- not
+
+• обрѣли -- verb; resultative participle <обрѣшти, -рѧштѫ, -рѧштєши> find, discover -- produce
+
+• сѹть -- verb; 3rd person singular present of <ѥс-, ѥсмь, ѥси> be -- could
+
+То како азъ могѹ обрѣсти |
+
+ Collapse All
+
+• то -- conjunction; <то> but, then, therefore -- then
+
+• како -- interrogative adverb; <како> how, how is it that -- how
+
+• азъ -- pronoun; nominative singular of <азъ> I -- I
+
+• могѹ -- verb; 1st person singular present of <мошти, могѫ, могєши> be able, can -- could #
+
+• обрѣсти -- verb; infinitive of <обрѣшти, -рѧштѫ, -рѧштєши> find, discover -- produce (it)
+
+Филосѡѳъ жє рєчє, то кто можєть на водѣ бєсѣдѹ написати |
+
+ Collapse All
+
+• филосѡѳъ -- noun, masculine; nominative singular of <философъ> philosopher -- the Philosopher
+
+• жє -- conjunction; <жє> and, but -- but
+
+• рєчє -- verb; 3rd person singular aorist of <рєшти, рєкѫ, рєчєши> say, tell -- said
+
+• то -- conjunction; <то> but, then, therefore -- then
+
+• кто -- interrogative pronoun; nominative singular masculine of <къто> who -- who
+
+• можєть -- verb; 3rd person singular present of <мошти, могѫ, могєши> be able, can -- is able
+
+• на -- preposition; <на> in, on; at, against; for -- in
+
+• водѣ -- noun, feminine; locative singular of <вода> water -- water
+
+• бєсѣдѹ -- noun, feminine; accusative singular of <бєсѣда> conversation, word, talk -- speech #
+
+• написати -- verb; infinitive of <написати, -саѭ, -саѥши> write -- to write
+
+или єрєтичьско имѧ сєбѣ обрѣсти |
+
+ Collapse All
+
+• или -- conjunction; <или> or -- or
+
+• єрєтичьско -- adjective; accusative singular neuter of <єрєтичьскъ> heretical, of a heretic -- of a heretic
+
+• имѧ -- noun, neuter; accusative singular of <имѧ> name -- the name
+
+• сєбѣ -- reflexive pronoun; dative singular of <сєбє> self -- for himself
+
+• обрѣсти -- verb; infinitive of <обрѣшти, -рѧштѫ, -рѧштєши> find, discover -- to produce
+
+Ѡтвѣща ємѹ пакꙑ царь съ Вардою, ѹємъ свомъ, ащє тꙑ хощєши, то можєть богъ тєбѣ дати, ижє даєть всѣмъ, ижє просѧть нєсѹмнѣнꙇємъ, и ѡтвръѕаєть тлъкѹщимъ |
+
+ Collapse All
+
+• ѡтвѣща -- verb; 3rd person singular aorist of <отвѣштати, -таѭ, -таѥши> respond, answer -- replied
+
+• ємѹ -- pronoun; dative singular masculine of <*и> he -- to him
+
+• пакꙑ -- adverb; <пакꙑ> back, again -- ...
+
+• царь -- noun, masculine; nominative singular of <царь> emperor, tsar -- the Tsar
+
+• съ -- preposition; <съ> with -- along with
+
+• Вардою -- proper noun, masculine; instrumental singular of <Варда> Varda -- Varda #
+
+• ѹємъ -- noun, masculine; instrumental singular of <ѹи> uncle -- uncle
+
+• свомъ -- reflexive adjective; instrumental singular masculine of <свои, своє, своꙗ> own, one's own -- his
+
+• ащє -- particle; <аштє> if, whether -- if
+
+• тꙑ -- pronoun; nominative singular of <тꙑ> you, thou -- you
+
+• хощєши -- verb; 2nd person singular present of <хотѣти, хоштѫ, хоштєши> want, wish -- wish (it)
+
+• то -- conjunction; <то> but, then, therefore -- then
+
+• можєть -- verb; 3rd person singular present of <мошти, могѫ, могєши> be able, can -- may
+
+• богъ -- noun, masculine; nominative singular of <богъ> god -- God
+
+• тєбѣ -- pronoun; dative singular masculine of <тꙑ> you, thou -- to you
+
+• дати -- verb; infinitive of <дати, дамь, даси> give -- grant
+
+• ижє -- relative pronoun; nominative singular masculine of <ижє> who, which -- (God) who
+
+• даєть -- verb; 3rd person singular present of <даꙗти, даѭ, даѥши> give -- gives
+
+• всѣмъ -- adjective; dative plural masculine of <вьсь> all, every; whole -- to all
+
+• ижє -- relative pronoun; nominative plural masculine of <ижє> who, which -- who
+
+• просѧть -- verb; 3rd person plural present of <просити, -шѫ, -сиши> ask, demand -- ask
+
+• нєсѹмнѣнꙇємъ -- noun, neuter; instrumental singular of <нєсѹмьнѣньѥ> confidence -- with confidence
+
+• и -- conjunction; <и> and -- and
+
+• ѡтвръѕаєть -- verb; 3rd person singular present of <отврьзати, -аѭ, -аѥши> open -- opens (the door)
+
+• тлъкѹщимъ -- verb; present active participle <тлѣшти, тлькѫ, тлькєши> strike, knock -- to those who knock #
+
+Шєдъ жє филосѡѳъ, по пръвомѹ обꙑчаю, на молитвѹ сѧ наложи и съ инѣми съпоспѣшникꙑ |
+
+ Collapse All
+
+• шєдъ -- verb; past active participle <ити, идѫ, идєши> go -- went (and)
+
+• жє -- conjunction; <жє> and, but -- and
+
+• филосѡѳъ -- noun, masculine; nominative singular of <философъ> philosopher -- the Philosopher
+
+• по -- preposition; <по> after; according to -- according to
+
+• пръвомѹ -- adjective; dative singular masculine of <прьвъ> first, primary -- the old
+
+• обꙑчаю -- noun, masculine; dative singular of <обꙑчаи> custom, habit -- custom
+
+• на -- preposition; <на> in, on; at, against; for -- to
+
+• молитвѹ -- noun, feminine; accusative singular of <молитва> prayer -- prayer #
+
+• сѧ -- reflexive pronoun; accusative of <сєбє> self -- himself
+
+• наложи -- verb; 3rd person singular aorist of <наложити, -жѫ, -жиши> set to, begin -- set
+
+• и -- conjunction; <и> and -- ...
+
+• съ -- preposition; <съ> with -- with
+
+• инѣми -- demonstrative adjective; instrumental plural masculine of <инъ> this, this one here -- (his) other
+
+• съпоспѣшникꙑ -- noun, masculine; instrumental plural of <съпоспѣшьникъ> friend, companion -- companions
+
+Въскорѣ жє сє ємѹ богъ ꙗви, послѹшаꙗи молитвꙑ рабъ своихъ |
+
+ Collapse All
+
+• въскорѣ -- adverb; <въскорѣ> soon -- soon
+
+• жє -- conjunction; <жє> and, but -- and
+
+• сє -- interjection; <сє> lo, behold -- lo
+
+• ємѹ -- pronoun; dative singular masculine of <*и> he -- to him
+
+• богъ -- noun, masculine; nominative singular of <богъ> god -- God
+
+• ꙗви -- verb; 3rd person singular aorist of <ꙗвити, -в҄ѭ, -виши> appear -- appeared
+
+• послѹшаꙗи -- verb; present active participle <послѹшати, -аѭ, -аѥши> hear, listen -- heeding #
+
+• молитвꙑ -- noun, feminine; accusative plural of <молитва> prayer -- the prayers
+
+• рабъ -- noun, masculine; genitive plural of <рабъ> servant -- of... servants
+
+• своихъ -- reflexive adjective; genitive plural masculine of <свои, своє, своꙗ> own, one's own -- his
+
+И тогда сложи писмєна и начѧ бєсѣдѹ писати єваггєльскѹю,
+
+ Collapse All
+
+• и -- conjunction; <и> and -- and
+
+• тогда -- adverb; <тогда> then -- thereupon
+
+• сложи -- verb; 3rd person singular aorist of <съложити, -жѫ, -жиши> create -- he created
+
+• писмєна -- noun, neuter; accusative plural of <писмѧ> letter, writing -- letters
+
+• и -- conjunction; <и> and -- and
+
+• начѧ -- verb; 3rd person singular aorist of <начѧти, -чьнѫ, -чьнєши> begin -- began
+
+• бєсѣдѹ -- noun, feminine; accusative singular of <бєсѣда> conversation, word, talk -- the word #
+
+• писати -- verb; infinitive of <писати, -саѭ, -саѥши> write -- to write
+
+• єваггєльскѹю -- adjective; accusative singular feminine of <єваггєльскъ> of the evangel, evangelic -- of the Evangel #
+
+искони бѣ слово и слово бѣ ѹ бога, и богъ бѣ слово, и прочѧꙗ |
+
+ Collapse All
+
+• искони -- adverb; <искони> in the beginning, from the beginning -- in the beginning
+
+• бѣ -- verb; 3rd person singular aorist of <бꙑти, бѫдѫ, бѫдєши> be, become -- was
+
+• слово -- noun, neuter; nominative singular of <слово> word -- the Word
+
+• и -- conjunction; <и> and -- and
+
+• слово -- noun, neuter; nominative singular of <слово> word -- the Word
+
+• бѣ -- verb; 3rd person singular aorist of <бꙑти, бѫдѫ, бѫдєши> be, become -- was
+
+• ѹ -- preposition; <ѹ> near, by; from -- with
+
+• бога -- noun, masculine; genitive singular of <богъ> god -- God
+
+• и -- conjunction; <и> and -- and
+
+• богъ -- noun, masculine; nominative singular of <богъ> god -- God
+
+• бѣ -- verb; 3rd person singular aorist of <бꙑти, бѫдѫ, бѫдєши> be, become -- was
+
+• слово -- noun, neuter; nominative singular of <слово> word -- the Word
+
+• и -- conjunction; <и> and -- and
+
+• прочѧꙗ -- adjective used as substantive; nominative plural neuter of <прочь> remaining, following -- so forth #
+
+Lesson Text
+
+Вєсєлѧщѹ жє сѧ ѡ боѕѣ филосоѳу, пакꙑ дрѹгаа рѣчь приспѣ и трѹдъ нє мнєи пръвꙑхъ | Ростиславъ бо, Моравьскꙑи кнѧзь, богомъ ѹстимъ, съвѣтъ сътвори съ кнѧзи своими и с Моравлѧнꙑ, посла къ царю Михаилѹ, глаголѧ, людємъ нашимъ поганьства сѧ ѡтвръгшимъ, и по христꙇанєскъ сѧ законъ дръжащимъ, ѹчитєлѧ нє имамъ таковаго, ижє бꙑ нꙑ въ свои ꙗзꙑкъ истѹю вѣрѹ христꙇаньскѹю сказалъ, да бꙑша и инꙑ странꙑ того зрѧщє подобилисѧ намъ | То посли намъ, владꙑкѡ, єпископа и ѹчитєлѧ таковаго | Ѡтъ васъ бо на всѧ странꙑ въсєгда добрꙑи законъ исходить | Събравъ жє царь съборъ, призва Коньстантина филосѡѳа, и сътвори и слꙑшати рѣчь сꙇю и рєчє, филосѡѳє, вѣмь тѧ трѹдна сѹща, но достоить тєбѣ тамо ити | Сꙇа бо рѣчи нє можєть инъ никтожє исправити, ꙗкожє тꙑ | Ѡтвѣща филосѡѳъ, и трѹдєнъ сꙑ тѣлѡмъ и болєнъ, радъ идѹ тамо, ащє имѹть бѹкви въ ꙗзꙑкъ свои | И рєчє царь къ нємѹ, дѣдъ мои, и ѡтьцъ мои, и инꙇи мноѕи, искавшє того нє обрѣли сѹть | То како азъ могѹ обрѣсти | Филосѡѳъ жє рєчє, то кто можєть на водѣ бєсѣдѹ написати | или єрєтичьско имѧ сєбѣ обрѣсти | Ѡтвѣща ємѹ пакꙑ царь съ Вардою, ѹємъ свомъ, ащє тꙑ хощєши, то можєть богъ тєбѣ дати, ижє даєть всѣмъ, ижє просѧть нєсѹмнѣнꙇємъ, и ѡтвръѕаєть тлъкѹщимъ | Шєдъ жє филосѡѳъ, по пръвомѹ обꙑчаю, на молитвѹ сѧ наложи и съ инѣми съпоспѣшникꙑ | Въскорѣ жє сє ємѹ богъ ꙗви, послѹшаꙗи молитвꙑ рабъ своихъ | И тогда сложи писмєна и начѧ бєсѣдѹ писати єваггєльскѹю, искони бѣ слово и слово бѣ ѹ бога, и богъ бѣ слово, и прочѧꙗ |
+
+Translation
+
+(XIV.1) And while the Philosopher was rejoicing in God, another request came, and a task no lesser than the previous. (2) For Rostislav, the Moravian prince, roused by God, took counsel with his princes and with the Moravians, and sent to Tsar Michael, saying: 'Our people, having cast off paganism and conducting themselves according to Christian law, have no such teacher who would explain the true Christian faith to us in our own tongue, so that even the countries here, seeing this, might emulate us. (3) So send us, Master, such a bishop and teacher. (4) For always, into all countries, the good law flows from you.' (5) The Tsar, convening a counsel, summoned Constantine the Philosopher, and bade him hear this request, and said: 'Philosopher, I see that you are weary, and it does not suit you to go there. (6) But there is no one so able to fulfil this request as you.' (7) The Philosopher answered: 'Though tired and feeble in body, I will gladly go there if they have letters for their tongue.' (8) And the Tsar said to him: 'My grandfather, my father, and those many others, though they sought, could not produce this. (9) Then how could I produce it?' (10) But the Philosopher said: 'Then who is able to write speech in water? (11) or to produce for himself the name of a heretic?' (12) The Tsar replied to him, along with Varda, his uncle: 'If you wish it, then God may grant it to you, God who gives to all who ask with confidence and opens the door to those who knock.' (13) And the Philosopher went and, according to the old custom, set himself to prayer with his other companions. (14) And lo God soon appeared to him, heeding the prayers of his servants. (15) And thereupon he created letters and immediately began to write the word of the Evangel: (16) In the beginning was the Word, and the Word was with God, and the Word was God, and so forth.
+
+Grammar
+
+46 Invariable Verbal Forms
+
+46.1 The Infinitive and Supine
+
+The infinitive takes the ending -ti, the supine takes -tŭ. These are added directly to the verbal root, which undergoes the same phonological changes as a result of either ending.
+
+Stems ending in vowel + glide/sonorant replace the combination with a single vowel:
+
+• ov > u, e.g. словєши gives слꙑти, слѹтъ
+
+• ĭj > i, ŭj > y, e.g. бьѥши gives бити, битъ and мꙑѥши gives мꙑти, мꙑтъ
+
+• -j, -v > zero otherwise, e.g. чѹвєши > чѹти, чѹтъ and живєши > жити, житъ
+
+• ĭ + nasal > ę, e.g. žĭnj-eši > žęti, žętŭ
+
+• ĭr > rĭ, e.g. жьрєши > жрьти, жрьтъ
+
+Root-final velars combine with -t to form the cluster -št, which then palatalizes a following -ŭ to -ĭ. Examples are рєкѫтъ > рєшти, рєшть; могѫтъ > мошти, мошть; врьгѫтъ > врѣшти.
+
+Root-final labials are deleted: тєпѫтъ > тєти, тєтъ; грєбѫтъ > грєти, грєтъ.
+
+The infinitive is a verbal complement often denoting command, desire, ability, or purpose. The subject of the infinitive, if not the same as that of the head verb, is placed in the dative. With ѥстъ the infinitive may denote possibility or necessity: отъ сєго... видѣти ѥстъ силѫ христосовѫ 'from this... (one ought) to see the power of Christ', 'from this Christ's power is to be seen'; нѣстъ намъ ѹбити 'it is not for us to kill', 'we ought not to kill'. Result may be indicated by use of ꙗко with the infinitive: испльнишѧ оба корабл҄ꙗ ꙗко погрѫжати сѧ има 'they filled both ships so as for them to sink', 'they filled both ships so that they began to sink'.
+
+The supine is used after verbs of motion to denote purpose, e.g. идѫ рꙑбъ лобити 'I go for the catching of fish', 'I go to catch fish'; придє видѣтъ гроба 'she came for the seeing of the sepulchre', 'she came to see the sepulchre'. Note the object of the action of the supine is in the genitive. The supine, however, could be replaced in this role of denoting purpose by an infinitive with accusative object.
+
+46.2 The Gerund
+
+Certain isolated forms in OCS show the early stages of what becomes a larger trend in later Slavic languages, whereby certain forms of the participial declensions are frozen and function as an invariable gerund. The masculine nominative plural form is frozen in this role: повєли ми дрєжє шєдъшє погрєти отца моєго 'suffer me first to go and bury my father', with шєдъшє instead of the expected шєдъшѹ; подоба ми ѥстъ сѣдѣти мльчѧштє 'I like to be seated in silence'; отъ Адама до Мѡѵса рєк҄шє до закона 'from Adam til Moses, namely to the Law', where рєк҄шє takes the place of the more common си рѣць.
+
+46.3 The Verbal Form sętŭ
+
+The form сѧтъ, сѧти is found infrequently and has an unclear origin. It has the meaning 'say', 'says', being equivalent to the aorist рєчє in its explanatory role: послѹшаꙇ чъто сѧтъ євангєлистъ: слꙑшавъшє, сѧтъ, гласъ ꙇдѫ въспѧтъ ꙇ падѫ на зємꙇнꙇцꙇ 'dear what the Evangelist says: after they heard the voice, he says, they went back and fell upon the earth'.
+
+47 The Fifth Conjugation
+
+The fifth conjugation contains the athematic verbs, of which there are only four. There is no suffix between the root and ending, the present tense stem being the same as the verbal root. The verbs are
+
+• inf. бꙑ-ти 'to be', 1st. person ѥс-мь, stem ѥс-
+
+• inf. да-ти 'to give', 1st. person да-мь, stem дад-
+
+• inf. вѣдѣ-ти 'to know', 1st. person вѣ-мь, stem вѣд-
+
+• inf. ꙗс-, ѣс-ти 'to eat', 1st. person ꙗ-мь, stem ꙗд-
+
+For those stems ending in the dental -d, the -d becomes -s before t-, and drops before m- or s-.
+
+The verb имѣти 'to have' has present tense forms according to this conjugation имамь, имаши, etc., in addition to forms from the third conjugation имѣѭ, имѣѥши, etc.
+
+The verbs conjugate as follows.
+
+Present ѥс- дад- вѣд- ꙗд-         1st Sg. ѥсмь дамь вѣмь а'мь      вѣдѣ ѣмь2 ѥси даси вѣси ꙗси3 ѥстъ дастъ вѣстъ ꙗстъ         1st Du. ѥсвѣ давѣ вѣвѣ ꙗвѣ2 ѥста даста вѣста ꙗста3 ѥстє дастє вѣстє ꙗстє         1st Pl. ѥсмъ дамъ вѣмъ ꙗмъ2 ѥстє дастє вѣстє ꙗстє3 сѫтъ дадѧтъ вѣдѧтъ ꙗдѧтъ         Future        1st Sg. бѫдѫ - - -2 бѫдєши - - -3 бѫдєтъ - - -         1st Du. бѫдєвѣ - - -2 бѫдєта - - -3 бѫдєтє - - -         1st Pl. бѫдємъ - - -2 бѫдєтє - - -3 бѫдѫтъ - - -         Imperative        1st Sg. бѫдѣмь - - -2 бѫди даждь вѣждь ꙗждь3 бѫди даждь вѣждь ꙗждь         1st Du. бѫдѣвѣ дадивѣ вѣдивѣ ꙗдивѣ2 бѫдѣта дадита вѣдита ꙗдита3 бѫдѣтє - - -         1st Pl. бѫдѣмъ дадимъ вѣдимъ ꙗдимъ2 бѫдѣтє дадитє вѣдитє ꙗдитє3 бѫдѫ - - -         Pres. Act. Part.        Masc./Neut. N сꙑ дадꙑ вѣдꙑ ꙗдꙑ  бѫдꙑ      Fem. N сѫшти дадѫшти вѣдѫшти ꙗдѫшти  бѫдѫшти               Pres. Pass. Part.        Masc. N - - вѣдомъ ꙗдомъ      вѣдимъ           Imperfect        1st Sg. *бѣахъ дадѣахъ вѣдѣахъ ꙗдѣахъ  бѣхъ      2 бѣашє дадѣашє вѣдѣашє ꙗдѣашє  бѣ      3 бѣашє дадѣашє вѣдѣашє ꙗдѣашє  бѣ               1st Du. *бѣаховѣ дадѣаховѣ вѣдѣаховѣ ꙗдѣаховѣ  бѣховѣ      2 бѣашєта дадѣашєта вѣдѣашєта ꙗдѣашєта  бѣста      3 бѣашєтє дадѣашєтє вѣдѣашєтє ꙗдѣашєтє  бѣстє               1st Pl. *бѣахомъ дадѣахомъ вѣдѣахомъ ꙗдѣахомъ  бѣхомъ      2 бѣашєтє дадѣашєтє вѣдѣашєтє ꙗдѣашєтє  бѣстє      3 бѣахѫ дадѣахѫ вѣдѣахѫ ꙗдѣахѫ  бѣшѧ               Aorist        1st Sg. бꙑхъ дахъ вѣдѣхъ ꙗсъ        ѥсъ, ꙗхъ2 бꙑстъ дастъ вѣдѣ ꙗстъ  бꙑ да   из-ꙗ, -ѥ3 бꙑстъ дастъ вѣдѣ ꙗстъ  бꙑ да   из-ꙗ, -ѥ         1st Du. бꙑховѣ даховѣ вѣдѣховѣ ꙗсовѣ2 бꙑста даста вѣдѣста ꙗста3 бꙑстє дастє вѣдѣстє ꙗстє         1st Pl. бꙑхомъ дахомъ вѣдѣхомъ ꙗсомъ        ꙗхомъ2 бꙑстє дастє вѣдѣстє ꙗстє3 бꙑшѧ дашѧ вѣдѣшѧ ꙗсѧ        ꙗшѧ         Past. Act. Part.        Masc./Neut. N бꙑвъ давъ вѣдѣвъ ꙗдъFem. N бꙑвъши давъши вѣдѣвъши ꙗдъши         Resultative Part.        Masc. N бꙑлъ далъ вѣдѣлъ ꙗлъ         Past Pass. Part.        Masc. N за-бъвєнъ данъ -вѣдѣнъ ꙗдєнъ         Infinitive бꙑти дати вѣдѣти ꙗсти         Supine бꙑтъ датъ вѣдѣтъ ꙗстъ         Verbal Noun бꙑтьѥ даньѥ вѣдѣньѥ ꙗдєньѥ  за-бъєньѥ      
+
+The participle бѫдꙑ has the meaning 'future', 'yet to come'. Forms such as бѣ, бѣштє, etc. are classified by some authors as imperfective aorists, rather than imperfects.
+
+48 'Have' and 'Take' Verbs
+
+Three verbs all pertaining to the concept of 'possession' are worth distinguishing because of the similarity of their roots. These are the following:
+
+• имѣти, имамь, имаши and имѣѭ, имѣѥши 'have'
+
+• имати, ѥмл҄ѭ, ѥмл҄ѥши and имаѭ, имаѥши 'have', 'take'
+
+• ѩти, имѫ, имѣси 'take', 'seize'
+
+These verbs in fact all derive from different treatments of the same basic stem *em- 'take', cf. Latin emo 'I buy'. To the basic root ĭm-, which in OCS is pre-jotized to jĭm-, are added the suffixes -ě, -a, and zero.
+
+имѣти, in addition to present forms built according to the third conjugation, displays the following forms:
+
+  Present Imperative Imperfect Aorist1st Sg. имамь - имѣахъ имѣхъ2 имаши имѣи имѣашє имѣ3 иматъ имѣи имѣашє имѣ         1st Du. имавѣ имѣивѣ имѣаховѣ имѣховѣ2 имата имѣита имѣашєта имѣста3 иматє - имѣашєтє имѣстє         1st Pl. имамъ имѣимъ имѣахомъ имѣхомъ2 иматє имѣитє имѣашєтє имѣстє3 имѫтъ - имѣахѫ имѣшѧ  имѣѭтъ               Pres. Act. Part.        Masc./Neut. N имꙑ        имѣѩ      Fem. N имѫшти        имѣѭшти               Past Act. Part.        Masc./Neut. N имѣвъ      Fem. N имѣвъши               Resultative Part.        Masc. N имѣлъ               Infinitive имѣти               Verbal Noun имѣньѥ      
+
+имѣти 'have' derives from the zero grade jĭm- of the root, recalling that jĭ is written и. It is also used as an auxiliary verb to build the future tense.
+
+имати 'have', 'take' is a verb of the third conjugation. The stem of the infinitive is the zero grade jĭm-, which in the present system is stengthened to the full grade jem-. The -j- of the present suffix -je- palatalizes -m- to -ml'-. This verb has imperfective aspect.
+
+ѩти 'take', 'seize' is the perfective counterpart of имати. As with имѣти, this takes the zero grade jĭm- of the root throughout the present. The infinitive stem, however, is built from the full grade jem-.
+
+49 Verb Use
+
+49.1 The Aorist
+
+The aorist relates events in the past, without coordination to other past events. It is used as the primary means of conveying a sequence of past actions in a narrative, whereby the temporal order of the actions is denoted, but no given action is tied to any other concurrent action. Most aorists have perfective aspect. In those instances where the aorist has imperfective aspect, the past inception of the action is denoted, without specifying its completion.
+
+The aorist бꙑстъ is perfective, typically referring to the sudden appearance of something new. Often this is found in initial postition with the sense 'it happened that...', e.g. бꙑстъ жє идѫштємъ по пѫти рєчє єдинъ къ н҄ємѹ 'and it happened that, while they were going along the path, a certain man said to him...'.
+
+49.2 The Imperfect
+
+The imperfect relates past events, but, in contrast to the aorist, these events are correlated with some other past event. The correlated event may be explicit or implicit in the statement. Rather than denoting merely narrative sequence, as the aorist does, the imperfect instead focuses the narrative on a certain action at a certain time. Most imperfects have imperfective aspect. Perfective imperfects denote a completed action correlated with some other event. Often they denote a repeated action. Take as an example аштє сѧ сълѹчаашє нє имѣти ѥмѹ ничьсожє дати ѥмѹ, то котꙑгѫ... дадѥашє ништѹѹмѹ 'if it happened that he had nothing to give him, he would... give his (own) dress to the poor man.'
+
+As an example of the distinction between imperfect and aorist, note the following: идє съ н҄имь и по н҄ємь идѣашє народъ мъногъ и ꙑгнѣтаахѫ и 'He went with him, and after him went a great crowd and they pressed on him'. The aorist specifies an action to which the other imperfects are coordinated.
+
+50 Verbal Aspect
+
+Tense distinguishes events on the basis of the relative times at which they occur. This is the distinction between, say, the aorist and present tenses in OCS. But one may also consider the nature or quality of an action, e.g. whether it is repeated, completed, on-going, regardless of its time of occurrence. This distinction is termed aspect. Interwoven with the prima facie tense system of OCS was a robust and nuanced aspect system, based primarily on the distinction between perfective (completed) and imperfective (on-going) actions. The relation of incompletive to completive could be any of four broad types: (1) un-prefixed to prefixed; (2) difference in verbal classifier; (3) difference in verbal classifier accompanied by changes in the verbal root; (4) suppletion of completely different roots.
+
+50.1 Aspect Morphology
+
+The most common perfective-imperfective system arises from stems root+i- (Perfective) contrasted with (vowel-shifted) root+i+aj- (Imperfective). Not all root-vowels change: in this system o changes to a, e to ě. The combination -ia- may trigger jotization in the root final consonant or consonant cluster. There are non-prefixed examples, such as av-i- (P) vs. avlj-aj- (I) 'manifest', vrěd-i- (P) vs. vrěžd-aj- (I) 'anticipate', prost-i- (P) vs. prašt-aj- (I) 'forgive', as well as prefixed examples, such as na-poj-i- (P) vs. na-paj-aj- (I) 'give drink to', u-krěp-i- (P) vs. u-krěplj-aj- (I) 'strengthen', u-mrĭtv-i- (P) vs. u-mrĭštvlj-aj- 'mortify', pri-gvozd-i- (P) vs. pri-gvažd-aj- (I) 'nail to'.
+
+The above distinction, however, is not absolute. Some of the i-classifier verbs are themselves imperfective. In general one can only say that aj-classifier verbs are almost exclusively imperfective, while unprefixed i-classifier verbs may be of either aspect. Examples where both the i- and aj-classifier verbs are imperfective are klon-i- (I) vs. klanj-aj- (I) 'bow' and tvor-i- (I) vs. tvarj-aj- (I) 'make'.
+
+Another mode of forming imperfective verbs from perfective ones is by replacing the verbal classfier with +aj-. This may be accompanied by a change of root-vowel, whereby a, ě, i, y respectively replace o, e, ĭ, ŭ; as well as accompanied by Second Palatalization of root-final velars. The perfective root may have zero-classifier, e.g. po-ěd-zero- (P) vs. po-ěd-aj- (I) 'eat' and u-mĭr-zero- (P) vs. u-mir-aj- (I) 'die'; or the root may have a nǫ-classfier, e.g. u-top-nǫ- (P) vs. u-tap-aj- (I) 'sink' or vŭz-dŭx-nǫ- (P) vs. vŭz-dyx-aj- (I) 'sigh'. The perfective may have the a-classfier, e.g. ob-lobŭz-a- (P) vs. ob-lobyz-aj- (I) 'kiss', or ě-classifier, as in po-mĭn-ě- vs. po-min-aj- 'remember'.
+
+There are instances where a perfective root has root-final -j, in which -j is replaced by -v before adding -aj. In certain instances, the -j is treated as a root-final consonant with zero-classifier, and so is modified in the manner discussed above where the classfier is replaced. Sometimes a single root follows both formations. Thus one finds u-bĭj-zero- (P) compares with both u-bij-aj- (I) and u-bivaj- 'beat', 'kill'; similarly po-vĭj- (P) yields both po-vij-aj- (I) and po-vivaj- 'wrap'. A newer formation adds -aj to existing -aj or -ěj, replacing the first -j with -v. This results in -avaj and -ěvaj. Examples are o-del-ěj- or o-dol-ěj- vs. o-del-ěvaj- and o-dol-ěvaj- 'win', 'be victorious', and u-spěj- vs. u-spěvaj- 'be of use'. These forms have apparently no change in meaning.
+
+The other major aspect system is non-prefixed imperfective vs. prefixed perfective. An example is творити (I) vs. съ-творити (P) 'do'. Prefixation indicates perfective aspect, except in situations where it is attached to an imperfective verb with the aj-classfier. But a prefix has a meaning of its own and therefore shifts the meaning of the verb to which it is attached, e.g. прѣ-творити, although perfective, means 'transform' and not simply 'make'. For each verb, however, there is typically an 'empty prefix' which serves merely to perfectivize, with no attendant lexical change: ѹ-слꙑшати 'hear', въс-плакати 'weep'.
+
+In some instances, these morphological changes do not take place. Rather aspect is distinguished by the use of completely different roots. There are a few examples of this, the most notable being рєшти (P) vs. глаголати (I) 'say'.
+
+50.2 Further Refinements
+
+Additional aspect variations may be distinguished. Repeated durative actions with no distinct terminus may be called indeterminate and contrasted with imperfective events which are determinate, having a definite end. As an example, водитъ has the meaning 'he leads (in general)', 'he is a leader' and is indeterminate; this contrasts with вєдєтъ 'he leads (in a certain direction)'. Indeterminate, or iterative, verbs made up only a small class of verbs related to motion. Many iteratives lost the connotation of repetitive action and gradually shifted to a simply imperfective aspect; at the same time, the imperfect tense took over the role of denoting repetitive actions. Indeterminate aspect in generally characterized by change in the root vowel: ved- 'lead' vs. vod-i- 'lead habitually', nes- 'carry' vs. nos-i- 'carry habitually'.
+
+An important function of the distinction between perfective and imperfective is in the expression of future time. Perfective verbs were used in the present tense to denote a future action; by contrast, imperfective verbs could not express the future but only the present.
+
+It must be borne in mind that the methods for determining the aspect of certain verbs is by no means cut-and-dried. There are few iron-clad formal aspect markers, and generally determination relies on context and on the occurrence of different forms of the same verbal root. In many passages different readings may lend support to different aspect judgements. Even for native speakers of Slavic languages there can arise disagreement on the aspect of given OCS verb forms.
+
+Selected Annotated Bibliography
+
+Todd B. Krause
+
+Texts
+
+Given the small size of the OCS corpus, it will come as no surprise that there are few editions of texts. The grammars listed below have more extensive lists:
+
+• Quattuor Evangeliorum Codex Glagoliticus olim Zogaphensis nunc Petropolitanus, ed. V. Jagic; Berlin 1879. Edited version of the oldest OCS manuscript, containing almost the entirety of the four Gospels. The original is written in Glagolitic, but Jagic has transcribed it using Cyrillic. The introduction and critical apparatus are in Latin.
+
+• A Reader in Old Church Slavonic and Old Russian, N.P. Vakar; Massachussetts. A short selection of texts. Useful for illustrating the similarities of OCS and Old Russian, as well as giving a few nice examples of handwriting. A very brief glossary at the end provides the Greek and modern Russian equivalents.
+
+Grammars
+
+Below are listed only grammars written in English. In the bibliographies of these, one may find references to works in other languages:
+
+• Old Church Slavonic Grammar, Horace G. Lunt; Walter de Gruyter 2001. This is the pioneering work that spurred OCS studies in the United States. Highly detailed. Best used as a reference grammar.
+
+• Handbook of Old Church Slavonic: Vol. I Grammar, Vol II Texts and Glossary, Grigore Nandris and Robert Auty; Athlone Press 1965. A less comprehensive grammar. The texts, with glossary keyed to the grammar, make the volumes extremely useful.
+
+• An Introduction to Old Church Slavic, William R. Schmalstieg; Slavica 1982. More concerned with relation of OCS to PIE; consequently there is a more in-depth account of how proto-forms come down into OCS. Contains short texts with glossary.
+
+Dictionaries
+
+There are no published dictionaries in English except for the glossary in the Handbook by Nandris and Auty. For those with some training in the classics, the following is useful:
+
+• Lexicon Palaeoslovenico-Graeco-Latinum, Franz von Miklosich; Vienna 1865. Translates from OCS into Greek and Latin. An invaluable resource by virtue of its comprehending the entire vocabulary of OCS, as well as other old Slavic languages, e.g. Old Russian.
+
+Linguistic History
+
+A few works in English are of use in determining the relation of OCS to the other Slavic languages and to PIE:
+
+• Russian and the Slavonic Languages, W.J. Entwistle and W.A. Morison; Faber and Faber. A very detailed account of the history of the Slavic languages. A good reference.
+
+• Common and Comparative Slavic: Phonology and Inflection, Charles E. Townsend and Laura A. Janda; Slavica 1996. Intended for the mature student, but engagingly written. A very up-to-date account of comparative Slavic studies, starting with a brief description of PIE and giving a good general picture of LCS. Unifies many of the changes within LCS under the principles of Rising Sonority and Synharmony.

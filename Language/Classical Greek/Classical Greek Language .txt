@@ -1,0 +1,3792 @@
+Classical Greek Online
+
+Series Introduction
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Greek has been important in the intellectual life of western civilization, but not to the extent of Latin except for ecclesiastical matters. In years past, Latin was introduced in the first year of High School, followed by Greek in the third year. The prominence of Greek for intellectual matters is evident in designations of subjects central to university study, such as philosophy 'love of wisdom', philology 'love of words or more generally study', theology 'study related to God', psychology 'study related to the soul or psyche', and so on.
+
+A difficulty with Greek that may put off learners is the maintenance of an older form of the alphabet than that used for Latin, English, and many other languages. Moreover, accentuation varies in Greek words, and in early Greek was musical. While today accented syllables are pronounced with stress rather than tones, the older accents are still written [with η added for illustration]: ή for the οκσεῖα 'acute' accent or high pitch, ῆ for the περισπώμενον accent or high-low pitch, and ὴ for the βαρεῖα 'grave' or falling pitch. Furthermore, the sentence structure and number of forms require a great deal of attention. The words of sentences are placed for their emphasis, rather than in accordance with a pattern like that of the English Subject-Verb-Object order; knowledge of the inflections is therefore highly important. Interpretation is also assisted by the use of articles which, like nouns, adjectives, pronouns and verbs, are inflected. It is essential, then, to learn the basic inflections of these parts of speech.
+
+1. The Greek alphabet and pronunciation.
+
+The Greek alphabet was taken over from the Semitic as used in the Phoenician area, which in turn was based on an Egyptian alphabet. These were also used for the numerals, so that the order of the symbols was maintained, if changed at times in sound value. This is true also of the Latin alphabet, which was based ultimately on the Greek alphabet; the 3rd symbol, which represented [g] as in its name gamma, had the sound of [k] in Latin, as in words like car or the proper name Cato. The symbols themselves, especially the small cursives, may also differ in form from those of Latin and English, but on the whole the differences may readily be recognized. The alphabet is as follows:
+
+αβγδεζηθικλμνξοπρσςτυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+
+Note that there are two forms of the small letter sigma: the latter (ς) is used where the letter appears last in the word; everywhere else, the former is used. The [h] sound before a vowel is signalled by a rough breathing sign [with ο added for illustration]: ὁ; and when there is no initial [h] sound before vowels, the smooth breathing sign is ὀ. The rough breathing may also be used with initial rho: ῥ.
+
+The names of the letters are as follows, in English and then in Greek:
+
+alpha, beta, gamma, delta, epsilon, zeta, eta, theta, iota, kappa, lambda, mu, nu, xi, omicron, pi, rho, sigma, tau, upsilon, phi, chi, psi, omega
+
+ἄλφα, βῆτα, γάμμα, δέλτα, ἒ ψιλόν, ζῆτα, ῆτα, θῆτα, ἰῶτα, κάππα, λάμβδα, μῦ, νῦ, ξεῖ, ὂ μικρόν, πεῖ, ῥῶ, σῖγμα, ταῦ, ὖ ψιλόν, φεῖ, χεῖ, ψεῖ, ὦ μέγα
+
+Latin and thereupon English has maintained this order with modifications that are apparent from the different sounds of the letters and the different names. The letter ζ was pronounced like the consonant in adze. The letter ξ was pronounced like the consonant in ax. The letter ψ was pronounced like the final consonants in tops. The letters θ φ χ were originally pronounced like the aspirated initial consonants in English tan, pan, can as opposed to the unaspirated consonants in stan, span, scan; but they are usually pronounced today like the initial consonants in than, fan and the consonant in German ach.
+
+The vowels are pronounced as follows: α like the vowel of bot, ε like that of bet, η like that of bait, ι like that of beet, ο like that of boat, υ like that of bit, ω like that of bought. The five vowels other than η ω may be long or short. Unlike English, there are few silent letters. Sentences, then, are read with every letter pronounced, as in the following sayings of Solon and of Menander:
+
+γηράσκω δ' αἰεὶ πολλὰ διδασκόμενος
+'I grow old-indeed-always-many things-learning'
+'I grow old always learning many things.'
+
+Τὴν τῶν κρατούντων μάθε φέρειν ἐξουσίαν
+'the-of the-masters----learn-to bear-power'
+'Learn to submit to the power of the masters.'
+
+2. The vocabulary.
+
+English and Greek belong to the Indo-European language family; their earlier versions separated from each other some four thousand years ago. Words of the same origin are often disguised because of changes that have taken place in both languages. For example, an initial [s] sound before vowels in Greek evolved into [h], as in (cf. English six) Latin sex, Greek heks, written ἕξ (cf. hexagon). The word corresponding to seven is written ἑπτά (cf. heptagon). Moreover the Indo-European consonants represented as bh, dh, gh evolved to ph, th, kh -- φ, θ, χ, as in φράτηρ 'brother'. New sounds have also been introduced in Greek with their own letter in the alphabet, such as η for the vowel corresponding to the [a] in hate, and ξ for the combination [ks] as in six.
+
+The greatest difference, however, may have resulted from a massive change of consonants in Germanic (hence English) well before our era. The change was formulated by the great German scholar, Jakob Grimm, and is known as Grimm's law, which is listed even in smaller dictionaries of English. At this time, p, t, k evolved into sounds that today are represented by f, th, h. Among examples are: father, compare Greek πατήρ, three, compare Greek τρεῖς, hundred, compare Greek ἑκατόν, literally 'one hundred'. And the sounds represented by bh, dh, gh in Indo-European were changed to the sounds that today are represented by b, d, g. These sounds were also changed in Greek, as noted above. Among examples are English brother, compare Greek φράτηρ, door, compare Greek θύρα, goose, compare Greek χήν. At the same time, b, d, g were changed to p, t, k. Among English examples are ten, compare Greek δέκα, kin, compare Greek γένος. (Indo-European had almost no words with b.)
+
+It is interesting to compare such cognate words, but the changes that both languages have undergone often conceal the relationships, as for the numerals for four and five. Some of the others are transparently related, in spite of changes: one, Greek εἷς; two, Greek δύο; three, Greek τρεῖς; four, Greek τέτταρες; five, Greek πέντε; six, Greek ἕξ; seven, Greek ἑπτά; eight, Greek ὀκτώ; nine, Greek ἐννέα; ten, Greek δέκα. Since dictionaries may provide the Greek cognates of English entries, control over the Greek vocabulary can be gained by noting them. Etymological dictionaries are of greater assistance.
+
+As noted above, by far the greatest number of similar words are found in academic and ecclesiastical language, where English simply took over the Greek terms through long influence on western culture from these spheres. Words were pronounced in accordance with the English spellings, rather than with their pronunciation in Greek. Some examples are cited here.
+
+The academic terms are in accordance with the influence of Aristotle, who, after years of study with Plato in the Athenian grove known as the Academy (named after the hero Akademos), conducted his teaching in the temple to Apollo known as the Lyceum. We have already noted terms ending in -logy, to which others might be added like biology and neurology. The last part attained a status of its own, so that further words like sociology, with its initial part from Latin, could be introduced. Moreover, the last part has a somewhat different function in the word doxology, 'giving words of praise'. Other ecclesiastical terms are clergy, clerical, Eucharist and liturgy. In the political sphere the words democrat and democracy are based on the components for people and power, as also in aristocrat and aristocracy for the best or superior people and power, autocracy for self or absolute power, theocracy for ecclesiastical power. Examination of the etymology or 'true meaning' of such words will assist in gaining control of the Greek vocabulary.
+
+3. The sentence structure of Greek.
+
+As is clear from the earlier quotations, the sentence order of Greek may differ considerably from that of English. In an earlier form of Greek, the verb was placed last in the sentence. But in the sayings of Menander its position is quite different. The different positions are possible because of Greek inflections. In English we generally have to place together phrases like 'power of the masters'. Greek, on the other hand, can move elements around for stylistic purposes -- as here, giving emphasis to special items like 'of the masters'.
+
+In examining a Greek text, one should first identify the verb. Its forms are identifiable through their inflections, with the additional help that nouns are often marked by preceding articles. In the saying of Solon, the ending -ω indicates that the subject is the first person expressed in English with I. As often, no further subject is included. Moreover, the ος ending on the final word indicates that the word must be taken as modifying I. It is useful then to memorize the basic inflections of verbs, as well as those of nouns.
+
+As illustrated by these brief passages, the key to reading Greek is provided by knowledge of its inflections. While these are numerous, memorization of the basic inflections of the article, of nouns and of verbs is generally adequate.
+
+4. The forms of Greek.
+
+4.1 Nouns, adjectives, pronouns, the article.
+
+These parts of speech are inflected for four cases, besides a case of address called the vocative. The cases are as follows:
+
+• Nominative, the case of the subject;
+
+• Genitive, the case to indicate possession -- possessive, in grammars of English
+
+• Dative, the case of the indirect object
+
+• Accusative, the case of the direct object -- objective, in grammars of English
+
+Case forms may also be determined by prepositions.
+
+In English, only the nominative, genitive/possessive and accusative/objective have been maintained, and that only in pronouns: I is nominative, my is genitive, me is accusative. Nouns simply have a nominative and a possessive, as in dog, dog's. Adjectives are not inflected.
+
+Greek nouns are also inflected for --
+
+• number, that is, singular and plural; Classical Greek also maintained a dual.
+
+• three genders: masculine, feminine, and neuter.
+
+• a large number of declensions.
+
+Paradigms are given in the various lessons. For illustration here, forms of the article are shown in all three genders, as well as the feminine noun for 'country' of the α-declension and the masculine noun for 'word' and the neuter for 'gift' of the ο-declension:
+
+  Fem. Masc. Nt. Fem. Masc NtSg. Nom. ἡ ὁ τό χώρα λόγος δῶρονSg. Gen. τῆς τοῦ τοῦ χώρας λόγου δώρουSg. Dat. τῇ τῷ τῷ χώρᾳ λόγῳ δώρῳSg. Acc. τήν τόν τό χώραν λόγον δῶρονPl. Nom. αἱ οἱ τά χῶραι λόγοι δῶραPl. Gen. τῶν τῶν τῶν χωρῶν λόγων δώρωνPl. Dat. ταῖς τοῖς τοῖς χώραις λόγοις δώροιςPl. Acc τάς τούς τά χώρας λόγους δῶρα
+
+4.2 Verbs.
+
+Like nouns, verbs have many inflections (though not all of the possible combinations below are realized):
+
+• Verbs are inflected for voice: active, middle, and passive. The middle indicates action directed at the subject; this is often expressed in the lexical meaning itself. Verbs with a basically middle voice are known as deponents; for example, γίγνομαι means 'become, take place, be produced,' etc.
+
+• Verbs are inflected for mood: indicative, subjunctive, and optative.
+
+• Verbs are inflected for tense: present, past (or imperfect), and future. Of these, there are three sets (again, not in all combinations): the basic (or simple), the aorist, and the perfect. The past perfect is also called pluperfect.
+
+In addition there are imperative forms, infinitives, participles, a gerund, and a supine. The imperative forms are rare in written texts.
+
+The present infinitive active may be illustrated by λέγειν 'to say, speak'; the aorist is λέξαι. The present infinitive middle is λέγεσθαι; the aorist is λέξασθαι. The passive infinitive is λέγεσθαι; the aorist is λεγθῆναι. The present participle active is λέγων, λέγουσα, λέγον. The present participle middle and passive is λεγόμενος, λεγομένη, λεγόμενον.
+
+It should be obvious that the verb system of Greek is complex. The basic forms of irregular verbs are generally listed in dictionaries.
+
+4.3 The other parts of speech.
+
+In addition to these parts of speech, Greek includes adverbs, conjunctions, interjections and prepositions. Since their functions are comparable to those of their English counterparts, they will not be discussed here.
+
+5. Examples of texts.
+
+Proverbs or passages from literary figures are often cited, also in English works. A few will be given here to illustrate the use of forms and patterns of syntax.
+
+Plato:Πάντων μέτρον ἄνθρωπός ἐστιν.
+'The human being is the measure of all things.'Aristotle:ἄνθρωπος φύσει πολιτικ̀ον ζῷον.
+'The human being is by nature a political animal.'Sophocles:πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει.
+'There are many wonderful things and nothing is more wonderful than the human being.'Archimedes:δός μοι ποῦ στῶ καὶ κινῶ τὴν γῆν.
+'Give me a place where I may stand and I will move the earth.'Menander:ὁ σοφὸς ἐν αὐτῷ περιφέρει τὴν οὐσίαν.
+'The wise man carries his property within him.'Plato:ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ.
+'The unexamined life is not worth living for a human being.'Menander:Οὐδεὶς ποιῶν πονερὰ λανθάνει θέον.
+'No one can hide his wickedness from god.'Isocrates:Τοὺς μὲν θεοὺς φοβοῦ, τοὺς δὲ γονέας τίμα, τοῖς δὲ νόμοις πείθου.
+'Fear the gods, honor the parents, keep the laws.'Menander:Κάλλιστόν ἐστι κτῆμα παιδεία βροτοῖς.
+'Education is the most valuable treasure for mortals.'Plato:Ἡ ψυχὴ ἀθάνατος φαίνεται οὖσα.
+'The soul is apparently immortal.'
+
+Lesson 1
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Unlike Roman tradition, Greek accounts do not depict a heroic origin in the settlement of their country. The opening sections of Thucydides' History of the war between the Peloponnesians and the Athenians provide the best and probably most accurate account of it. Among recent proposals about the entrance of the Greeks into the areas they settled, that of E.J.W. Barber, Prehistoric Textiles (Princeton University Press, 1991) is most convincing. She points out that, among the terms for textiles and weaving, those applying to simple applications like band-weaving are native Indo-European, but those for complex applications like use of the warp-weighted loom are imported. She concludes further that the Greeks picked up the terms for some of the complex applications as they came to the country through the Balkans from the northeast (1991: 260-82). Thucycides' account, which includes the excerpt given here, fully supports the conclusion that the newcomers had a simple civilization. Moreover, it also indicates that they were by no means united like the early Romans. The lack of political unity was maintained until the time of Alexander; one of its most difficult periods was the war from 431-404 B.C. that Thucydides describes so brilliantly.
+
+Reading and Textual Analysis
+
+In the opening section of Book I, Thucydides complains that he was unable to get much information about the early period. He goes on to state that in the area called Hellas there were no fixed habitations. The settlers simply moved about, raising enough for their own needs. Moreover, they had no mercantile traffic. He stresses the general weakness, as in Section 3 of Book I given here. He also points out that this was the situation at the time of Homer, which was much later than the time of the Trojan war. The rest of Book I describes the gradual increase in prosperity, first of Athens, but also the discord among the groups.
+
+δηλοῖ δέ μοι καὶ τόδε τῶν παλαιῶν ἀσθένειαν οὐχ ἤκιστα.
+
+ Collapse All
+
+• δηλοῖ -- verb; 3rd person singular present of <δηλόω> be clear, reveal -- it is clear
+
+• δέ -- particle; <δέ> and, on the other hand -- but
+
+• μοι -- pronoun; dative singular masculine of <ἐγώ> I -- to me
+
+• καὶ -- conjunction; <καί> and -- also
+
+• τόδε -- demonstrative pronoun; accusative singular neuter of <ὅδε> this -- by this
+
+• τῶν -- article; genitive plural neuter of <ὁ> the -- of the
+
+• παλαιῶν -- adjective; genitive plural masculine of <παλαιός> old, ancient -- ancient
+
+• ἀσθένειαν -- noun, feminine; accusative singular of <ἀσθένεια> weakness -- weakness
+
+• οὐχ -- particle; <οὐ> not -- not
+
+• ἤκιστα -- adverb; <ἥκιστα> least -- least
+
+πρὸ γὰρ τῶν Τρωικῶν οὐδὲν φαίνεται πρότερον κοινῇ ἐργασαμένη ἡ Ἑλλάς.
+
+ Collapse All
+
+• πρὸ -- preposition; <πρό> before -- before
+
+• γὰρ -- conjunction; <γάρ> for -- for
+
+• τῶν -- article; genitive plural neuter of <ὁ> the -- of the
+
+• Τρωικῶν -- adjective; genitive plural neuter of <Τρωικός> Trojan -- the times of Troy
+
+• οὐδὲν -- pronoun; nominative singular neuter of <οὐδείς, οὐδεμία, οὐδέν> no one, nothing -- nothing
+
+• φαίνεται -- verb; 3rd person singular present middle of <φαίνω> seem -- appears
+
+• πρότερον -- adverb; <πρότερον> earlier, before -- before
+
+• κοινῇ -- adjective; dative singular feminine of <κοινός> common -- in common
+
+• ἐργασαμένη -- verb; nominative singular feminine of aorist participle of <ἐργάζομαι> work, make -- to have been carried out
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• Ἑλλάς -- noun, feminine; nominative singular of <Ἑλλάς> Greece -- Greece
+
+δοκεῖ δέ μοι, οὐδὲ τοὄνομα τοῦτο ξύμπασά πω εἶχεν, ἀλλὰ τὰ μὲν πρὸ Ἕλληνος τοῦ Δευκαλίωνος καὶ πάνυ οὐδὲ εἶναι ἡ ἐπίκλησις αὕτη.
+
+ Collapse All
+
+• δοκεῖ -- verb; 3rd person singular present of <δοκέω> seem, think -- it seems
+
+• δέ -- particle; <δέ> and, on the other hand -- indeed
+
+• μοι -- pronoun; dative singular masculine of <ἐγώ> I -- to me
+
+• οὐδὲ -- particle; <οὐδέ> not -- not
+
+• τοὄνομα -- noun; article <τό> the + noun, neuter; accusative singular of <ὄνομα> name -- this name
+
+• τοῦτο -- demonstrative pronoun; accusative singular neuter of <οὗτος> this -- this
+
+• ξύμπασά -- adjective; nominative singular feminine of <ξύμπας> all together -- in general
+
+• πω -- adverb; <πω> yet -- yet
+
+• εἶχεν -- verb; 3rd person singular imperfect of <εἴχω> have, be -- did ... exist
+
+• ἀλλὰ -- conjunction; <ἀλλά> but -- but
+
+• τὰ -- article; accusative plural neuter of <ὁ> the -- the time
+
+• μὲν -- particle; <μέν> on the one hand -- ...
+
+• πρὸ -- preposition; <πρό> before -- before
+
+• Ἕλληνος -- noun, masculine; nominative singular of <Ἕλληνος> Hellenos -- Hellenos
+
+• τοῦ -- article; genitive singular masculine of <ὁ> the -- the
+
+• Δευκαλίωνος -- noun, masculine; genitive singular of <Δευκαλίων> Deucalion -- (son) of Deucalion
+
+• καὶ -- conjunction; <καί> and -- ...
+
+• πάνυ -- adverb; <πάνυ> at all -- at all
+
+• οὐδὲ -- particle; <οὐδέ> not -- not
+
+• εἶναι -- verb; infinitive of <εἰμί> I am -- did ... exist
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• ἐπίκλησις -- noun, feminine; nominative singular of <ἐπίκλησις> name, title -- title
+
+• αὕτη -- demonstrative pronoun; nominative singular feminine of <οὗτος> this -- this
+
+κατὰ ἔθνη δὲ ἄλλα τε καὶ τὸ Πελασγικὸν ἐπὶ πλεῖστον ἀφ' ἑαυτῶν τὴν ἐπωνυμίαν παρέχεσθαι.
+
+ Collapse All
+
+• κατὰ -- preposition; <κατά> completely, down, under -- from
+
+• ἔθνη -- noun, neuter; accusative plural of <ἔθνος> nation, people, tribe -- tribes
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• ἄλλα -- adjective; accusative plural neuter of <ἄλλος> other -- other
+
+• τε -- conjunction; <τε> and -- and
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• Πελασγικὸν -- adjective; accusative singular neuter of <Πελασγικός> Pelasgian -- Pelasgian = (Thessalian)
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- by
+
+• πλεῖστον -- adjective; accusative singular neuter of <πλεῖστος> most -- chiefly
+
+• ἀφ' -- preposition; <ἀπό> from -- from
+
+• ἑαυτῶν -- reflexive pronoun; genitive plural masculine of <ἑαυτός> himself -- their own
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• ἐπωνυμίαν -- noun, feminine; accusative singular of <ἐπωνυμία> name, designation -- name
+
+• παρέχεσθαι -- verb; passive infinitive of <παρέχω> provide -- had furnished
+
+Ἕλληνος δὲ καὶ τῶν παίδων αὐτοῦ ἐν τῇ Φθιῶτιδι ἰσχυσάντων, καὶ ἐπαγομένων αὐτοὺς ἐπ' ὠφελίᾳ ἐς τὰς ἄλλας πόλεις, καθ' ἑκάστους μὲν ἤδη τῇ ὁμιλίᾳ μᾶλλον καλεῖσθαι Ἕλληνας.
+
+ Collapse All
+
+• Ἕλληνος -- noun, masculine; nominative singular of <Ἕλληνος> Hellenos -- Hellenos
+
+• δὲ -- particle; <δέ> and, on the other hand -- but
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- the
+
+• παίδων -- noun, masculine/feminine; genitive plural of <παῖς> child -- sons
+
+• αὐτοῦ -- pronoun; genitive singular masculine of <αὐτός> oneself, he -- his
+
+• ἐν -- preposition; <ἐν> in -- in
+
+• τῇ -- article; dative singular feminine of <ὁ> the -- the
+
+• Φθιῶτιδι -- noun, feminine; dative singular of <Φθιῶτις> Phthiotis -- Phthiotis
+
+• ἰσχυσάντων -- verb; genitive plural masculine of participle aorist of <ἰσχύω> be strong -- had become strong
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἐπαγομένων -- verb; genitive plural masculine of present participle passive of <ἐπάγω> bring in, invite -- were brought in
+
+• αὐτοὺς -- pronoun; accusative plural masculine of <αὐτός> oneself, he -- themselves
+
+• ἐπ' -- preposition; <ἐπί> on, about -- for
+
+• ὠφελίᾳ -- noun, feminine; dative singular of <ὠφελία> aid -- assistance
+
+• ἐς -- preposition; <ἐς> towards -- to
+
+• τὰς -- article; accusative plural feminine of <ὁ> the -- the
+
+• ἄλλας -- adjective; accusative plural feminine of <ἄλλος> other -- other
+
+• πόλεις -- noun, feminine; accusative plural of <πόλις> city -- cities
+
+• καθ' -- preposition; <κατά> completely, down, under -- by
+
+• ἑκάστους -- adjective; accusative plural masculine of <ἕκαστος> each, every -- all
+
+• μὲν -- particle; <μέν> on the one hand -- indeed
+
+• ἤδη -- adverb; <ἤδη> already -- then
+
+• τῇ -- article; dative singular feminine of <ὁ> the -- the
+
+• ὁμιλίᾳ -- noun, feminine; dative singular of <ὁμιλία> being together -- association
+
+• μᾶλλον -- adverb; <μᾶλλον> more and more -- more and more
+
+• καλεῖσθαι -- verb; infinitive passive of <καλέω> call, summon -- were called
+
+• Ἕλληνας -- noun, masculine; accusative plural of <Ἕλλην> Greek -- Greeks
+
+οὐ μέντοι πολλοῦ γε χρόνου ἐδύνατο καὶ ἅπασιν ἐκνικῆσαι.
+
+ Collapse All
+
+• οὐ -- particle; <οὐ> not -- it was not
+
+• μέντοι -- particle; <μέντοι> but, however -- however
+
+• πολλοῦ -- adjective; genitive singular masculine of <πολύς> many -- long
+
+• γε -- particle; <γε> indeed -- indeed
+
+• χρόνου -- noun, masculine; genitive singular of <χρόνος> time -- time
+
+• ἐδύνατο -- deponent verb; 3rd person singular imperfect of <δύναμαι> be able -- would
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἅπασιν -- adjective; dative plural masculine of <ἅπας> all -- to all (clans)
+
+• ἐκνικῆσαι -- verb; infinitive passive of <ἐκνικάω> prevail -- prevail
+
+τεκμηριοῖ δὲ μάλιστα Ὅμερος
+
+ Collapse All
+
+• τεκμηριοῖ -- verb; 3rd person singular present optative of <τεκμηριόω> prove positively -- demonstrated
+
+• δὲ -- particle; <δέ> and, on the other hand -- indeed
+
+• μάλιστα -- adverb; superlative of <μάλα> very -- above all
+
+• Ὅμερος -- noun, masculine; nominative singular of <Ὅμερος> Homer -- Homer
+
+πολλῷ γὰρ ὕστερον ἔτι καὶ τῶν Τρωικῶν γενόμενος οὐδαμοῦ οὕτω τοὺς ξύμπαντας ὠνόμασεν οὐδ' ἄλλους ἢ τοὺς μετὰ Ἀχιλλέως ἐκ τῆς Φθιώτιδος.
+
+ Collapse All
+
+• πολλῷ -- adverb; dative singular neuter of <πολύς> many -- much
+
+• γὰρ -- conjunction; <γάρ> for -- for
+
+• ὕστερον -- adverb; <ὕστερον> later -- later
+
+• ἔτι -- adverb; <ἔτι> still -- still
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τῶν -- article; genitive plural neuter of <ὁ> the -- the
+
+• Τρωικῶν -- adjective; genitive plural neuter of <Τρωικός> Trojan -- the times of Troy
+
+• γενόμενος -- deponent verb; nominative singular neuter of present participle middle of <γίγνομαι> happen, become -- being
+
+• οὐδαμοῦ -- adverb; <οὐδαμοῦ> nowhere -- nowhere
+
+• οὕτω -- adverb; <οὕτως> so, thus -- at all
+
+• τοὺς -- article; accusative plural masculine of <ὁ> the -- them
+
+• ξύμπαντας -- adjective; accusative plural masculine of <ξύμπας> all together -- all together
+
+• ὠνόμασεν -- verb; 3rd person singular aorist of <ὀνομάζω> speak of by name -- referred to
+
+• οὐδ' -- particle; <οὐδέ> not -- nor
+
+• ἄλλους -- adjective; accusative plural masculine of <ἄλλος> other -- other
+
+• ἢ -- conjunction; <ἤ> or, than -- than
+
+• τοὺς -- article; accusative plural masculine of <ὁ> the -- the ones
+
+• μετὰ -- preposition; <μετά> after, with -- with
+
+• Ἀχιλλέως -- noun, masculine; genitive singular of <Ἀχιλλεύς> Achilles -- Achilles
+
+• ἐκ -- preposition; <ἐκ> from, out of -- from
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- the
+
+• Φθιώτιδος -- noun, feminine; genitive singular of <Φθιῶτις> Phthiotis -- Phthiotis
+
+οἵπερ καὶ πρῶτοι Ἕλληνες ἧσαν, Δαναοὺς δὲ ἐν τοῖς ἔπεσι καὶ Ἀργείους καὶ Ἀχαιοὺς ἀνακαλεῖ.
+
+ Collapse All
+
+• οἵπερ -- article used as demonstrative pronoun; nominative plural masculine of <ὁ> the + particle; <περ> indeed -- these... indeed
+
+• καὶ -- conjunction; <καί> and -- and
+
+• πρῶτοι -- adjective; nominative plural masculine of <πρῶτος> first -- the first
+
+• Ἕλληνες -- noun, masculine; nominative plural of <Ἕλλην> Greek -- Greeks
+
+• ἧσαν -- verb; 3rd person plural imperfect of <εἰμί> I am -- were
+
+• Δαναοὺς -- noun, masculine; accusative plural of <Δαναοί> Danaans -- Danaans
+
+• δὲ -- particle; <δέ> and, on the other hand -- but
+
+• ἐν -- preposition; <ἐν> in -- in
+
+• τοῖς -- article; dative plural neuter of <ὁ> the -- the
+
+• ἔπεσι -- noun, neuter; dative plural of <ἔπος> words, saying -- poem
+
+• καὶ -- conjunction; <καί> and -- and
+
+• Ἀργείους -- noun, masculine; accusative plural of <Ἀργεῖος> Argive -- (as)Argives
+
+• καὶ -- conjunction; <καί> and -- and
+
+• Ἀχαιοὺς -- noun, masculine; accusative plural of <Ἀχαιός> Achaean -- Achaeans
+
+• ἀνακαλεῖ -- verb; 3rd person singular present of <ἀνακαλέω> designate -- he designates
+
+οὐ μὴν οὐδὲ βαρβάρους εἴρηκε διὰ τὸ μηδὲ Ἕλληνάς πω, ὡς ἐμοὶ δοκεῖ.
+
+ Collapse All
+
+• οὐ -- particle; <οὐ> not -- not
+
+• μὴν -- particle; <μήν> verily -- even
+
+• οὐδὲ -- particle; <οὐδέ> not -- but not
+
+• βαρβάρους -- noun, masculine; accusative plural of <βάρβαρος> foreigner, non-Greek -- barbarians
+
+• εἴρηκε -- verb; 3rd person singular perfect of <εἴρω> speak, say -- he did ...speak of
+
+• διὰ -- preposition; <διά> through, by -- because of
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- this
+
+• μηδὲ -- particle; <μηδέ> and not -- not
+
+• Ἕλληνάς -- noun, masculine; accusative plural of <Ἕλλην> Greek -- the Greeks
+
+• πω -- adverb; <πω> yet -- yet
+
+• ὡς -- conjunction; <ὡς> as, thus -- as
+
+• ἐμοὶ -- pronoun; dative singular masculine of <ἐγώ> I -- to me
+
+• δοκεῖ -- verb; 3rd person singular present of <δοκέω> seem, think -- it seems
+
+ἀντίπαλον ἐς ἓν ὄνομα ἀποκεκρίσθαι.
+
+ Collapse All
+
+• ἀντίπαλον -- noun, masculine; accusative singular of <ἀντίπαλος> contrast -- (to provide) a contrast
+
+• ἐς -- preposition; <ἐς> towards -- with
+
+• ἓν -- adjective; accusative singular neuter of <εἷς> one -- a common
+
+• ὄνομα -- noun, neuter; accusative singular of <ὄνομα> name -- name
+
+• ἀποκεκρίσθαι -- verb; perfect infinitive passive of <ἀποκρίνω> separate, answer -- (they had not yet) been separated
+
+οἱ δ' οὖν ὡς ἕκαστοι Ἕλληνες κατὰ πόλεις τε ὅσοι ἀλλήλων ξυνίεσαν καὶ ξύμπαντες ὕστερον κληθέντες οὐδὲν πρὸ τῶν Τρωικῶν δι' ἀσθένειαν καὶ ἀμειξίαν ἀλλήλων ἁθρόοι ἔπραξαν.
+
+ Collapse All
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- those
+
+• δ' -- particle; <δέ> and, on the other hand -- but
+
+• οὖν -- adverb; <οὖν> indeed -- actually
+
+• ὡς -- conjunction; <ὡς> as, thus -- thus
+
+• ἕκαστοι -- adjective; nominative plural masculine of <ἕκαστος> each, every -- themselves
+
+• Ἕλληνες -- noun, masculine; nominative plural of <Ἕλλην> Greek -- Greeks
+
+• κατὰ -- preposition; <κατά> completely, down, under -- by
+
+• πόλεις -- noun, feminine; nominative plural of <πόλις> city -- cities
+
+• τε -- conjunction; <τε> and -- and
+
+• ὅσοι -- relative pronoun; nominative plural masculine of <ὅσος> as many -- as many
+
+• ἀλλήλων -- pronoun; genitive plural masculine of <ἀλλήλων> one another -- one another's (speech)
+
+• ξυνίεσαν -- verb; 3rd person plural imperfect of <ξυνίημι> bring together, understand -- they understood
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ξύμπαντες -- adjective; nominative plural masculine <ξύμπας> all together -- together
+
+• ὕστερον -- adverb; <ὕστερον> later -- later
+
+• κληθέντες -- verb; nominative plural masculine aorist participle passive of <καλέω> call, summon -- called together
+
+• οὐδὲν -- pronoun; accusative singular neuter of <οὐδείς, οὐδεμία, οὐδέν> no one, nothing -- nothing
+
+• πρὸ -- preposition; <πρό> before -- before
+
+• τῶν -- article; genitive plural neuter of <ὁ> the -- of the
+
+• Τρωικῶν -- adjective; genitive plural neuter of <Τρωικός> Trojan -- the times of Troy
+
+• δι' -- preposition; <διά> through, by -- because of
+
+• ἀσθένειαν -- noun, feminine; accusative singular of <ἀσθένεια> weakness -- weakness
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἀμειξίαν -- noun, feminine; accusative singular of <ἀμειξία> lack of intercourse -- lack of intercourse
+
+• ἀλλήλων -- pronoun; genitive plural masculine of <ἀλλήλων> one another -- with one another
+
+• ἁθρόοι -- adjective; nominative plural masculine of <ἁθρόος> together -- together
+
+• ἔπραξαν -- verb; 3rd person plural aorist of <πράσσω> achieve, manage -- carried out
+
+ἀλλὰ καὶ ταύτην τὴν στρατείαν θαλάσσῃ ἤδη πλείω χρώμενοι ξυνῆλθον.
+
+ Collapse All
+
+• ἀλλὰ -- conjunction; <ἀλλά> but -- but
+
+• καὶ -- conjunction; <καί> and -- even
+
+• ταύτην -- demonstrative pronoun; accusative singular feminine of <οὗτος> this -- for this
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• στρατείαν -- noun, feminine; accusative singular of <στρατεία> expedition -- expedition
+
+• θαλάσσῃ -- noun, feminine; dative singular of <θάλασσα> sea -- sea
+
+• ἤδη -- adverb; <ἤδη> already -- already
+
+• πλείω -- adjective; accusative singular feminine comparative of <πολύς> many -- considerable
+
+• χρώμενοι -- deponent verb; nominative plural masculine middle participle of <χράομαι> need, use -- (when) they made... use of
+
+• ξυνῆλθον -- deponent verb; 3rd person plural aorist of <συνέρχομαι> unite, come together -- they united
+
+Lesson Text
+
+δηλοῖ δέ μοι καὶ τόδε τῶν παλαιῶν ἀσθένειαν οὐχ ἤκιστα. πρὸ γὰρ τῶν Τρωικῶν οὐδὲν φαίνεται πρότερον κοινῇ ἐργασαμένη ἡ Ἑλλάς. δοκεῖ δέ μοι, οὐδὲ τοὄνομα τοῦτο ξύμπασά πω εἶχεν, ἀλλὰ τὰ μὲν πρὸ Ἕλληνος τοῦ Δευκαλίωνος καὶ πάνυ οὐδὲ εἶναι ἡ ἐπίκλησις αὕτη. κατὰ ἔθνη δὲ ἄλλα τε καὶ τὸ Πελασγικὸν ἐπὶ πλεῖστον ἀφ' ἑαυτῶν τὴν ἐπωνυμίαν παρέχεσθαι. Ἕλληνος δὲ καὶ τῶν παίδων αὐτοῦ ἐν τῇ Φθιῶτιδι ἰσχυσάντων, καὶ ἐπαγομένων αὐτοὺς ἐπ' ὠφελίᾳ ἐς τὰς ἄλλας πόλεις, καθ' ἑκάστους μὲν ἤδη τῇ ὁμιλίᾳ μᾶλλον καλεῖσθαι Ἕλληνας. οὐ μέντοι πολλοῦ γε χρόνου ἐδύνατο καὶ ἅπασιν ἐκνικῆσαι. τεκμηριοῖ δὲ μάλιστα Ὅμερος πολλῷ γὰρ ὕστερον ἔτι καὶ τῶν Τρωικῶν γενόμενος οὐδαμοῦ οὕτω τοὺς ξύμπαντας ὠνόμασεν οὐδ' ἄλλους ἢ τοὺς μετὰ Ἀχιλλέως ἐκ τῆς Φθιώτιδος. οἵπερ καὶ πρῶτοι Ἕλληνες ἧσαν, Δαναοὺς δὲ ἐν τοῖς ἔπεσι καὶ Ἀργείους καὶ Ἀχαιοὺς ἀνακαλεῖ. οὐ μὴν οὐδὲ βαρβάρους εἴρηκε διὰ τὸ μηδὲ Ἕλληνάς πω, ὡς ἐμοὶ δοκεῖ. ἀντίπαλον ἐς ἓν ὄνομα ἀποκεκρίσθαι. οἱ δ' οὖν ὡς ἕκαστοι Ἕλληνες κατὰ πόλεις τε ὅσοι ἀλλήλων ξυνίεσαν καὶ ξύμπαντες ὕστερον κληθέντες οὐδὲν πρὸ τῶν Τρωικῶν δι' ἀσθένειαν καὶ ἀμειξίαν ἀλλήλων ἁθρόοι ἔπραξαν. ἀλλὰ καὶ ταύτην τὴν στρατείαν θαλάσσῃ ἤδη πλείω χρώμενοι ξυνῆλθον.
+
+Translation
+
+The weakness of ancient times is also clear to me, not least from the following. Before the times of Troy, Hellas appears to have carried out nothing in common. Indeed, it seems to me that it did not yet have this name; before the time of Hellen, son of Deucalion, this title did not even exist. Rather, other tribes had furnished them by their own designations, and chiefly the Pelasgians. But when Hellen and his sons had become strong in Phthiotis, and were brought in for assistance to the other cities, then all were called Hellenes more and more because of this association. It was not for a long time, however that the name would prevail for all clans. Homer especially demonstrated this. Although being much later than the times of Troy, he nowhere at all referred to them all together, nor to others than the followers of Achilles from Phthiotis. They indeed were the first Hellenes, but he designates them in the poems as Danaans and Argives and Achaeans. He did not even speak of Barbarians because, as it seems to me, the Hellenes did not yet exist. They had not yet been separated with a common name to provide a contrast. Those who came together as Hellenes by cities and as they understood one another's speech and were later classed together carried out nothing together before the times of Troy because of weakness and lack of intercourse. But even for this expedition they united only when they already made considerable use of the sea.
+
+Grammar
+
+1 The alphabet and sound system.
+
+1.1 The alphabet.
+
+The Greek alphabet was taken over from the Phoenicians. It in turn was taken over by the Romans, but from a version of the alphabet that differs somewhat from the standard. The names are generally well known, such as the first two from our word alphabet, the third from gamma rays, and so on.
+
+The pronunciations are also straightforward. Those used in the classical period differ somewhat from the pronunciations typically used in instruction today. When they differ, the classical period pronunciations are indicated below using words in parentheses.
+
+Alpha α, Α fatherBeta β, Β botherGamma γ, Γ gatherDelta δ, Δ deltaEpsilon ε, Ε debtZeta ζ, Ζ zenEta η, Η rate (rat)Theta θ, Θ thin (tin) i.e. with aspirationIota ι, Ι sinKappa κ, Κ cope (scope) i.e. no aspirationLamba λ, Λ lapMu μ, Μ mapNu ν, Ν napKsi ξ, Ξ taxOmikron ο, Ο ropePi π, Π poke (spoke) i.e., no aspirationRho ρ, Ρ ropeSigma σς, Σ soap (note: lower-case form has 2 variants)Tau τ, Τ top (stop) i.e. no aspirationUpsilon υ, Υ soon (German Suehne) i.e. front roundedPhi φ, Φ four (pour) i.e. with aspirationChi χ, Χ core (German ich or ach) i.e. velar fricativePsi ψ, Ψ topsOmega ω, Ω boat (bought)
+
+In addition, a word beginning with a vowel or diphthong may or may not have an initial [h] sound. This is called a breathing. If the [h] sound is present, the breathing is called rough, signalled by a rough breathing sign [with α added for illustration]: ἁ; and when there is no initial [h] sound before a vowel, the smooth breathing sign is ἀ. The rough breathing may also be used with initial rho: ῥ.
+
+Moreover, vowels may have an iota subscript, that is, an [i] sound after the vowel, written as a diacritic beneath the vowel (e.g., ᾳ); while indicated in texts, this is generally left without pronunciation.
+
+1.2 The sound system.
+
+The system is as follows:
+
+  Labials Dentals Palato-velarsVoiceless: π τ κVoiced: β δ γAspirated, voiceless: φ θ χFricative:   ς  Nasals: μ ν ν (spelled γ before γ or κ)       Vowels: ι         υ  ε  ο     α    ῑ         ῡ  η  ω     ᾱ  Diphthongs: ει αι οι υι ευ αυ ηυ ου
+
+Classical Greek had a musical accent. There are three such accents. Vowels marked with oxia (e.g., ά) had high pitch; those with varia (e.g., ὰ) had a low or falling pitch; those marked with perispomeni (e.g., ᾶ) had rising and falling pitch.
+
+The place of the accent is determined chiefly by the quality of the last syllable; exceptions will be noted later. If the last syllable is short and the accent is an oxia, it can fall on the third syllable from the end of a word. If it is short, and the second last vowel is long, it may have perispomeni accent. If it is long, the second last syllable can only have oxia accent. In monosyllables the final vowel has oxia accent if it is short, a perispomeni if long. The varia accent replaces a final oxia accent before words beginning with a consonant.
+
+2 Greek, a Subject-Object-Verb (SOV) language.
+
+The basic word order of Classical Greek is verb-final, as in the following sentence.
+
+ἀλλὰ καὶ ταύτην τὴν στρατείαν θαλάσσῃ ἤδη πλείω χρώμενοι ξυνῆλθον.
+"But they united even for this expedition when they were already making considerable use of the sea."
+
+Thucydides, however, has a highly complex and personal style, so that he rearranges his sentences to emphasize certain elements. For example, the first sentence here begins with a verb, δηλοῖ, as does the third with δοκεῖ. The reason for the specific order in other sentences may be obvious when they are interpreted; for example, the second clearly emphasizes the final noun Ἑλλάς by placing it last. The texts of later lessons will be simpler; this text was selected because of its importance for information on the state of Greece in earlier times.
+
+3 Modifications of the basic sentence pattern.
+
+As noted in section 2, modifications of the basic sentence pattern are often carried out for stylistic purposes. A further example is the sentence:
+
+Τεκμηριοῖ δὲ μάλιστα Ὅμερος.
+"Then Homer established this especially."
+
+Both the position of the verb, and that of the subject, serve to indicate the place of emphasis. Similarly, the following sentence, with the object identifying the earliest identified sub-group of the Greeks, has been carefully constructed. Fortunately the ample inflections provide great assistance in the analysis and interpretation of sentences.
+
+4 Nominal inflection.
+
+Nouns, adjectives and the article are inflected for three genders, three numbers, and four cases. Among the numbers that of the dual is infrequent, and will not be presented here. The four cases are the nominative, genitive, dative and accusative. The uses of the ablative, such as for the target in comparative constructions, are largely assumed by the genitive. The principal uses of the cases are readily defined. The nominative is the case of the subject and of nouns after the copula in the predicative nominative. The genitive is the case of possession. The dative is the case of the indirect object. The accusative is the case of the direct object.
+
+Because of the common use of the article, its forms might well be memorized.
+
+  Masculine Feminine NeuterNom sg ὁ ἡ τόGen sg τοῦ τῆς τοῦDat sg τῷ τῇ τῷAcc sg τόν τήν τό       Nom pl οἱ αἱ τάGen pl τῶν τῶν τῶνDat pl τοῖς ταῖς τοῖςAcc pl τούς τάς τά
+
+Examples of the ο-declension, masculine and neuter, and the α-declension, feminine, are given here.
+
+  Masculine Feminine NeuterNom sg ὁ λόγος 'word' ἡ στρατιά 'army' τὸ δῶρον 'gift'Gen sg τοῦ λόγου τῆς στρατιᾶς τοῦ δώρουDat sg τῷ λόγῳ τῇ στρατιᾷ τῷ δώρῳAcc sg τὸν λόγον τὴν στρατιάν τὸ δῶρον       Nom pl οἱ λόγοι αἰ στρατιαί τὰ δῶραGen pl τῶν λόγων τῶν στρατιῶν τῶν δώρωνDat pl τοῖς λόγοις ταῖς στρατιαῖς τοῖς δώροιςAcc pl τοὺς λόγους τὰς στρατιάς τὰ δῶρα
+
+5 Verb inflection.
+
+Greek verbs are inflected for three voices, active, middle and passive, for four moods, indicative, subjunctive, optative and imperative, three systems or tenses, present, aorist and perfect, three numbers, singular, dual, plural. The augment 'ε' (epsilon) is used with past tense forms, imperfect, aorist, and pluperfect, but only in the indicative. The perfect stem is often reduplicated. In addition there are infinitives and participles.
+
+In view of its regularity, the verb παιδεύω 'educate' may be used to illustrate the various forms. Here the present and the imperfect indicative active are given. Before vowels, 'ν' (nu) is added to some forms ending in a vowel.
+
+  Present Imperfect1 sg παιδεύω ἐπαίδευον2 sg παιδεύεις ἐπαίδευες3 sg παιδεύει ἐπαίδευε(ν)     1 pl παιδεύομεν ἐπαιδεύομεν2 pl παιδεύετε ἐπαιδεύετε3 pl παιδεύουσι(ν) ἐπαίδευον
+
+• <υἱός> son -- the son
+
+• ἑκηβόλον -- adjective; accusative singular masculine of <ἑκηβόλος> far-shooting -- far-shooting
+
+• Ἀπόλλωνα -- noun, masculine; accusative singular of <Ἀπόλλων> Apollo -- Apollo
+
+Lesson Text
+
+Μῆνιν ἄειδε, θεά, Πηληιάδεω Ἀχιλλῆος
+οὐλομένην, ἥ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε,
+# Note that final vowels may be elided to provide regular meter (herein, μυρί' and ἄλγε' have lost final α). πολλὰς δ' ἰφθίμους ψυχὰς Αἵδι προίαψεν
+ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν
+οἰωνοῖσί τε πᾶσι, Διὸς δ' ἐτελείετο βουλή,
+ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε
+Ἀτρείδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς.
+Τίς τ' ἆρ' σφωε θεῶν ἔριδι ξυνέηκε μάχεσθαι;
+Λητοῦς καὶ Διὸς υἱός; ὁ γὰρ βασιλῆι χολωθεὶς
+νοῦσον ἀνὰ στρατὸν ὦρσε κακήν, ὀλέκοντο δὲ λαοί,
+οὕνεκα τὸν Χρύσην ἠτίμασεν ἀρητῆρα
+Ἀτρείδης· ὁ γὰρ ἤλθε θοὰς ἐπὶ νῆας Ἀχαιῶν
+λυσόμενός τε θυγάτρα φέρων τ' ἀπερείσι' ἄποινα,
+στέμματ' ἔχων ἐν χερσὶν ἑκηβόλου Ἀπόλλωνος
+χρυσέῳ ἀνὰ σκήπτρῳ, καὶ λίσσετο πάντας Ἀχαιούς
+Ἀτρείδα δὲ μάλιστα δύω, κοσμήτορε λαῶν·
+"Ἀτρείδαι τε καὶ ἄλλοι εὐκνήμιδες Ἀχαιοί,
+ὑμῖν μὲν θεοὶ δοῖεν Ὀλύμπια δώματ' ἔχοντες
+ἐκπέρσαι Πριάμοιο πόλιν, εὔ δ' οἴκαδ' ἱκέσθαι!
+παῖδα δ' ἐμοὶ λύσαιτε φίλην, τὰ δ' ἄποινα δέχεσθαι,
+ἁζόμενοι Διὸς υἱὸν ἑκηβόλον Ἀπόλλωνα."
+
+Translation
+
+Sing, oh goddess, of the wrath of Achilles, son of Peleus, the baneful wrath, which brought countless woes on the Achaeans and sent many valiant souls of heroes to Hades; But it made them themselves spoils for dogs and all kinds of birds, while the wish of the god was fulfilled. (Sing) from the time when, quarreling with one another, they first separated, the son of Atreus, ruler of men, and noble Achilles.
+
+Who now of the gods brought those two to quarrel in strife? The son of Leto and Zeus! For he, angered at the king, brought about an evil sickness on the army, and the people were perishing, because the son of Atreus had dishonored Chryses, the priest. For he had come to the swift ships of the Achaeans to free his daughter, bearing countless ransom and having in his hands on a golden scepter garlands of far-shooting Apollo. And he requested of all the Achaeans, but chiefly the two sons of Atreus, commanders of the people: "Sons of Atreus and other well-greaved Achaeans, may the gods, who have Olympian homes, grant to you that you destroy the city of Priam and return safely home. But free my dear child to me, and receive the ransom, in awe of far-shooting Apollo, son of Zeus."
+
+Grammar
+
+6 Conjunctions and Particles.
+
+As these texts exemplify, Greek makes great use of conjunctions and particles. These may have basic meanings, but many of them simply suggest relationships between syntactic units, so that they vary in use and may even not need to be translated.
+
+The most common conjunction is καί, with a basic meaning of 'and' but also 'even' and at times 'but'. Another common conjunction is γάρ, with a basic meaning of 'for' but also 'now', or it may be added simply to strengthen questions.
+
+Particles typically stand right after the first content word in sentences. Among the particles, δέ is very common, as in our texts; it has a basic adversative meaning and may often be translated 'but' or 'on the other hand', but is often redundant. In a different meaning it is attached to names of places that are in the accusative, and then means 'to'. In addition it may be added to pronouns to strengthen their meaning. The particle τε is also very common, and has the meaning 'and'; it is often used after both nouns that are conjoined. Moreover, in epic poetry it is added to other particles or to pronouns without adding to their meaning. The particle μέν often stands in clauses that are followed by other clauses including δέ, where it means something like 'one the one hand'; it may also be combined with other particles, as in μὲν ἄρα, where it means 'and'. The particle δή indicates emphasis, as on the word preceding it. In short, particles often supply meaning much as intonation does in English. The meaning of the content words in sentences may be a guide to interpretation of the particles included in them.
+
+7 Participles.
+
+Participles are often used to function as verbs of modifying clauses. These modifying clauses may correspond to relative clauses, as does ἔχοντες in line 18 of the Iliad text. The relationship to a principal clause may require a further interpretation, as does that of the participle λυσόμενος in line 13 or that of ἀζόμενος in line 21. On the other hand, they may be treated as participles in English, as for example φέρων in line 13. They may also be adjectival; an example is οὐλομένην in line 2. The interpretations will generally be clear from the contexts in which they are found.
+
+8 Nouns in consonantal declension.
+
+Nouns in the consonantal declension often have the final consonant elided before the nominative ending, so that their stem form must be determined from the genitive or other oblique cases. Examples are given here of nouns with stems ending in -δ- and -ρ-.
+
+  Masculine Feminine FeminineNom sg ὁ παῖς 'child' ἡ Ἕλλας 'Hellas' ἡ θυγάτηρ 'daughter'Gen sg τοῦ παιδός τῆς Ἑλλάδος τῆς θυγατέροςDat sg τῷ παιδί τῇ Ἑλλάδι τῇ θυγατέριAcc sg τὸν παῖδα τῆν Ἑλλάδα τῆν θυγατέρα       Nom pl οἱ παῖδες   αἱ θυγατέρεςGen pl τῶν παίδων   τῶν θυγατέρωνDat pl τοῖς παῖσι   ταῖς θυγατέρσιAcc pl τοὺς παῖδας   τὰς θυγατέρας
+
+9 Personal pronouns.
+
+The first and second personal pronouns have enclitic forms in the oblique cases of the singular, which are given here after the regular forms; they have no accent. The third person forms, for 'he, she, it', are supplied by the intensive pronoun meaning 'self'; the genitive singular forms would have the meanings 'of him, of her, of it', the dative singular forms would have the meanings 'to him, to her, to it', and so on.
+
+  1st Person 2nd Person 3rd Person      Masc. Fem. Neut.Nom sg ἐγώ σύ αὐτός αὐτή αὐτόGen sg ἐμοῦ, μου σοῦ, σου αὐτοῦ αὐτῆς αὐτοῦDat sg ἐμοί, μοι σοί, σοι αὐτῷ αὐτῇ αὐτῷAcc sg ἐμέ, με σέ, σε αὐτόν αὐτήν αὐτό           Nom pl ἡμεῖς ὑμεῖς αὐτοῖ αὐταῖ αὐτάGen pl ἡμῶν ὑμῶν αὐτῶν αὐτῶν αὐτῶνDat pl ἡμῖν ὑμῖν αὐτοῖς αὐταῖς αὐτοῖςAcc pl ἡμᾶς ὑμᾶς αὐτούς αὐτάς αὐτά
+
+10 The Present System of verbs.
+
+The present system includes five categories of forms: the present indicative, the imperfect, the subjunctive, the optative, and the imperative. In addition there is an infinitive and also a participle. The first two categories have been given in Lesson 1; the others are given here using the verb [infinitive] παιδεύειν.
+
+  Subjunctive Optative Imperative1 sg παιδεύω παιδεύοιμι  2 sg παιδεύῃς παιδεύοις παίδευε3 sg παιδεύῃ παιδεύοι παιδευέτω       1 pl παιδεύωμεν παιδεύοιμεν  2 pl παιδεύητε παιδεύοιτε παιδεύετε3 pl παιδεύωσι(ν) παιδεύοιεν παιδευόντων
+
+The participial forms, nominative and genitive singular, are as follows.
+
+  Masculine Feminine NeuterNom sg παιδεύων παιδεύουσα παιδεῦονGen sg παιδεύοντος παιδευούσης παιδεύοντος
+
+translated with past tense forms. The subjunctive, optative and imperative are comparable to those of the present system.
+
+  Indicative Subjunctive Optative Imperative1 sg ἐπαίδευσα παιδεύσω παιδεύσαι  2 sg ἐπαίδευσας παιδεύσῃς παιδεύσειας παίδευσον3 sg ἐπαίδευσε(ν) παιδεύσῃ παιδεύσειε(ν) παιδευσάτω         1 pl ἐπαιδεύσαμεν παιδεύσωμεν παιδεύσαιμεν  2 pl ἐπαιδεύσατε παιδεύσητε παιδεύσαιτε παιδεύσατε3 pl ἐπαίδευσαν παιδεύσωσι(ν) παιδεύσειαν παιδευσάντων
+Infinitive παιδεῦσαι      Participle παιδεύσας παιδεύσασα παιδεύ̃ͅσαν 'one whoGen sg παιδεύσαντος παιδεύσης παιδεύσαντος educated'
+
+Lesson 4
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Herodotus, often referred to as the father of history, provided no information about himself. He is said to have been born about 484 B.C. in Caria, Asia Minor, and died about 430 B.C. in southern Italy. The aim of his history is stated in the first sentence, which is considered one of the greatest ever written; it is broken up here for ease of treatment. In my view, this sentence provided the pattern of the first sentence of Luke's Gospel. In the course of setting out to provide a history of the conflict between the Greeks and the Persians he not only describes the rise of the Persian Empire but also that of Egypt and Greece. His description is based on wide travels that took him throughout the countries on the eastern part of the Mediterranean Sea and also into Scythia, the area north of the Black Sea. That area he visited before his travels in Egypt, where he went as far south as Assuan. The nine books of his History include highly interesting accounts such as that of Solon with the Lydian ruler, Croesus, which was formerly included in elementary grade school readers. Recalling Solon's accounts of fortunate men, Croesus repeated Solon's name when he was to be burned at the stake by his Persian conqueror, Cyrus; on his explanation for recalling Solon he was freed. While some of these are considered mythical, his unparalleled accounts provide information about Greece, Asia Minor, and Persia that is not recorded elsewhere.
+
+Reading and Textual Analysis
+
+Section 3 of Book I ascribes the initial enmity between the Greeks and the Persians to the rape of Helen by Paris. The previous section tells of other rapes, including that of Medea by the Greeks, which by his account led Paris to abduct Helen. In a sense then, Herodotus begins his history from the epics of Homer.
+
+Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε, # History I.1
+
+ Collapse All
+
+• Ἡροδότου -- noun, masculine; genitive singular of <Ἡερόδοτος> Herodotus -- of Herodotus
+
+• Ἁλικαρνησσέος -- noun, masculine; genitive singular of <Ἁλικαρνησεύς> Halicarnassian -- the Halicarnassian
+
+• ἱστορίης -- noun, feminine; genitive singular of <ἱστορία> inquiry, history -- of the history
+
+• ἀπόδεξις -- noun, feminine; nominative singular of <ἀπόδεξις> exposition, publication -- exposition
+
+• ἥδε -- demonstrative pronoun; nominative singular feminine of <ὅδε> this -- this
+
+ὡς μήτε τὰ γενόμενα ἐξ ἀνθρώπων τῷ χρόνῳ ἐξίτηλα γένηται,
+
+ Collapse All
+
+• ὡς -- conjunction; <ὡς> as, thus -- so that
+
+• μήτε -- adverb; <μήτε> and not, neither -- neither
+
+• τὰ -- article; nominative plural neuter of <ὁ> the -- the
+
+• γενόμενα -- participle used as substantive; nominative plural neuter of present participle middle of <γίγνομαι> happen, become -- events
+
+• ἐξ -- preposition; <ἐξ> from, out of -- by
+
+• ἀνθρώπων -- noun, masculine; genitive plural of <ἄνθρωπος> human being -- by humans
+
+• τῷ -- article; dative singular masculine of <ὁ> the -- the
+
+• χρόνῳ -- noun, masculine; dative singular of <χρόνος> time -- in time
+
+• ἐξίτηλα -- adjective; nominative plural neuter of <ἐξίτηλος> fading, forgotten -- forgotten
+
+• γένηται -- deponent verb; 3rd person singular aorist middle of <γίγνομαι> happen, become -- become
+
+μήτε ἔργα μεγάλα τε καὶ θωμαστά, τὰ μὲν Ἕλλησι τὰ δὲ βαρβάροισι ἀποδεχθέντα, ἀκλεᾶ γένηται,
+
+ Collapse All
+
+• μήτε -- adverb; <μήτε> and not, neither -- nor
+
+• ἔργα -- noun, neuter; nominative plural of <ἔργον> work, deed -- deeds
+
+• μεγάλα -- adjective; nominative plural neuter of <μεγάλος> great -- great
+
+• τε -- conjunction; <τε> and -- and
+
+• καὶ -- conjunction; <καί> and -- and
+
+• θωμαστά -- adjective; nominative plural neuter of <θωμαστός> wonderful -- wonderful
+
+• τὰ -- article; nominative plural neuter of <ὁ> the -- those
+
+• μὲν -- particle; <μέν> on the one hand -- on the one hand
+
+• Ἕλλησι -- noun, masculine; dative plural of <Ἕλλην> Greek -- by Greeks
+
+• τὰ -- article; nominative plural neuter of <ὁ> the -- those
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• βαρβάροισι -- noun, masculine; dative plural of <βάρβαρος> foreigner, non-Greek -- others than Greeks
+
+• ἀποδεχθέντα -- verb; nominative plural neuter of aorist participle passive of <ἀποδείκνυμι> propose -- performed
+
+• ἀκλεᾶ -- adjective; nominative plural neuter of <ἀκλεός> without fame -- without fame
+
+• γένηται -- deponent verb; 3rd person singular aorist middle of <γίγνομαι> happen, become -- may be
+
+τά τε ἄλλα καὶ δι' ἣν αἰτίην ἐπολέμησαν ἀλλήλοισι.
+
+ Collapse All
+
+• τά -- article; nominative plural neuter of <ὁ> the -- and
+
+• τε -- conjunction; <τε> and -- and
+
+• ἄλλα -- adjective; nominative plural neuter of <ἄλλος> other -- other
+
+• καὶ -- conjunction; <καί> and -- and
+
+• δι' -- preposition; <διά> through, by -- because
+
+• ἣν -- possessive pronoun; accusative singular feminine of <ὅς> his -- the
+
+• αἰτίην -- noun, feminine; accusative singular of <αἰτία> cause, reason -- reason
+
+• ἐπολέμησαν -- verb; 3rd person plural aorist of <πολεμέω> fight, be at war -- they fought
+
+• ἀλλήλοισι -- pronoun; dative plural masculine of <ἀλλήλων> one another -- with one another
+
+Δευτέρῃ δὲ λέγουσι γενεῇ μετὰ ταῦτα Ἀλέξανδρον τὸν Πριάμου, ἀκηκοότα ταῦτα, ἐθελῆσαί οἱ ἐκ τῆς Ἑλλάδος δι' ἁρπαγῆς γενέσθαι γυναῖκα, # History I.3
+
+ Collapse All
+
+• δευτέρῃ -- adjective; dative singular feminine of <δεύτερος> second -- in the second
+
+• δὲ -- particle; <δέ> and, on the other hand -- then
+
+• λέγουσι -- verb; 3rd person plural present of <λέγω> say -- they say
+
+• γενεῇ -- noun, feminine; dative singular of <γενεή> family, generation, race -- generation
+
+• μετὰ -- preposition; <μετά> after, with -- after
+
+• ταῦτα -- demonstrative pronoun; accusative plural neuter of <οὗτος> this -- these things
+
+• Ἀλέξανδρον -- noun, masculine; accusative singular of <Ἀλέξανδρος> Alexandros -- Alexandros = Paris
+
+• τὸν -- article; accusative singular masculine of <ὁ> the -- the (son)
+
+• Πριάμου -- noun, masculine; genitive singular of <Πρίαμος> Priam -- of Priam
+
+• ἀκηκοότα -- verb; nominative plural neuter of perfect participle of <ἀκούω> hear, listen -- having been heard
+
+• ταῦτα -- demonstrative pronoun; nominative plural neuter of <οὗτος> this -- these things
+
+• ἐθελῆσαί -- verb; infinitive aorist of <ἐθέλω> wish, want -- wanted
+
+• οἱ -- reflexive pronoun; dative singular masculine of <σφεῖς> they -- for himself
+
+• ἐκ -- preposition; <ἐκ> from, out of -- out of
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- the
+
+• Ἑλλάδος -- noun, feminine; genitive singular of <Ἑλλάς> Greece -- Greece
+
+• δι' -- preposition; <διά> through, by -- through
+
+• ἁρπαγῆς -- noun, feminine; genitive singular of <ἁρπαγή> abduction -- abduction
+
+• γενέσθαι -- deponent verb; infinitive aorist of <γίγνομαι> happen, become -- become
+
+• γυναῖκα -- noun, feminine; accusative singular of <γυνή> woman -- wife
+
+ἐπιστάμενον πάντως ὅτι οὐ δώσει δίκας.
+
+ Collapse All
+
+• ἐπιστάμενον -- deponent verb; accusative singular masculine of present participle of <ἐπίσταμαι> know -- knowing
+
+• πάντως -- adverb; <πάντως> altogether -- fully well
+
+• ὅτι -- conjunction; <ὅτι> because, that -- that
+
+• οὐ -- particle; <οὐ> not -- not
+
+• δώσει -- verb; 3rd person singular aorist subjunctive of <δίδωμι> give -- he would...make
+
+• δίκας -- noun, feminine; accusative plural of <δίκη> custom, right -- amends
+
+οὔτω δὴ ἁρπάσαντος αὐτοῦ Ἑλένην.
+
+ Collapse All
+
+• οὔτω -- adverb; <οὔτω> thus -- and so
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• ἁρπάσαντος -- verb; genitive singular masculine of <ἁρπάζω> carry off -- carried off
+
+• αὐτοῦ -- pronoun; genitive singular masculine of <αὐτός> oneself, he -- he
+
+• Ἑλένην -- noun, feminine; accusative singular of <Ἑλένη> Helen -- Helen
+
+τοῖσι Ἕλλησι δόξαι πρῶτὸν πέμψαντας ἀγγέλους ἀπαιτέειν τε Ἑλένην καὶ δίκας τῆς ἁρπαγῆς αἰτέειν.
+
+ Collapse All
+
+• τοῖσι -- article; dative plural masculine of <ὁ> the -- the
+
+• Ἕλλησι -- noun, masculine; dative plural of <Ἕλλην> Greek -- Greeks
+
+• δόξαι -- verb; aorist infinitive of <δοκέω> seem, think -- it was resolved
+
+• πρῶτὸν -- adverb; <πρῶτον> first -- first
+
+• πέμψαντας -- verb; accusative plural masculine of aorist participle of <πέμπω> send -- sent
+
+• ἀγγέλους -- noun, masculine; accusative plural of <ἄγγελος> messenger -- messengers
+
+• ἀπαιτέειν -- verb; infinitive of <ἀπαιτέω> request -- to demand back
+
+• τε -- conjunction; <τε> and -- and
+
+• Ἑλένην -- noun, feminine; accusative singular of <Ἑλένη> Helen -- Helen
+
+• καὶ -- conjunction; <καί> and -- and
+
+• δίκας -- noun, feminine; accusative plural of <δίκη> custom, right -- reparations
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- the
+
+• ἁρπαγῆς -- noun, feminine; genitive singular of <ἁρπαγή> abduction -- abduction
+
+• αἰτέειν -- verb; infinitive present, of <αἰτέω> request -- to request
+
+τοὺς δέ, προισομένων ταῦτα, προφέρειν σφι Μηδείης τὴν ἁρπαγήν.
+
+ Collapse All
+
+• τοὺς -- article; accusative plural masculine of <ὁ> the -- these
+
+• δέ -- particle; <δέ> and, on the other hand -- but
+
+• προισομένων -- verb; genitive plural neuter of aorist participle of <προφέρω> bring forth -- when they proposed
+
+• ταῦτα -- demonstrative pronoun; accusative plural neuter of <οὗτος> this -- these things
+
+• προφέρειν -- verb; infinitive of <προφέρω> bring forth -- (the Trojans) brought up
+
+• σφι -- reflexive pronoun; dative plural masculine of <σφεῖς> they -- they
+
+• Μηδείης -- noun, feminine; genitive singular of <Μηδεία> Medea -- of Medea
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• ἁρπαγήν -- noun, feminine; accusative singular of <ἁρπαγή> abduction -- abduction
+
+ὡς οὐ δόντες αὐτοὶ δίκας οὐδὲ ἐκδόντες ἀπαιτεόντων βουλοίατό σφι παρ' ἄλλων δίκας γίνεσθαι.
+
+ Collapse All
+
+• ὡς -- conjunction; <ὡς> as, thus -- so that
+
+• οὐ -- particle; <οὐ> not -- not
+
+• δόντες -- verb; nominative plural masculine of aorist participle of <δίδωμι> give -- (they had...) given
+
+• αὐτοὶ -- pronoun; nominative plural masculine of <αὐτός> oneself, he -- themselves
+
+• δίκας -- noun, feminine; accusative plural of <δίκη> custom, right -- satisfaction
+
+• οὐδὲ -- particle; <οὐδέ> not -- and...not
+
+• ἐκδόντες -- verb; nominative plural masculine of aorist participle of <ἐκδιδώμι> give up -- having given up
+
+• ἀπαιτεόντων -- verb; genitive plural neuter of present participle of <ἀπαιτέω> request -- (what was) requested
+
+• βουλοίατό -- verb; 3rd person singular aorist optative of <βούλομαι> wish, request -- they wished (that)
+
+• σφι -- reflexive pronoun; dative plural masculine of <σφεῖς> they -- for themselves
+
+• παρ' -- preposition; <παρά> from, of -- by
+
+• ἄλλων -- adjective; genitive plural masculine of <ἄλλος> other -- others
+
+• δίκας -- noun, feminine; accusative plural of <δίκη> custom, right -- reparations
+
+• γίνεσθαι -- deponent verb; aorist infinitive of <γίγνομαι> happen, become -- be provided
+
+Μέχρι μὲν ὦν τούτου ἁρπαγὰς μούνας εἶναι παρ' ἀλλήλων. # History I.4
+
+ Collapse All
+
+• μέχρι -- preposition; <μέχρι> until -- up to
+
+• μὲν -- particle; <μέν> on the one hand -- indeed
+
+• ὦν -- verb; present participle nominative singular masculine of <εἰμί> I am -- being
+
+• τούτου -- demonstrative pronoun; genitive singular neuter of <οὗτος> this -- this point
+
+• ἁρπαγὰς -- noun, feminine; accusative plural of <ἁρπαγή> abduction -- abductions
+
+• μούνας -- adjective; accusative plural feminine of <μοῦνος> alone -- only
+
+• εἶναι -- verb; infinitive of <εἰμί> I am -- (there) were
+
+• παρ' -- preposition; <παρά> from, of -- by
+
+• ἀλλήλων -- pronoun; genitive plural masculine of <ἀλλήλων> one another -- one another
+
+τὸ δὲ ἀπὸ τούτου Ἕλληνας δὴ μεγάλως αἰτίους γενέσθαι.
+
+ Collapse All
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- in regard to this
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• ἀπὸ -- preposition; <ἀπό> from -- from
+
+• τούτου -- demonstrative pronoun; genitive singular neuter of <οὗτος> this -- this point
+
+• Ἕλληνας -- noun, masculine; accusative plural of <Ἕλλην> Greek -- the Greeks
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• μεγάλως -- adverb; <μεγάλως> greatly -- greatly
+
+• αἰτίους -- adjective; accusative plural masculine of <αἴτιος> blameworthy -- blameworthy
+
+• γενέσθαι -- deponent verb; infinitive aorist of <γίγνομαι> happen, become -- became
+
+προτέρους γὰρ ἄρξαι στρατεύεσθαι ἐς τὴν Ἀσίην ἤ σφέας ἐς τὴν Εὐρώπην.
+
+ Collapse All
+
+• προτέρους -- adjective; accusative plural masculine of <πρότερος> first, before -- before
+
+• γὰρ -- conjunction; <γάρ> for -- for
+
+• ἄρξαι -- verb; infinitive aorist of <ἄρχω> begin -- (they) began
+
+• στρατεύεσθαι -- verb; infinitive middle of <στρατεύω> take the field, attack -- make war
+
+• ἐς -- preposition; <ἐς> towards -- against
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• Ἀσίην -- noun, feminine; accusative singular of <Ἀσία> Asia -- Asia
+
+• ἤ -- conjunction; <ἤ> or, than -- than
+
+• σφέας -- reflexive pronoun; accusative plural masculine of <σφεῖς> they -- they
+
+• ἐς -- preposition; <ἐς> towards -- against
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• Εὐρώπην -- noun, feminine; accusative singular of <Εὐρώπη> Europe -- Europe
+
+Ἕλληνας δὲ Λακεδαιμονίης εἵνεκεν γυναικὸς στόλον μέγαν συναγεῖραι καὶ ἔπειτα ἐλθόντας ἐς τὴν Ἀσίην τὴν Πριάμου δύναμιν κατελεῖν.
+
+ Collapse All
+
+• Ἕλληνας -- noun, masculine; accusative plural of <Ἕλλην> Greek -- the Greeks
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• Λακεδαιμονίης -- adjective; genitive singular feminine of <Λακεδαιμόνιος> Lacedemonian, Spartan -- Lacedemonian
+
+• εἵνεκεν -- preposition; <εἵνεκεν> because of -- because of
+
+• γυναικὸς -- noun, feminine; genitive singular of <γυνή> woman -- woman
+
+• στόλον -- noun, masculine; accusative singular of <στόλος> army -- army
+
+• μέγαν -- adjective; accusative singular masculine of <μέγας> great -- great
+
+• συναγεῖραι -- verb; infinitive aorist of <συναγείρω> assemble -- assembled
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἔπειτα -- adverb; <ἔπειτα> thereupon -- thereupon
+
+• ἐλθόντας -- verb; accusative plural masculine of aorist participle of <ἔρχομαι> come, go -- went
+
+• ἐς -- preposition; <ἐς> towards -- to
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• Ἀσίην -- noun, feminine; accusative singular of <Ἀσία> Asia -- Asia
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• Πριάμου -- noun, masculine; genitive singular of <Πρίαμος> Priam -- of Priam
+
+• δύναμιν -- noun, feminine; accusative singular of <δύναμις> power -- power
+
+• κατελεῖν -- verb; infinitive aorist of <καθαιρέω> take down, destroy -- destroyed
+
+ἀπὸ τούτου αἰεὶ ἡγήσασθαι τὸ Ἑλληνικὸν σφίσι εἶναι πολέμιον,
+
+ Collapse All
+
+• ἀπὸ -- preposition; <ἀπό> from -- from
+
+• τούτου -- demonstrative pronoun; genitive singular neuter of <οὗτος> this -- this (time)
+
+• αἰεὶ -- adverb; <αἰεί> always -- always
+
+• ἡγήσασθαι -- deponent verb; infinitive aorist of <ἡγέομαι> lead, regard, rule -- (we have) regarded
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• Ἑλληνικὸν -- adjective; accusative singular neuter of <Ἑλληνικός> Greek -- Greeks
+
+• σφίσι -- reflexive pronoun; dative plural masculine of <σφεῖς> they -- to us
+
+• εἶναι -- verb; infinitive of <εἰμί> I am -- to be
+
+• πολέμιον -- adjective; accusative singular neuter of <πολέμιος> hostile, inimical -- hostile
+
+τὴν γὰρ Ἀσίην καὶ τὰ ἐνοικέοντα ἔθνεα βάρβαρα οἰκηιεῦνται οἱ Πέρσαι, τὴν δὲ Εὐρώπην καὶ τὸ Ἑλληνικὸν ἥγηνται κεχωρίσθαι.
+
+ Collapse All
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• γὰρ -- conjunction; <γάρ> for -- for
+
+• Ἀσίην -- noun, feminine; accusative singular of <Ἀσία> Asia -- Asia
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τὰ -- article; accusative plural neuter of <ὁ> the -- the
+
+• ἐνοικέοντα -- verb; accusative plural neuter of present participle of <ἐνοικέω> dwelling in -- inhabiting
+
+• ἔθνεα -- noun, neuter; accusative plural of <ἔθνος> nation, people, tribe -- nations
+
+• βάρβαρα -- adjective; accusative plural neuter of <βάρβαρος> foreign, not Greek -- foreign
+
+• οἰκηιεῦνται -- verb; 3rd person singular present middle of <οἰκηιεύω> claim -- claim (for themselves)
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• Πέρσαι -- noun, masculine; nominative plural of <Πέρσης> Persian -- Persians
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• δὲ -- particle; <δέ> and, on the other hand -- but
+
+• Εὐρώπην -- noun, feminine; accusative singular of <Εὐρώπη> Europe -- Europe
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• Ἑλληνικὸν -- adjective; accusative singular neuter of <Ἑλληνικός> Greek -- Greeks
+
+• ἥγηνται -- deponent verb; 3rd person plural present of <ἡγέομαι> lead, regard, rule -- they consider
+
+• κεχωρίσθαι -- verb; infinitive perfect passive of <χωρίζω> separate -- to be separate
+
+Lesson Text
+
+Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε, # History I.1 ὡς μήτε τὰ γενόμενα ἐξ ἀνθρώπων τῷ χρόνῳ ἐξίτηλα γένηται, μήτε ἔργα μεγάλα τε καὶ θωμαστά, τὰ μὲν Ἕλλησι τὰ δὲ βαρβάροισι ἀποδεχθέντα, ἀκλεᾶ γένηται, τά τε ἄλλα καὶ δι' ἣν αἰτίην ἐπολέμησαν ἀλλήλοισι. Δευτέρῃ δὲ λέγουσι γενεῇ μετὰ ταῦτα Ἀλέξανδρον τὸν Πριάμου, ἀκηκοότα ταῦτα, ἐθελῆσαί οἱ ἐκ τῆς Ἑλλάδος δι' ἁρπαγῆς γενέσθαι γυναῖκα, # History I.3 ἐπιστάμενον πάντως ὅτι οὐ δώσει δίκας. οὔτω δὴ ἁρπάσαντος αὐτοῦ Ἑλένην. τοῖσι Ἕλλησι δόξαι πρῶτὸν πέμψαντας ἀγγέλους ἀπαιτέειν τε Ἑλένην καὶ δίκας τῆς ἁρπαγῆς αἰτέειν. τοὺς δέ, προισομένων ταῦτα, προφέρειν σφι Μηδείης τὴν ἁρπαγήν. ὡς οὐ δόντες αὐτοὶ δίκας οὐδὲ ἐκδόντες ἀπαιτεόντων βουλοίατό σφι παρ' ἄλλων δίκας γίνεσθαι. Μέχρι μὲν ὦν τούτου ἁρπαγὰς μούνας εἶναι παρ' ἀλλήλων. # History I.4 τὸ δὲ ἀπὸ τούτου Ἕλληνας δὴ μεγάλως αἰτίους γενέσθαι. προτέρους γὰρ ἄρξαι στρατεύεσθαι ἐς τὴν Ἀσίην ἤ σφέας ἐς τὴν Εὐρώπην. Ἕλληνας δὲ Λακεδαιμονίης εἵνεκεν γυναικὸς στόλον μέγαν συναγεῖραι καὶ ἔπειτα ἐλθόντας ἐς τὴν Ἀσίην τὴν Πριάμου δύναμιν κατελεῖν. ἀπὸ τούτου αἰεὶ ἡγήσασθαι τὸ Ἑλληνικὸν σφίσι εἶναι πολέμιον, τὴν γὰρ Ἀσίην καὶ τὰ ἐνοικέοντα ἔθνεα βάρβαρα οἰκηιεῦνται οἱ Πέρσαι, τὴν δὲ Εὐρώπην καὶ τὸ Ἑλληνικὸν ἥγηνται κεχωρίσθαι.
+
+Translation
+
+This is the exposition of the history of Herodotus, the Halicarnassian, (produced) so that neither the events be forgotten by humans in time, nor the great and wonderful deeds done by Greeks and foreigners may be without fame, and especially the reason why they fought with one another.
+
+Then in the second generation after these things, they say that Paris, the son of Priam, having heard these things, wanted to get for himself a wife out of Greece through rapine, believing full well that he would not make amends. And so indeed he carried off Helen. It was resolved first by the Greeks that messengers that were sent should demand back Helen and request reparations. When they proposed these things, the Trojans brought up the rape of Medea, and they reminded the Greeks that they had not given satisfaction nor given what was requested but asked that reparations be given to them by others. Up to this point there were only robberies from one another. But after this (the Persians say) the Greeks became greatly blameworthy. For they began to make war against Asia before they themselves did against Europe. --- The Greeks for the sake of a Lacedaemonian woman brought together a great army and then coming to Asia destroyed the power of Priam. From this time on we have always regarded the Greeks as hostile us. The Persians claim Asia and the foreign nations living there for themselves and consider Europe and the Greeks to be separate.
+
+Grammar
+
+16 Nouns ending in -ηρ.
+
+The basic relationship terms, among other nouns, end in -ηρ, and have no -ε- in the genitive and dative singular, and the dative plural. The following are examples.
+
+  father daughter manNom. sg. ὁ πατήρ ἡ θυγάτηρ ὀ ἀνήρGen. sg. τοῦ πατρός τῆς θυγατρός τοῦ ἀνδρόςDat. sg. τῷ πατρί τῇ θυγατρί τῷ ανδρίAcc. sg. τὸν πατέρα τῆν θυγατέρα τὸν ἄνδρα       Nom. pl. οἱ πατέρες αἱ θυγατέρες οἱ ἄνδρεςGen. pl. τῶν πατέρων τῶν θυγατέρων τῶν ἀνδρῶνDat. pl. τοῖς πατράσι ταῖς θυγατράσι τοῖς ἀνδράσιAcc. pl. τοὺς πατέρας τὰς θυγατέρας τοὺς ἄνδρας
+
+17 Irregular nouns.
+
+Some of the more frequent nouns are irregular in inflection; four of them are given here.
+
+  woman ship fire ZeusNom. sg. ἡ γυνή ἡ ναῦς τὸ πῦρ ΖεύςGen. sg. τῆς γυναικός τῆς νεώς τοῦ πυρός ΔιόςDat. sg. τῇ γυναικί τῇ νηί τῷ πυρί ΔιίAcc. sg. τῆν γυναῖκα τῆν ναῦν τὸ πῦρ Δία         Nom. pl. αἱ γυναῖκες αἱ νῆες τὰ πυρά  Gen. pl. τῶν γυναικῶν τῶν νεῶν τῶν πυρῶν  Dat. pl. ταῖς γυναιξί(ν) ταῖς ναυσί(ν) τοῖς πυροῖς  Acc. pl. τὰς γυναῖκας τὰς ναῦς τὰ πυρά  
+
+18 Demonstrative pronouns.
+
+There are three demonstrative pronouns. ὅδε, ἥδε, τόδε points to the present or future, and corresponds to 'this,' 'this one here.' οὕτος, αὔτη, τοῦτο points to the former, and corresponds to 'that.' ἐκεῖνος, ἐκείνη, ἐκεῖνο points to things remote or absent, and corresponds to 'that there.' ὅδε is based on the definite article. The forms of ἐκεῖνος are like those of αὐτός. The forms of ὁ̃υτος are given here.
+
+  Masculine Feminine NeuterNom. sg. οὗτος αὕτη τοῦτοGen. sg. τούτου ταύτης τούτουDat. sg. τούτῳ ταύτῃ τούτῳAcc. sg. τοῦτον ταύτην τοῦτο       Nom. pl. οὗτοι αὗται ταῦταGen. pl. τούτων τούτων τούτωνDat. pl. τούτοις ταύταις τούτοιςAcc. pl. τούτους ταύτας ταῦτα
+
+19 The uses of infinitives.
+
+Infinitives are often used after verbs to complement their meaning, as in Iliad 18-19: δοῖεν ... ἐκπέερσαι 'may they grant (you) to destroy...' But in this passage of Herodotus, they also correspond to finite verbs. In the first sentence of section 3, the infinitive ἐθελήσαι functions in this way to provide the verb for the noun Ἀλέξανδρον 'Alexander wished ...' This clause corresponds to a subordinate clause after the verb λέγουσι 'they say'; relatively frequent, it is known as the Accusative with Infinitive Construction, often labeled AcI.
+
+A further sentence simply has the infinitive with a dative indicating the subject, and in turn is followed by two two AcI constructions: τοῖσι Ἕλλεησι δόξαι 'it was resolved by the Greeks = the Greeks resolved.' Grammars simply label such constructions. Readers of the texts must accept their presence, and interpret them appropriately.
+
+20 The Present system of the Middle and the Passive.
+
+The Greek verb has a full set of Middle and Passive forms corresponding to those of the Active. In the Present System, the forms of the two Voices are the same.
+
+When used as Middle, the forms indicate an action or situation reflecting on the subject; thus the first singular indicative παιδεύομαι means 'I educate (for my sake)'. When used as Passive, the meaning corresponds to that of passives in English, so that the Passive παιδεύομαι means 'I am (being) educated.' The forms must be interpreted from the context.
+
+The forms of the Present System (first, second, and third person, singular and plural) are as follows:
+
+  Indicative Imperfect Subjunctive Optative Imperative1s παιδεύομαι ἐπαιδευόμην παιδεύωμαι παιδευοίμην  2s παιδεύῃ ἐπαιδεύου παιδεύῃ παιδεύοιο παιδεύου3s παιδεύεται ἐπαιδεύετο παιδεύηται παιδευοίτο παιδευέσθω1p παιδευόμεθα ἐπαιδευόμεθα παιδευώμεθα παιδευοίμεθα  2p παιδεύεσθε ἐπαιδεύεσθε παιδεύησθε παιδεύοισθε παιδεύεσθε3p παιδεύονται ἐπαιδεύοντο παιδεύωνται παιδεύοιντο παιδευέσθων
+
+Infinitive:   παιδεύεσθαι
+Participle:   παιδευόμενος, παιδευομένη, παιδευόμενον
+
+Lesson 5
+
+Winfred P. Lehmann and Jonathan Slocum
+
+In Book 4 of his History, Herodotus relates the expedition of Darius against the Scythians, who were located in the western highlands of the Persian Empire. Darius set out to avenge their earlier invasion of Media. While Herodotus tells of his attempt to punish the Scythians, most of the sections of the book dealing with the Scythians describe their customs. Among these the two sections on their use of cannabis are of great interest, both for their linguistic importance and for their information about the knowledge among the Greeks of this drug. The name for the plant, probably of Scythian origin, is found not only in Greek and Latin, but also in Armenian as kanap', in Albanian as kanep, and in Church Slavonic as konoplja. Found in so many dialects, the word might be reconstructed for Indo-European but for the information given by Herodotus, especially in view of its forms in Germanic.
+
+The forms in the Germanic languages, such as our word hemp, Old Icelandic hampr, and German Hanf include changes in consonants, k > h, b > p, that indicate the word was imported into Germanic before the first consonant shift. The time of its importation is unclear, but on the basis of the changes we may assume that the time was somewhat before our era. There are, however, problems with the assignment, since words may be modified when imported, though scarcely as completely as in the changed Germanic forms. Both for their linguistic and their cultural information, these two sections have been included from among the many of great interest in Herodotus's description of the customs of the Scythians.
+
+Reading and Textual Analysis
+
+Sections 74 and 75 of Book 4 are straightforward. Herodotus describes the appearance of the plant and its uses for clothing. While he mentions that he traveled by ship in the Black Sea, it is unclear whether he went north of it to the homes of the Scythians, or whether he has his information from reports by other travelers or from Scythians themselves. Whatever the basis of his information, his description of the use of the plant for achieving ecstasy and substituting for bathing, as well as the beauty preparations of the women, are clear and credible.
+
+Ἔστι δέ σφι κάνναβις φυομένη ἐν τῇ χώρῃ πλὴν παχύτητος καὶ μεγάθεος τῷ λίνῳ ἐμφερεστάτη. # Book 4, section 74
+
+ Collapse All
+
+• ἔστι -- verb; 3rd person singular present of <εἰμί> I am -- there is (they have)
+
+• δέ -- particle; <δέ> and, on the other hand -- and
+
+• σφι -- reflexive pronoun; dative plural masculine of <σφεῖς> they -- (for them)
+
+• κάνναβις -- noun, feminine; nominative singular of <κάνναβις> hemp -- hemp
+
+• φυομένη -- verb; nominative singular feminine of present participle middle of <φύω> grow -- growing
+
+• ἐν -- preposition; <ἐν> in -- in
+
+• τῇ -- article; dative singular feminine of <ὁ> the -- the
+
+• χώρῃ -- noun, feminine; dative singular of <χώρα> land, country -- country
+
+• πλὴν -- preposition; <πλήν> except -- except for
+
+• παχύτητος -- noun, feminine; genitive singular of <παχύτης> thickness -- thickness
+
+• καὶ -- conjunction; <καί> and -- and
+
+• μεγάθεος -- noun, feminine; genitive singular of <μεγάθης> height -- height
+
+• τῷ -- article; dative singular neuter of <ὁ> the -- the
+
+• λίνῳ -- noun, neuter; dative singular of <λίνον> linen -- linen
+
+• ἐμφερεστάτη -- adjective; nominative singular feminine of superlative of <ἐμφέρης> resembling -- very much like
+
+ταύτῃ δὲ πολλῷ ὑπερφέρει ἡ κάνναβις
+
+ Collapse All
+
+• ταύτῃ -- demonstrative pronoun; dative singular feminine of <οὗτος> this -- in this (respect)
+
+• δὲ -- particle; <δέ> and, on the other hand -- indeed
+
+• πολλῷ -- adverb; dative singular neuter of <πολύς> many -- by far
+
+• ὑπερφέρει -- verb; 3rd person singular present of <ὑπερφέρω> surpass -- surpasses
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• κάνναβις -- noun, feminine; nominative singular of <κάνναβις> hemp -- hemp
+
+αὕτη καὶ αὐτομάτη καὶ σπειρομένη φύεται, καὶ ἐξ αὐτῆς Θρήικες μὲν καὶ εἵματα ποιεῦνται τοίσι λινέοισι ὁμοιότατα·
+
+ Collapse All
+
+• αὕτη -- demonstrative pronoun; nominative singular feminine of <οὗτος> this -- this
+
+• καὶ -- conjunction; <καί> and -- both
+
+• αὐτομάτη -- adjective; nominative singular feminine of <αὐτόματος> by itself -- by itself
+
+• καὶ -- conjunction; <καί> and -- and
+
+• σπειρομένη -- verb; nominative singular feminine of present participle passive of <σπείρω> sow -- sown
+
+• φύεται -- verb; 3rd person singular present middle of <φύω> grow -- grows
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἐξ -- preposition; <ἐξ> from, out of -- out of
+
+• αὐτῆς -- pronoun; genitive singular feminine of <αὐτός> oneself, he -- it
+
+• Θρήικες -- noun, masculine; nominative plural of <Θρῆ́ιξ> Thracian -- (the) Thracians
+
+• μὲν -- particle; <μέν> on the one hand -- and
+
+• καὶ -- conjunction; <καί> and -- even
+
+• εἵματα -- noun, neuter; accusative plural of <εἷμα> clothing -- clothing
+
+• ποιεῦνται -- verb; 3rd person plural present middle of <ποιέω> make, do -- make
+
+• τοίσι -- article; dative plural neuter of <ὁ> the -- the
+
+• λινέοισι -- adjective; dative plural neuter of <λίνεος> of linen -- linen
+
+• ὁμοιότατα -- adjective; accusative plural neuter superlative of <ὅμοιος> like, similar -- very much like
+
+οὐδ' ἄν ὅστις μὴ κάρτα τρίβων εἴη αὐτῆς, διαγνοίη λίνου ἢ καννάβιος ἐστί·
+
+ Collapse All
+
+• οὐδ' -- particle; <οὐδέ> not -- and...not
+
+• ἄν -- particle; <ἄν> if -- unless
+
+• ὅστις -- relative pronoun; nominative singular masculine of <ὅστις> whoever, whatever -- one
+
+• μὴ -- particle; <μή> not -- ...
+
+• κάρτα -- adverb; <κάρτα> very much, extremely -- very
+
+• τρίβων -- adjective; nominative singular masculine of present participle of <τρίβω> skilled, experienced -- experienced
+
+• εἴη -- verb; 3rd person singular present optative of <εἰμί> I am -- were
+
+• αὐτῆς -- pronoun; genitive singular feminine of <αὐτός> oneself, he -- in it
+
+• διαγνοίη -- verb; 3rd person singular optative aorist of <διαγιγνώσκω> discern, distinguish -- he would discern
+
+• λίνου -- noun, neuter; genitive singular of <λίνον> linen -- linen
+
+• ἢ -- conjunction; <ἤ> or, than -- or
+
+• καννάβιος -- noun, feminine; genitive singular of <κάνναβις> hemp -- hemp
+
+• ἐστί -- verb; 3rd person singular present of <εἰμί> I am -- (whether) it is
+
+ὅς δὲ μὴ εἶδέ κώ τὴν κανναβίδα, λίνεον δοκήσει εἶναι τὸ εἷμα.
+
+ Collapse All
+
+• ὅς -- relative pronoun; nominative singular masculine of <ὅς> who, which -- he who
+
+• δὲ -- particle; <δέ> and, on the other hand -- but
+
+• μὴ -- particle; <μή> not -- not
+
+• εἶδέ -- verb; 3rd person singular aorist of <εἶδον> saw -- has seen
+
+• κώ -- adverb; <κώ> yet -- yet
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• κανναβίδα -- noun, feminine; accusative singular of <κάνναβις> hemp -- hemp clothing
+
+• λίνεον -- adjective; accusative singular neuter of <λίνεος> of linen -- of linen
+
+• δοκήσει -- verb; 3rd person singular future of <δοκέω> seem, think -- will think
+
+• εἶναι -- verb; infinitive of <εἰμί> I am -- (it) is
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• εἷμα -- noun, neuter; nominative singular of <εἷμα> clothing -- clothing
+
+Ταύτης ὦν οἱ Σκύθαι τῆς καννάβιος τὸ σπέρμα ἐπεὰν λάβωσι, ὑποδύνουσι ὑπὸ τοὺς πῖλους, καὶ ἔπειτα ἐπιβάλλουσι τὸ σπέρμα ἐπὶ τοὺς διαφανέας λίθους τῷ πυρί· # Book 4, section 75
+
+ Collapse All
+
+• ταύτης -- demonstrative pronoun; genitive singular feminine of <οὗτος> this -- of this
+
+• ὦν -- adverb; <ὦν> indeed -- indeed
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• Σκύθαι -- noun, masculine; nominative plural of <Σκύθης> Scythian -- Scythians
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- the
+
+• καννάβιος -- noun, feminine; genitive singular of <κάνναβις> hemp -- hemp
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• σπέρμα -- noun, neuter; accusative singular of <σπέρμα> seed -- seed
+
+• ἐπεὰν -- conjunction; <ἐπεάν> when, after -- after
+
+• λάβωσι -- verb; 3rd person plural aorist subjunctive of <λαμβάνω> receive, capture -- take
+
+• ὑποδύνουσι -- verb; 3rd person plural present of <ὑποδύω> go under -- (and) they go (under)
+
+• ὑπὸ -- preposition; <ὑπό> under, by -- under
+
+• τοὺς -- article; accusative plural masculine of <ὁ> the -- the
+
+• πῖλους -- noun, masculine; accusative plural of <πῖλος> mat -- mats
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἔπειτα -- adverb; <ἔπειτα> thereupon -- then
+
+• ἐπιβάλλουσι -- verb; 3rd person plural present of <ἐπιβάλλω> throw on -- they throw
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• σπέρμα -- noun, neuter; accusative singular of <σπέρμα> seed -- seed
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- on
+
+• τοὺς -- article; accusative plural masculine of <ὁ> the -- the
+
+• διαφανέας -- adjective; accusative plural masculine of <διαφανής> transparent, red-hot -- red-hot
+
+• λίθους -- noun, masculine; accusative plural of <λίθος> stone -- stones
+
+• τῷ -- article; dative singular neuter of <ὁ> the -- with the
+
+• πυρί -- noun, neuter; dative singular of <πῦρ> fire -- fire
+
+τὸ δὲ θυμιᾶται ἐπιβαλλόμενον καὶ ἀτμίδα παρέχεται τοσαύτην ὥστε Ἑλληνικὴ οὐδεμία ἄν μιν πυρίη ἀποκρατήσειε.
+
+ Collapse All
+
+• τὸ -- article; nominative singular neuter of <ὁ> the -- it
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• θυμιᾶται -- verb; 3rd person singular present middle of <θυμιάω> burn with smoke -- burn with smoke
+
+• ἐπιβαλλόμενον -- verb; accusative singular neuter of present participle passive of <ἐπιβάλλω> throw on -- (so) thrown
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἀτμίδα -- noun, feminine; accusative singular of <ἀτμίς> steam, vapor -- vapor
+
+• παρέχεται -- verb; 3rd person singular present middle of <παρέχω> provide -- it produces
+
+• τοσαύτην -- adjective; accusative singular feminine of <τοσοῦτος> such -- such
+
+• ὥστε -- adverbial conjunction; <ὥστε> like, so that -- that
+
+• Ἑλληνικὴ -- adjective; nominative singular feminine of <Ἑλληνικός> Greek -- Greek
+
+• οὐδεμία -- pronoun; nominative singular feminine of <οὐδείς, οὐδεμία, οὐδέν> no one, nothing -- no
+
+• ἄν -- particle; <ἄν> if -- ...
+
+• μιν -- pronoun; accusative singular neuter of <μιν> it -- it
+
+• πυρίη -- noun, feminine; nominative singular of <πυρίη> vapor bath -- vapor bath
+
+• ἀποκρατήσειε -- verb; 3rd person singular aorist optative of <ἀποκρατέω> exceed -- might exceed
+
+οἱ δὲ Σκύθαι ἀγάμενοι τῇ πυρίῃ ὠρύονται.
+
+ Collapse All
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• Σκύθαι -- noun, masculine; nominative plural of <Σκύθης> Scythian -- Scythians
+
+• ἀγάμενοι -- deponent verb; nominative plural masculine of present participle middle of <ἄγαμαι> to wonder, admire -- delighted
+
+• τῇ -- article; dative singular feminine of <ὁ> the -- by the
+
+• πυρίῃ -- noun, feminine; dative singular of <πυρίη> vapor bath -- vapor bath
+
+• ὠρύονται -- verb; 3rd person plural present middle of <ὠρύομαι> howl -- howl
+
+τοῦτό σφι ἀντὶ λουτροῦ ἐστι.
+
+ Collapse All
+
+• τοῦτό -- demonstrative pronoun; nominative singular neuter of <οὗτος> this -- this
+
+• σφι -- reflexive pronoun; dative plural masculine of <σφεῖς> they -- for them
+
+• ἀντὶ -- preposition; <ἀντί> instead of -- instead of
+
+• λουτροῦ -- noun, neuter; genitive singular of <λουτρόν> bathing -- bathing
+
+• ἐστι -- verb; 3rd person singular present of <εἰμί> I am -- is (done)
+
+οὐ γὰρ δὴ λούονται ὕδατι τὸ παράπαν τὸ σῶμα.
+
+ Collapse All
+
+• οὐ -- particle; <οὐ> not -- not
+
+• γὰρ -- conjunction; <γάρ> for -- for
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• λούονται -- verb; 3rd person plural present middle of <λούομαι> wash oneself -- they wash
+
+• ὕδατι -- noun, neuter; dative singular of <ὕδωρ> water -- in water
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• παράπαν -- adverb; <παράπαν> absolutely -- at all
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- their
+
+• σῶμα -- noun, neuter; accusative singular of <σῶμα> body -- body
+
+αἱ δὲ γυναῖκες αὐτῶν ὕδωρ παραχέουσαι κατασώχουσι περὶ λίθον τρηχὺν τῆς κυπαρίσσου καὶ κέδρου καὶ λιβάνου ξύλου, καὶ ἔπειτα τὸ κατασωχόμενον τοῦτο παχὺ ἐὸν καταπλάσσονται πᾶν τὸ σῶμα καὶ τὸ πρόσωπον·
+
+ Collapse All
+
+• αἱ -- article; nominative plural feminine of <ὁ> the -- the
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• γυναῖκες -- noun, feminine; nominative plural of <γυνή> woman -- women
+
+• αὐτῶν -- pronoun; genitive plural feminine of <αὐτός> oneself, he -- their
+
+• ὕδωρ -- noun, neuter; accusative singular of <ὕδωρ> water -- water
+
+• παραχέουσαι -- verb; nominative plural feminine of present participle of <παραχέω> pour in -- pouring in
+
+• κατασώχουσι -- verb; 3rd person plural present of <κατασώχω> rub in pieces -- rub
+
+• περὶ -- preposition; <περί> around -- around
+
+• λίθον -- noun, masculine; accusative singular of <λίθος> stone -- stone
+
+• τρηχὺν -- adjective; accusative singular masculine of <τρηχύς> rough -- a rough
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- of the
+
+• κυπαρίσσου -- noun, masculine; genitive singular of <κυπαρίσσος> cypress -- cypress
+
+• καὶ -- conjunction; <καί> and -- and
+
+• κέδρου -- noun, feminine; genitive singular of <κέδρος> cedar -- cedar
+
+• καὶ -- conjunction; <καί> and -- and
+
+• λιβάνου -- noun, masculine; genitive singular of <λίβανος> frankincense, frankincense tree -- frankincense tree
+
+• ξύλου -- noun, neuter; genitive singular of <ξύλον> wood -- wood
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἔπειτα -- adverb; <ἔπειτα> thereupon -- then
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• κατασωχόμενον -- verb; accusative singular neuter of present participle middle of <κατασώχω> rub in pieces -- rubbed (matter)
+
+• τοῦτο -- demonstrative pronoun; accusative singular neuter of <οὗτος> this -- this
+
+• παχὺ -- adjective; accusative singular neuter of <παχύς> thick -- thick
+
+• ἐὸν -- adjective; accusative singular neuter of <ἐός> his, her -- their
+
+• καταπλάσσονται -- verb; 3rd person plural present of <καταπλάσσω> plaster over -- they plaster over
+
+• πᾶν -- adjective; accusative singular neuter of <πᾶς> all, every -- entire
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- ...
+
+• σῶμα -- noun, neuter; accusative singular of <σῶμα> body -- body
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- ...
+
+• πρόσωπον -- noun, neuter; accusative singular of <πρόσωπον> face -- face
+
+καὶ ἅμα μὲν εὐωδίη σφέας ἀπὸ τούτου ἴσχει, ἅμα δὲ ἀπαιρέουσαι τῇ δευτέρῃ ἡμέρῃ τὴν καταπλαστὺν γίνονται καθαραὶ καὶ λαμπραί.
+
+ Collapse All
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἅμα -- adverb; <ἅμα> at the same time -- at the same time
+
+• μὲν -- particle; <μέν> on the one hand -- on the one hand
+
+• εὐωδίη -- noun, feminine; nominative singular of <εὐωδίη> fragrant scent -- a fragrant scent
+
+• σφέας -- reflexive pronoun; accusative plural masculine of <σφεῖς> they -- them
+
+• ἀπὸ -- preposition; <ἀπό> from -- from
+
+• τούτου -- demonstrative pronoun; genitive singular neuter of <οὗτος> this -- this
+
+• ἴσχει -- verb; 3rd person singular present of <ἴσχω> stay -- remains
+
+• ἅμα -- adverb; <ἅμα> at the same time -- and at the same time
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• ἀπαιρέουσαι -- verb; nominative singular feminine of present participle of <ἀπαιρέω> take off -- (when they) remove
+
+• τῇ -- article; dative singular feminine of <ὁ> the -- their
+
+• δευτέρῃ -- adjective; dative singular feminine of <δεύτερος> second -- on the second
+
+• ἡμέρῃ -- noun, feminine; dative singular of <ἡμέρα> day -- day
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• καταπλαστὺν -- noun, feminine; accusative singular of <καταπλαστύς> plaster -- ointment
+
+• γίνονται -- deponent verb; 3rd person plural present of <γίγνομαι> happen, become -- they become
+
+• καθαραὶ -- adjective; nominative plural feminine of <καθαρός> clean, pure -- clean
+
+• καὶ -- conjunction; <καί> and -- and
+
+• λαμπραί -- adjective; nominative plural feminine of <λαμπρός> shiny -- shining (in appearance)
+
+Lesson Text
+
+Ἔστι δέ σφι κάνναβις φυομένη ἐν τῇ χώρῃ πλὴν παχύτητος καὶ μεγάθεος τῷ λίνῳ ἐμφερεστάτη. # Book 4, section 74 ταύτῃ δὲ πολλῷ ὑπερφέρει ἡ κάνναβις αὕτη καὶ αὐτομάτη καὶ σπειρομένη φύεται, καὶ ἐξ αὐτῆς Θρήικες μὲν καὶ εἵματα ποιεῦνται τοίσι λινέοισι ὁμοιότατα· οὐδ' ἄν ὅστις μὴ κάρτα τρίβων εἴη αὐτῆς, διαγνοίη λίνου ἢ καννάβιος ἐστί· ὅς δὲ μὴ εἶδέ κώ τὴν κανναβίδα, λίνεον δοκήσει εἶναι τὸ εἷμα. Ταύτης ὦν οἱ Σκύθαι τῆς καννάβιος τὸ σπέρμα ἐπεὰν λάβωσι, ὑποδύνουσι ὑπὸ τοὺς πῖλους, καὶ ἔπειτα ἐπιβάλλουσι τὸ σπέρμα ἐπὶ τοὺς διαφανέας λίθους τῷ πυρί· # Book 4, section 75 τὸ δὲ θυμιᾶται ἐπιβαλλόμενον καὶ ἀτμίδα παρέχεται τοσαύτην ὥστε Ἑλληνικὴ οὐδεμία ἄν μιν πυρίη ἀποκρατήσειε. οἱ δὲ Σκύθαι ἀγάμενοι τῇ πυρίῃ ὠρύονται. τοῦτό σφι ἀντὶ λουτροῦ ἐστι. οὐ γὰρ δὴ λούονται ὕδατι τὸ παράπαν τὸ σῶμα. αἱ δὲ γυναῖκες αὐτῶν ὕδωρ παραχέουσαι κατασώχουσι περὶ λίθον τρηχὺν τῆς κυπαρίσσου καὶ κέδρου καὶ λιβάνου ξύλου, καὶ ἔπειτα τὸ κατασωχόμενον τοῦτο παχὺ ἐὸν καταπλάσσονται πᾶν τὸ σῶμα καὶ τὸ πρόσωπον· καὶ ἅμα μὲν εὐωδίη σφέας ἀπὸ τούτου ἴσχει, ἅμα δὲ ἀπαιρέουσαι τῇ δευτέρῃ ἡμέρῃ τὴν καταπλαστὺν γίνονται καθαραὶ καὶ λαμπραί.
+
+Translation
+
+They have hemp growing in their country, very much like flax except for thickness and height. In this respect the hemp surpasses flax by far. This grows by itself and sown, and out of it the Thracians even make clothing very much like linen. And unless anyone were very experienced in it, he would not discern whether it is linen or hemp. But he who has not yet seen hemp clothing will think the clothing is linen.
+
+Now the Scythians take the seed of the hemp and they go under their mats and then they throw the seed on the red-hot stones in the fire. So thrown it smoulders, and it produces such vapor that no Greek vapor bath might exceed it. And delighted by the vapor bath, the Scythians howl. This is done by them instead of bathing. But their women pound around a rough stone cypress and cedar and frankincense wood, pouring in water, and then they plaster this thick rubbed matter over their entire body and face. A fragrant scent remains on them from this, and at the same time when they remove the ointment on the second day they become clean and shining in appearance.
+
+Grammar
+
+21 Consonant stems ending in dentals.
+
+In these stems the consonant is dropped in the nominative singular, as well as in the accusative singular of neuters, and in the dative plural.
+
+  'foot' 'body'Nom. sg. ὁ πούς τὸ σῶμαGen. sg. τοῦ ποδός τοῦ σώματοςDat. sg. τῷ ποδί τῷ σώματιAcc. sg. τὸν ποδά τὸ σῶμα     Nom. pl. οἱ ποδές τὰ σώματαGen. pl. τῶν ποδῶν τῶν σωμάτωνDat. pl. τοῖς ποσί τοῖς σώμασιAcc. pl. τοὺς ποδάς τὰ σώματα
+
+22 Comparison of adjectives.
+
+In most adjectives comparison is expressed by -τερος in the comparative degree, by -τατος in the superlative degree. The forms then are inflected in accordance with the ο- and α-declensions. Examples in this text are ἐμφερεστάτη and ὁμοιότατα. Some of the common adjectives on the other hand are irregular, for example, κακός 'bad'; κακίων, κάκιστος. Their forms will be listed in dictionaries.
+
+23 Interrogative and indefinite pronouns.
+
+These are declined as follows:
+
+  Interrogative Indefinite  Masc/Fem Neut|Masc/Fem Neut  'who' 'what'|'someone' 'something'Nom. sg. τίς τί|τις τιGen. sg. τίνος τίνος|τινός τινόςDat. sg. τίνι τίνι|τινί τινίAcc. sg. τίνα τί|τινα τι         Nom. pl. τίνες τίνα|τινες τιναGen. pl. τίνων τίνων|τινῶν τινῶνDat. pl. τίσι(ν) τίσι(ν)|τισί(ν) τισί(ν)Acc. pl. τίνας τίνα|τινας τινα
+
+ 
+
+  Indefinite  Masc Fem Neut  'who(ever)' 'who(ever)' 'what(ever)'Nom. sg. ὅστις ἥτις ὅτιGen. sg. ὅτου ἧστινος ὅτουDat. sg. ᾧτινι ᾗτινι ᾧτινιAcc. sg. ὅντινα ἥντινα ὅτι       Nom. pl. οἵτινες αἵτινες ἅτιναGen. pl. ὧντινων ὧντινων ὧντινωνDat. pl. οἷστισι αἷστισι οἷστισιAcc. pl. οὕστινας ἅστινας ἅτινα
+
+ 
+
+24 The middle and passive voices.
+
+In the present system the forms of the middle (expressing action for one's own sake) and the passive (expressing action directed at the subject) are the same. The forms for the indicative and the imperfect are as follows.
+
+  Present Imperfect1 sg παιδεύομαι ἐπαιδευόμην2 sg παιδεύῃ ἐπαιδεύου3 sg παιδεύεται ἐπαιδεύετο     1 pl παιδευόμεθα ἐπαιδευόμεθα2 pl παιδεύεσθε ἐπαιδεύεσθε3 pl παιδεύονται ἐπαιδεύονται
+
+25 The subjunctive, optative, and imperative middle and passive forms, the infinitive and participle.
+
+While these forms are not frequent, they are given here so that, if found, they may be recognized. The participial forms, on the other hand, are relatively frequent, as in this text, where a number of them occur, such as φυομένη, ἐπιβαλλόμενον, ἀγάμενοι.
+
+  Subjunctive Optative Imperative1s παιδεύωμαι παιαδευοίμην  2s παιδεύῃ παιδεύοιο παιδεύου3s παιδεύηται παιδεύοιτο παιδευέσθω       1p παιδευώμεθα παιδευοίμεθα  2p παιδεύησθε παιδεύοισθε παιδεύεσθε3p παιδεύωνται παιδεύοιντο παιδευέσθων
+
+Infinitive:   παιδεύεσθαι
+Participle:   παιδευόμενος, παιδευομένη, παιδευόμενον
+
+Lesson 6
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Xenophon was born about 444 BC, and is said to have lived 90 years. He was a student of Socrates, and wrote the Memorabilia of Socrates to clear him from the charge of irreligion and corruption of the young men of Athens. Banished about the time of Socrates' death in 399, he served variously in military activities, and in 394 BC settled near Olympus, where he remained for twenty years. He then is said to have lived in Corinth, but there is no definite information about that part of his life until his death. In addition to the Anabasis, he wrote the Cyropaedia, a fanciful account of Cyrus the Elder. He is acclaimed for his simple and straightforward style. When Greek was taught for six years in High School and College, the Anabasis was the first long work read by students.
+
+Reading and Textual Analysis
+
+Xenophon's Anabasis is the account of the Greek army's retreat along the Tigris and through the high country of Armenia to Trapezus, and from there to Byzantium. The army had been assisting Cyrus in his attempt to gain the Persian throne after the death of his father Darius, king of Persia from 424-405 BC. His older brother, Artaxerxes, then assumed the throne. Cyrus, known as the Younger to distinguish him from the Elder (d. 529 BC), had been appointed by his father, Darius, to be commander of the maritime parts of Asia Minor. When his brother became king in 404 BC, Cyrus decided to overthrow him. He set out from Sardis in 401 BC with an army that included 13,000 Greek mercenaries. In the plain of Cunaxa, about 60 miles from Babylon, he met the king's army. His troops were victorious, but he himself was killed. The Greek army then set out to escape to the north, after most of their generals were treacherously murdered. Xenophon had been with the army as an observer, but now was elected as one of the generals and became effectively leader of the army. Approximately half of the Anabasis consists of the report of the retreat to the sea; the rest of it deals with the continued effort to go by sea to Byzantium. This episode was selected because of its account of the joy of the Greeks on their escape from their enemies.
+
+ἀφικνοῦνται ἐπὶ τὸ ὄρος τῇ πέμπτῇ ἡμέρᾳ.
+
+ Collapse All
+
+• ἀφικνοῦνται -- deponent verb; 3rd person plural present of <ἀφικνέομαι> come to, reach -- they reach
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- to
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• ὄρος -- noun, neuter; accusative singular of <ὄρος> mountain -- mountain
+
+• τῇ -- article; dative singular feminine of <ὁ> the -- on the
+
+• πέμπτῇ -- adjective; dative singular feminine of <πέμπτος> fifth -- fifth
+
+• ἡμέρᾳ -- noun, feminine; dative singular of <ἡμέρα> day -- day
+
+ὄνομα δὲ τῷ ὄρει ἦν Θήχης.
+
+ Collapse All
+
+• ὄνομα -- noun, neuter; nominative singular of <ὄνομα> name -- (the) name
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• τῷ -- article; dative singular neuter of <ὁ> the -- for the
+
+• ὄρει -- noun, neuter; dative singular of <ὄρος> mountain -- mountain
+
+• ἦν -- verb; 3rd person singular imperfect of <εἰμί> I am -- was
+
+• Θήχης -- noun, feminine; nominative singular of <Θήχης> Theches -- Theches
+
+ἐπεὶ δὲ οἱ πρῶτοι ἐγένοντο ἐπὶ τοῦ ὄρους, κραυγὴ πολλὴ ἐγένετο.
+
+ Collapse All
+
+• ἐπεὶ -- conjunction; <ἐπεί> when, after -- when
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• πρῶτοι -- adjective used as substantive; nominative plural masculine of <πρῶτος> first -- first
+
+• ἐγένοντο -- deponent verb; 3rd person plural aorist of <γίγνομαι> happen, become -- arrived
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- on
+
+• τοῦ -- article; genitive singular neuter of <ὁ> the -- the
+
+• ὄρους -- noun, neuter; genitive singular of <ὄρος> mountain -- mountain
+
+• κραυγὴ -- noun, feminine; nominative singular of <κραυγή> shout -- shout
+
+• πολλὴ -- adjective; nominative singular feminine of <πολύς> many -- great
+
+• ἐγένετο -- deponent verb; 3rd person singular aorist of <γίγνομαι> happen, become -- went up
+
+ἀκούσας δὲ ὁ Ξενοφῶν καὶ οἱ ὀπισθοφύλακες ᾠήθησαν ἔμπροσθεν ἄλλους ἐπιτίθεσθαι πολεμίους.
+
+ Collapse All
+
+• ἀκούσας -- verb; nominative singular masculine of aorist participle of <ἀκούω> hear, listen -- having heard
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• ὁ -- article; nominative singular masculine of <ὁ> the -- ...
+
+• Ξενοφῶν -- noun, masculine; nominative singular of <Ξενοφῶν> Xenophon -- Xenophon
+
+• καὶ -- conjunction; <καί> and -- and
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• ὀπισθοφύλακες -- noun, masculine; nominative plural of <ὀπισθοφύλαξ> rear-guard -- rear-guard
+
+• ᾠήθησαν -- verb; 3rd person plural aorist passive of <οἴομαι> think, imagine -- thought
+
+• ἔμπροσθεν -- adverb; <ἔμπροσθεν> before, in front -- in front
+
+• ἄλλους -- adjective; accusative plural masculine of <ἄλλος> other -- other
+
+• ἐπιτίθεσθαι -- verb; infinitive aorist middle of <ἐπιτίθημι> attack -- were attacking
+
+• πολεμίους -- noun, masculine; accusative plural of <πολέμιος> enemy -- enemies
+
+εἵποντο γὰρ ὄπισθεν ἐκ τῆς καιομένης χώρας, καὶ αὐτῶν οἱ ὀπισθοφύλακες ἀπέκτεινάν τέ τινας καὶ ἐζώγρησαν ἐνέδραν ποιησάμενοι, καὶ γέρρα ἔλαβον δασειῶν βοῶν ὠμοβόεια ἀμφὶ τὰ εἴκοσιν.
+
+ Collapse All
+
+• εἵποντο -- verb; 3rd person plural imperfect of <ἕπομαι> follow -- were following
+
+• γὰρ -- conjunction; <γάρ> for -- for
+
+• ὄπισθεν -- adverb; <ὄπισθεν> behind -- behind
+
+• ἐκ -- preposition; <ἐκ> from, out of -- from
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- the
+
+• καιομένης -- verb; genitive singular feminine of participle middle of <καίω> burn -- burning
+
+• χώρας -- noun, feminine; genitive singular of <χώρα> land, country -- area
+
+• καὶ -- conjunction; <καί> and -- and
+
+• αὐτῶν -- pronoun; genitive plural masculine of <αὐτός> oneself, he -- of them
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• ὀπισθοφύλακες -- noun, masculine; nominative plural of <ὀπισθοφύλαξ> rear-guard -- rear-guard
+
+• ἀπέκτεινάν -- verb; 3rd person plural imperfect of <ἀποκτείνω> kill -- killed
+
+• τέ -- conjunction; <τε> and -- and
+
+• τινας -- indefinite pronoun; accusative plural masculine of <τις> someone, something -- some
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἐζώγρησαν -- verb; 3rd person plural aorist of <ζωγρέω> capture alive -- captured alive
+
+• ἐνέδραν -- noun, feminine; accusative singular of <ἐνέδρα> ambush -- an ambush
+
+• ποιησάμενοι -- verb; nominative plural masculine of aorist middle participle of <ποιέω> make, do -- by arranging
+
+• καὶ -- conjunction; <καί> and -- and
+
+• γέρρα -- noun, neuter; accusative plural of <γέρρον> ox-hide wicker shield -- ox-hide wicker shields
+
+• ἔλαβον -- verb; 3rd person plural aorist of <λαμβάνω> receive, capture -- had captured
+
+• δασειῶν -- adjective; genitive plural masculine of <δασύς> hairy, shaggy -- shaggy
+
+• βοῶν -- noun, masculine; genitive plural of <βοῦς> cow, ox -- of oxen
+
+• ὠμοβόεια -- adjective; accusative plural neuter of <ὠμοβόειος> of raw, untanned oxhide -- raw oxhide
+
+• ἀμφὶ -- preposition; <ἀμφί> around, between -- about
+
+• τὰ -- article; accusative plural neuter of <ὁ> the -- the
+
+• εἴκοσιν -- number; accusative plural neuter of <εἴκοσι> twenty -- twenty
+
+ἐπειδὴ δὲ βοὴ πλείων τε ἐγίγνετο καὶ ἐγγύτερον καὶ οἱ ἀεὶ ἐπιόντες ἔθεον δρόμῳ ἐπὶ τοὺς ἀεὶ βοῶντας καὶ πολλῷ μείζων ἐγίγνετο ἡ βοὴ ὅσῳ δὴ πλείους ἐγίγνοντο,--
+
+ Collapse All
+
+• ἐπειδὴ -- conjunction; <ἐπειδή> after -- after
+
+• δὲ -- particle; <δέ> and, on the other hand -- but
+
+• βοὴ -- noun, feminine; nominative singular of <βοή> shout -- the shout
+
+• πλείων -- adjective; nominative singular feminine comparative of <πολύς> many -- greater
+
+• τε -- conjunction; <τε> and -- and
+
+• ἐγίγνετο -- deponent verb; 3rd person singular imperfect middle of <γίγνομαι> happen, become -- became
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἐγγύτερον -- adjective; nominative singular feminine comparative of <ἐγγύς> near -- nearer
+
+• καὶ -- conjunction; <καί> and -- and
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- those
+
+• ἀεὶ -- adverb; <ἀεί> always -- always
+
+• ἐπιόντες -- verb; nominative plural masculine of present participle of <ἐπίειμι> come near -- coming up
+
+• ἔθεον -- verb; 3rd person plural imperfect of <θέω> run -- ran
+
+• δρόμῳ -- noun, masculine; dative singular of <δρόμος> run -- at a run, at full speed
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- towards
+
+• τοὺς -- article; accusative plural masculine of <ὁ> the -- the
+
+• ἀεὶ -- adverb; <ἀεί> always -- always
+
+• βοῶντας -- verb; accusative plural masculine of present participle of <βοάω> shout -- shouting
+
+• καὶ -- conjunction; <καί> and -- and
+
+• πολλῷ -- adverb; dative singular neuter of <πολύς> many -- much
+
+• μείζων -- adjective; nominative singular feminine of comparative of <μέγας> great -- greater
+
+• ἐγίγνετο -- deponent verb; 3rd person singular imperfect middle of <γίγνομαι> happen, become -- became
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• βοὴ -- noun, feminine; nominative singular of <βοή> shout -- shouting
+
+• ὅσῳ -- relative pronoun; dative singular neuter of <ὅσος> as many -- as
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• πλείους -- adjective; accusative plural masculine of comparative of <πολύς> many -- greater
+
+• ἐγίγνοντο -- deponent verb; 3rd person plural imperfect of <γίγνομαι> happen, become -- became
+
+ἐδόκει δὴ μεῖζόν τι εἶναι τῷ Ξενοφῶντι, καὶ ἀναβὰς ἐφ' ἵππον καὶ Λύκιον καὶ τούς ἱππέας ἀναλαβὼν παρεβοήθει.
+
+ Collapse All
+
+• ἐδόκει -- verb; 3rd person singular imperfect of <δοκέω> seem, think -- it seemed
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• μεῖζόν -- adjective; nominative singular neuter of comparative of <μέγας> great -- very important
+
+• τι -- indefinite pronoun; nominative singular neuter of <τις> someone, something -- something
+
+• εἶναι -- verb; infinitive of <εἰμί> I am -- to be
+
+• τῷ -- article; dative singular masculine of <ὁ> the -- ...
+
+• Ξενοφῶντι -- noun, masculine; dative singular of <Ξενοφῶν> Xenophon -- to Xenophon
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἀναβὰς -- verb; nominative singular masculine of aorist participle of <ἀναβαίνω> mount, go up -- mounting
+
+• ἐφ' -- preposition; <ἐπί> on, about -- on
+
+• ἵππον -- noun, masculine; accusative singular of <ἵππος> horse -- his horse
+
+• καὶ -- conjunction; <καί> and -- and
+
+• Λύκιον -- noun, masculine; accusative singular of <Λύκιος> Lycius -- Lycius
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τούς -- article; accusative plural masculine of <ὁ> the -- the
+
+• ἱππέας -- noun, masculine; accusative plural of <ἱππεύς> horseman -- cavalry
+
+• ἀναλαβὼν -- verb; nominative singular masculine of participle of <ἀναλαμβάνω> take along -- taking along
+
+• παρεβοήθει -- verb; 3rd person singular imperfect of <παραβοηθέω> come up to help -- went up to help
+
+καὶ τάχα δὴ ἀκούουσι βοώντων τῶν στρατιωτῶν Θάλαττα θάλαττα καὶ παρεγγυώντων.
+
+ Collapse All
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τάχα -- adverb; <τάχα> presently, soon -- soon
+
+• δὴ -- particle; <δή> indeed -- ...
+
+• ἀκούουσι -- verb; 3rd person plural present of <ἀκούω> hear, listen -- they heard
+
+• βοώντων -- verb; genitive plural masculine of participle of <βοάω> shout -- shouting
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- the
+
+• στρατιωτῶν -- noun, masculine; genitive plural of <στρατιώτης> soldier -- soldiers
+
+• θάλαττα -- noun, feminine; nominative singular of <θάλαττα> sea -- the sea
+
+• θάλαττα -- noun, feminine; nominative singular of <θάλαττα> sea -- the sea
+
+• καὶ -- conjunction; <καί> and -- and
+
+• παρεγγυώντων -- verb; genitive plural masculine of participle of <παρεγγυάω> pass along -- passing it along
+
+ἔνθα δὴ ἔθεον πάντες καὶ οἱ ὀπισθοφύλακες, καὶ τὰ ὑποζύγια ἠλαύνετο καὶ οἱ ἵπποι.
+
+ Collapse All
+
+• ἔνθα -- adverb; <ἔνθα> then, there -- then
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• ἔθεον -- verb; 3rd person plural imperfect of <θέω> run -- ran
+
+• πάντες -- adjective; nominative plural masculine of <πᾶς> all, every -- all
+
+• καὶ -- conjunction; <καί> and -- and
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• ὀπισθοφύλακες -- noun, masculine; nominative plural of <ὀπισθοφύλαξ> rear-guard -- rear-guard
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τὰ -- article; nominative plural neuter of <ὁ> the -- the
+
+• ὑποζύγια -- noun, neuter; nominative plural of <ὑποζύγιον> pack animal -- pack animals
+
+• ἠλαύνετο -- verb; 3rd person singular imperfect middle of <ἐλαύνω> set in motion -- broke into a run
+
+• καὶ -- conjunction; <καί> and -- and
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• ἵπποι -- noun, masculine; nominative plural of <ἵππος> horse -- horses
+
+ἐπεὶ δὲ ἀφίκοντο πάντες ἐπὶ τὸ ἄκρον, ἐνταῦθα δὴ περιέβαλλον ἀλλήλους καὶ στρατηγοὺς καὶ λοχαγοὺς δακρύοντες.
+
+ Collapse All
+
+• ἐπεὶ -- conjunction; <ἐπεί> when, after -- when
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• ἀφίκοντο -- deponent verb; 3rd person plural aorist of <ἀφικνέομαι> come to, reach -- came to
+
+• πάντες -- adjective; nominative plural masculine of <πᾶς> all, every -- all
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- to
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• ἄκρον -- noun, neuter; accusative singular of <ἄκρον> mountain-top, peak -- peak
+
+• ἐνταῦθα -- adverb; <ἐνταῦθα> then, there -- there
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• περιέβαλλον -- verb; 3rd person plural imperfect of <περιβάλλω> throw around -- they embraced
+
+• ἀλλήλους -- pronoun; accusative plural masculine of <ἀλλήλων> one another -- one another
+
+• καὶ -- conjunction; <καί> and -- both
+
+• στρατηγοὺς -- noun, masculine; accusative plural of <στρατηγός> general -- generals
+
+• καὶ -- conjunction; <καί> and -- and
+
+• λοχαγοὺς -- noun, masculine; accusative plural of <λοχαγός> captain -- captains
+
+• δακρύοντες -- verb; nominative plural masculine of present participle of <δακρύω> weep -- weeping
+
+καὶ ἐξαπίνης ὅτου δὴ παρεγγυήσαντος οἱ στρατιώται φέρουσι λίθους καὶ ποιοῦσι κολωνὸν μέγαν.
+
+ Collapse All
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἐξαπίνης -- adverb; <ἐξαπίνης> on a sudden -- all of a sudden
+
+• ὅτου -- pronoun; genitive singular masculine of <ὅτος> someone -- someone
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• παρεγγυήσαντος -- verb; genitive singular masculine of aorist participle of <παρεγγυάω> pass along -- when ... suggested it
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• στρατιώται -- noun, masculine; nominative plural of <στρατιώτης> soldier -- soldiers
+
+• φέρουσι -- verb; 3rd person plural present of <φέρω> bear, bring, carry -- bring
+
+• λίθους -- noun, masculine; accusative plural of <λίθος> stone -- stones
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ποιοῦσι -- verb; 3rd person plural present of <ποιέω> make, do -- make
+
+• κολωνὸν -- noun, masculine; accusative singular of <κολωνός> heap -- heap
+
+• μέγαν -- adjective; accusative singular masculine of <μέγας> great -- large
+
+Lesson Text
+
+ἀφικνοῦνται ἐπὶ τὸ ὄρος τῇ πέμπτῇ ἡμέρᾳ. ὄνομα δὲ τῷ ὄρει ἦν Θήχης. ἐπεὶ δὲ οἱ πρῶτοι ἐγένοντο ἐπὶ τοῦ ὄρους, κραυγὴ πολλὴ ἐγένετο. ἀκούσας δὲ ὁ Ξενοφῶν καὶ οἱ ὀπισθοφύλακες ᾠήθησαν ἔμπροσθεν ἄλλους ἐπιτίθεσθαι πολεμίους. εἵποντο γὰρ ὄπισθεν ἐκ τῆς καιομένης χώρας, καὶ αὐτῶν οἱ ὀπισθοφύλακες ἀπέκτεινάν τέ τινας καὶ ἐζώγρησαν ἐνέδραν ποιησάμενοι, καὶ γέρρα ἔλαβον δασειῶν βοῶν ὠμοβόεια ἀμφὶ τὰ εἴκοσιν. ἐπειδὴ δὲ βοὴ πλείων τε ἐγίγνετο καὶ ἐγγύτερον καὶ οἱ ἀεὶ ἐπιόντες ἔθεον δρόμῳ ἐπὶ τοὺς ἀεὶ βοῶντας καὶ πολλῷ μείζων ἐγίγνετο ἡ βοὴ ὅσῳ δὴ πλείους ἐγίγνοντο,-- ἐδόκει δὴ μεῖζόν τι εἶναι τῷ Ξενοφῶντι, καὶ ἀναβὰς ἐφ' ἵππον καὶ Λύκιον καὶ τούς ἱππέας ἀναλαβὼν παρεβοήθει. καὶ τάχα δὴ ἀκούουσι βοώντων τῶν στρατιωτῶν Θάλαττα θάλαττα καὶ παρεγγυώντων. ἔνθα δὴ ἔθεον πάντες καὶ οἱ ὀπισθοφύλακες, καὶ τὰ ὑποζύγια ἠλαύνετο καὶ οἱ ἵπποι. ἐπεὶ δὲ ἀφίκοντο πάντες ἐπὶ τὸ ἄκρον, ἐνταῦθα δὴ περιέβαλλον ἀλλήλους καὶ στρατηγοὺς καὶ λοχαγοὺς δακρύοντες. καὶ ἐξαπίνης ὅτου δὴ παρεγγυήσαντος οἱ στρατιώται φέρουσι λίθους καὶ ποιοῦσι κολωνὸν μέγαν.
+
+Translation
+
+On the fifth day they reached the mountain; and the name of the mountain was Theches. When the first group arrived on the mountain, a great shout went up. Now when Xenophon and the rear-guard heard it, they thought that other enemies were attacking from the burning area; the rear-guard had killed some of them and captured others alive by setting an ambush, and had also captured about twenty shaggy, raw wicker ox-hide shields. But as the shout became louder and nearer, and those coming up began to run at full speed toward those ahead that were shouting, and as the shout became much greater as they became greater, it seemed to Xenophon that there was something very important. So he mounted his horse, taking also Lycius and the cavalry, and went ahead to help. Soon they heard the soldiers shouting: "The Sea! The Sea!" and passing it along. Then all the rear-guard ran and the pack animals broke into a run and also the horses. And when they came to the peak, then they embraced one another, both the generals and the captains, weeping. And all of a sudden, when someone suggested it, the soldiers bring stones and make a great heap.
+
+Grammar
+
+26 Survey of noun declensions.
+
+The ο- and α- declensions have been given in section 4, and subsequent sections of the grammar, 11 and 16, have provided examples of consonantal declension and that of some irregular nouns. Here additional sub-classes of the consonantal declension are listed.
+
+Grammars provide the sub-classes according to the consonants of the stem. There may be modifications from sub-group to sub-group, but if the inflection of the word for salt is memorized, such forms may be identified. Examples are given here also for stems ending in velars, dentals, and other elements; as the selection indicates, nouns in the consonantal declension vary in gender: ἡ αἴξ 'goat', τὸ σῶμα 'body', ὁ ἁλ́ς 'salt', ὁ Ἕλλην 'Greek', ὁ σῦς 'pig'.
+
+  velars dentalsNom. sg. ἡ αἴξ τό σῶμαGen. sg. τῆς αἰγός τοῦ σώματοςDat. sg. τῇ αἰγί τῷ σώματιAcc. sg. τῆν αἶγα τό σῶμα     Nom. pl. αἱ αἷγες τά σώματαGen. pl. τῶν αἰγῶν τῶν σωμάτωνDat. pl. τοῖς αἰξί τοῖς σώμασιAcc. pl. τάς αἷγας τά σώματα
+
+ 
+
+  -λ, -ρ -ν -υNom. sg. ὁ ἅλς ὁ Ἕλλην ὁ σῦςGen. sg. τοῦ ἁλός τοῦ Ἕλληνος τοῦ συόςDat. sg. τῷ ἁλί τῷ Ἕλληνι τῷ συίAcc. sg. τόν ἅλα τόν Ἕλληνα τόν σῦν       Nom. pl. οἱ ἅλες οἱ Ἕλληνες οἱ σύεςGen. pl. τῶν ἁλῶν τῶν Ἑλλήνων τῶν συῶνDat. pl. τοῖς ἁλσί τοῖς Ἕλλησι τοῖς συσίAcc. pl. τούς ἅλας τούς Ἕλληνας τούς σῦς
+
+ 
+
+27 Suffixes applied to stems to indicate location.
+
+The following suffixes are used to produce adverbs on noun stems with specific meanings:
+
+• -θεν 'whence', as in οἴκοθεν 'from home', χαμᾶθεν 'from the ground'
+
+• -ι, -θι 'where', as in οἴκοι 'at home', χαμαί 'on the ground'; but -σι(ν) if the noun in question is a plural, as in Ἀθήνησι 'at Athens'
+
+• -δε, -σε, ζε 'whither', as in Ἀθήναζε 'to Athens', χαμᾶζε 'to the ground'
+
+28 Use of the augment.
+
+The augment is used on past tenses in the indicative, that is, the imperfect, aorist, and pluperfect. Verbs beginning with a consonant prefix ἐ-, as in the imperfect ἐπαίδευον 'I educated', the aorist ἐπαίδευσα 'I have educated', the pluperfect ἐπεπαιδεύκειν 'I had educated'. Verbs beginning with a vowel or diphthong combine the augment with that vowel or diphthong, usually resulting in its lengthening, as in the imperfect ἦγον 'I led' from ἄγω, ηὔξανον 'I increased' from αὐξάνω.
+
+Compound verbs place the augment on the verb, after the initial prefix, for example ἐν-έβαλλον from ἐμβάλλω 'throw into', ἐπ-έβαλλον from ἐπι-βάλλω 'throw on'. In the early texts, the augment may be omitted, as in the aorist form ποίησαν 'they made' from ποιέω.
+
+29 Deponents.
+
+As in Latin, a number of verbs have their forms in the middle while corresponding to active verbs in English. Many of them indicate state, and do not take objects. They can be recognized from dictionary entries. Examples are:
+
+• γίγνομαι 'become'
+
+• δέχομαι 'receive'
+
+• ἐργάζομαι 'work'
+
+• ἀπο-κρίνομαι 'reply'
+
+• λογίζομαι 'reason'
+
+• μιμέομαι 'imitate'
+
+These have a active meaning in the aorist middle form, but passive meaning in the passive form of the aorist.
+
+Others have the passive form of the aorist. Many of them denote motion, feeling or mental action. Examples are:
+
+• ἔραμαι 'love'
+
+• ἥδομαι 'rejoice'
+
+• έν-θυμέομαι 'consider'
+
+• δια-νοέομαι 'intend'
+
+30 The middle forms of the aorist.
+
+In the aorist the passive has different forms from those of the middle. Here the middle forms will be given.
+
+  Indicative Subjunctive Optative Imperative1 sg ἐπαιδευσάμην παιδεύσωμαι παιδευσαίμην  2 sg ἐπαιδεύσω παιδεύσῃ παιδεύσαιο παίδευσαι3 sg ἐπαιδεύσατο παιδεύσηται παιδεύσαιτο παιδευσάσθω         1 pl ἐπαιδευσάμεθα παιδευσώμεθα παιδευσαίμεθα  2 pl ἐπαιδεύσασθε παιδεύσησθε παιδεύσαισθε παιδεύσασθε3 pl ἐπαιδεύσαντο παιδεύσωνται παιδεύσαιντο παιδευσάσθων
+
+Lesson 7
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Hesiod, the author of Works and Days, lived in the second section of the eighth century B.C. Reports of his life are sketchy, but he clearly was a poet in the Homeric tradition. In addition to fragments that have been preserved, his other major poem is the Theogony of 1020 lines. It sketches the 'births of the gods', beginning with those of the nine Muses from the union of Zeus and Mnemosyne or Memory, and ending with the union of Kalypso and Odysseus that resulted in two children. His language and subject matter is clearly less elegant than that of Homer, but it has maintained its interest for providing information on everyday life and for information on the views of the Greek peoples of his time.
+
+Reading and Textual Analysis
+
+Hesiod's Works and Days is a poem in the eastern tradition of wisdom literature. Addressed to his brother, Perses, who is pictured as a ne'er-do-well, it consists of four parts in its 828 lines, each of approximately 200 lines. The first part tells Perses that work is essential. It contains the lines excerpted here, which are of especial interest in sketching the ages of man that correspond in part to the periods determined by archeologists of our day, with the bronze age leading to the iron age, and so on. The second part provides instructions on how to achieve prosperity through righteous actions and proper dealings with others. The third part outlines the work that is necessary for success in farming, such as the type of work that is essential in the four seasons. The last part indicates the proper time for activities, such as sailing to market one's produce, marriage, and also for everyday activities, such as urinating and copulating. And last of all it is essential to be aware of the good and bad days of the month for all of one's activities.
+
+There is considerable agreement on the text of Works and Days; the lines here correspond to those of Hesiod: Works and Days, ed. M. L. West (Oxford: Clarendon Press, 1978), which differ in a few respects from the text of the Loeb Classical Library prepared by Hugh G. Evelyn-White with credit to W. H. D. Rouse (1914, frequently reprinted). The differences are noted in the commentary.
+
+χρύσεον μὲν πρώτιστα γένος μερόπων ἀνθρώπων
+# (line 109)
+
+ Collapse All
+
+• χρύσεον -- adjective; accusative singular neuter of <χρύσεος> golden -- golden
+
+• μὲν -- particle; <μέν> on the one hand -- indeed
+
+• πρώτιστα -- adverb; <πρώτιστα> first of all -- first of all
+
+• γένος -- noun, neuter; accusative singular of <γένος> race -- race
+
+• μερόπων -- adjective; genitive plural masculine of <μέροψ> endowed with speech -- of speaking
+
+• ἀνθρώπων -- noun, masculine; genitive plural of <ἄνθρωπος> human being -- humans
+
+ἀθάνατοι ποίησαν Ὀλύμπια δώματ' ἔχοντες.
+
+ Collapse All
+
+• ἀθάνατοι -- adjective; nominative plural masculine of <ἀθάνατος> immortal -- (the) immortals
+
+• ποίησαν -- verb; 3rd person plural aorist of <ποιέω> make, do -- made
+
+• Ὀλύμπια -- adjective; accusative plural neuter of <Ὀλύμπιος> Olympian -- Olympian
+
+• δώματ' -- noun, neuter; accusative plural of <δῶμα> house, home -- homes
+
+• ἔχοντες -- verb; nominative plural masculine of present participle of <ἔχω> have -- having
+
+οἳ μὲν ἐπὶ Κρόνου ἦσαν, ὅτ' οὐρανῷ ἐμβασίλευεν.
+
+ Collapse All
+
+• οἳ -- demonstrative pronoun; nominative plural masculine of <ὅς> this, that, he, she, it -- who
+
+• μὲν -- particle; <μέν> on the one hand -- ...
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- at the time
+
+• Κρόνου -- noun, masculine; genitive singular of <Κρόνος> Cronos -- of Cronos
+
+• ἦσαν -- verb; 3rd person singular plural imperfect of <εἰμί> I am -- existed
+
+• ὅτ' -- conjunction; <ὅτε> when -- when
+
+• οὐρανῷ -- noun, masculine; dative singular of <οὐρανός> heaven -- in heaven
+
+• ἐμβασίλευεν -- verb; 3rd person singular imperfect of <ἐμβασιλεύω> be king in -- was king (in)
+
+ὥστε θεοὶ δ' ἔζωον ἀκηδέα θυμὸν ἔχοντες
+
+ Collapse All
+
+• ὥστε -- adverbial conjunction; <ὥστε> like, so that -- like
+
+• θεοὶ -- noun, masculine; nominative plural of <θεός> god -- gods
+
+• δ' -- particle; <δέ> and, on the other hand -- and
+
+• ἔζωον -- verb; 3rd person plural imperfect of <ζώω> live -- they lived
+
+• ἀκηδέα -- adjective; accusative singular masculine of <ἀκήδης> without sorrow -- without sorrow
+
+• θυμὸν -- noun, masculine; accusative singular of <θυμός> soul, heart -- heart
+
+• ἔχοντες -- verb; nominative plural masculine of present participle of <ἔχω> have -- having
+
+νόσφιν ἄτερ τε πόνων καὶ οἰζύος·
+
+ Collapse All
+
+• νόσφιν -- adverb; <νόσφι> apart, afar, except -- apart
+
+• ἄτερ -- preposition; <ἄτερ> without -- without
+
+• τε -- conjunction; <τε> and -- and
+
+• πόνων -- noun, masculine; genitive plural of <πόνος> grief -- grief
+
+• καὶ -- conjunction; <καί> and -- and
+
+• οἰζύος -- noun, feminine; genitive singular of <οἰζύς> misery, suffering -- suffering
+
+αὐτὰρ ἐπεὶ δὴ τοῦτο γένος κατὰ γαῖα κάλυψεν
+# (line 121; for κάλυψεν West omits the augment, as was done in ἐμ-βασίλευεν above, and maintains the full form of γαῖα; others elide the final vowel of γαῖα and include the augment, e.g. γαῖ' ἐκάλυψε, where the -ν is also omitted. The line is repeated before the paragraphs on the third and fourth races.)
+
+ Collapse All
+
+• αὐτὰρ -- conjunction; <αὐτάρ> but -- but
+
+• ἐπεὶ -- conjunction; <ἐπεί> when, after -- after
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• τοῦτο -- demonstrative pronoun; accusative singular neuter of <οὗτος> this -- this
+
+• γένος -- noun, neuter; accusative singular of <γένος> race -- race
+
+• κατὰ -- adverb; <κατά> completely, down, under -- under
+
+• γαῖα -- noun, feminine; nominative singular of <γαῖα> land -- the earth
+
+• κάλυψεν -- verb; 3rd person singular aorist of <καλύπτω> cover -- covered
+
+δεύτερον αὖτε γένος πολὺ χειρότερον μετόπισθεν
+# (line 127)
+
+ Collapse All
+
+• δεύτερον -- adjective; accusative singular neuter of <δεύτερος> second -- second
+
+• αὖτε -- adverb; <αὖτε> then, again -- then
+
+• γένος -- noun, neuter; accusative singular of <γένος> race -- race
+
+• πολὺ -- adverb; <πολύς> many -- much
+
+• χειρότερον -- adjective; accusative singular neuter comparative of <κακός> evil, poor -- inferior
+
+• μετόπισθεν -- adverb; <μετόπισθε> afterwards -- somewhat later
+
+ἀργύρεον ποίησαν Ὀλύμπια δώματ' ἔχοντες,
+# (For δώματ' West elides the -α before a form whose root begins with a vowel.)
+
+ Collapse All
+
+• ἀργύρεον -- adjective; accusative singular neuter of <ἀργύρεος> silver -- of silver
+
+• ποίησαν -- verb; 3rd person plural aorist of <ποιέω> make, do -- made
+
+• Ὀλύμπια -- adjective; accusative plural neuter of <Ὀλύμπιος> Olympian -- Olympian
+
+• δώματ' -- noun, neuter; accusative plural of <δῶμα> house, home -- homes
+
+• ἔχοντες -- verb; nominative plural masculine of present participle of <ἔχω> have -- having
+
+χρυσέῳ οὔτε φυὴν ἐναλίγκιον οὔτε νόημα.
+
+ Collapse All
+
+• χρυσέῳ -- adjective; dative singular neuter of <χρύσεος> golden -- the golden
+
+• οὔτε -- adverb; <οὔτε> neither, nor -- neither
+
+• φυὴν -- noun, feminine; accusative singular of <φύη> stature -- in stature
+
+• ἐναλίγκιον -- adjective; accusative singular neuter of <ἐναλίγκιος> resembling, like -- like
+
+• οὔτε -- adverb; <οὔτε> neither, nor -- nor
+
+• νόημα -- noun, neuter; accusative singular of <νόημα> thought, understanding -- in understanding
+
+Ζεὺς δὲ πατὴρ τρίτον ἄλλο γένος μερόπων ἀνθρώπων
+# (line 143)
+
+ Collapse All
+
+• Ζεὺς -- noun, masculine; nominative singular of <Ζεύς> Zeus -- Zeus
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• πατὴρ -- noun, masculine; nominative singular of <πατήρ> father -- father
+
+• τρίτον -- adjective; accusative singular neuter of <τρίτος> third -- third
+
+• ἄλλο -- adjective; accusative singular neuter of <ἄλλος> other -- other
+
+• γένος -- noun, neuter; accusative singular of <γένος> race -- race
+
+• μερόπων -- adjective; genitive plural masculine of <μέροψ> endowed with speech -- endowed with speech
+
+• ἀνθρώπων -- noun, masculine; genitive plural of <ἄνθρωπος> human being -- of humans
+
+χάλκειον ποίησ' οὐκ ἀργυρέῳ οὐδὲν ὁμοῖον,
+
+ Collapse All
+
+• χάλκειον -- adjective; accusative singular neuter of <χάλκειος> of bronze -- bronze
+
+• ποίησ' -- verb; 3rd person singular aorist of <ποιέω> make, do -- made
+
+• οὐκ -- particle; <οὐκ> not -- not
+
+• ἀργυρέῳ -- adjective; dative singular neuter of <ἀργύρεος> silver -- to the silver (race)
+
+• οὐδὲν -- adverb; <οὐδέν> in no way -- in no way
+
+• ὁμοῖον -- adjective; accusative singular neuter of <ὅμοιος> like, similar -- like
+
+ἐκ μελιᾶν, δεινόν τε καὶ ὄβριμον· οἷσιν Ἄρηος
+
+ Collapse All
+
+• ἐκ -- preposition; <ἐκ> from, out of -- out of
+
+• μελιᾶν -- noun, feminine; genitive plural of <μελία> the ash tree -- ash wood
+
+• δεινόν -- adjective; accusative singular neuter of <δεινός> terrible -- terrible
+
+• τε -- conjunction; <τε> and -- and
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ὄβριμον -- adjective; accusative singular neuter of <ὄβριμος> strong -- strong
+
+• οἷσιν -- demonstrative pronoun; dative plural masculine of <ὅς> this, that, he, she, it -- to them
+
+• Ἄρηος -- noun, masculine; genitive singular of <Ἄρης> Ares -- of Ares
+
+ἔργ' ἔμελε στονόεντα καὶ ὕβριες· οὐδέ τι σῖτον
+
+ Collapse All
+
+• ἔργ' -- noun, neuter; nominative plural of <ἔργον> work, deed -- works
+
+• ἔμελε -- verb; 3rd person singular imperfect of <μέλω> to care, to be an object of care -- were loved
+
+• στονόεντα -- adjective; nominative singular neuter of <στονόεις> sad, wretched -- wretched
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ὕβριες -- noun, neuter; nominative plural of <ὕβρις> violence -- violent acts
+
+• οὐδέ -- particle; <οὐδέ> not -- not
+
+• τι -- indefinite pronoun; accusative singular neuter of <τις> someone, something -- any
+
+• σῖτον -- noun, masculine; accusative singular of <σῖτος> corn, bread -- bread
+
+ἤσθιον, ἀλλ' ἀδάμαντος ἔχον κρατερόφρονα θυμόν
+
+ Collapse All
+
+• ἤσθιον -- verb; 3rd person plural aorist of <ἐσθίω> eat -- they did ...eat
+
+• ἀλλ' -- conjunction; <ἀλλά> but -- but
+
+• ἀδάμαντος -- noun, masculine; genitive singular of <ἀδάμας> steel -- of steel
+
+• ἔχον -- verb; 3rd person plural imperfect of <ἔχω> have -- they had
+
+• κρατερόφρονα -- adjective; accusative singular masculine of <κρατερόφρων> stout-hearted, dauntless -- a dauntless
+
+• θυμόν -- noun, masculine; accusative singular of <θυμός> soul, heart -- heart
+
+αὔτις ἔτ' ἄλλο τέταρτον ἐπὶ χθονὶ πουλυβοτείρῃ
+# (line 158)
+
+ Collapse All
+
+• αὔτις -- adverb; <αὔτις> again -- again
+
+• ἔτ' -- adverb; <ἔτι> still -- yet
+
+• ἄλλο -- adjective; accusative singular neuter of <ἄλλος> other -- another
+
+• τέταρτον -- adjective; accusative singular neuter of <τέταρτος> fourth -- a fourth
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- on
+
+• χθονὶ -- noun, feminine; dative singular of <χθών> earth -- the earth
+
+• πουλυβοτείρῃ -- adjective; dative singular feminine of <πουλυβότειρα> all nourishing, fruitful -- fruitful
+
+Ζεὺς Κρονίδης ποίησε, δικαιότερον καὶ ἄρειον,
+
+ Collapse All
+
+• Ζεὺς -- noun, masculine; nominative singular of <Ζεύς> Zeus -- Zeus
+
+• Κρονίδης -- adjective; nominative singular masculine of <Κρονίδης> son of Kronos -- the son of Kronos
+
+• ποίησε -- verb; 3rd person singular aorist of <ποιέω> make, do -- made
+
+• δικαιότερον -- adjective; accusative singular neuter of comparative of <δίκαιος> just, righteous -- more righteous
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἄρειον -- adjective; accusative singular neuter of comparative of <ἄγαθος> good -- better
+
+ἀνδρῶν ἡρώων θεῖον γένος, οἵ καλέονται
+
+ Collapse All
+
+• ἀνδρῶν -- noun, masculine; genitive plural of <ἀνήρ> man -- of men
+
+• ἡρώων -- noun, masculine; genitive plural of <ἥρως> hero -- (of) heroes
+
+• θεῖον -- adjective; accusative singular neuter of <θεῖος> divine, godlike -- godlike
+
+• γένος -- noun, neuter; accusative singular of <γένος> race -- race
+
+• οἵ -- relative pronoun; nominative plural masculine of <ὅς> who, which -- who
+
+• καλέονται -- verb; 3rd person plural present passive of <καλέω> call, summon -- are called
+
+ἡμίθεοι, προτέρη γενεὴ κατ' ἀπείρονα γαῖαν.
+
+ Collapse All
+
+• ἡμίθεοι -- adjective; nominative plural masculine of <ἡμίθεος> demi-god -- demi-gods
+
+• προτέρη -- adjective; nominative singular feminine of <πρότερος> first, before -- prior (to ours)
+
+• γενεὴ -- noun, feminine; nominative singular of <γενεή> family, generation, race -- a race
+
+• κατ' -- preposition; <κατά> completely, down, under -- on
+
+• ἀπείρονα -- adjective; accusative singular feminine of <ἀπείρων> boundless -- the boundless
+
+• γαῖαν -- noun, feminine; accusative singular of <γαῖα> land -- earth
+
+νῦν γὰρ δὴ γένος ἐστὶ σιδήρεον· οὐδέ ποτ' ἧμαρ
+# (line 176)
+
+ Collapse All
+
+• νῦν -- adverb; <νῦν> now -- now
+
+• γὰρ -- conjunction; <γάρ> for -- and
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• γένος -- noun, neuter; nominative singular of <γένος> race -- the race
+
+• ἐστὶ -- verb; 3rd person singular present of <εἰμί> I am -- is
+
+• σιδήρεον -- adjective; nominative singular neuter of <σιδήρεος> of iron -- of iron
+
+• οὐδέ -- particle; <οὐδέ> not -- and ... not
+
+• ποτ' -- adverb; <ποτέ> at some time, ever -- ever
+
+• ἧμαρ -- noun, neuter; accusative singular of <ἧμαρ> day -- by day
+
+παύονται καμάτου καὶ οἰζύος, οὐδέ τι νύκτωρ
+
+ Collapse All
+
+• παύονται -- verb; 3rd person plural present middle of <παύω> stop, cease -- they do ...stop
+
+• καμάτου -- noun, masculine; genitive singular of <κάματος> toil, labor -- laboring
+
+• καὶ -- conjunction; <καί> and -- and
+
+• οἰζύος -- noun, feminine; genitive singular of <οἰζύς> misery, suffering -- suffering
+
+• οὐδέ -- particle; <οὐδέ> not -- and . . . not
+
+• τι -- adverb; <τι> in any way -- at all
+
+• νύκτωρ -- adverb; <νύκτωρ> by night -- by night
+
+φθειρόμενοι χαλεπὰς δὲ θεοὶ δώσουσι μερίμνας
+
+ Collapse All
+
+• φθειρόμενοι -- verb; nominative plural masculine of participle middle of <φθείρω> perish -- perishing
+
+• χαλεπὰς -- adjective; accusative plural feminine of <χαλεπός> difficult -- difficult
+
+• δὲ -- particle; <δέ> and, on the other hand -- indeed
+
+• θεοὶ -- noun, masculine; nominative plural of <θεός> god -- the gods
+
+• δώσουσι -- verb; 3rd person plural future of <δίδωμι> give -- will give
+
+• μερίμνας -- noun, feminine; accusative plural of <μέριμνα> care, anxious thought -- anxieties
+
+ἀλλ' ἔμπης καὶ τοῖσι μεμείχεται ἐσθλὰ κακοῖσιν
+
+ Collapse All
+
+• ἀλλ' -- conjunction; <ἀλλά> but -- but
+
+• ἔμπης -- adverb; <ἔμπης> nevertheless -- nevertheless
+
+• καὶ -- conjunction; <καί> and -- also
+
+• τοῖσι -- article; dative plural masculine of <ὁ> the -- for them
+
+• μεμείχεται -- verb; 3rd person singular perfect passive of <μίγνυμι> mix -- will be mixed
+
+• ἐσθλὰ -- adjective used as substantive; nominative plural neuter of <ἐσθλόν> good -- good things
+
+• κακοῖσιν -- adjective; dative plural neuter of <κακός> evil, poor -- with evils
+
+Lesson Text
+
+χρύσεον μὲν πρώτιστα γένος μερόπων ἀνθρώπων
+# (line 109) ἀθάνατοι ποίησαν Ὀλύμπια δώματ' ἔχοντες.
+οἳ μὲν ἐπὶ Κρόνου ἦσαν, ὅτ' οὐρανῷ ἐμβασίλευεν.
+ὥστε θεοὶ δ' ἔζωον ἀκηδέα θυμὸν ἔχοντες
+νόσφιν ἄτερ τε πόνων καὶ οἰζύος·
+αὐτὰρ ἐπεὶ δὴ τοῦτο γένος κατὰ γαῖα κάλυψεν
+# (line 121; for κάλυψεν West omits the augment, as was done in ἐμ-βασίλευεν above, and maintains the full form of γαῖα; others elide the final vowel of γαῖα and include the augment, e.g. γαῖ' ἐκάλυψε, where the -ν is also omitted. The line is repeated before the paragraphs on the third and fourth races.) δεύτερον αὖτε γένος πολὺ χειρότερον μετόπισθεν
+# (line 127) ἀργύρεον ποίησαν Ὀλύμπια δώματ' ἔχοντες,
+# (For δώματ' West elides the -α before a form whose root begins with a vowel.) χρυσέῳ οὔτε φυὴν ἐναλίγκιον οὔτε νόημα.
+Ζεὺς δὲ πατὴρ τρίτον ἄλλο γένος μερόπων ἀνθρώπων
+# (line 143) χάλκειον ποίησ' οὐκ ἀργυρέῳ οὐδὲν ὁμοῖον,
+ἐκ μελιᾶν, δεινόν τε καὶ ὄβριμον· οἷσιν Ἄρηος
+ἔργ' ἔμελε στονόεντα καὶ ὕβριες· οὐδέ τι σῖτον
+ἤσθιον, ἀλλ' ἀδάμαντος ἔχον κρατερόφρονα θυμόν
+αὔτις ἔτ' ἄλλο τέταρτον ἐπὶ χθονὶ πουλυβοτείρῃ
+# (line 158) Ζεὺς Κρονίδης ποίησε, δικαιότερον καὶ ἄρειον,
+ἀνδρῶν ἡρώων θεῖον γένος, οἵ καλέονται
+ἡμίθεοι, προτέρη γενεὴ κατ' ἀπείρονα γαῖαν.
+νῦν γὰρ δὴ γένος ἐστὶ σιδήρεον· οὐδέ ποτ' ἧμαρ
+# (line 176) παύονται καμάτου καὶ οἰζύος, οὐδέ τι νύκτωρ
+φθειρόμενοι χαλεπὰς δὲ θεοὶ δώσουσι μερίμνας
+ἀλλ' ἔμπης καὶ τοῖσι μεμείχεται ἐσθλὰ κακοῖσιν
+
+Translation
+
+First of all the immortal gods, who live on Olympus, made a golden race of mortal men who lived in the time of Cronos when he was king in heaven. And they lived like gods having a life without sorrow, remote and without grief and suffering. ... But somewhat later after the earth covered this generation, those having Olympian homes made a second generation, silver, inferior, like the golden neither in stature nor in understanding. ... Father Zeus made a third, different race of humans endowed with speech, bronze out of the ash tree, in no way like the silver race, terrible and strong. The wretched works and violent acts of Ares were loved by them, and did not eat any bread, but they inflexibly maintained a dauntless spirit. ... Yet again Zeus, the son of Cronos, made another, the fourth, on the fruitful earth, that was more righteons and better, a godlike race of men, heroes, who are called demigods, the race prior to ours, on the boundless earth. ... And now indeed the race is of iron, and they do not stop laboring and suffering by day, and not at all from perishing by night. Indeed the gods give them difficult anxieties. But nevertheless, also for them, good will be mixed with evils.
+
+Grammar
+
+31 Inflection of adjectives and participles.
+
+Section 12 provided the inflection of the most common adjectives, Here that of adjectives with consonantal stems is given for the adjective ἄκων 'unwilling'; it applies also to present participles.
+
+  Masculine Feminine NeuterNom. sg. ἄκων ἄκουσα ἄκονGen. sg. ἄκοντος ἀκούσης ἀκοντοςDat. sg. ἄκοντι ἀκούσῃ ἄκοντιAcc. sg. ἄκοντα ἄκουσαν ἄκον       Nom. pl. ἄκοντες ἄκουσαι ἄκονταGen. pl. ἀκόντων ἀκουσῶν ἀκόντωνDat. pl. ἄκουσι(ν) ἀκούσαις ἄκουσι(ν)Acc. pl. ἄκοντας ἀκούσας ἄκοντα
+
+The frequent adjective, πᾶς 'all, whole' is also inflected in this way; the nominative and genitive singular are given as an illustration.
+
+  Masculine Feminine NeuterNom. sg. πᾶς πᾶσα πᾶνGen. sg. παντός πάσης παντός
+
+The nominative forms of other consonantal adjectives are given in dictionaries; the other cases may be identified with the help of the forms given above.
+
+32 Two frequently occurring adjectives.
+
+The forms of two frequently ocurring adjectives are given here in view of their common occurrence, μέγας 'great' and πολύς 'much'.
+
+  Masculine Feminine NeuterNom. sg. μέγας μεγάλη μέγαGen. sg. μεγάλου μεγάλης μεγάλουDat. sg. μεγάλῳ μεγάλῃ μεγάλῳAcc. sg. μέγαν μεγάλην μέγα       Nom. pl. μεγάλοι μεγάλαι μεγάλαGen. pl. μεγάλων μεγάλων μεγάλωνDat. pl. μεγάλοις μεγάλαις μεγάλοιςAcc. pl. μεγάλους μεγάλας μεγάλα
+  Masculine Feminine NeuterNom. sg. πολύς πολλή πόλυGen. sg. πολλοῦ πολλῆς πολλοῦDat. sg. πολλῷ πολλῇ πολλῴAcc. sg. πολύν πολλήν πολύ       Nom. pl. πολλοί πολλαί πολλάGen. pl. πολλῶν πολλῶν πολλῶνDat. pl. πολλοῖς πολλαῖς πολλοῖςAcc. pl. πολλούς πολλάς πολλά
+
+33 Less frequent patterns of adjectival comparison.
+
+The most frequent type of comparison with the suffixes -τερος, -τατος was given in section 22. Some common adjectives have different suffixes, as noted there for κακός, with its comparative in κακίων 'worse'and superlative κάκιστος. Similarly, καλός 'beautiful' has the forms καλλίων and κάλλιστος, ἐχθρός 'hostile' has the forms έχθίων, ἔχθιστος.
+
+Other adjectives have different roots in the comparative and superlative forms. Some have several types of comparison, with differing connotations for the various types.
+
+άγαθ́ος 'good' ἀμείνων ἄριστος 'clever, brave'  βελτίων βέλτιστος 'virtuous'  κρείττων κράτιστος 'strong, superior'κακός 'bad' χείρων χείριστος 'less good'  ἥττων ἥκιστος 'weaker'μέγας 'great' μείζων μέγιστος  μικρός 'small' μικρότερος μικρότατος    ἐλάττων ἐλαχ́ιστος (also applies to ὀλίγος)ὀλίγος 'little' μείων ---  πολύς 'much' πλείων πλεῖστος  
+
+34 Aorist of the passive.
+
+As noted in section 30, the aorist in the passive differs from that in the middle.
+
+  Indicative Subjunctive Optative Imperative1 sg ἐπαιδεύθην παιδευθῶ παιδευθείην  2 sg ἐπαιδεύθης παιδευθῇς παιδευθείης παιδεύθητι3 sg ἐπαιδεύθη παιδευθῇ παιδευθείη παιδευθήτω         1 pl ἐπαιδεύθημεν παιδευθῶμενͅ παιδευθείημεν  2 pl ἐπαιδεύθητε παιδευθῆτε παιδευθείητε παιδεύθητε3 pl ἐπαιδεύθησαν παιδευθῶσι παιδευθείησαν παιδευθέντων
+
+35 Infinitives and participles of the aorist middle and passive.
+
+  Middle PassiveInfinitive παιδεύσασθαι
+'to educate' παιδευθήσεσθαι
+'to be educated'Participle παιδευσάμενος, -η, -ον
+'one who educated' παιδευθείς, -θεῖσα, -θέν
+'be educated'
+
+Lesson 8
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Plato is probably the most influential Greek philosopher, as well as one of the greatest in the western world. Born in 429 or 428 B.C., he died in 347 B.C. At the age of twenty he became a follower of Socrates, and remained with him until his death in 399 B.C. After that time he traveled in Egypt, Sicily and lower Italy. He then founded a philosophical school in the Academus grove, from which it is known as the Academy. He produced many dialogues, of which The Laws and the Republic are the most extensive. Socrates conducts the dialogues in which the ideas are discussed. Western philosophers and editors have achieved distinction through their attention to his works, among them Jowett for his translation of the Republic.
+
+Reading and Textual Analysis
+
+The Republic is Plato's major work. In it he discusses, through the mouth of Socrates, the bases of an ideal state. The major ideas deal with human improvement and with the love of truth, as well as the supremacy of mind. The state or city is essential because, without it, individuals cannot be provided with the necessities of life, such as food, shelter, and clothing. Moreover, education is highly important for achieving an ideal state. The four cardinal virtues must be observed, and the three classes must have the desired virtues. The rulers must be wise; the soldiers must be brave and aware of what is to be feared; all others as well must apply moderation and temperance. The health of the state is based on justice, which requires that each class carry out its proper functions. These ideas are presented in the first five books. In the sixth book the prerequisites of higher education are discussed; in the seventh, specialization in the mathematical sciences and dialectic. The eighth book deals with the four types of states that differ from the ideal:
+
+• Timocracy, where honor is the basic principle;
+
+• Oligarchy, where emphasis is on wealth;
+
+• Democracy, where emphasis is on liberty, often on doing what one likes;
+
+• Tyranny, where there is slavery to appetite.
+
+The ninth book deals with the difference between the just and the unjust life. The tenth book is a kind of conclusion that emphasizes the importance of righteousness and sobriety.
+
+Choice among the many excellent sections of the Republic is difficult; this passage from Book VI, section XIII, provides insight into the ideal man; it has affected authors from Boethius through Dante to Matthew Arnold.
+
+Οὐδὲ γάρ που, ὦ Ἀδείμαντε, σχολὴ τῷ γε ὡς ἀληθῶς πρὸς τοῖς οἶσι τὴν διάνοιαν ἔχοντι κάτω βλέπειν εἰς ἀνθρώπων πραγματείας.
+
+ Collapse All
+
+• οὐδὲ -- particle; <οὐδέ> not -- not
+
+• γάρ -- conjunction; <γάρ> for -- for
+
+• που -- adverb; <που> anywhere, perhaps -- anywhere
+
+• ὦ -- exclamation; <ῶ> Oh -- Oh
+
+• Ἀδείμαντε -- noun, masculine; vocative singular of <Αδείμαντος> Adeimontus -- Adeimontus
+
+• σχολὴ -- noun, feminine; nominative singular of <σχολή> leisure -- there is ... leisure
+
+• τῷ -- article; dative singular masculine of <ὁ> the -- for the one
+
+• γε -- particle; <γε> indeed -- at all
+
+• ὡς -- adverb; <ὡς> so, thus -- thus
+
+• ἀληθῶς -- adverb; <ἀληθῶς> really, truly -- truly
+
+• πρὸς -- preposition; <πρός> to -- on
+
+• τοῖς -- article; dative plural neuter of <ὁ> the -- the
+
+• οἶσι -- participle used as substantive; dative plural neuter of present participle of <εἰμί> I am -- (beings) eternal verities
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- (the) his
+
+• διάνοιαν -- noun, feminine; accusative singular <διάνοια> thought, mind -- mind
+
+• ἔχοντι -- verb; dative singular masculine present participle of <ἔχω> have -- (who) has
+
+• κάτω -- adverb; <κάτω> downward -- downward
+
+• βλέπειν -- verb; infinitive of <βλέπω> see -- to look
+
+• εἰς -- preposition; <εἰς> towards -- at
+
+• ἀνθρώπων -- noun, masculine; genitive plural of <ἄνθρωπος> human being -- of human beings
+
+• πραγματείας -- noun, feminine; accusative plural of <πραγματεία> hard work, affairs -- the affairs
+
+καὶ μαχόμενον αὐτοῖς φθόνου τε καὶ δυσμενείας ἐμπίπλασθαι,
+
+ Collapse All
+
+• καὶ -- conjunction; <καί> and -- and
+
+• μαχόμενον -- deponent verb; accusative singular masculine of present participle of <μάχομαι> fight, quarrel -- quarreling
+
+• αὐτοῖς -- pronoun; dative plural masculine of <αὐτός> oneself, he -- with them
+
+• φθόνου -- noun, masculine; genitive singular of <φθόνος> envy, ill-will -- with ill-will
+
+• τε -- conjunction; <τε> and -- and
+
+• καὶ -- conjunction; <καί> and -- and
+
+• δυσμενείας -- noun, feminine; genitive singular of <δυσμένεια> enmity, hate -- hate
+
+• ἐμπίπλασθαι -- verb; infinitive passive of <ἐμπίπλημι> fill -- to be filled
+
+ἀλλ' εἰς τεταγμένα ἅττα καὶ κατὰ ταῦτὰ ἀεὶ ἔχοντα ὁρῶντας καὶ θεωμένους οὔτ' ἀδικοῦντα οὔτ' ἀδικούμενα ὑπ' ἀλλήλων, κόσμῳ δὲ πάντα καὶ κατὰ λόγον ἔχοντα, ταῦτα μιμεῖσθαί τε καὶ ὅ τι μάλιστα ἀφομοιοῦσθαι.
+
+ Collapse All
+
+• ἀλλ' -- conjunction; <ἀλλά> but -- but
+
+• εἰς -- preposition; <εἰς> towards -- towards
+
+• τεταγμένα -- verb; accusative plural neuter of passive participle of <τάσσω> arrange, put in order -- has been arranged, i.e. is eternal
+
+• ἅττα -- pronoun; accusative plural neuter of <ὅστις> whoever, whatever -- what
+
+• καὶ -- conjunction; <καί> and -- and
+
+• κατὰ -- preposition; <κατά> completely, down, under -- in accordance with
+
+• ταῦτὰ -- article; accusative plural neuter of <ὁ> the + pronoun; <αὐτός> oneself, he -- the things
+
+• ἀεὶ -- adverb; <ἀεί> always -- constant
+
+• ἔχοντα -- verb; accusative plural neuter of participle of <ἔχω> have -- (being) that are
+
+• ὁρῶντας -- verb; accusative plural masculine of participle of <ὁράω> see -- he keeps his eyes fixed
+
+• καὶ -- conjunction; <καί> and -- and
+
+• θεωμένους -- deponent verb; accusative plural masculine of middle participle of <θεάομαι> see -- sees
+
+• οὔτ' -- adverb; <οὔτε> neither, nor -- neither
+
+• ἀδικοῦντα -- verb; accusative plural neuter of participle of <ἀδικέω> wrong -- wrong
+
+• οὔτ' -- adverb; <οὔτε> neither, nor -- nor
+
+• ἀδικούμενα -- verb; accusative plural neuter of passive participle of <ἀδικέω> wrong -- wronged
+
+• ὑπ' -- preposition; <ὑπό> under, by -- by
+
+• ἀλλήλων -- pronoun; genitive plural neuter of <ἀλλήλων> one another -- by one another
+
+• κόσμῳ -- noun, masculine; dative singular of <κόσμος> beauty, order, world -- order
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• πάντα -- adjective used as substantive; accusative plural neuter of <πᾶς> all, every -- everything
+
+• καὶ -- conjunction; <καί> and -- and
+
+• κατὰ -- preposition; <κατά> completely, down, under -- in accordance with
+
+• λόγον -- noun, masculine; accusative singular of <λόγος> word, reason -- reason
+
+• ἔχοντα -- verb; accusative plural neuter of participle of <ἔχω> have -- that is
+
+• ταῦτα -- demonstrative pronoun; accusative plural neuter of <οὗτος> this -- things
+
+• μιμεῖσθαί -- deponent verb; infinitive middle of <μιμέομαι> imitate -- he will imitate
+
+• τε -- conjunction; <τε> and -- and
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ὅ -- relative pronoun; accusative singular neuter of <ὅς> who, which -- what
+
+• τι -- indefinite pronoun; accusative singular neuter of <τις> someone, something -- that
+
+• μάλιστα -- adverb; superlative of <μάλα> very -- as much as possible
+
+• ἀφομοιοῦσθαι -- verb; passive infinitive of <ἀφομοιο̃ω> to make like -- become like
+
+ἤ οἴει τινὰ μηχανὴν εἶναι, ὅτῳ τις ὁμιλεῖ ἀγάμενος, μὴ μιμεῖσθαι ἐκεῖνο;
+
+ Collapse All
+
+• ἤ -- conjunction; <ἤ> or, than -- or
+
+• οἴει -- deponent verb; 2nd person singular present middle of <οἶμαι> think -- do you think
+
+• τινὰ -- indefinite pronoun; accusative singular neuter of <τις> someone, something -- it
+
+• μηχανὴν -- noun, feminine; accusative singular of <μηχανή> instrument -- possible
+
+• εἶναι -- verb; infinitive of <εἰμί> I am -- to be
+
+• ὅτῳ -- relative pronoun; dative singular neuter of <ὅστις> whoever, whatever -- with something
+
+• τις -- indefinite pronoun; nominative singular masculine of <τις> someone, something -- (if) someone
+
+• ὁμιλεῖ -- verb; 3rd person singular present of <ὁμιλέω> consort with, busy oneself with -- busies himself
+
+• ἀγάμενος -- deponent verb; nominative singular masculine of middle participle of <ἄγαμαι> to wonder, admire -- admiringly
+
+• μὴ -- particle; <μή> not -- not
+
+• μιμεῖσθαι -- deponent verb; infinitive middle of <μιμέομαι> imitate -- (would) ...imitate
+
+• ἐκεῖνο -- demonstrative pronoun; accusative singular neuter of <ἐκεῖνος> that -- that
+
+Ἀδύνατον, ἔφη.
+
+ Collapse All
+
+• ἀδύνατον -- adjective; accusative singular neuter of <ἀδύνατος> impossible -- (it is) impossible
+
+• ἔφη -- verb; 2nd person singular imperfect of <φημί> say -- he said
+
+Θείῳ δὴ καὶ κοσμίῳ ὅ γε φιλόσοφος ὁμιλῶν κόσμιός τε καὶ θεῖος εἰς δυνατὸν ἀνθρώπῳ γίγνεται.
+
+ Collapse All
+
+• θείῳ -- noun, masculine; dative singular of <θεῖος> deity, divinity -- the divine
+
+• δὴ -- particle; <δή> indeed -- indeed
+
+• καὶ -- conjunction; <καί> and -- and
+
+• κοσμίῳ -- noun, masculine; dative singular of <κόσμιος> decorum, order -- order
+
+• ὅ -- article; nominative singular masculine of <ὁ> the -- the
+
+• γε -- particle; <γε> indeed -- ...
+
+• φιλόσοφος -- noun, masculine; nominative singular of <φιλόσοφος> wise man -- wise man
+
+• ὁμιλῶν -- verb; nominative singular masculine of present participle of <ὁμιλέω> consort with, busy oneself with -- who busies himself with
+
+• κόσμιός -- adjective; nominative singular masculine of <κόσμιος> orderly -- orderly
+
+• τε -- conjunction; <τε> and -- and
+
+• καὶ -- conjunction; <καί> and -- and
+
+• θεῖος -- adjective; nominative singular masculine of <θεῖος> divine, godlike -- divine
+
+• εἰς -- preposition; <εἰς> towards -- to
+
+• δυνατὸν -- noun, neuter; accusative singular of <δυνατός> possible -- the extent possible
+
+• ἀνθρώπῳ -- noun, masculine; dative singular of <ἄνθρωπος> human being -- for a human
+
+• γίγνεται -- deponent verb; 3rd person singular present of <γίγνομαι> happen, become -- will become
+
+διαβολὴ δ' ἐν πᾶσι πολλή.
+
+ Collapse All
+
+• διαβολὴ -- noun, feminine; nominative singular of <διαβολή> false accusation, calumny -- calumny
+
+• δ' -- particle; <δέ> and, on the other hand -- but
+
+• ἐν -- preposition; <ἐν> in -- in
+
+• πᾶσι -- adjective; dative plural neuter of <πᾶς> all, every -- everything
+
+• πολλή -- adjective; nominative singular feminine of <πολύς> many -- (is) plentiful
+
+Παντάπασι μὲν οὖν.
+
+ Collapse All
+
+• παντάπασι -- adverb; <παντάπασι> absolutely -- absolutely
+
+• μὲν -- particle; <μέν> on the one hand -- indeed
+
+• οὖν -- adverb; <οὖν> indeed -- to be sure
+
+Ἄν οὖν τις, εἶπον, αὐτῳ ἀνάγκη γένεται ἅ ἐκεῖ ὁρᾷ μελετῆσαι εἰς ἀνθρώπων ἤθη καὶ ἰδίᾳ καὶ δημοσίᾳ τίθεναι, καὶ μὴ μόνον ἑαυτὸν πλάττειν,
+
+ Collapse All
+
+• ἄν -- particle; <ἄν> if -- supposing
+
+• οὖν -- adverb; <οὖν> indeed -- then
+
+• τις -- indefinite pronoun; nominative singular feminine of <τις> someone, something -- someone
+
+• εἶπον -- verb; 1st person singular aorist of <λέγω> say -- I said
+
+• αὐτῳ -- pronoun; dative singular masculine of <αὐτός> oneself, he -- for him
+
+• ἀνάγκη -- noun, feminine; nominative singular of <ἀνάγκη> force, compulsion -- force
+
+• γένεται -- deponent verb; 3rd person singular present subjunctive of <γίγνομαι> happen, become -- is applied
+
+• ἅ -- relative pronoun; accusative plural neuter of <ὅς> who, which -- which
+
+• ἐκεῖ -- adverb; <ἐκεῖ> there -- there
+
+• ὁρᾷ -- verb; 3rd person singular present of <ὁράω> see -- he sees
+
+• μελετῆσαι -- verb; aorist infinitive of <μελετάω> care for, practice -- to practice
+
+• εἰς -- preposition; <εἰς> towards -- ...
+
+• ἀνθρώπων -- noun, masculine; genitive plural of <ἄνθρωπος> human being -- of humans
+
+• ἤθη -- noun, neuter; accusative plural of <ἦθος> custom, character -- the manners
+
+• καὶ -- conjunction; <καί> and -- both
+
+• ἰδίᾳ -- adverb; <ἰδίᾳ> privately -- privately
+
+• καὶ -- conjunction; <καί> and -- and
+
+• δημοσίᾳ -- adverb; <δημοσίᾳ> in public -- in public
+
+• τίθεναι -- verb; infinitive of <τίθημι> put, place -- arranging
+
+• καὶ -- conjunction; <καί> and -- and
+
+• μὴ -- particle; <μή> not -- not
+
+• μόνον -- adverb; <μόνον> alone -- alone
+
+• ἑαυτὸν -- reflexive pronoun; accusative singular masculine of <ἑαυτός> himself -- himself
+
+• πλάττειν -- verb; infinitive of <πλάττω> mould, shape -- moulding
+
+ἆρα κακὸν δημιουργὸν αὐτὸν οἴει γενήσεσθαι σωφροσύνης τε καὶ δικαιοσύνης καὶ ξυμπάσης τῆς δημοτικῆς ἀρετῆς;
+
+ Collapse All
+
+• ἆρα -- interrogative particle; <ἆρα> then -- then
+
+• κακὸν -- adjective; accusative singular masculine of <κακός> evil, poor -- a poor
+
+• δημιουργὸν -- noun, masculine; accusative singular of <δημιουργός> craftsman -- craftsman
+
+• αὐτὸν -- pronoun; accusative singular masculine of <αὐτός> oneself, he -- he
+
+• οἴει -- deponent verb; 2nd person singular present middle of <οἶμαι> think -- do you consider
+
+• γενήσεσθαι -- deponent verb; infinitive future middle of <γίγνομαι> happen, become -- will become
+
+• σωφροσύνης -- noun, feminine; genitive singular of <σωφροσύνη> moderation, discretion -- of discretion
+
+• τε -- conjunction; <τε> and -- and
+
+• καὶ -- conjunction; <καί> and -- and
+
+• δικαιοσύνης -- noun, feminine; genitive singular of <δικαιοσύνη> justice, righteousness -- of justice
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ξυμπάσης -- adjective; genitive singular feminine of <ξύμπας> all together -- of all kinds
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- the
+
+• δημοτικῆς -- adjective; genitive singular feminine of <δημοτικός> of the people, in common use -- common
+
+• ἀρετῆς -- noun, feminine; genitive singular of <ἀρετῆ> virtue -- virtue
+
+Ἥκιστά γε, ἧ δ' ὅς.
+
+ Collapse All
+
+• ἥκιστά -- adverb; <ἥκιστα> least -- not at all
+
+• γε -- particle; <γε> indeed -- indeed
+
+• ἧ -- adverb; <ἧ> verily -- in truth
+
+• δ' -- particle; <δέ> and, on the other hand -- ...
+
+• ὅς -- demonstrative pronoun; nominative singular masculine of <ὅς> this, that, he, she, it -- he (said)
+
+Lesson Text
+
+Οὐδὲ γάρ που, ὦ Ἀδείμαντε, σχολὴ τῷ γε ὡς ἀληθῶς πρὸς τοῖς οἶσι τὴν διάνοιαν ἔχοντι κάτω βλέπειν εἰς ἀνθρώπων πραγματείας. καὶ μαχόμενον αὐτοῖς φθόνου τε καὶ δυσμενείας ἐμπίπλασθαι, ἀλλ' εἰς τεταγμένα ἅττα καὶ κατὰ ταῦτὰ ἀεὶ ἔχοντα ὁρῶντας καὶ θεωμένους οὔτ' ἀδικοῦντα οὔτ' ἀδικούμενα ὑπ' ἀλλήλων, κόσμῳ δὲ πάντα καὶ κατὰ λόγον ἔχοντα, ταῦτα μιμεῖσθαί τε καὶ ὅ τι μάλιστα ἀφομοιοῦσθαι. ἤ οἴει τινὰ μηχανὴν εἶναι, ὅτῳ τις ὁμιλεῖ ἀγάμενος, μὴ μιμεῖσθαι ἐκεῖνο; Ἀδύνατον, ἔφη. Θείῳ δὴ καὶ κοσμίῳ ὅ γε φιλόσοφος ὁμιλῶν κόσμιός τε καὶ θεῖος εἰς δυνατὸν ἀνθρώπῳ γίγνεται. διαβολὴ δ' ἐν πᾶσι πολλή. Παντάπασι μὲν οὖν. Ἄν οὖν τις, εἶπον, αὐτῳ ἀνάγκη γένεται ἅ ἐκεῖ ὁρᾷ μελετῆσαι εἰς ἀνθρώπων ἤθη καὶ ἰδίᾳ καὶ δημοσίᾳ τίθεναι, καὶ μὴ μόνον ἑαυτὸν πλάττειν, ἆρα κακὸν δημιουργὸν αὐτὸν οἴει γενήσεσθαι σωφροσύνης τε καὶ δικαιοσύνης καὶ ξυμπάσης τῆς δημοτικῆς ἀρετῆς; Ἥκιστά γε, ἧ δ' ὅς.
+
+Translation
+
+"For there is no leisure at all anywhere, Oh Adeimontus, for the one who truly has his mind on the eternal verities to look downward at the affairs of human beings, and quarreling with them to be filled with ill-will and hate. But he keeps his eyes fixed on what is eternal and on the things that are constant, and sees neither what is wrong nor wronged by one another; and he will imitate everything that is in accordance with reason, and become like that as much as possible. Or do you think it to be possible if someone busies himself with something admiringly not to imitate that?" He said it is impossible. "Then the wise man who busies himself with the divine and with order will become orderly and divine to the extent possible for a human. But calumny is plentiful in everything." "Absolutely, to be sure." "Suppose then, I said, some force is applied to him to practice arranging both privately and in public the manners of humans which he sees there, and not moulding himself alone. Then do you consider that he will become a poor craftsman with regard to discretion and justice and all kinds of common virtues?" "Not at all, in truth," he said.
+
+Grammar
+
+36 Tense formation.
+
+To identify verbal forms, it is useful to note the principal parts. Illustrations are provided here, first with the so-called pure verbs, that is, those for which the stems are not modified by the endings. Examples are: παιδεύω 'educate', τιμάω 'honor', ποιέω 'make'.
+
+Present παιδεύω τιμάω ποιέωFuture παιδεύσω τιμήσω ποιήσωAorist active ἐπαίδευσα ἐτίμησα ἐποιήσαPerfect active πεπαίδευκα τετίμηκα πεποίηκαPerfect middle πεπαίδευμαι τετίμημαι πεποίημαιAorist passive ἐπαιδεύθην ἐτιμήθην ἐποιήθην
+
+37 Tense formation of obstruent stems.
+
+In stems ending in obstruent consonants, that is, those ending in stops or fricatives, the consonant of the stem is modified before the tense markers. Examples are given here for πείθω 'persade', πράττω 'do', ἄγω 'lead', and γράφω 'write'.
+
+Present πείθω πράττω ἄγω γράφωFuture πείσω πράξω ἄξω γράψαAorist active ἔπεισα ἔπραξα ἤγαγον ἔγραψαPerfect active πέπεικα πέπραχα ἦχα γέγραφαPerfect middle πέπεισμαι πέπραγμαι ἤγμαι γέγραμμαιAorist passive ἐπείσθην ἐπράχθην ἤχθην ἐγράφθην
+
+38 Tense formation of resonant stems.
+
+Stems ending in resonants may fail to have the future/aorist marker. Examples are φαίνω 'appear', ἀγγέλλω 'announce', and σπείρω 'sow'.
+
+Present φαίνω ἀγγέλλω σπείρωFuture φανῶ ἀγγελῶ σπερῶAorist active ἔφηνα ἤγγειλα ἔσπειραPerfect active πέφαγκα ἤγγελκα ἔσπαρκαPerfect middle πέφασμαι ἤγγελμαι ἔσπαρμαιAorist passive ἐφάνθην ἠγγέλθην ἔσπάρθην
+
+39 The tense formations of some frequent but irregular verbs.
+
+Some verb forms are quite irregular. Some forms of ἔχω 'have' are based on its ancient root *σεχ-. The forms of φέρω 'bear' are based on several roots. The forms of λέγω, φημί, ἀγορεύω 'say, speak' are also based on various roots.
+
+Present ἔχω φέρω λέγω (etc.)Future ἕξω οἴσω έρῶAorist active ἔσχον ἤνεγκον εἶπονPerfect active ἔσχηκα ἐνήνοχα εἴρηκαPerfect middle ἔσχημαι ἐνήνεγμαι εἴρημαιAorist passive ἔσχομην ἠνέχθην ἐρρήθην
+
+40 The Middle and Passive Perfect.
+
+The forms are the same in the two voices. The subjunctive and optative have forms of the verb 'to be' after the participle (not repeated in the optative, below). They are as follows:
+
+  Indicative Preterite Subjunctive Opt.1s πεπαίδευμαι ἐπεπαιδεύμην πεπαιδευμένος ω ᾿̃ εἴην2s πεπαίδευσαι έπεπαίδευσο --- ἦς εἴης3s πεπαίδευται ἐπεπαίδευτο --- ἦ εἴη         1p πεπαιδεύμεθα ἐπεπαιδεύμεθα πεπαιδευμένοι ὦμεν εἴημεν2p πεπαίδευσθε ἐπεπαιδεύσθε --- ἦτε εἴτηε3p πεπαίδευνται ἐπεπαίδευντο --- ὦσι εἴησιν
+
+Lesson 9
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Aristotle was born in Macedonia in 384 BC. In 367 BC he went to Athens to study with Plato. Plato had a high regard for him, calling him the "intellect of his school." He stayed in Athens until the death of Plato in 347 BC, and after several residences elsewhere he was invited in 342 BC by Philip of Macedonia to instruct his son, Alexander, who was then 13. In 335 BC Aristotle returned to Athens where the state gave him the Lyceum. In the walks surrounding it he gave lectures on philosophy to many scholars while walking up and down, for which the school was named Peripatetic. He remained head of the school until 323 BC, when he left Athens for Euboea, where he died in 322 BC. His treatises and lectures on philosophy have always been highly regarded.
+
+Reading and Textual Analysis
+
+The Poetics is the last work of Aristotle. It is not as widely cited as his Metaphysics, nor his Nicomachean Ethics, but was selected here to illustrate his interest also in the arts. He is considered to be the first literary critic. For him, the arts represent essential truths apprehended by the mind. He proceeds to analyze works of literature, as for their style and for the construction of their plot. Style of poetry is to be judged by the employment of meter and selection of vocabulary. For a plot, unity is essential, and among other things the type of hero. In his first sentence Aristotle states the aim for the treatise as depicting the essence of poetry, its various types, and the requirements for successful plots. Among the types are epic poetry, tragedy and comedy, and dithyrambic poetry as well as most flute- and harp-playing. For all of these he demands mimesis, or imitation of life. And he accounts for interest in them because humans have an instinct for representation and because they enjoy representations. The Poetics is relatively short, but also very compact, as the selection here illustrates. The selection below is from book IV: 22-26.
+
+Ἀρχὴ μὲν οὖν καὶ οἶον ψυχὴ ὁ μῦθος τῆς τραγῳδίας, δεύτερον δὲ τὰ ἤθη.
+
+ Collapse All
+
+• ἀρχὴ -- noun, feminine; nominative singular of <ἀρχή> beginning, first principle -- first principle
+
+• μὲν -- particle; <μέν> on the one hand -- on the one hand
+
+• οὖν -- adverb; <οὖν> indeed -- truly
+
+• καὶ -- conjunction; <καί> and -- and
+
+• οἶον -- adverb; <οἶον> so to say -- so to say
+
+• ψυχὴ -- noun, feminine; nominative singular of <ψυχή> soul -- the soul
+
+• ὁ -- article; nominative singular masculine of <ὁ> the -- the
+
+• μῦθος -- noun, masculine; nominative singular of <μῦθος> speech, plot -- plot
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- of ...
+
+• τραγῳδίας -- noun, feminine; genitive singular of <τραγῳδία> tragedy -- tragedy
+
+• δεύτερον -- adverb; <δεύτερον> second -- the second
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• τὰ -- article; nominative plural neuter of <ὁ> the -- ta
+
+• ἤθη -- noun, neuter; nominative plural of <ἦθος> custom, character -- character
+
+παραπλήσιον γάρ ἐστιν καὶ ἐπὶ τῆς γραφικῆς.
+
+ Collapse All
+
+• παραπλήσιον -- adjective; nominative singular neuter of <παραπλήσιος> such-like -- the same
+
+• γάρ -- conjunction; <γάρ> for -- indeed
+
+• ἐστιν -- verb; 3rd person singular present of <εἰμί> I am -- it is
+
+• καὶ -- conjunction; <καί> and -- also
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- in
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- ...
+
+• γραφικῆς -- noun, feminine; genitive singular of <γραφικῆ> painting -- painting
+
+εἰ γάρ τις ἐναλείψειε τοῖς καλλίστοις φαρμάκοις χύδην, οὐκ ἂν ὁμοίως εὐφράνειεν καὶ λευκογραφήσας εἰκόνα.
+
+ Collapse All
+
+• εἰ -- conjunction; <εἰ> if -- if
+
+• γάρ -- conjunction; <γάρ> for -- for
+
+• τις -- indefinite pronoun; nominative singular masculine of <τις> someone, something -- someone
+
+• ἐναλείψειε -- verb; 3rd person singular aorist optative of <ἐναλείψω> paint, smear -- painted
+
+• τοῖς -- article; dative plural neuter of <ὁ> the -- with the
+
+• καλλίστοις -- adjective; dative plural neuter of superlative of <καλός> good, beautiful -- best
+
+• φαρμάκοις -- noun, neuter; dative plural of <φάρμακον> paint, color -- colors
+
+• χύδην -- adverb; <χύδην> at random, promiscuously -- at random
+
+• οὐκ -- particle; <οὐκ> not -- not
+
+• ἂν -- particle; <ἄν> if -- ...
+
+• ὁμοίως -- adverb; <ὁμοίως> similarly -- as much
+
+• εὐφράνειεν -- verb; 3rd person singular optative aorist of <εὐφραίνω> delight, please -- it would ...delight
+
+• καὶ -- conjunction; <καί> and -- as
+
+• λευκογραφήσας -- verb; nominative singular masculine of aorist participle of <λευκο-γραφέω> paint in white on a black background -- painting . . . in white on a black background
+
+• εἰκόνα -- noun, feminine; accusative singular of <εἰκών> image, portrait -- an image
+
+ἔστιν τε μίμησις πράξεως καὶ διὰ ταύτην μάλιστα τῶν πραττόντων.
+
+ Collapse All
+
+• ἔστιν -- verb; 3rd person singular present of <εἰμί> I am -- it is
+
+• τε -- conjunction; <τε> and -- and
+
+• μίμησις -- noun, feminine; nominative singular of <μίμησις> representation -- a representation
+
+• πράξεως -- noun, feminine; genitive singular of <πράξις> action in actual life -- of action in actual life
+
+• καὶ -- conjunction; <καί> and -- and
+
+• διὰ -- preposition; <διά> through, by -- because of
+
+• ταύτην -- demonstrative pronoun; accusative singular feminine of <οὗτος> this -- that
+
+• μάλιστα -- adverb; superlative of <μάλα> very -- most of all
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- the
+
+• πραττόντων -- verb; genitive plural masculine of present participle of <πράττω> achieve, manage -- of those in action
+
+Τρίτον δὲ ἡ διάνοια.
+
+ Collapse All
+
+• τρίτον -- adjective; nominative singular neuter of <τρίτος> third -- the third (element)
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• διάνοια -- noun, feminine; nominative singular of <διάνοια> thought, mind -- thought
+
+τοῦτο δέ ἐστιν τὸ λέγειν δύνασθαι τὰ ἐνόντα καὶ τὰ ἁρμόττοντα.
+
+ Collapse All
+
+• τοῦτο -- demonstrative pronoun; nominative singular neuter of <οὗτος> this -- this
+
+• δέ -- particle; <δέ> and, on the other hand -- and
+
+• ἐστιν -- verb; 3rd person singular present of <εἰμί> I am -- is
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• λέγειν -- verb; infinitive of <λέγω> say -- to say
+
+• δύνασθαι -- deponent verb; infinitive of <δύναμαι> be able -- the ability
+
+• τὰ -- article; accusative plural neuter of <ὁ> the -- (the) what is
+
+• ἐνόντα -- verb; accusative plural neuter of participle of <ἔνειμι> to be in, to be possible -- possible
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τὰ -- article; accusative plural neuter of <ὁ> the -- (the) what is
+
+• ἁρμόττοντα -- verb; accusative plural neuter of present participle of <ἁρμόττω> fit together -- fitting
+
+ὅπερ ἐπὶ τῶν λόγων τῆς πολιτικῆς καὶ τῆς ῥητορικῆς ἔργον ἐστίν.
+
+ Collapse All
+
+• ὅπερ -- relative pronoun; nominative singular neuter of <ὅσπερ> it -- it
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- in
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- the
+
+• λόγων -- noun, masculine; genitive plural of <λόγος> word, reason -- the words
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- of the
+
+• πολιτικῆς -- noun, feminine; genitive singular of <πολιτική> politics -- politics
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- of the
+
+• ῥητορικῆς -- noun, feminine; genitive singular of <ῥητορική> rhetoric -- rhetorician
+
+• ἔργον -- noun, neuter; nominative singular of <ἔργον> work, deed -- (in the) activities
+
+• ἐστίν -- verb; 3rd person singular present of <εἰμί> I am -- is (provided)
+
+οἱ μὲν γὰρ ἀρχαῖοι πολιτικῶς ἐποίουν λέγοντας, οἱ δὲ νῦν ῥητορικῶς.
+
+ Collapse All
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• μὲν -- particle; <μέν> on the one hand -- on the one hand
+
+• γὰρ -- conjunction; <γάρ> for -- indeed
+
+• ἀρχαῖοι -- adjective; nominative plural masculine of <ἀρχαιος> old -- old (writers)
+
+• πολιτικῶς -- adverb; <πολιτικῶς> like statesmen -- like statesmen
+
+• ἐποίουν -- verb; 3rd person plural imperfect of <ποιέω> make, do -- made
+
+• λέγοντας -- verb; accusative plural masculine of present participle of <λέγω> say -- (those speaking) the characters speak
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• νῦν -- adverb; <νῦν> now -- current (writers)
+
+• ῥητορικῶς -- adverb; <ῥητορικῶς> like rhetoricians -- like rhetoricians
+
+Ἔστιν δὲ ἦθος μὲν τὸ τοιοῦτον ὃ δηλοῖ τὴν προαίρεσιν, ὁποῖά τις ἐν οἷς οὐκ ἔστι δῆλον ἤ προαιρεῖται ἤ φεύγει.
+
+ Collapse All
+
+• ἔστιν -- verb; 3rd person singular present of <εἰμί> I am -- is
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• ἦθος -- noun, neuter; nominative singular of <ἦθος> custom, character -- character
+
+• μὲν -- particle; <μέν> on the one hand -- and
+
+• τὸ -- article; accusative singular neuter of <ὁ> the -- the
+
+• τοιοῦτον -- adjective; nominative singular neuter of <τοιοῦτος> such -- that
+
+• ὃ -- relative pronoun; nominative singular neuter of <ὅς> who, which -- which
+
+• δηλοῖ -- verb; 3rd person singular present of <δηλόω> be clear, reveal -- reveals
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• προαίρεσιν -- noun, feminine; accusative singular of <προαίρεσις> choice -- choice
+
+• ὁποῖά -- interrogative pronoun; accusative plural neuter of <ὁπος> what sort of -- what sort of thing
+
+• τις -- indefinite pronoun; nominative singular masculine of <τις> someone, something -- one
+
+• ἐν -- preposition; <ἐν> in -- among
+
+• οἷς -- demonstrative pronoun; dative plural neuter of <ὅς> this, that, he, she, it -- those where
+
+• οὐκ -- particle; <οὐκ> not -- not
+
+• ἔστι -- verb; 3rd person singular present of <εἰμί> I am -- it is
+
+• δῆλον -- adjective; nominative singular neuter of <δῆλος> clear, obvious -- clear
+
+• ἤ -- conjunction; <ἤ> or, than -- or
+
+• προαιρεῖται -- verb; 3rd person singular present middle of <προαιρέω> choose -- chooses
+
+• ἤ -- conjunction; <ἤ> or, than -- or
+
+• φεύγει -- verb; 3rd person singular present of <φεύγω> escape, flee -- avoids
+
+διόπερ οὐκ ἔχουσιν ἦθος τῶν λόγων ἐν οἵς μηδ' ὅλως ἔστιν ὅ τι προαιρεῖται ἢ φεύγει ὁ λέγων.
+
+ Collapse All
+
+• διόπερ -- adverb; <διόπερ> therefore, so -- so
+
+• οὐκ -- particle; <οὐκ> not -- not
+
+• ἔχουσιν -- verb; 3rd person plural present of <ἔχω> have -- (those) ... have
+
+• ἦθος -- noun, neuter; accusative singular of <ἦθος> custom, character -- character
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- (in) the
+
+• λόγων -- noun, masculine; genitive plural of <λόγος> word, reason -- words
+
+• ἐν -- preposition; <ἐν> in -- in
+
+• οἵς -- relative pronoun; dative plural masculine of <ὅς> who, which -- which
+
+• μηδ' -- particle; <μηδέ> and not -- not
+
+• ὅλως -- adverb; <ὅλως> wholly -- wholly
+
+• ἔστιν -- verb; 3rd person singular present of <εἰμί> I am -- it is ... (clear)
+
+• ὅ -- relative pronoun; accusative singular neuter of <ὅς> who, which -- what
+
+• τι -- indefinite pronoun; accusative singular neuter of <τις> someone, something -- ...
+
+• προαιρεῖται -- verb; 3rd person singular present middle of <προαιρέω> choose -- chooses
+
+• ἢ -- conjunction; <ἤ> or, than -- or
+
+• φεύγει -- verb; 3rd person singular present of <φεύγω> escape, flee -- avoids
+
+• ὁ -- article; nominative singular masculine of <ὁ> the -- the
+
+• λέγων -- participle used as substantive; nominative singular masculine of present participle of <λέγω> say -- (speaking one) speaker
+
+Τέταρτον δὲ τῶν ἐν λόγῳ ἡ λέξις.
+
+ Collapse All
+
+• τέταρτον -- adverb; of <τέταρτος> fourth -- fourth
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• τῶν -- article used as pronoun; genitive plural neuter of <ὁ> the -- of the (elements)
+
+• ἐν -- preposition; <ἐν> in -- in
+
+• λόγῳ -- noun, masculine; dative singular of <λόγος> word, reason -- the literary items
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• λέξις -- noun, feminine; nominative singular of <λέξις> style -- style
+
+λέγω δὲ, ὥσπερ πρότερον εἴρεται, λέξιν τὴν διὰ τῆς ὀνομασίαν ἑρμηνείαν.
+
+ Collapse All
+
+• λέγω -- verb; 1st person singular present of <λέγω> say -- I mean (that)
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• ὥσπερ -- conjunction; <ὥσπερ> as -- as
+
+• πρότερον -- adverb; <πρότερον> earlier, before -- earlier
+
+• εἴρεται -- verb; 3rd person singular present passive of <εἴρω> speak, say -- has been said
+
+• λέξιν -- noun, feminine; accusative singular of <λέξις> style -- style
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- (is) the
+
+• διὰ -- preposition; <διά> through, by -- by means of
+
+• τῆς -- article; genitive singular feminine of <ὁ> the -- the
+
+• ὀνομασίαν -- noun, feminine; accusative singular of <ὀνομασία> language -- language
+
+• ἑρμηνείαν -- noun, feminine; accusative singular of <ἑρμηνεία> interpretation -- interpretation
+
+ὅ καὶ ἐπὶ τῶν ἐμμέτρων καὶ ἐπὶ τῶν λόγων ἔχει τὴν αὐτὴν δύναμιν.
+
+ Collapse All
+
+• ὅ -- relative pronoun; nominative singular neuter of <ὅς> who, which -- this
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- for
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- the
+
+• ἐμμέτρων -- adjective; genitive plural masculine of <ἔμμετρος> metrical -- poetry
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ἐπὶ -- preposition; <ἐπί> on, about -- for
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- the
+
+• λόγων -- noun, masculine; genitive plural of <λόγος> word, reason -- (words) prose
+
+• ἔχει -- verb; 3rd person singular present of <ἔχω> have -- has
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• αὐτὴν -- pronoun; accusative singular feminine of <αὐτός> oneself, he -- same
+
+• δύναμιν -- noun, feminine; accusative singular of <δύναμις> power -- force
+
+Lesson Text
+
+Ἀρχὴ μὲν οὖν καὶ οἶον ψυχὴ ὁ μῦθος τῆς τραγῳδίας, δεύτερον δὲ τὰ ἤθη. παραπλήσιον γάρ ἐστιν καὶ ἐπὶ τῆς γραφικῆς. εἰ γάρ τις ἐναλείψειε τοῖς καλλίστοις φαρμάκοις χύδην, οὐκ ἂν ὁμοίως εὐφράνειεν καὶ λευκογραφήσας εἰκόνα. ἔστιν τε μίμησις πράξεως καὶ διὰ ταύτην μάλιστα τῶν πραττόντων. Τρίτον δὲ ἡ διάνοια. τοῦτο δέ ἐστιν τὸ λέγειν δύνασθαι τὰ ἐνόντα καὶ τὰ ἁρμόττοντα. ὅπερ ἐπὶ τῶν λόγων τῆς πολιτικῆς καὶ τῆς ῥητορικῆς ἔργον ἐστίν. οἱ μὲν γὰρ ἀρχαῖοι πολιτικῶς ἐποίουν λέγοντας, οἱ δὲ νῦν ῥητορικῶς. Ἔστιν δὲ ἦθος μὲν τὸ τοιοῦτον ὃ δηλοῖ τὴν προαίρεσιν, ὁποῖά τις ἐν οἷς οὐκ ἔστι δῆλον ἤ προαιρεῖται ἤ φεύγει. διόπερ οὐκ ἔχουσιν ἦθος τῶν λόγων ἐν οἵς μηδ' ὅλως ἔστιν ὅ τι προαιρεῖται ἢ φεύγει ὁ λέγων. Τέταρτον δὲ τῶν ἐν λόγῳ ἡ λέξις. λέγω δὲ, ὥσπερ πρότερον εἴρεται, λέξιν τὴν διὰ τῆς ὀνομασίαν ἑρμηνείαν. ὅ καὶ ἐπὶ τῶν ἐμμέτρων καὶ ἐπὶ τῶν λόγων ἔχει τὴν αὐτὴν δύναμιν.
+
+Translation
+
+The plot is truly the first principle and so to say the soul of tragedy; and the second is character. It is the same also in painting. For if someone painted with the best colors at random, it would not delight as much as painting an image in white on a black background. For it is a representation of action in actual life, and because of that most of all of those in action.
+
+The third element is thought. This is the ability to say what is possible and what is fitting. It is provided in the words and the activities of the statesman and of the rhetorician. For the old writers made the characters speak like statesmen and the new writers like rhetoricians.
+
+Now character is that which reveals choice, i.e. what sort of thing one chooses or avoids among those where it is not clear. So those have no character in the words, in which it is not wholly clear what the speaker chooses or avoids.
+
+The fourth of the elements in the literary items is style. And I mean, as has been said earlier, that style is the means of interpretation through meaning. And this has the same force for poetry and prose.
+
+Grammar
+
+41 Verbs in -μι; the present and imperfect active system.
+
+A small number of frequent verbs have different endings and formations from those of the general verbs. Among these are τίθημι 'put', ἵημι 'send', ἵστημι, and δίδωμι 'give'. The present forms of τίθημι are given here to illustrate their forms. The forms of the others are comparable, though δίδωμι has ο-vowels corresponding to the ε-vowels of the three other verbs.
+
+  Present Imperfect1 sg τίθημι ἐτίθην2 sg τίθης ἐτίθεις3 sg τίθησι(ν) ἐτίθει     1 pl τίθεμεν ἐτίθεμεν2 pl τίθετε ἐτίθετε3 pl τιθέασι(ν) ἐτίθεσαν
+  Subjunctive Optative Imperative1 sg τιθῶ τιθείην  2 sg τιθῇς τιθείης τίθει3 sg τιθῇ τιθείη τιθέτω       1 pl τιθῶμεν τιθεῖμεν  2 pl τιθῆτε τιθεῖτε τίθετε3 pl τιθῶσι(ν) τιθεῖεν τιθέντων
+
+42 Forms of the aorist active.
+
+  Indicative Subjunctive Optative Imperative1 sg ἔθηκα θῶ θείην  2 sg ἔθηκας θῇς θείης θές3 sg ἔθηκε(ν) θῇ θείη θέτω         1 pl ἔθεμεν θῶμεν θεῖμεν  2 pl ἔθετε θῆτε θεῖητε θέτε3 pl ἔθεσαν θῶσι(ν) θεῖεν θέντων
+
+43 Forms of the Present and Imperfect system of εἰμί 'am'.
+
+  Present Imperfect1 sg εἰμί ἦν2 sg εἶ ἦσθα3 sg ἐστί(ν) ἦν     1 pl ἐσμέν ἦμεν2 pl ἐστέ ἦτε3 pl εἰσί(ν) ἦσαν
+  Subjunctive Optative Imperative1 sg ὦ εἴην  2 sg ᾖς εἴης ἴσθι3 sg ᾖ εἴη ἔστω       1 pl ὦμεν εἴημεν  2 pl ἤτε εἴητε ἔστε3 pl ὦσι(ν) εἴησαν ἔστων
+
+44 Forms of οἶδα 'I know'.
+
+οἶδα is a perfect with present meaning. It is based on a root meaning 'see', so that the perfect has developed in meaning from 'I have seen' to 'I know'. The forms representing present and past time are given here.
+
+  Present Past1 sg οἶδα 'I know' ᾔδη 'I knew'2 sg οἶσθα 'thou knowest' ᾔδησθα 'thou knewest'3 sg οἶδε(ν) 'he/she knows' ᾔδει 'he/she knew'     1 pl ἴσμεν 'we know' ᾔδμεν 'we knew'2 pl ἴστε 'you know' ᾔδετε 'you knew'3 pl ἴσασι(ν) 'they know' ᾔδεσαν 'they knew'
+
+45 Particles.
+
+As you have noted in the texts, particles are numerous in Greek texts. Moreover, they are often left untranslated. They may modify meaning much as intonation does in English; if then translated with their meaning given in dictionaries, such as 'indeed, to be sure' and so on, the English sentence is turgid. In combinations, such as καὶ δέ, καὶ merely adds emphasis. Particles then must be treated in relation to one another and to the entire sentence.
+
+There are two negative particles, also called adverbs, οὺ (οὔτε, οὐκ, etc.), and μή, which is required in sentences expressing a desire and is used in conditions.
+
+There are several interrogative particles, of which ἧ and ἆρα are the most frequent. Other particles are listed here in alphabetical order.
+
+ἀλλά 'on the other hand, but, on the contrary'
+ἅμα 'at the same time, at once'
+ἄρα 'therefore, then' (note the different accentuation from the interrogative particle)
+γάρ 'for'
+γέ 'indeed, certainly'
+δέ 'but, however' (often used as a connective, and need not be translated)
+δή 'already, now' (or used to add emphasis)
+ἦ 'truly, really'
+ἤ 'or' (often doubled with the meanings 'either ...or')
+καί 'and' or, as used for emphasis, 'even'
+μέν 'indeed' (may be used with δέ to indicate a correlation, and not translated)
+οὐδέ 'and not'
+οὖν 'indeed, certainly; therefore'
+οὔτε ... οὔτε, μήτε ... μήτε 'neither ... nor'
+πέρ 'even, indeed'
+τέ 'and'; τέ ... τέ 'both ... and'; τέ ... καί 'not only ... but also'
+
+Lesson 10
+
+Winfred P. Lehmann and Jonathan Slocum
+
+Little is known of Pausanias. He was apparently born in Lydia. On the basis of references in his work, as to contemporary Roman emperors, it is concluded that he lived from approximately 120-180 AD. He traveled widely throughout the eastern Mediterranean area, including Italy. While aware of his limitations as a writer and interests, we are grateful to him for his information on the highlights of Greek civilization before many of them were damaged or destroyed.
+
+Reading and Textual Analysis
+
+Pausanias's Description of Greece reports his travels in Attica, the Peloponnese and central Greece. As in the selection below, he provides a straightforward account of sites, especially the most famous for their art or architecture, amplified by accounts of people. He is not highly regarded for his style, nor for the insight that distinguishes the histories of Herodotus and Thucycides. But his descriptions inform us of the state of the magnificent products of the important period of Greek civilization, such as that of the Parthenon before it was blown up by an explosion of munitions in the 17th century. The description is very detailed, extending through ten books. In addition to its content, the selection here, Attica xxii: 4-5, may illustrate that the language conforms to the standards of the classical period.
+
+καί ἐς δέ τὴν ἀκρόπολίν ἐστιν ἔσοδος μία.
+
+ Collapse All
+
+• καί -- conjunction; <καί> and -- and
+
+• ἐς -- preposition; <ἐς> towards -- to
+
+• δέ -- particle; <δέ> and, on the other hand -- but
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• ἀκρόπολίν -- noun, feminine; accusative singular of <ἀκρόπολις> Acropolis -- Acropolis
+
+• ἐστιν -- verb; 3rd person singular present of <εἰμί> I am -- there is
+
+• ἔσοδος -- noun, feminine; nominative singular of <ἔσοδος> entrance -- entrance
+
+• μία -- adjective; nominative singular feminine of <εἷς> one -- (only) one
+
+ἑτέραν δὲ οὐ παρέχεται, πᾶσα ἀπότομος οὖσα καὶ τεῖχος ἔχουσα ἐχυρόν.
+
+ Collapse All
+
+• ἑτέραν -- adjective; accusative singular feminine of <ἕτερος> other -- another
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• οὐ -- particle; <οὐ> not -- not
+
+• παρέχεται -- verb; 3rd person singular present middle of <παρέχω> provide -- it does... provide
+
+• πᾶσα -- adjective; nominative singular feminine of <πᾶς> all, every -- everywhere
+
+• ἀπότομος -- adjective; nominative singular feminine of <ἀπότομος> precipitous -- precipitous
+
+• οὖσα -- verb; nominative singular feminine of present participle of <εἰμί> I am -- being
+
+• καὶ -- conjunction; <καί> and -- and
+
+• τεῖχος -- noun, neuter; accusative singular of <τεῖχος> wall -- wall
+
+• ἔχουσα -- verb; nominative singular feminine of present participle of <ἔχω> have -- having
+
+• ἐχυρόν -- adjective; accusative singular neuter of <ἐχυρός> strong, secure -- strong
+
+τὰ δὲ προπύλαια λίθου λευκοῦ τὴν ὀροφὴν ἔχει καὶ κόσμῳ καὶ μεγέθει τῶν λίθων μέχρι γε καὶ ἐμοῦ προεῖχε.
+
+ Collapse All
+
+• τὰ -- article; nominative plural neuter of <ὁ> the -- the
+
+• δὲ -- particle; <δέ> and, on the other hand -- and
+
+• προπύλαια -- noun, neuter; nominative plural of <προπύλαια> gateway -- gateway
+
+• λίθου -- noun, masculine; genitive singular of <λίθος> stone -- marble
+
+• λευκοῦ -- adjective; genitive singular masculine of <λευκός> white -- of white
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• ὀροφὴν -- noun, feminine; accusative singular of <ὀροφή> roof -- a roof
+
+• ἔχει -- verb; 3rd person singular present of <ἔχω> have -- has
+
+• καὶ -- conjunction; <καί> and -- and
+
+• κόσμῳ -- noun, masculine; dative singular of <κόσμος> beauty, order, world -- in beauty
+
+• καὶ -- conjunction; <καί> and -- and
+
+• μεγέθει -- noun, neuter; dative singular of <μέγεθος> size -- size
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- the
+
+• λίθων -- noun, masculine; genitive plural of <λίθος> stone -- stones
+
+• μέχρι -- preposition; <μέχρι> until -- until
+
+• γε -- particle; <γε> indeed -- ...
+
+• καὶ -- conjunction; <καί> and -- ...
+
+• ἐμοῦ -- pronoun; genitive singular masculine of <ἐγώ> I -- my time
+
+• προεῖχε -- verb; singular present of <προείχω> to be superior, excel -- is unexcelled
+
+τὰς μὲν οὖν εἰκόνας τῶν ἱππέων οὐκ ἔχω σαφῶς εἰπεῖν, εἴτε οἱ παῖδές εἰσιν οἱ Ξενοφῶντος εἴτε ἄλλως ἐς εὐπρέπειαν πεποιημέναι.
+
+ Collapse All
+
+• τὰς -- article; accusative plural feminine of <ὁ> the -- (regarding) the
+
+• μὲν -- particle; <μέν> on the one hand -- on the one hand
+
+• οὖν -- adverb; <οὖν> indeed -- indeed
+
+• εἰκόνας -- noun, feminine; accusative plural <εἰκών> image, portrait -- statues
+
+• τῶν -- article; genitive plural masculine of <ὁ> the -- of the
+
+• ἱππέων -- noun, masculine; genitive plural of <ἱππεύς> horseman -- horsemen
+
+• οὐκ -- particle; <οὐκ> not -- not
+
+• ἔχω -- verb; 1st person singular present of <ἔχω> have -- I can
+
+• σαφῶς -- adverb; <σαφῶς> truly -- truly
+
+• εἰπεῖν -- verb; aorist infinitive of <λέγω> say -- say
+
+• εἴτε -- conjunction; <εἴτε> whether...or -- whether
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• παῖδές -- noun, masculine/feminine; nominative plural of <παῖς> child -- sons
+
+• εἰσιν -- verb; 3rd person plural present of <εἰμί> I am -- they are
+
+• οἱ -- article; nominative plural masculine of <ὁ> the -- the
+
+• Ξενοφῶντος -- noun, masculine; genitive singular of <Ξενοφῶν> Xenophon -- of Xenophon
+
+• εἴτε -- conjunction; <εἴτε> whether...or -- or
+
+• ἄλλως -- adverb; <ἄλλως> otherwise, especially -- otherwise
+
+• ἐς -- preposition; <ἐς> towards -- for
+
+• εὐπρέπειαν -- noun, feminine; accusative singular of <εὐπρέπεια> appearance, beauty -- beauty
+
+• πεποιημέναι -- verb; participle perfect middle of <ποιέω> make, do -- produced
+
+τῶν δὲ προπυλαίων ἐν δεξίᾳ Νίκης ἐστὶν Ἀπτέρου ναός.
+
+ Collapse All
+
+• τῶν -- article; genitive plural neuter of <ὁ> the -- of the
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• προπυλαίων -- noun, neuter; genitive plural of <προπύλαια> gateway -- gateway
+
+• ἐν -- preposition; <ἐν> in -- on
+
+• δεξίᾳ -- noun, feminine; dative singular of <δεξιά> the right hand -- the right
+
+• Νίκης -- noun, feminine; genitive singular of <Νίκη> Victory -- Victory
+
+• ἐστὶν -- verb; 3rd person singular present of <εἰμί> I am -- is
+
+• Ἀπτέρου -- adjective; genitive singular feminine of <Ἄπτερος> Wingless -- of Wingless
+
+• ναός -- noun, masculine; nominative singular of <ναός> temple -- the temple
+
+ἐντεῦθεν ἡ θάλασσά ἐστι σύνοπτος, καὶ ταύτῃ ῥίψας Αἰγεὺς ἑαυτὸν ὡς λέγουσιν ἐτελεύτησεν.
+
+ Collapse All
+
+• ἐντεῦθεν -- adverb; <ἐντεῦθεν> from there -- from there
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• θάλασσά -- noun, feminine; nominative singular of <θάλασσα> sea -- sea
+
+• ἐστι -- verb; 3rd person singular present of <εἰμί> I am -- is
+
+• σύνοπτος -- adjective; nominative singular feminine of <σύνοπτος> visible -- visible
+
+• καὶ -- conjunction; <καί> and -- and
+
+• ταύτῃ -- demonstrative pronoun; dative singular feminine of <οὗτος> this -- there
+
+• ῥίψας -- verb; nominative singular masculine of aorist participle of <ῥίπτω> throw down -- threw . . . down
+
+• Αἰγεὺς -- noun, masculine; nominative singular of <Αἰγεύς> Aegeus -- Aegeus
+
+• ἑαυτὸν -- reflexive pronoun; accusative singular masculine of <ἑαυτός> himself -- himself
+
+• ὡς -- conjunction; <ὡς> as, thus -- as
+
+• λέγουσιν -- verb; 3rd person plural present of <λέγω> say -- they say
+
+• ἐτελεύτησεν -- verb; 3rd person singular aorist of <τελευτέω> finish, die -- died
+
+ἀνήγετο μὲν γὰρ ἡ ναῦς μέλασιν ἱστίοις ἡ τοὺς παῖδας φέρουσα ἐς Κρήτην.
+
+ Collapse All
+
+• ἀνήγετο -- verb; 3rd person singular present middle of <ἀνάγομαι> put out to sea -- put out to sea
+
+• μὲν -- particle; <μέν> on the one hand -- on the one hand
+
+• γὰρ -- conjunction; <γάρ> for -- for
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• ναῦς -- noun, feminine; nominative singular of <ναῦς> ship -- ship
+
+• μέλασιν -- adjective; dative plural neuter of <μέλαν> black -- with black
+
+• ἱστίοις -- noun, neuter; dative plural of <ἱστίον> sail -- sails
+
+• ἡ -- article; nominative singular feminine of <ὁ> the -- the
+
+• τοὺς -- article; accusative plural masculine of <ὁ> the -- the
+
+• παῖδας -- noun, masculine/feminine; accusative plural of <παῖς> child -- children
+
+• φέρουσα -- verb; nominative singular feminine of participle of <φέρω> bear, bring, carry -- carrying
+
+• ἐς -- preposition; <ἐς> towards -- to
+
+• Κρήτην -- noun, feminine; accusative singular of <Κρήτη> Crete -- Crete
+
+Θησεὺς δὲ -- ἔπλει γὰρ τόλμης τι ἔχων ἐς τὸν Μίνω καλούμενον ταῦρον
+
+ Collapse All
+
+• Θησεὺς -- noun, masculine; nominative singular of <Θησεύς> Theseus -- Theseus
+
+• δὲ -- particle; <δέ> and, on the other hand -- on the other hand
+
+• ἔπλει -- verb; 3rd person singular imperfect of <πλέω> sail -- was sailing
+
+• γὰρ -- conjunction; <γάρ> for -- indeed
+
+• τόλμης -- noun, feminine; genitive singular of <τόλμα> courage, venture -- of a venture
+
+• τι -- indefinite pronoun; accusative singular neuter of <τις> someone, something -- something
+
+• ἔχων -- verb; nominative singular masculine of present participle of <ἔχω> have -- having
+
+• ἐς -- preposition; <ἐς> towards -- against
+
+• τὸν -- article; accusative singular masculine of <ὁ> the -- the
+
+• Μίνω -- noun, masculine; genitive singular of <Μίνος> Minos -- of Minos
+
+• καλούμενον -- verb; accusative singular masculine of present participle passive of <καλέω> call, summon -- so called
+
+• ταῦρον -- noun, masculine; accusative singular of <ταῦρος> bull -- bull
+
+πρὸς τὸν πατέρα προεῖπε χρήσεσθαι τοῖς ἱστίοις λευκοῖς, ἤν ὀπίσω πλέῃ τοῦ ταύρου κρατήσας.
+
+ Collapse All
+
+• πρὸς -- preposition; <πρός> to -- to
+
+• τὸν -- article; accusative singular masculine of <ὁ> the -- his
+
+• πατέρα -- noun, masculine; accusative singular of <πατήρ> father -- father
+
+• προεῖπε -- verb; 3rd person singular aorist of <προ-λέγω> say beforehand -- had said . . . beforehand
+
+• χρήσεσθαι -- deponent verb; infinitive middle of <χράομαι> need, use -- (he would) use
+
+• τοῖς -- article; dative plural neuter of <ὁ> the -- the
+
+• ἱστίοις -- noun, neuter; dative plural of <ἱστίον> sail -- sails
+
+• λευκοῖς -- adjective; dative plural neuter of <λευκός> white -- with white
+
+• ἤν -- conjunction; <ἤν> if -- if
+
+• ὀπίσω -- adverb; <ὀπίσω> back -- back
+
+• πλέῃ -- verb; 3rd person singular present optative of <πλέω> sail -- he would sail
+
+• τοῦ -- article; genitive singular masculine of <ὁ> the -- the
+
+• ταύρου -- noun, masculine; genitive singular of <ταῦρος> bull -- bull
+
+• κρατήσας -- verb; nominative singular masculine of aorist participle of <κρατέω> hold fast, take to heart; rule, conquer -- having conquered
+
+τούτων λήθην ἔσχεν Ἀριάδνην ἀφῃρημένος.
+
+ Collapse All
+
+• τούτων -- demonstrative pronoun; genitive plural neuter of <οὗτος> this -- these (things)
+
+• λήθην -- noun, feminine; accusative singular of <λήθη> forgetting -- (him) to forget
+
+• ἔσχεν -- verb; 3rd person singular aorist of <ἔχω> have -- caused
+
+• Ἀριάδνην -- noun, feminine; accusative singular of <Ἀριάδνη> Ariadne -- Ariadne
+
+• ἀφῃρημένος -- verb; nominative singular masculine of passive participle of <ἀφαιρέω> take away -- having lost
+
+ἐνταῦθα Αἰγεὺς ὡς εἶδεν ἱστίοις μέλασι τὴν ναῦν κομιζομένην, οἷα τὸν παῖδα τεθνάναι δοκῶν, ἀφεὶς αὐτὸν διαφθείρεται.
+
+ Collapse All
+
+• ἐνταῦθα -- adverb; <ἐνταῦθα> then, there -- then
+
+• Αἰγεὺς -- noun, masculine; nominative singular of <Αἰγεύς> Aegeus -- Aegeus
+
+• ὡς -- conjunction; <ὡς> as, thus -- when
+
+• εἶδεν -- verb; 3rd person singular aorist of <εἶδον> saw -- saw
+
+• ἱστίοις -- noun, neuter; dative plural of <ἱστίον> sail -- sails
+
+• μέλασι -- adjective; dative plural neuter of <μέλαν> black -- with black
+
+• τὴν -- article; accusative singular feminine of <ὁ> the -- the
+
+• ναῦν -- noun, feminine; accusative singular of <ναῦς> ship -- ship
+
+• κομιζομένην -- verb; accusative singular feminine of passive participle of <κομίζω> provide for -- traveling
+
+• οἷα -- relative pronoun; accusative neuter plural of <οἷος> like, such that -- that
+
+• τὸν -- article; accusative singular masculine of <ὁ> the -- his
+
+• παῖδα -- noun, masculine/feminine; accusative singular of <παῖς> child -- son
+
+• τεθνάναι -- verb; infinitive perfect of <θνήσκω> die -- had died
+
+• δοκῶν -- verb; present participle nominative singular masculine of <δοκέω> seem, think -- thinking
+
+• ἀφεὶς -- verb; nominative singular masculine of aorist participle of <ἀφίημι> send forth, throw down, permit, forgive -- throwing ...down
+
+• αὐτὸν -- pronoun; accusative singular masculine of <αὐτός> oneself, he -- himself
+
+• διαφθείρεται -- verb; 3rd person singular present middle of <διαφθείρω> destroy, kill -- killed himself
+
+Lesson Text
+
+καί ἐς δέ τὴν ἀκρόπολίν ἐστιν ἔσοδος μία. ἑτέραν δὲ οὐ παρέχεται, πᾶσα ἀπότομος οὖσα καὶ τεῖχος ἔχουσα ἐχυρόν. τὰ δὲ προπύλαια λίθου λευκοῦ τὴν ὀροφὴν ἔχει καὶ κόσμῳ καὶ μεγέθει τῶν λίθων μέχρι γε καὶ ἐμοῦ προεῖχε. τὰς μὲν οὖν εἰκόνας τῶν ἱππέων οὐκ ἔχω σαφῶς εἰπεῖν, εἴτε οἱ παῖδές εἰσιν οἱ Ξενοφῶντος εἴτε ἄλλως ἐς εὐπρέπειαν πεποιημέναι. τῶν δὲ προπυλαίων ἐν δεξίᾳ Νίκης ἐστὶν Ἀπτέρου ναός. ἐντεῦθεν ἡ θάλασσά ἐστι σύνοπτος, καὶ ταύτῃ ῥίψας Αἰγεὺς ἑαυτὸν ὡς λέγουσιν ἐτελεύτησεν. ἀνήγετο μὲν γὰρ ἡ ναῦς μέλασιν ἱστίοις ἡ τοὺς παῖδας φέρουσα ἐς Κρήτην. Θησεὺς δὲ -- ἔπλει γὰρ τόλμης τι ἔχων ἐς τὸν Μίνω καλούμενον ταῦρον πρὸς τὸν πατέρα προεῖπε χρήσεσθαι τοῖς ἱστίοις λευκοῖς, ἤν ὀπίσω πλέῃ τοῦ ταύρου κρατήσας. τούτων λήθην ἔσχεν Ἀριάδνην ἀφῃρημένος. ἐνταῦθα Αἰγεὺς ὡς εἶδεν ἱστίοις μέλασι τὴν ναῦν κομιζομένην, οἷα τὸν παῖδα τεθνάναι δοκῶν, ἀφεὶς αὐτὸν διαφθείρεται.
+
+Translation
+
+There is only one entry to the Acropolis. It does not provide another, being precipitous everywhere and having a strong wall. And the gateway has a roof of white marble, and is unexcelled for the beauty and size of its stones to my day. Regarding the statues of the horsemen, I cannot truly say whether they are the sons of Xenophon or whether they were produced especially for beauty. And on the right of the gateway is the temple of Wingless Victory. From here the sea is visible, and here, as they say, Aegeus throwing himself down died. For the ship carrying the children to Crete put out to sea with black sails. But Theseus, was sailing on something of a venture against the bull of Minos, so called. He had said to his father beforehand that he would sail back with white sails, having conquered the bull. But having lost Ariadne caused him to forget these things. Then Aegeus, when from this point he saw the ship traveling with black sails, thinking that his son had died, throwing himself down killed himself.
+
+Grammar
+
+46 Texts.
+
+Editors have worked with Greek texts since the Alexandrian period, when the texts of Homer were essentially fixed. Western scholars have continued the tradition as in the Teubner publications, those published by the Clarendon Press, and so on. If one examines an edited text with extensive introduction and commentary, such as Hesiod: Works and Days, M. L. West, ed. xiii, 399 pp. (Oxford: Clarendon Press, 1978), the information provided is enormous. The author states that he "perused" over six hundred texts when producing his book. As noted in the comments to the selection included here, the differences between his text and others, however, are slight.
+
+Unless a text with extensive commentary is desired, readers of the Greek texts will do well to use the editions of the Loeb Classical Library, which have the added advantage of including translations. They are readily available from the Harvard University Press (Cambridge, MA 02138). The texts have been widely read in schools and universities, such as those of Xenophon, Plato and Homer have been published with introductions and commentaries, often also with glossaries. Or commentaries may be published separately, such as A Commentary on Herodotus by W. W. How and J. Wells, 2 vols., 456 and 445 pp. (Oxford: Clarendon, 1912, often reprinted). References may be found in catalogues of libraries and publishers, and increasingly on web sites.
+
+47 Grammars.
+
+Similarly, grammars of Greek are based on long attention. The fullest grammar is that of Eduard Schwyzer, Griechische Grammatik, I-III. Munich: Beck, 1939-53. For ready reference, most readers will find useful a shorter grammar, such as that of Herbert Weir Smyth, Greek Grammar (1920), revised by Gordon M. Messing, Harvard University Press (1956).
+
+For a historical treatment, see the Comparative Grammar of Greek and Latin by Carl Darling Buck (Chicago: University Press, 1933). A successor is the New Comparative Grammar of Greek and Latin, by Andrew L. Sihler (Oxford: University Press, 1995); it is written like a novel -- no references, no bibliography.
+
+48 Dictionaries.
+
+Dictionaries of various extent are readily available. An Intermediate Greek-English Lexicon, founded upon the seventh edition of Liddell and Scott's Greek-English Lexicon (Oxford: Clarendon: 1989) provides good coverage for texts of every type.
+
+49 Specialized handbooks.
+
+Catalogues in libraries and lists of publishers are excellent sources for handbooks dealing with all aspects of Greek culture and history. A highly interesting work for information on oral epic and especially Homer is The Making of Homeric Verse, the Collected Papers of Milman Parry, Adam Parry, ed. (New York/Oxford: Oxford University Press, 1987). While no Mycenaean texts have been included here, chiefly because of their brevity, readers may wish to consult Documents in Mycenaean Greek, by Michael Ventris and John Chadwick (Cambridge: University Press, 1956). The sub-title reads: Three hundred selected tablets from Knossos, Pylos and Mycenae with commentary and vocabulary. A History of Greece to 322 B.C. by N.G.L. Hammond (Oxford: Clarendon, 1986, 3rd ed.) provides broad coverage, dealing also with dialects, literature, art and thought. A Smaller Classical Dictionary, ed. E. H. Blakeney (New York: Dutton, 1928) provides compact entries on persons, places and things in the Roman and Greek world. One should not overlook the essays in encyclopedias, such as those in the celebrated 13th edition of the Encyclopedia Brittanica. These deal with various aspects of culture and history.
+
+50 The Legacy of the Greek World.
+
+The legacy of the Greek world on western civilization is evident in all aspects of political and cultural life. Democratic government had its start there. The works of Thucydides, Demosthenes, Plato and Aristotle among others provided many of the principles as well as intellectual support for civil arrangements.
+
+In literature the Homeric poems have been a constant inspiration, as translations, commentaries and references indicate. The great tragedians, Aeschylus, Sophocles and Euripides, as well as the author of comedies, Aristophanes, are similarly admired, as well as lyric poets like Pindar. The influence of Greek art and architecture, whether produced by unknown artists or sculptors like Phidias, is visible on government buildings throughout the western world.
+
+While Greek religion maintains interest for mythology and literature, the wide adoption of Christianity is evident in the maintenance of the New Testament and the majority of early commentary, as of St. Augustine, through the Greek language. The three creeds, the Apostle's, the Nicaean, the Athanasian, were all formulated in Greek. And while Roman culture has been influential in these fields as well, it owes much to the heritage of the earlier Greek culture, as in matters like the alphabet. The Greeks may have adopted it and other items from other cultures, but they reshaped them and passed them on in improved form to lands much larger than their small area. As a result especially of Alexander's conquests, Greek civilization and culture influenced the entire Mediterranean and surrounding areas, with lasting effects on far larger areas.

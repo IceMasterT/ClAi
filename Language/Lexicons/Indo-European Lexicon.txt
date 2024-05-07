@@ -1,0 +1,2233 @@
+Indo-European Lexicon
+Pokorny Master PIE Etyma
+The table below lists Proto-Indo-European (PIE) etyma adapted from Julius Pokorny's book, Indogermanisches etymologisches Wörterbuch (Bern: Francke, 1959, 1989). Entry head-words are listed, with their page numbers and cross-references to other entries (following Pokorny) plus our own English glosses; for more information, the reader is referred to the book. Some misprints in Pokorny have been corrected, including repairs to diacritics and missing, incorrect, or extraneous homograph numbers.
+
+In our table, cross-references under "See also" may include IE links to our own lists of more modern Indo-European reflexes -- words derived from the ancient Proto-Indo-European etyma. 
+
+Pokorny head-word entries with page numbers, cross-references, and English glosses
+Page(s)	Pokorny entry	See also	English gloss
+1	
+ā
+
+IE   	(an exclamation)
+1	ab-	IE    2. ā̆p-	water, river
+1-2	ā̆bel-, ā̆bō̆l-, abel-	IE   	apple
+2	abh-	IE    abhro-	swift, quick, abrupt
+2	abhro-	IE    abh-	strong, mighty
+2-3	abō(n)	IE   	ape, monkey
+3	1. ad-	IE    2. ad-	at, by, to
+3	2. ad-	IE    1. ad-	to fix, put in order
+3	ades-, ados-	IE   	spelt (type of grain)
+4	ad(u)-, ad-ro-		current, water course
+4-6	ag̑-	IE    ag̑ro-s	to lead, drive, agitate
+6-7	ā̆g̑-	aig̑-	goat
+7	ag̑h-		animal that may bear young
+7	ā̆g̑her-, ā̆g̑hen-, ā̆g̑hes-, or ō̆g̑her etc.	IE   	day, dawn
+7-8	agh-	IE    agh-(lo-)	to ail, fear, be depressed
+8	agh-(lo-)	agh-	disgusting, unpleasant
+8	aghl(u)-		dark cloud; rainy weather
+8	agos-	IE   	sin, guilt; fault, blemish
+8-9	agro-, egro-?		first, highest; apex, beginning
+9	ag̑ro-s	IE    ag̑-	field, acre
+9	agu̯(e)sī, aksī	IE   	axe
+9	agu̯h-no-s	IE   	lamb
+10	1. ai	aik-	(an exclamation)
+10	2. ai-		to drive, close in; harm, overwhelm
+10	3. ai-	IE   	to give
+10-11	ai-ti-, ai-to-, oi-to-	IE   	part, portion
+11	4. ā̆i-	IE    ai-dh-	to burn, shine
+11	5. ai- : oi-	IE   	oath, significant speech
+11	aid-	oid-	to swell; strong
+11-12	ai-dh-, i-dh-, nasalized i-n-dh-	IE    ā̆ier-	to burn, shine
+12	ā̆ier-, ā̆ien-	IE    ai̯os-	day(light), morning
+13	aig̑-	IE    ā̆g̑-	goat
+13	1. aig-, nasalized ing-	IE   	ill, sick; depressed, dispirited
+13	2. aig-	IE   	oak
+13-14	3. aig-	IE   	to swing, vibrate, move violently
+14	aigu̯h-	IE   	to be ashamed
+14-15	ā(i)g̑h- : īg̑h-		to need, desire
+15	ā̆ik̑- : ī̆k̑-	IE   	pike, spear, spit
+15	aik-	IE    1. ai	to call to
+15-16	ai̯os-	IE    aisk-	ore, metal (copper, bronze, iron)
+16	ai-rā		(type of grass)
+16	1. ais-	IE   	to wish, desire, ask/search for
+16	2. ais-	IE   	to respect, worship, be in awe
+16-17	aisk-	IE    ai-tro-	clear, bright, shining
+17	ai-tro-	4. ā̆i-	sharp, bitter
+17-18	aiu̯-, ai̯u-	IE   	vitality, life force
+18	1. ak̑-, ak̑ō-		to eat
+18-22	2. ak̑-, ok̑-	IE    ok̑tō(u)	sharp, acute, angular; stone
+23	akkā		mama (nursery word)
+23	ak̑ru	dak̑ru-	tear(drop)
+23	aku̯-		to hurt, damage
+23	aku̯ā-, more accurately əku̯ā, ēku̯-	IE   	aqua, water, river
+24-26	1. al-, ol-	IE    ario-?	beyond; other, alien
+26-27	2. al-	IE   	to grow, nourish, enhance
+27-28	3. ā̆l-	IE   	to roam, wander; be crazy/confused
+28	4. al-		to burn
+28-29	5. al-	IE   	to mill, grind
+29	6. al-, alōu- : aləu-		white, gleaming
+29	alā	IE   	hello! (greeting)
+29	albhi-	albho-	barley
+30-31	albho-	IE    1. el-	white, albino
+31-32	aldh-		trough
+32	aleq-	IE    areg-	to protect, ward off
+32	algh-	IE   	cold, frost, algidity
+32-33	algu̯h-	IE   	to gain, earn; price, value
+33	alp-		small, weak
+33	ālu-, ālo-		a bitter plant?
+33-34	alu-, alu-d-, alu-t-	IE   	bitter; ale, beer
+34-35	ambhi, m̥bhi	IE    ebhi?	around, at both sides
+35	1. am-, mē-	IE    1. mē-	to grab, seize
+35	2. am-, mē-	IE    2. mē-	to mow
+35	āmer-, āmōr, āmr̥	IE   	day
+35-36	ames-, or omes-	IE   	blackbird: merl, ousel
+36	amə-	omə-	to proceed energetically; firm up; suffer
+36	am(m)a, amī̆	IE   	mama, amah (nursery word)
+36-37	1. an-	IE   	relative, ancestor
+37-38	2. an-	IE   	there, other side
+38-39	3. an(ə)-	IE    ansu-	to breathe, respire, animate
+39-40	4. an-, anu, anō, nō	IE   	on, along, over there
+40-41	andh-, anedh-	IE   	to sprout, bloom, blossom; herb, anther
+41	andher-, ṇdher-		stem, spike
+41	andho-	IE   	blind, dark, somber
+41-42	anət-	IE    ētī-	duck, solan
+42	anətā, enətā	IE   	anta, doorpost
+42-43	ang̑h-	IE    augh-	tight, narrow, anguished; to constrict
+43	ang̑hen-		scent, smell, odor; person
+43-45	angu̯(h)i-	IE    eg̑hi-	eel, worm, snake, serpent
+45	1. ank-	IE    nek̑-	force; need, necessity
+45-47	2. ank-, ang-	IE   	to flex, bend, angle
+47	āno-	IE   	ring, annulus
+47	ans-	IE   	favorable, well inclined
+48	ansā, ansi-	IE   	noose, snare; ansa, handle
+48	ansu-, ṇsu-	IE    antro-m	ghost, spirit, demon
+48-50	ant-s	IE   	brow, front, anterior
+50	antro-m	IE    3. an(ə)-	cave, hollow
+50-51	1. ap-, more accurately əp- : ēp-	IE   	to take, reach, grasp
+51-52	2. ā̆p-	IE    1. *u̯ep-	water, river
+52	3. ap-, āp-		old, fragile; harm, damage
+52	appa	pap(p)a	papa (nursery word)
+52	apelo-	IE   	strength
+53	āpero-	IE   	shore, bank (of river)
+53-55	apo-, pō̆, ap-u, pu	IE    pos	off, out of, away from
+55	apsā	IE   	aspen (tree)
+55-61	1. ar-, thematic (a)re-, heavy-base arə-, rē-, and i-base (a)rī̆-, rēi-	IE   	to fit, suit
+61	2. ar-, or er-	IE    1. rē-	to share, distribute
+61	3. ar-	2. rēi-	nut
+62	4. ar, er, or?, r̥	IE   	now, therefore; (interrogative particle)
+62	5. ar-	ōr-	to deny, refuse, renounce
+62-63	ar(ə)-	IE    arenko-	to ear, plow
+63	ardh-		pole, stake
+63	ardi-, r̥di-	5. er-	tip, point, edge
+64	areg-	areq-	to lock, shut away
+64-65	ar(e)-g̑-, arg̑-?, r̥g̑i-	IE    erku̯-	white, argent, glittering
+65-66	areq-	IE    aleq-	to lock, guard, protect
+66-67	arenko-	IE    ar(ə)-	(type of grain?)
+67	ario-?	IE    1. al-	host, lord, master
+67-68	arqu-	IE   	arc, arch, something bent
+68	arōd-, arəd-		(type of waterbird)
+68	aro-m		reed?
+68	aru̯ā		intestines?
+68-69	ā̆s-, based on it azd-, azg(h)-	IE   	to burn, glow; ash
+69	ast(h)-	ost(h)-	bone
+69	at-	IE   	to go; year, annum
+69	āt(e)r-	IE    ētro-	fire
+70	*ati-, ateli-		(type of fish)
+70-71	ati, ato-	IE    2. to-	over, beyond
+71	ā̆tos, atta	IE   	daddy, mommy (nursery word)
+71	1. au-	IE   	ow! (exclamation of pain)
+72	2. au-, au̯-es-, au-s-	1. u̯es-	to sleep, stay overnight
+72-73	3. au-, au̯e, u̯ē̆-	IE    4. u̯e-	down, away from
+73-75	4. au-, u- : u̯ē̆-, u̯o-	IE    2. u-	other; that (one)
+75-76	5. au̯-, au̯ē-	IE    2. u̯e-	to plait, weave
+76-77	6. au̯-, au̯ed-	IE   	to speak
+77-78	7. au̯-, au̯ē-, au̯ēi-	IE   	to like, help
+78	8. au̯-, au̯ēi-	IE   	to perceive, understand, be aware of
+78-81	9. au̯(e)-, au̯ed-, au̯er-	IE    10. u̯er-	to wet, flow, sprinkle; water, river, etc.
+81-84	10. au̯(e)-, au̯ē(i)-, u̯ē-	IE    3. u̯ē-	to vent, blow
+84	11. au̯ē-, (u̯e-d(h)-?)	IE   	to strain, take pains
+84-85	au̯eg-, u̯ōg-, aug-, ug-	IE    u̯eg̑-	to augment, increase, magnify
+86	au̯ei-, əu̯ei-?	IE    ō(u̯)i̯-om	bird, avifauna
+86-87	au̯es-	IE    eus-	to shine
+87	aug-	IE   	to shine, gleam, glitter
+87	augh-, ugh-	u̯ing̑-	nape of the neck
+88	au̯ig̑-		oats; type of grass
+88	auqu̯(h)- : uqu̯(h)-, probably also u̯equ̯(h)-	IE   	cooking pot
+88-89	au-lo-s : ēu-l-	IE   	tube, pipe, aulos
+89	au̯o-s	IE   	maternal grandfather
+90	aus-	IE   	to draw (water); scoop, ladle
+91	baˣb-, bhaˣbh-, paˣp-	IE    baˣmb-	to swell
+91-92	baba-	IE    bal-bal-	babble, babbling, unclear speech
+92	badi̯os	IE   	bay, brown; gold, yellow
+92-93	baitā, or paitā?	IE   	goatskin; cloak, mantle
+93	bak-	IE   	stick, staff; to hit, peg
+93	bal-, balbal-		to dance, shake, whirl
+93	bal-bal-	bar-bar-	babbling, unclear speech
+93-94	baˣmb-		(type of noise)
+94-95	baˣmb-, bhaˣmbh-, paˣmp-, phaˣmph-	pank-	to swell
+95	band-	IE   	drop (of liquid)?
+95	bar-bar-	blat-	babbling, unclear speech
+95	bata-		babble, murmur, meaningless stuttering
+95	bau	IE   	bow-wow (onomatopoeic: dog barking)
+95	bdel-		to suck
+96	bē, bā		baa (onomatopoeic: sheep bleating)
+96	bed-	IE   	to swell
+96	1. bel-		to cut off, cut out
+96	2. bel-	IE   	strong
+96-97	bend-, bṇd-no-	IE   	spike, needle, tip jutting out
+97-98	1. b(e)u-, bh(e)u-	IE   	(onomatopoeic: dull noise)
+98-102	2. b(e)u-, bh(e)ū̆-	IE    pāuson-	to boil, swell, puff up
+102	bis-(t)li-		gall
+102	blat-	blē-	to chat, prattle
+102	blē-	6. bhel-	to bleat
+102	blou-, bhlou-?, plou-	IE   	flea
+103	bol-	IE   	bulb, tuber
+103	brangh-, brongh-?		hoarse?
+103	breuq-		to jump
+103	bronk-	IE   	to lock, shut in
+103	bu-	IE   	lip; kiss, buss
+104-5	1. bhā-, bhō-, bhə-	IE    2. bhāu-	to shine, glisten
+105-6	2. bhā-	IE   	to speak
+106	bhabhā	IE   	bean
+106	bhā̆d-	IE   	good, better
+107	1. bhag-	IE   	to divide, apportion
+107	2. bhag-	bhorgu̯o-s	sharp
+107-8	bhāgó-s	IE   	beech (tree)
+108	bhā̆gh-	bhō̆gh-	bog, swamp, lowland
+108	bhāg̑hú-s	IE   	elbow, forearm
+108-9	bhar- : bhor- : bhr̥-	IE    bhares-	burr, stubble; something jutting out
+109	bharu-	IE   	(fir) tree, forest
+109-10	bhares-, bhores-	IE    bhardhā	point, bristle, stubble (with formants)
+110	bhardhā	IE    bhares-	beard
+110-11	bhareku̯-, or bhereku̯-	IE   	to farce, stuff full
+111	bhares-	IE    bhar-	barley
+111	bhasko-	IE   	heap, bundle, fascicle
+111	bhāso-, or bhēso-		(large bird of prey)
+111-12	bhāt- : bhət-	IE    1. bhā̆u-	to bat, hit
+112	1. bhā̆u- : bhū̆-	IE    bhāt-	to hit, beat
+112	2. bhāu-	1. bhā-	to shine, glisten
+112-13	1. b(h)e, and b(h)eg̑h	IE   	beside, outside, without
+113	2. bhē̆, bhō̆	IE   	(emphatic particle)
+113	bhē-, bhō-	IE   	to warm, bake, roast, fry
+113	bhebhru-, bhebhro-	5. bher-	glittering; bright brown
+113-14	1. bhedh-	IE   	to dig, stab, pierce, embed
+114	2. bhedh-	IE   	to flex, bend, crook
+114-15	bheg-, bheng-	IE    bhog-	to bang, break, smash
+115	bhēgh- : bhōgh-		to resist, dispute
+116	bhegu̯-	IE   	to flee, run away
+116	bhei-	IE   	bee (insect)
+116-17	bheid-	IE    bhei(ə)-	to bite, prick, pierce, split
+117	1. bheidh-	IE   	to force; advise, confide, encourage
+117	2. bheidh-	bhidh-	to bind, plait
+117-18	bhei(ə)-, bhī-	IE    bheid-	to hit
+118	bheigu̯-	IE   	to shine, glitter?
+118-20	1. bhel-, Balto-Slavic also bhelə-	IE    2. bhel-	glittering white
+120	2. bhel-	bheleg-	henbane
+120-22	3. bhel-, bhlē-	IE    2. bhlei-	to grow, spread, swell, inflate
+122	4. bhel-, and bhlē-, bhlō-, bhlə-	IE   	leaf, foil, blade; bloom
+122-23	5. bhel-, chiefly with suffixes: bheləg̑-, bhelə-n-g̑-, bheleg̑-, bhl̥k̑-	IE   	balk, beam, rafter
+123-24	6. bhel-	IE    bhlē-	to speak, bell, bellow, resound
+124	bh(e)lāg-		weak, silly, ridiculous
+124	bheld-	IE   	to hit, poke
+124-25	bheleg-	IE    bhlendh-	to shine, glisten
+125	bheleu-	IE    2. bhlēu-	to hit, weaken; ill, weak
+125-26	bhelg̑h-	IE   	to swell, bulge, billow
+126	bhen-	IE   	to hit, wound
+126-27	bhend-		to sing, rejoice
+127	bhendh-	IE   	to tie, bind
+127-28	bheng̑h-, bhn̥g̑h-, adj. bhn̥g̑hú-s	IE   	fat, thick, dense
+128-32	1. bher-	IE    bhren-	to bear, bring, carry
+132-33	2. bher-	IE    bh(e)reu-	to boil, swell, well up
+133-35	3. bher-	IE    bhrēi-	to bore, cut, scrape, use sharp tool
+135-36	4. bher-	IE    bhereg-	to hum, buzz
+136-37	5. bher-	IE    bherəg̑-	shining; bright brown
+137	6. bher-	IE   	to cook, bake, fry, roast
+137-38	7. bher-		to plait, weave
+138	bheredh-, bhṛdho-	IE   	to cut; board
+138-39	bhereg-	IE    2. bherem-	(onomatopoeic: to bark, cry, roar, etc.)
+139-40	bherəg̑-, bhrēg̑-	IE    bherək̑-	to shine; bright, white
+140-41	bhereg̑h-, bherg̑hos-	IE    bherg̑h-	high, noble; barrow, mountain
+141-42	bherək̑-, bhrēk̑-	IE    bhebhru-	to shine, glitter
+142	1. bherem-	IE   	to stand out; brim, edge, hem
+142-43	2. bherem-	IE    bhlos-q-	to hum, buzz, drone
+143	bheres-	IE   	quick, festinate
+143-45	bh(e)reu- : bh(e)rū̆-	IE    bhrag-	to brew, boil, surge, be wild
+145	bherg̑h-	IE    bhereg̑h-	to keep, hide, bury
+145	bherug-, bhrug-, bhorg-		throat
+145-46	1. bhes-	IE    bhoso-s	to spread, smear, rub on
+146	2. bhes-	IE    perd-	to blow, breathe
+146-50	bheu-, bheu̯ə-, bhu̯ā-, bhu̯ē- : bhō̆u- : bhū-	IE   	to be, exist; grow, prosper
+150-52	bheudh-, nasalized bhu-n-dh-	IE   	to awaken, be aware
+152	1. bheug-	IE   	to flee, escape, seek refuge
+152	2. bheug-, bheugh-		to free, put away
+152-53	3. bheug-, bheugh-	IE   	to bow, flex, bend, crook
+153	4. bheug-	IE   	to enjoy
+153	bhidh-	2. bheidh-	pot, vat, cauldron
+153-54	bhili-, bhilo-	IE   	good, friendly, harmonious
+154	bhlag̑-	IE   	to hit, flog, flail
+154	bhlagh-men-	IE   	priest, flamen, wizard
+154-55	bhlē-	IE    bhlē̆d-	to bleat, weep, howl
+155	bhlē̆d-, bhl̥d-	IE    baba-	to boil, bubble up; boast, chatter
+155	bhlegu̯-	IE   	to swell, become bloated
+155-56	1. bhlē̆i- : bhləi- : bhlī-	IE    bhlē̆ig̑-	to shine, glitter
+156	2. bhlei-	IE    bhleu-	to swell, burst, blow up
+156-57	bhlē̆ig̑-, bhlīg̑-	IE    bhleiq-	to shine, glitter
+157	bhleiq-	bhləido-s	to shine, glitter
+157-58	bhlendh-	IE    bhles-	dim, pale, blond, reddish
+158	bhles-	IE    1. bhlēu-	to shine, glitter
+158-59	bhleu-	IE    3. bhel-	to bloat, swell, blow up; flow
+159	1. bhlēu- : bhləu- : bhlū-	IE    bhleu-(k-)	to shine, glitter
+159	2. bhlēu- : bhləu- : bhlū-	IE    bhleus-	bad, weak, miserable
+159-60	bhleu-(k-)	IE    bhlē-u̯o-s	to burn
+160	bhlē-u̯o-s	IE    1. bhel-	a light color (blue, yellow)
+160	bhleus-	bheleu-	mild, weak
+160	bhləido-s	1. bhlē̆i-	pale, light
+160-61	bhlīg̑- : *bhlēig-	IE   	to hit, strike, inflict
+161	bhlō̆k-	IE   	flock, tow, wool; cloth?
+161	bhlos-q-	4. bher-	(onomatopoeic: to bark, cry, roar, etc.)
+161	bhog-	IE    bheg-	beck, flowing water
+161	bhō̆gh-, or bhā̆gh-	IE    bhā̆gh-	bog, swamp, lowland
+161-62	bhōi- : bhəi- : bhī-, bhii̯ə-	IE   	to fear, be afraid
+162	bhok-	IE   	to burn?
+162	bholo-		mist, smoke, steam?
+163	bhorgu̯o-s	2. bhag-	gruff, unfriendly
+163	bhoso-s	IE    1. bhes-	bare, naked
+163	bhoudhi-		victory
+163	bhouku̯os		a buzzing insect
+163	bhrag-, better bhrə-g-	IE    2. bher-	to scent, smell
+163-64	bhrā́ter-	IE   	brother, family member
+164	bhred(h?)-		to wade, wander
+165	1. bhreg̑-	IE    bhre(n)k̑-	to break
+166	2. bhreg̑-	IE   	to stick up
+166-67	bhrēi-, bhrī̆-	IE    1. bhrē̆u-	to fray, pierce, cut with sharp tool
+167	bhren-	IE    bhrendh-	to bulge, stick out; edge, brink
+167-68	bhrendh-	IE    bhrenk-	to sprout, swell up
+168	bhrenk-, bhronk-	IE    2. bhrēu-	to bring
+168	bhre(n)k̑-	bhres-	to err, be ensnared
+168-69	bhren-to-s		deer, horned animal
+169	bhres-	IE    1. bhreg̑-	to burst, break
+169	bhreu-, bhreu-d-	IE    1. bhreu-s-	to swell, sprout
+169	1. bhrē̆u-, bhrū̆-	IE    bhreu-k̑-	to break, cut, pierce
+170	2. bhrēu-, bhrū-	1. bher-	edge
+170	bhreu-k̑-	IE    2. bhreu-s-	to strike, throw
+170-71	1. bhreu-s-	IE    bhrugh-no-	to swell, sprout
+171	2. bhreu-s-	IE    bhroisqo-	to bruise, break to pieces
+171-72	3. bhreus-, bhrū̆s-	IE   	to boil, sound, etc.
+172	bhroisqo-, bhrisqo-	3. bher-	bitter
+172-73	1. bhrū-	IE   	brow, eyebrow
+173	2. bhrū-, bhrēu-	IE   	beam, bridge
+173	bhrūg-	IE   	fruit; to brook, enjoy
+174	bhrugh-no-	bhreu-	twig
+174	bhudh-m(e)n	IE   	base, ground, bottom, fundament
+174	bhū̆g̑o-s, familiar form bhukko-s	IE   	buck, goat
+175	dā-	IE   	fluid; river; to flow
+175-79	dā : də-, and dāi- : dəi-, dī̆-	IE    3. del-	to share, divide
+179	dāiu̯ēr, genitive daiu̯rés	IE   	brother-in-law
+179	dak̑ru-	IE    ak̑ru	tear (from the eye)
+179-81	dāu-, dəu-, dū̆-	IE   	to burn, injure, torment
+181	*dəg̑h-mó-	dəg̑h-mó-s	slanting
+181-83	de-, do-	IE   	I-deictic; here
+183	dē- : də-, and dēi-, dī-	IE   	to tie, bind
+183	dēg-	IE   	to take, grab, pack?
+183-87	1. dei-, dei̯ə-, dī-, di̯ā-	IE   	to shine, glitter; day, sun; god, deity
+187	2. dei̯ə-, di̯ā-, di̯ə-, dī-	IE   	to move, spin, swing
+187-88	deig̑h-	IE   	to itch, prick; tick
+188-89	deik̑-	IE   	to teach, show
+189-91	1. dek̑-	IE    des-	to take
+191	2. dek̑- : dok̑-, dēk̑-	IE    denk̑-	to tear, rip to pieces
+191-92	dek̑m̥, dek̑m̥-t, dek̑u-	IE    u̯ī-k̑m̥t-ī	ten, decade
+193	1. del-	IE   	to tell, count, calculate
+193-94	2. del-		to shake, totter
+194-96	3. del-, dol-, delə-	IE    1. dhā̆bh-	to split, divide
+196	4. del-	IE   	to rain, dribble
+196-97	5. del-	IE   	long
+198-99	dem-, demə-	IE   	to build, timber; house, domicile
+199-200	demə-, domə-, domə-	IE   	to tame
+201	demel-		worm?
+201	denk̑-	IE    2. dek̑-	to bite
+201-2	1. dens-	IE    2. dens-	to learn; mental power
+202-3	2. dens-	IE    1. dens-	dense
+203	deph-	IE   	to push, stamp, thrust
+203	1. der- : dōr-, der-, or dōr- : dər-	IE    4. der-	hand span
+203-4	2. der-, reduplicated der-der-, dr̥dor-, broken reduplication dor-d-, dr̥-d-	IE    3. dher-	(onomatopoeic: to mutter, grumble)
+204-6	3. der-, drā-, dreb-, drem-, dreu-	IE   	to run, trip, tread, tramp
+206-11	4. der-, heavy-base derə-, drē-	IE    1. der-	to cut, skin, split, tear
+211-12	derbh-	IE   	to wind, put together
+212	der(ep)-	IE    derk̑-	to see?
+212	derə-, drā-	IE   	to work
+212-13	dergh-	IE   	to grasp
+213	derk̑-	IE    der(ep)-	to look
+214-17	deru-, dō̆ru-, dr(e)u-, drou-, dreu̯ə- : drū-	IE   	firm, solid; tree, wood
+217	des-, dēs-	1. dek̑-	to find
+217-18	1. deu-	IE   	to sink in, plunge into
+218-19	2. deu-, or dou- : du-	IE   	to worship, venerate; mighty
+219-20	3. deu-, deu̯ə-, du̯ā-, dū-	IE   	to pass, move forward
+220-21	deuk-	IE   	to tug, pull, drag, tow
+221-22	deup- : kteup-?		(onomotopoeic: dull thud)
+222	dəg̑h-mó-s	gei-	slanting
+222	digh-	IE   	goat
+222	dī̆p-ro-, dī̆p-erā		sacrificial animal
+222	dl̥kú-	IE   	sweet, dulcet
+223	dn̥g̑hū, dn̥g̑hu̯ā	IE   	tongue
+223-26	dō- : də-, also dō-u- : dəu- : du-	IE   	to give, donate
+226	dous-		arm
+226	drē- : drə-, extended dr-ē̆m-	IE   	to sleep
+226-27	dreg̑h-		vexed, displeased, unwilling
+227	dumb-, dumbh-?	IE   	tail, penis
+227	dus-	IE   	bad, foul, evil
+227-28	du̯ei-	IE   	to fear
+228-32	du̯ō(u)	IE    gu̯is-ti-s	two, duo
+233	1. dhā̆bh-, nasalized dhamb(h)-	IE    dā	to be speechless, astonished; to dab, be touched, affected
+233-34	2. dhabh-	IE   	to fix, suit; proper
+234	dhā̆l-	IE    2. dhel-	to bloom, be green
+234	dhanu-, or dhonu-	IE   	(type of tree)
+235	dhau-	IE   	to press, strangle
+235	1. dhē-, reduplicated dhē-dh(ē)-	IE    dhē(i)-	older family member (nursery word)
+235-39	2. dhē-	IE    u̯eidh-	to do, put, place, set
+239	3. dhē-, dhə-	IE   	to disappear, pass away
+239	dheb-	IE   	fat, thick, heavy
+240	dhebh-, dhebh-eu-	IE    dhembh-	to harm, injure
+240-41	dhegu̯h-	IE   	to burn
+241-42	dhē(i)-, also dh-ei-?	IE    1. dhē-	to suck, suckle
+243	dhei̯ə- : dhi̯ā- : dhī-	IE   	to look, see, show
+243-44	dhēigu̯- : dhōigu̯- : dhīgu̯-	IE   	to dig, plant, stab, stick
+244-45	dheig̑h-	IE   	to build, knead clay
+245-46	1. dhel-, dholo-	IE   	curve; dell, hollow
+246	2. dhel-	IE    dhā̆l-	to light; shining
+246	3. dhel-	IE   	to tremble
+246	dhelbh-	IE   	to dig, delve, bury
+247	dhelg-	IE   	to stab, stick; needle
+247	dhelgh-, dhelg-	IE   	to hit
+247-48	dhem-, dhemə-	IE   	to blow, fly about like dust
+248-49	dhembh-, dhm̥bh-	IE    dheu-b-	to dig
+249	1. dhen-	IE   	to flow, run
+249	2. dhen-	IE   	flat of hand, surface of land, etc.
+249-50	3. dhen-	IE   	to hit, ding, push, thrust
+250	1. dhengh-	IE   	to press, cover
+250	2. dhengh-	IE   	to get, grip, reach
+251-52	1. dher-, dherə-	IE    4. dher-	dirt, dreg, some type of deposit
+252-55	2. dher-, dherə-	IE   	to hold, support
+255-56	3. dher-, dhereu-, dhrē̆n-	IE    2. der-	(onomatopoeic: to drone, growl, purr, etc.)
+256	4. dher- : dhor- : dher-	IE    5. dher-	to jump (at)
+256	5. dher-, dhrei-d-	IE    1. dher-	to defecate; dirt
+257	dherāgh-	IE    dhreg̑-	to drag, pull
+257	dherbh-, dherəbh-?	IE   	to work
+257-58	dherebh-	IE   	to harden; coagulated
+258	dheregh-		bushy plants
+258	dhereg̑h-, dhr̥g̑h-nā-	IE   	to turn, wind
+259	dhers-	IE   	to dare, be bold
+259	dhēs-, dhəs-	IE   	(used in religious terms)
+259-60	1. dheu-	IE   	to flow, run
+260-61	2. dheu-, dhu̯-ēi-	IE   	to die, faint, vanish
+261	3. dheu-		to shine brightly
+261-67	4. dheu-, dheu̯ə-, presumably dhu̯ē-, compare suffixes dhu̯ē-k-, dhu̯ē̆-s-	IE    dheu̯es-	to blow, dissipate, fly about like dust, etc.
+267-68	dheu-b-, dheu-p-	IE    dhebh-	deep, hollow
+268	dheubh-, dhubh-	IE   	peg, wedge
+268-71	dheu̯es-, dhu̯ē̆s-, dheus-, dhū̆s-	IE    4. dheu-	to blow, dissipate, fly about like dust, etc.
+271	dheugh-	IE   	to milk, press, touch
+271	dhlas-, or dhels- : dhl̥s-		to press, squeeze; squash?
+271-72	dhl̥gh-	IE   	debt, guilt, duty
+272	dhō-		to sharpen
+272	dhō[u]- : dhū-		rope?
+272-73	dhrebh-	IE   	to drub, crush, grind to pieces
+273	dhreg̑-	IE    terk-	to pull
+273	1. dhregh-	IE   	to run
+273-74	2. dhregh-	IE   	to hurt, torment
+274	dhreibh-	IE   	to drive, push, thrust
+274-75	dhreu-	IE   	to grind, crumble
+275	1. dhreugh-		to shake, tremble
+276	2. dhreugh-	IE   	to harm, deceive
+276	dhrigh-, or dhreikh-		hair, bristle
+276-77	dhrono-		multicolored?
+277	dhug(h)əter-	IE   	daughter
+277	dhu̯en-, dhun-	IE   	to hum, drone
+277	dhu̯er-, dhu̯erə-		to harm by trickery/deception
+278-79	dhu̯ē̆r-, dhu̯ō̆r-, dhur-, dhu̯r̥-	IE   	door
+279	dhu̯ergh- : drugh-	IE   	crippled, dwarf-like, low in stature
+280-81	1. ē̆, ō̆	IE    1. o	(particle: he, this, etc.)
+281	2. ē, ō	IE    2. ō	oh (vocative interjection)
+281-86	3. e-, ei-, i-, fem. ī-	IE    i̯āi	(demonstrative particle: one, this, etc.)
+287	ebhi? : obhi : bhi	epi	from, around, (up) to, etc.
+287-89	ed-	IE   	to eat
+289-90	1. edh-		tip, point
+290	2. edh-	IE   	fence of stakes
+290	eg-	IE   	lack (of something)
+290-91	ēg̑-, ōg̑-, əg̑-	IE   	to say, speak
+291	eg̑-, eg̑(h)om, eg̑ō	IE    1. me-	ego, I (pronoun)
+291-92	eg̑hero-	IE   	(inland) lake
+292	eg̑hi-	angu̯(h)i-	hedgehog
+292-93	eg̑hs, eg̑hz	IE   	from, out of, ex-
+293	egnis : ognis	IE   	fire
+293	ehem, eheu, eho	IE   	aha! oho! (exclamation)
+293-97	1. ei-	IE    i̯ā-	to go, exit
+297	2. ē̆i	oiu̯ā	O (vocative particle)
+297-98	3. ei-	IE   	bright; reddish
+298	4. ei- : oi-	IE   	pole, stake
+298	eibh- : oibh-, i̯ebh-	IE    i̯ebh-	to copulate
+298	eig-, oig-	IE   	to lament, complain
+298-99	ēik-	IE   	to own, possess, be capable
+299-301	1. eis-	IE   	to move rapidly/violently
+301	2. ei-s-, ei-n-	IE   	ice, frost
+301-2	ek̑u̯o-s	IE   	horse
+302-4	1. el-, ol-, el-	IE    4. el-	red, brown
+304-5	2. el-	2. lei-	to lie, recline
+305	3. el- : ol-		to rot, be moldy
+306	4. el-, ol-	IE    ul-	(a noise)
+306	5. el-, ol-	IE   	to destroy
+306-7	6. el-, elə- : lā-, el-eu-(dh-)	IE    2. leu-dh-	to go, move, drive
+307	7. el-, elə-, with k-suffix elk-, elək-	IE    elk-	hungry; bad?
+307-9	8. el-, elē̆i-, lē̆i-, olī̆nā	IE    1. lē̆i-	to bend; elbow
+309-10	ēl-	IE   	line, strip
+310	ēlā	IE   	awl, bodkin
+310	elg-		poor, needy
+310	elk-, elək-	7. el-	hungry; bad?
+310	elkos-	IE   	boil, abscess
+310-11	em-	IE   	to take
+311	embhi-, empi-		bee, gnat, mosquito
+311-14	1. en	IE    3. nei-	in
+314	2. en-	IE   	year
+314	ēn		behold! look here!
+314-15	1. enebh-, embh-, ombh-, nō̆bh-, nēbh-?, m̥bh-	IE   	navel
+315-16	2. enebh- : nebh-, embh-, m̥bh-	IE    2. nebh-	wet, damp; cloud, nimbus; water
+316-18	enek̑-, nek̑-, enk̑-, n̥k̑-	IE   	to reach, obtain
+318	ē̆neu, ē̆nu	IE   	without
+318-19	e-neu̯en, neu̯n̥, enu̯n̥	IE    neu̯os	nine
+319	engu̯-, n̥gu̯ḗn	IE   	bump, swelling
+319-21	eno-, possibly e-no- : ono- : no- : -ne-	IE    2. ne	that
+321	en(o)mn̥-, (o)nomn̥, nōmn̥	IE    nōmn̥	name
+321-22	enos-, or onos-	IE   	onus, burden
+322	enq-, onq-		to sigh, groan
+322	ent-, better ant-?		to weave
+323	epero-		wild boar
+323-25	epi, opi, pi	IE    obhi-	at, near, epi-
+325	ēpi-		comrade, companion
+325	epop, opop		(onomatopoeic: call of hoopoe bird)
+325	eph-		to cook
+325-26	1. er-, or-	IE   	erne, eagle
+326	2. er-, eri-		goat, sheep
+326-32	3. er- : or- : r-	IE    2. ereu-	to move, set in motion
+332	4. er-, er-t-, er-u̯-	IE   	earth
+332-33	5. er-, erə-, thematic (e)r-ĕ-	IE    2. rē̆-	loose, crumbly
+333	ereb-, orob-, rōb-		to drill, make holes, hollow out
+334	ē̆reb(h)-, ō̆rob(h)-	IE    regu̯os-	(dark color, reddish brown)
+334	ered-	red-	to flow away; dampness
+335	eregu̯(h)o-, erogu̯(h)o-	IE   	pea, legume
+335	1. erek-, er[e]gh-		tick, mite, louse
+335	2. er(e)k-, rek-, rok-		to tear, cut, split
+335	1. eres-		to stab, pierce
+336-37	2. ere-s-, ers-, r̥s-, eres-, and rē̆s-, rō̆s-	IE    rēs-	to flow
+337	1. ereu-	IE    4. reu-	to ask, seek
+338	2. ereu-	ers-	to tear, rip up
+338	1. erə-, rē-, er(e)-	IE    3. rē-	to row; oar
+338-39	2. erə-, rē-	IE    4. rē-	to rest, be still
+339	er(ə)d-, (er(ə)d-), er(ə)dh-	IE   	high; to grow
+339	ergh-	IE   	to shake, tremble
+340	erku̯-	ar(e)-g̑-	to beam, shine; to praise
+340	ers- : orsos	IE    1. rebh-	tail; arse, rump, backside
+340-42	es-	IE   	is, to be
+342	esu-s : su-	IE   	good, able
+342-43	ē̆s-	IE    niz-do-	to sit
+343	es-en-, os-en-	IE   	summer, harvest time
+343	ē̆s-r̥(gu̯), genitive es-n-és	IE   	blood
+343	et(e)n-		seed, grain
+344	ēter-	IE   	intestines
+344	eti	IE   	out, beyond, etc.
+345	ētī-	IE    anət-	eider (duck)
+345	ēt-mén-	IE   	breath
+345	ētro-	IE    āt(e)r-	quick, swift, hurried
+345-46	1. eu-, euə- : u̯ā-, u̯ə-	IE    u̯āsto-s	to lack, want; empty, vacant
+346	2. eu-	IE   	to dress, put on
+346	3. eu-		to feel
+347	4. eu-		(exclamation of joy)
+347	ēudh-, ōudh-, ūdh-	IE   	udder
+347	euk-	IE   	to accustom oneself, be used to
+347-48	eus-	IE    9. u̯es-	to burn
+348	eu̯egu̯h-	IE   	to praise, worship, avow, speak formally
+349	g̑ā̆b-		to show, watch out for
+349	gag-, gōg-	IE   	something round/lumpy
+349-50	1. gal-	IE   	bald, callow, naked
+350-51	2. gal-	IE    ghel-	to call, cry
+351	3. gal-, or ghal-	IE   	to be able
+351	gan(dh)-		vessel
+352	gang-	IE   	to mock, scorn
+352	g̑ā̆r-	IE    2. ger-	to call, cry
+353	garəg̑-		grim, grievous, dreadful
+353	gāu-	IE   	to rejoice, be glad
+353	g̑ebh-	g̑egh-	bough, branch, stick
+354	g̑egh-, g̑ogh-	g̑ebh-	branch, bush; picket
+354-55	gei-	IE    *dəg̑h-mó-	to bend, turn
+355	gē(i)- : gō(i)- : gī-		to cry, sing
+355-56	g̑ēi-, g̑ī-	IE   	to sprout
+356	geid-	IE   	to stab; kittle, tickle
+356	g̑eid-		to suck
+356	geig̑-		to bite, prick, stab
+356	g̑eis-		gravel
+357-64	1. gel-	IE   	to curl, form into ball; round
+365	2. gel-, and gu̯el-	IE   	to glut, devour, envelop
+365-66	3. gel(ə)-	IE   	cool, cold; to keel, freeze
+366-67	g̑el-, g̑elə-, g̑lē-, also *gelēi- : g̑(e)ləi-	IE   	bright; to shine, be joyful
+367	gelebh-	IE    gleubh-	to flay, scrape
+367	geli-, glī-		mouse
+367-68	g̑(e)lōu̯-	IE   	sister-in-law
+368-69	gem-	IE   	to grasp, grip; be full
+369	g̑embh-, g̑m̥bh-, g̑ombhos	IE    g̑ep(h)-	to bite; tooth
+369-70	g̑em(e)-	IE   	to marry
+370-73	gen-	IE    1. ken-	to pinch, press together, etc.
+373-75	1. g̑en-, g̑enə-, g̑nē-, g̑nō-	IE   	to bear, produce, generate
+376-78	2. g̑en-, g̑enə-, g̑nē-, g̑nō-	IE   	to ken, know, recognize
+378-79	genebh-, genobh-	IE   	pin, wooden plug
+379-80	geng-, gong-		lump
+380	gengh-		to turn, weave
+380-81	1. g̑enu-, g̑neu-	IE   	knee, joint
+381-82	2. g̑enu-, fem., g̑enədh- : g̑onədh-	IE   	chin, jaw(bone)
+382	g̑ep(h)-, g̑ebh-	IE    g̑embh-	jaw, jowl, mouth; to eat
+382-83	1. ger-, gere-	IE   	to cram, collect, put together
+383-85	2. ger-	IE    4. gu̯er(ə)-	(onomatopoeic: to crow, shriek, etc.)
+385-90	3. ger-	IE   	to turn, wind, curl
+390	4. ger-, grēi-		to grow, awaken
+390-91	g̑er-, g̑erə-, g̑rē-	IE   	to rub; rotten; to age, ripen; grain
+392	gerebh-	IE    grēb(h)o-s	to carve, scratch; write
+392-93	g̑ers-	IE   	to bend, turn
+393-98	gēu-, gəu-, gū-	IE    gou̯ə-	to bend, curl; cup, vessel
+399	g̑eu-, g̑eu̯ə-, also geu̯ə-	IE   	to hurry, promote
+399	g(e)u-lo-	IE   	glowing coal
+399-400	g̑eus-	IE   	to taste, degust, enjoy
+400	g(i̯)eu-, g̑(i̯)eu-	IE   	to chew
+400-1	glag-, or glak-	IE   	milk
+401	gleg̑-		soft, tender
+401	g̑lei-		to attack, run at
+401-2	gleubh-	IE    gelebh-	to cut, cleave, pare, slice
+402	glōgh- : gləgh-	IE   	barb, spike
+402	1. gol-, lengthened grade gōl-, reduced grade gol-		to camp, lie down; den (of animals)
+403	2. gol-		bough, branch, twig
+403	gō̆u-, gou̯ə-, gū-		to call, cry
+403-4	gou̯ə-, or gau̯ə-? : gū-	IE    gēu-	hand; to grab
+404	gras- : grō̆s-	IE   	to gnaw, eat, devour
+404	grēb(h)o-s : grōb(h)o-s	gred-	beech or hornbeam (tree)
+405	gred- : grod-	IE    gerebh-	to grate, scratch
+405	grem-	IE   	to be damp; to sink
+405-6	1. greus-		to crush, crumble, crackle
+406	2. greus-		to burn, smolder
+406	greut-	IE   	to crush, press; curd
+406	grōd-, grəd-	2. gher-	hail?
+406	gru-	IE   	to grunt (of pigs)
+407	gha gha, ghe ghe, ghi ghi	IE    g̑han-	to cackle, gaggle (of geese)
+407-9	ghabh-	IE   	to take, grab, seize
+409	ghabh(o)lo-, masc., ghabh(o)lā fem.	IE   	branch, fork
+409	g̑hāgu̯h-		young bird/animal
+409-10	ghaido-, or g̑haido-	IE   	goat, kid
+410	ghais-	IE   	to stick, be fixed to
+410	g̑haiso-, or g̑həiso- : g̑hēiso-	IE   	dart; staff, stick
+410	ghait-ā		curly/wavy hair
+411	g̑hal-, g̑hal-ar-		flaw, defect; harm
+411	g̑halg(h)-	IE   	flexible twig
+411	g̑han-	g̑han-s-	to yawn
+412	g̑han-s-	IE    1. g̑hē-	goose
+412-13	1. g̑hasto-, g̑hazdho-	IE   	pole, rod, gad; twig
+413	2. g̑hasto-		arm, hand
+413-14	g̑hau-, g̑hau̯ə-	IE   	to call
+414	ghau̯o-		false
+414-16	g̑hðem-, g̑hðom-, genitive-ablative g̑h(ð)m-és	IE   	earth, ground, soil, humus
+416	g̑hði̯és, zero-grade g̑hðis, simplified to g̑hðés, g̑hi̯és, g̑hés	IE   	yesterday
+416-17	g̑hðū-, or g̑hi̯ū-?	IE   	fish, ichthyoid
+417-18	ghe-, gho-	IE    g̑hō	(enclitic (emphatic?) particle)
+418-19	1. g̑hē-, g̑hēi-	IE    2. g̑hē-	to lack, be empty; leave, go out
+419-22	2. g̑hē- : ghə-, and g̑hēi- : g̑hī-	IE    gha gha	to gape, yawn
+423	ghebh-el-, ghebh-el-, ghebh-elo-	IE   	gable, head
+423	ghed-	IE   	to defecate; hole, opening
+423-24	ghedh-, ghodh-	IE   	to join, unite, gather, make a bond
+424	ghegh-		to bend, curve
+424	g̑(h)eg̑h-		ferret (or similar carnivorous mammal)
+424-25	1. g̑hei-, g̑hēi-	IE    g̑hēu-	to goad, drive; to throw, wound
+425-26	2. g̑hei- : g̑hi-	IE   	snow; winter
+426-27	gheidh-	IE    gheig̑h-	to desire, yearn for
+427	gheig̑h-	IE    gheidh-	to desire, yearn for
+427	gheis-, and g̑heiz-d-	IE   	shocked, aghast, confused
+428	ghel-	IE    6. kel-	to yell, call, cry
+429-34	1. g̑hel-, and ghel-?, also as i-, u-, or n-stem; g̑helə-, g̑hlē-, g̑hlō-, g̑hlə-	IE    ghlādh-	to shine, glare, glow; gold, yellow, bright color
+434	2. g̑hel-	IE   	to cut?
+434	g̑hēlā		wine?
+434	gheldh-		to desire, wish for
+435	ghel(ē̆)g̑h-	IE   	(type of metal)
+435	gheləd-	IE   	hail, ice
+435	ghelg̑h-		gland
+435	ghel-ond-, ghol-n̥d-		stomach, intestines
+435	ghel-ōu-, ghelū-	IE   	turtle, tortoise
+436	ghel-tō, Germanic and ghel-dhō Slavic	IE   	to cost, pay, be worth
+436	ghelunā	IE   	jaw, gill
+436-37	ghen-	IE   	to grind, crack open, gnaw to pieces
+437-38	ghend-, and ghed-	IE   	to get, grasp, seize
+438	ghendh-, ghondh-	IE   	boil, abscess
+438-39	g̑hengh-	IE   	to step, stride, march
+439	1. gher-	IE    g̑hlād-	(onomatopoeic: to snarl, rattle, etc.)
+439-40	2. gher-	ghrēi-	to rub, stroke hard
+440	3. gher-, ghrē- : ghrō- : ghrə-	IE    7. g̑her-	to come out, jut out
+440-41	1. g̑her-	IE   	to desire, yearn for
+441	2. g̑her-	IE    g̑herzd(h)	to gash, slit, scrape, scratch
+441-42	3. g̑her-, and g̑herə-, g̑hrē-	IE   	to beam, shine, shimmer
+442-43	4. g̑her-	IE    g̑herdh-	to grab, grip, seize
+443	5. g̑her-, g̑hor-nā	IE   	bowels
+443	6. g̑her-, g̑herə- : g̑hrē-?	IE   	short, small
+443	7. g̑her-	g̑hers-	to stiffen, stand out
+444	g̑herdh-, and gherdh-	IE    g̑hesto-	to gird, enclose, encompass
+445	1. ghers-, ghres-		horror, disgust, revulsion
+445	2. ghers-		(type of weed, e.g. goat's foot)
+445-46	g̑hers-	IE    ghrē-	to stiffen, bristle, stand out
+446	gherto-		milk, butter
+446	g̑herzd(h), genitive g̑hr̥zd(h)-es, g̑herzdā	IE    2. g̑her-	barley, prickly grain
+446	g̑héslo-	IE   	thousand, chiliad
+447	g̑hesor-, g̑hesr-	IE   	hand
+447	g̑hesto-	IE    4. g̑her-	arm, hand
+447-48	1. g̑heu-	IE   	to gush, pour, found
+448	2. g̑heu-, g̑heu-d-	IE   	to die, disappear, get away
+449	g̑hēu- : g̑hō(u)- : g̑həu-	IE    1. g̑hei-	to gape, yawn
+450	gheub(h)-		to bend, move
+450	gheug̑h-, ghū̆g̑h-		to conceal, do secretly
+451	gheu̯ei̯ā, g̑heu̯ei̯ā		pit, hollow
+451	ghlādh-	1. g̑hel-	bright, brilliant
+451	g̑hlād-	1. gher-	to call, sound
+451	ghleu-	IE   	to be happy, joyful, gleeful
+451-52	g̑hō	IE    ū̆d-	behind; towards
+452	ghoilo-s	IE   	foaming, turbulent, frothing up
+452	ghom-		stall
+452	ghō̆s-		to eat
+453	ghosti-s	IE   	guest, stranger
+453	ghou̯(ē)-	IE   	to gawk, be aware of, pay attention to
+453-54	ghou-ro-s	IE   	frightened, frightening
+454	ghous-		to sound, hear
+454	ghrē- : ghrō- : ghrə-	IE    3. gher-	to grow, become green
+455	1. ghrebh-, gherbh-, root extension ghrebhā-	IE    2. ghrebh-	to grab, grasp
+455-56	2. ghrebh-	IE    ghreib-	to dig, grub, grave, scratch
+456-57	ghredh-	IE   	to stride, march
+457	ghrēi- : ghrəi- : ghrī-, and lit. ghrei-	IE    1. ghrem-	to smear over
+457-58	ghreib-	IE    1. ghrebh-	to grip, grab
+458	1. ghrem-	IE    ghren-	to rub, scratch
+458-59	2. ghrem-	IE   	to grumble; resound, thunder
+459	ghren-	IE    2. ghrēu-	to grind, rub, stroke hard
+459-60	ghrendh-		beam
+460	1. ghrēu- : ghrəu- : ghrū-	IE   	to collapse, fall down
+460-62	2. ghrēu- : ghrəu- : ghrū-	IE    grōd-	to crush, rub sharply
+462	ghroud-		(round body part, e.g. cheek, bosom)
+463-65	gu̯ā-, gu̯em-	IE    gu̯em-	to come, go
+465	gu̯ā̆dh-	IE   	to dive, sink, submerge
+465-66	1. gu̯ēbh-, or gu̯ābh-?, gu̯əbh-	IE   	to plunge, dive in
+466	2. gu̯ēb(h)-	IE   	slimy; frog
+466-67	gu̯edh-	IE   	to hit, push; harm, injure
+467	1. gu̯ei-	IE   	to cry, weep, complain
+467	2. gu̯ei-		to enclose, push together
+467-69	3. gu̯ei̯-, and gu̯ei̯ə-	IE   	to live, survive
+469	gu̯ēi-, or gu̯ei̯ə- : gu̯ī-		hide, skin
+469	gu̯eid(h)-	IE   	mud
+469-70	gu̯ei̯ə-	IE   	to prevail, overpower, be mighty
+470-71	1. gu̯el-	IE   	to stab; pain, death, quell
+471-72	2. gu̯el-, gu̯elə-, gu̯lē-	IE   	to flow, drip down; throw
+472-73	3. gu̯el-, gu̯el-, gu̯lā-	IE   	acorn, valonia; oak?
+473	gu̯elbh-	IE   	womb, uterus; young animal
+473	gu̯em-	gu̯ā-	to go, come
+473-74	gu̯ē̆nā	IE   	wife, queen, woman
+474-76	1. gu̯er-, gu̯erə-	IE   	to swallow; craw, gorge, throat
+476-77	2. gu̯er-, gu̯erə-, gu̯erəu-, gu̯erī-	IE   	grave, heavy
+477-78	3. gu̯er-, gu̯or-	IE    gu̯retso-	mountain
+478	4. gu̯er(ə)-	IE    g̑ā̆r-	to praise, congratulate, raise one's voice
+479	g̑u̯er-, g̑u̯erə-	IE   	to burn, be hot
+479	gu̯eru-		pole, spit
+479-80	gu̯es-, zgu̯es-	IE   	to quench, extinguish
+480	gu̯es-, gȗos-, gus-, extended gu̯oz-do-		leaves, branches
+480	1. gu̯et-	IE   	resin
+480-81	2. gu̯et-	IE   	to speak, talk
+481	gu̯et-	IE   	swelling
+481	gu̯ii̯ā, gu̯ii̯ós		sinew
+481	gu̯is-ti-s	du̯ō(u)	finger
+482	gu̯īu̯-		resin
+482	gu̯l̥tur(os)		vulture
+482	gu̯or-gu̯(or)o-		dirt, dung
+482-83	gu̯ou-	IE   	cow, ox, gaur
+483-85	gu̯ōu-, gu̯ū-	IE   	dirt, dung
+485	gu̯ozd(h)o-, gu̯ozd(h)i-		nail, penis
+485	gu̯rebh-	IE   	young, embryo
+485	gu̯reig̑-		to sleep, dream
+485	gu̯rendh-	IE   	to swell; breast
+485	gu̯retso-	IE    3. gu̯er-	big, thick, gross
+485-86	gu̯rēug̑h-, gu̯rū̆g̑h-		to bite, grind one's teeth
+487	gu̯hðei(ə)-	IE    ku̯þei-	to destroy, perish
+487-88	gu̯hðer-	IE   	to flow, run
+488	gu̯hedh-	IE   	to ask, beg, wish for
+488-89	*gu̯hēi- : gu̯həi-, gu̯həi-d- : gu̯hīd-	IE   	bright, shining
+489	gu̯heiə- : gu̯hī-	IE   	vein, sinew, tendon
+489	gu̯hel-	IE   	to want, wish
+489-90	g̑hu̯el-	IE   	to bend, swerve
+490	g̑hu̯elg-		to glance, look at
+490	gu̯hemb-		to hop, spring (happily)
+490-91	g̑hu̯en-		to sound
+491	1. gu̯hen-	IE   	to swell, abound
+491-93	2. gu̯hen(-ə)-	IE   	to hit, strike, fend
+493	g̑hu̯ē̆r-	IE   	wild animal
+493-95	gu̯her-	IE   	warm, hot
+495	g̑hu̯oigu̯-	IE   	to shine; star
+495	g̑hu̯ōku̯-, g̑hu̯əku̯-		to shine, shimmer
+495	gu̯hrē-	IE   	to scent, smell
+496	gu̯hren-	IE   	diaphragm; mind, soul
+497	hā̆	IE   	(surprise: ha! oh!)
+497	ha ha!	IE   	(laughter)
+499	īl-, īlu-		dirt, mud; black
+499	īli-	IE   	groin, intestines
+501	i̯ā- : i̯ō-	IE   	to punish, be angry, excited
+501	i̯ā-	i̯ē-ro-	to go
+501-2	i̯ag-	IE   	to worship, venerate
+502	i̯agh-		to hunt, wish for
+502	i̯āi	i̯ām	(demonstrative stem: one, this, etc.)
+502	i̯ā̆m-, or i̯em- : i̯em- : i̯ōm-		to dig
+502	i̯ām	i̯o-	(demonstrative stem: one, this, etc.)
+502	i̯ē- : i̯ə-	IE   	to do, throw, project
+503	i̯ebh-	eibh-	to copulate
+503	i̯eg-	IE   	ice, icicle
+503	i̯ēgu̯ā	IE   	force, strength
+503-4	i̯ek-	IE    i̯ēk-	to speak
+504	i̯ēk- : i̯ək-	IE    i̯ek-	to heal
+504	i̯ē̆ku̯-r̥(t-), genitive i̯eku̯-n-és	IE   	liver
+504-5	iēlo- : i̯əlo-		raw, unripe
+505	i̯em-	IE   	to hold, match, defeat, geminate; twin
+505-6	i̯énəter-, weak case i̯enətr-, i̯n̥̄tr-		sister-in-law
+506	i̯ē-ro-	1. ei-	year, summer
+506	i̯es-	IE   	to boil, foam up
+506-7	i̯et-		to set out, strive for
+507	1. i̯eu-	IE   	to mix, mingle (of meal preparation)
+508-10	2. i̯eu-, i̯eu̯ə-, i̯eu-g-	IE    4. i̯eu-	to yoke, join, tie together
+510-11	3. i̯eu-	IE   	young
+511	4. i̯eu-	IE    i̯eu̯os-	to separate, hold apart
+511-12	i̯eu-dh-	IE   	to fight, move swiftly
+512	i̯eug̑-		to excite, arouse; unsteady
+512	i̯eu-ni-, or i̯ou-ni-		the right place/way
+512	i̯eu̯o-	IE   	grain, esp. barley
+512	i̯eu̯os-	IE    2. i̯eu-	rule, right, justice, statute
+513	i̯o-	i̯ou	(relative stem: one, this, etc.)
+513	i̯oi-ni-		reed (bulrush)
+513	i̯ork-		(type of deer)
+513	i̯ou, i̯u	oi-	(demonstrative stem: one, this, etc.)
+513	i̯ō[u]s- : i̯ūs-	IE   	belt; to gird
+513-14	1. i̯u-	IE    6. u̯ē̆s-	you (plural)
+514	2. i̯ū̆	IE   	yowl (exclamation of joy/wonder)
+515	kā-	IE    kā̆m-	to like, wish, desire
+515-16	kā̆, ke, kom	IE   	well! (particle)
+516	kā̆d-	k̑ād-	to rob, harm, damage; chase
+516	kadh-	IE   	to guard, cover, protect
+516	1. k̑ad-	IE   	to fall
+516-17	2. k̑ad-		to shine, sparkle
+517	k̑ād- : k̑ədes- : k̑əd-s-	IE    kā̆d-	hate, displeasure, uneasiness
+517-18	kag̑o-, masc., kag̑ā- fem.	IE   	goat
+518	kagh- : kogh-	IE   	to sew, plait, etc.
+518	kaghlo-	IE   	chalk, pebble
+519	1. kai-, kai-u̯o-, kai-u̯elo-	IE    kai-ko-	alone
+519	2. kai	IE   	and
+519	3. kā̆i-, kī̆-	IE   	heat
+519	4. kāi-d-, kāi-t-	kāi-t-	bright, shining
+519-20	kai-ko-	IE    kai-lo-	one-eyed, cyclopean
+520	kaik̑-, or koik̑-	kais-	to itch, scratch
+520	kai-lo-, kai-lu-	IE    1. kai-	bright; hale, whole, healthy
+520	kais-	kaik̑-	hair
+521	kāi-t-	(s)kāi-	bright, shining
+521	kaito-	IE   	chet, woods, forest
+521	kaiu̯r̥-t, kaiu̯n̥-t	IE   	cleft, hollow, ravine
+521	kakka-	IE    k̑eku̯-	to cack, defecate (nursery word)
+521	kāk-		to croak; cracking sound
+521-22	1. k̑ak-		to become thin
+522	2. k̑ak-, k̑ek-?	IE   	to help, enable
+522-23	1. k̑āk- : k̑ək-, probably k̑ā[i]k- : k̑īk-	IE    k̑ank-	to jump, spring out
+523	2. k̑ā̆k-	IE    keg-	branch
+523-24	1. kal-	IE    2. kel-	hard, callous; blister
+524	2. kal-, kali-, kalu-	IE   	handsome, beautiful; healthy
+524	3. kā̆l-, kō̆l-?	IE   	to be captured; prison
+524	kalni-	IE   	narrow path/passage
+524-25	kam-er-	IE    kam-p-	to bend, curve
+525	kā̆m-	kā-	to like, wish, desire
+525	kamb-	(s)kamb-	to bend, curve
+525	kam-p-	IE    kam-er-	to bend
+525-26	kan-	IE   	to sing, chant, sound
+526	kand-, skand-, and Indo-Iranian (s)kend-	IE    (s)kand-	to glow, shine; bright, candent
+526	k̑ank-	1. k̑āk-	to jump, spring out
+526-27	kan-tho-	IE   	curve, angle, corner
+527-28	kap-	IE   	to cop, grab, grasp; have?
+529	kāp-, kəp-		piece of land
+529	kā̆po-		thing in the water
+529	kapro-	IE   	he-goat
+529-30	kap-ut	IE   	head
+530	kā̆pho-, or k̑ō̆pho-	IE   	hoof
+530	1. kar-	koro-s	to scold, punish, revile
+530-31	2. kar-, karə-	IE   	to glorify, praise aloud
+531-32	3. kar-, reduplicated karkar-	IE   	hard
+532	kār-		wax
+532-33	kars-	IE   	to rub, scratch
+533	k̑as-, k̑as-no-	IE   	gray
+533	k̑ās-, k̑əs-	IE   	to teach, show the way
+534	1. kat-	IE   	to link, plait, weave; chain, net
+534	2. kat-	IE   	to bear young; young animal
+534	k̑at-	IE   	to fight, struggle; battle
+535	kau-	IE   	to humble, discourage
+535	kāu-, kəu-	IE   	to hew, cut, hit
+535-36	kā̆u-, kē̆u-, kū-	IE   	to howl
+536-37	kā̆u(ə)lā : kūlā		boil, abscess, swelling
+537	kau-l-, ku-l-	IE    2. keu-	hole, hollow; bone
+537	kaus-		to draw lots
+537	k̑e-	k̑o-	this
+537	ked-	IE   	to smoke
+537-38	keg-, keng-, and kek-, kenk-	IE    keng-	peg, handle, (grappling) hook
+538-39	kēi-	IE   	to move, set in motion
+539-40	1. k̑ei-	IE   	to lie, recline; camp, home
+540-41	2. k̑ei-	IE    k̑ē-ro-	(dark color: brown, gray)
+541-42	k̑ē(i)- : k̑ō(i)- : k̑ə(i)-	IE   	to hone, whet, sharpen
+542	k̑ēi-bh-	IE    k̑ēi-gh-	fast, hasty, violent
+542	keid-	IE   	to fall
+542-43	k̑ēi-gh-	IE    k̑ēi-bh-	fast, hasty, violent
+543	k̑eip-		to slant, slope; to wag, wave
+543	k̑eipo-, k̑oipo-	IE   	peg, stake, sharp wood/stone chip/piece
+543	keis-		arm; thigh, shin
+543	kek̑-		weasel
+543	keku-		cudgel, hammer-shaped stick
+544	k̑ēko-		green grass/fodder
+544	k̑eku̯-	kakka-	to defecate; dung, excrement
+544	1. kel-, kelə-	IE   	to project, tower up; hill
+545	2. kel-	IE    3. kel-	to stab, stick, sting
+545-47	3. kel-, kelə-, klā-, extended klād-	IE    8. kel-	to hit, hew, cut down
+547-48	4. kel-, and kāl-	3. ker(ə)-	light and dark spots
+548	5. kel-	IE    keleu-	to drive, compel, accelerate, move quickly
+548-50	6. kel-, k(e)lē-, k(e)lā-, or kl̥̄-?	IE    koli-	to call, cry
+550-51	7. kel-, kol-, kol-	IE   	calix, chalice, goblet, beaker
+551	8. kel-	2. sē̆k-	to cut
+551	9. kel-	2. (s)kel-	to owe, be guilty
+551	10. kel-	3. (s)kel-	to dry out
+551	11. kel-	kolə-	to bend; crooked
+551	kēl-, kōl-, kəl-	IE   	to deceive, dumbfound, enthrall
+551-52	1. k̑el-	IE   	cold; warm, caloric
+552	2. k̑el-	IE    k̑lei-	to bow, lean, incline
+552-53	3. k̑el-	IE    k̑oləmo-s	thin shaft, stalk
+553-54	4. k̑el-	IE    k̑lep-	to hide, conceal
+554	k̑elb-, k̑elp-	IE   	to help
+554	keleu-	IE    5. kel-	to wander; way, path
+554	keləu̯o-, keleu̯o-	IE   	bald, bare
+554	kelg-		to wind around; windings, intrigue
+555	kelp-, kl̥p-		jug, pot, cauldron
+555	1. kem-	IE   	to squeeze, hem in, press together
+556	2. kem-	IE   	to hum, buzz, croon
+556	1. k̑em-, or k̑am-		horn, pole, stick
+556	2. k̑em-	IE    (s)k̑em-	hornless (normally horned) animal
+556-57	3. k̑em-	IE   	to wrap, cover, conceal
+557	4. k̑em(ə)-	IE   	to be/make tired
+557-58	kemə-, komə-, kmā-	IE   	bite, piece
+558	kemero-, komero-, kemero-		(plant name)
+558	kemer-	IE   	armored animal (crab, turtle, etc.)
+558-59	1. ken-	IE    gen-	to pinch, press, etc.
+559-63	2. ken-, kenə-, keni-, kenu-	IE   	to rub, scrape, scratch off; ashes
+563-64	3. ken-	IE   	to begin, be born, come forth anew; young, recent
+564	4. ken-	IE   	to strain, strive eagerly
+564	k̑en-		void, empty
+564-65	kenəkó-	IE   	golden, honey-colored
+565	keng-, kenk-	k̑enk-	peg, handle, (grappling) hook
+565	1. kenk-	IE   	to bind, gird
+565	2. kenk-	IE   	to burn, hurt; dry feeling: thirst, hunger
+566	3. kenk-	IE   	heel, hock, back of knee
+566	k̑enk-, k̑onk-	IE    2. k̑ā̆k-	to hang, sway, dangle
+566	k̑ens-	IE    sengu̯h-	to announce, proclaim, speak formally
+567	kenth(o)-		rag, cloth
+567	k̑ent-	IE   	to stab, stick
+567-71	1. ker-, kor-, kr-	IE    k̑re-	(onomatopoeic: hoarse sound)
+571	2. ker-	kerəp-	to cut
+571-72	3. ker(ə)-	IE    kers-	to burn
+572-73	4. ker-	IE   	cherry
+573	5. ker-?, kō̆r-		to hang
+573-74	6. ker-, and k̑er-	k̑erbero-	dirty, dark-colored, etc.
+574	7. ker-	2. (s)ker-	to jump, turn
+574-77	1. k̑er-, k̑erə- : k̑rā-, k̑erei-, k̑ereu-	IE   	horn, head, upper part of body
+577	2. k̑er-, k̑erə-, k̑rē-	IE   	to grow, increase
+577-78	3. k̑er-		rope, string; to plait, weave
+578	4. k̑er-, and k̑erə- : k̑rē-	IE    k̑rē-	to harm, injure; ruined, spoiled
+578	k̑erbero-, and kerbero-	k̑ormen-	checkered, variegated
+579	1. kerd-		to gird
+579	2. kerd-	IE   	craft, talent; skilled
+579	k̑erdho-, k̑erdhā	IE   	line, row, herd
+579-80	k̑ered- : k̑erd-, k̑ērd-, k̑r̥d-, k̑red-	IE    k̑red-	heart
+580-81	kerem-, krem- : krom-, and kerm-	IE    krem-	onion or garlic; ash (tree)
+581	kerəp-, krēp-	2. krēp-	cloth, leather rag; shoe
+581	kerk̑- : kork̑- : kr̥k̑-		to wrinkle, shrivel up
+582	k̑erə-, k̑rā-	IE    k̑rā-	to cook
+582	kerm-		to rest, tire
+582	kerno-		jaw, chin(bone)
+582	k̑ē-ro-	2. k̑ei-	colorful (or a color term)
+583	kers-	IE    1. k̑er(s)-	black, dirty; dark color
+583	1. k̑er(s)-	IE    4. kel-	bristle, stiff hair
+583-84	2. k̑ers-	IE   	to run, course
+584-85	kert-, kerət-, krāt-	IE    krāt-	to roll, turn, wind
+585-86	kes-	IE    ks-en-	to comb, itch, scratch
+586	k̑es-	IE   	to cut
+586-87	kē̆t-, kot-	IE   	room, dwelling place
+587-88	1. keu-, skeu-, lengthened grade kēu-	IE    4. (s)keu-	to see, hear, observe, hearken, attend to
+588-92	2. keu-, keu̯ə-	IE    kau-l-	to bend
+592-94	1. k̑eu-, k̑eu̯ə- : k̑ū-, k̑u̯ā-	IE   	to swell
+594-95	2. k̑eu-	IE   	to shine, be bright
+595	1. k̑ēu- : k̑ū-		to sway, totter
+595	2. k̑ēu- : k̑əu-, k̑ū-	IE   	to burn, light (a fire)
+595	k̑eub-		thorn
+595-96	keuəd-, kū̆d-	1. skeud-	to cry, shout
+596-97	keu̯əp- : ku̯ēp-, ku̯əp-, kū̆p-, and occasionally keu̯(e)p-, k(e)u̯ep-	IE   	to boil, cook, smoke
+597	k̑ēu̯ero-, k̑ōu̯ero-, also sk̑ūro-?	IE   	north (wind)
+597	k̑euk-	IE   	to glow, shine, be bright white
+597	k̑euk̑-, k̑uk̑-		to whirl, mix together
+598	kik-		jay (bird)
+598	1. k̑ik-	IE   	belt, strap, thong
+598	2. k̑ī̆k-		to rain, drizzle
+598	k̑ik̑er-		pea
+598	k̑īō̆n-, k̑īsō̆n-?		pillar
+598	k̑iph-		thin flexible twig/root
+599	kistā		basket, plaited container
+599	klā-	IE   	to lade, place, heap up, lay down
+599	klādhrā		alder (tree)
+599	klau-		to weep
+599-600	klēg-, klōg-, kləg-, klang-, kleg-, klōg-, kleig-, kleik-	IE   	to cry, shout, scream
+600-2	k̑lei-	IE    2. k̑el-	to lean, incline, tip (over)
+602	kleik̑-		to press/squeeze (painfully)
+602-3	klem-, klēm-, klem-		weak, slack, feeble, ailing
+603	kleng-, and klenk-	IE   	to bend, wind
+603	kleno-		maple (tree)
+603	klep-	2. k̑leu-	wet, damp
+604	k̑lep-, sk̑lep-?	IE    4. k̑el-	to steal, cover, secrete
+604	klēp-		to hold in arms and/or lap
+604-5	klēu-, also klĕu-?, and klāu-	IE   	hook, crook
+605-7	1. k̑leu-, k̑leu̯ə- : k̑lū-	IE   	to hear, listen
+607	2. k̑leu- : *k̑lō[u]- : k̑lū-	IE    sk̑lēk-	to clean, rinse, swill
+607-8	k̑lou-ni-		hip, buttock
+608	knei-gu̯h-, knei-b-	IE   	to bow, kneel
+608	kneug-		(onomatopoeic: to growl, whimper)
+608	knid-, k̑nid-, sknid-		nit, louse
+609-10	k̑o-, k̑e-, with the particle k̑e, k̑(e)i-, k̑(i)i̯o-	IE    k̑e-	this; here
+610	kob-	IE   	to fit, fare well, be happy/successful
+610	koi-, ku̯ī-		(creaking noise)
+610	koi-lo-		naked; miserable
+610	k̑oi-no-		grass
+611	kois-	IE   	to cure, worry, care for
+611	ko ko, kak(k)-, ku(r)kur-		(onomatopoeic: sound of cock/hen)
+611	kok̑sā	IE   	body part: foot, coxa, etc.
+611-12	kolə- : klō-	IE    4. (s)kel-	to spin
+612	k̑oləmo-s, k̑oləmā	IE    3. k̑el-	reed, stalk, stem, culm
+612	kol(ē̆)i̯-	IE   	glue
+612	koli-	5. (s)ku̯el-	young dog/animal
+612-13	kom	IE   	at, by, cum, with, alongside
+613-14	konəmo-, knāmo-, or kenəmo-	IE   	shinbone
+614	k̑onk-	IE   	to doubt, vacillate
+614	k̑onkho-	IE   	conch, clam(shell), mussel
+614	k̑op(h)elo-s, or k̑ap(h)elo-s		(type of carp)
+614-15	kopso-		blackbird
+615	k̑orkā		grit, gravel
+615	k̑ormen-	6. ker-	weasel
+615	k̑ormno-, k̑r̥mno-		corrosive liquid: lye, wine, urine, etc.
+615	k̑ormo-	IE   	harm, pain, torment, suffering
+615-16	koro-s, kori̯o-s	IE    1. kar-	war, army, warrior
+616	kos(e)lo-	IE   	hazel (tree)
+616	kost-	IE   	leg, bone, costa
+616	k̑rā̆po-, k̑rō̆po-?	IE   	roof
+616	k̑rā-	k̑erə-	to cook, mix
+616	krāt-	kert-	to roll, turn, wind
+616-17	krā[u]- : krəu- : krū̆-	IE   	to heap up, pile together; heap; roof
+617	k̑re-, k̑rei-, k̑r̥̄-	kreb-	(hoarse sound)
+617	k̑rē-	4. k̑er-	to harm, injure; ruined, spoiled
+617	kreb-	2. kreg-	(hoarse sound)
+617	k̑rebh-, k̑rō̆bh-, k̑rembh-		to entrust
+617-18	kred-	IE   	beams
+618	k̑red-	k̑ered-	heart
+618	1. kreg-, and kerg-?		to torment
+618	2. kreg-	2. krei-	(hoarse sound)
+618	1. krei-	IE   	to brush, stroke, touch
+618	2. krei-, kreig-, kreik-	3. krek-	(hoarse sound)
+618	k̑rei-	IE   	to appear, show forth
+618-19	1. krek-	IE   	to hit
+619	2. krek-, kr̥k-	IE   	roe, fish/frog spawn
+619	3. krek-	2. krep-	(hoarse sound)
+619	4. krē̆k- : krok-		to tower, jut out; beams
+619	krem-	kerem-	onion or garlic; ash (tree)
+620	1. krep-, kr̥p-	IE   	form; corpse, body
+620	2. krep-	4. kreu-	(hoarse sound)
+620	1. krēp-		firm, strong
+620	2. krēp-	4. (s)ker-	cloth, leather; shoe
+620	1. kret-	IE   	to shake
+621	2. kret-	IE   	to hit
+621-22	1. kreu-, kreuə- : krū-, kreus-, krus-	IE   	raw flesh, thick/clotting blood; ice, crust
+622	2. kreu-		to crash, collapse, fall down
+622-23	3. kreu-, krou-s-	IE   	to push, hit, break
+623	4. kreu-	5. (s)ker-	(hoarse sound)
+623	kreup-		scab
+623	kreu-t-, kreu-dh-?	IE   	to shake, move visibly
+623-24	krom-		lattice, framework, wooden fence, etc.
+624	kr(o)k-sko-		arm
+624	k̑rūs-		leg, shank, thigh
+624	krū̆t-	IE   	breast, belly; vault, protuberance
+624	k̑sā-	k̑sē̆-ro-	to burn
+625	kseip-, kseib-		to toss, throw
+625	ks-en-, ks-es-, ks-eu-	kes-	to comb, itch, scratch
+625	k̑sē̆-ro-	IE    k̑sā-	dry, xeric, bright (of weather)
+625	kseubh-		to sway, swing, totter
+625	kseud-		to grind, stamp to little pieces
+626	k̑þei-	IE   	to settle
+626	kþē(i)-, kþə(i)-	IE   	to gain, acquire, possess
+626	ku-, kus-	IE   	to kiss
+626-27	k̑ū-		sharp, pointed; pike, stake
+627	k̑ū̆dh-		dirt, dung
+627	kuku	IE   	(onomatopoeic: to coo, cuckoo)
+627	k̑up-		shoulder
+627	ku̯ak-	IE   	(onomatopoeic: to quack, croak)
+627-28	ku̯at(h)-	IE   	to ferment, become sour
+628	1. k̑u̯ei-, k̑u̯ei-no-		dirt, mud; to defile
+628	2. k̑u̯ei-	IE   	to hiss, twitter, whistle, etc.
+628-29	3. k̑uei-, extended kuei-d-, kuei-s-, kuei-t-	IE   	to shine; white
+629	k̑u̯ek-, nasalized k̑u̯enk- : k̑uk-		to gape
+629	k̑u̯el-		muddy
+630	ku̯elək-, or kelək-, kolək-	2. ku̯elp-	bale, bundle
+630	1. ku̯elp-, ku̯elb- : ku̯l̥p/b- : klup/b-	IE   	to stumble, buckle at the knees; to trot
+630	2. ku̯elp-	IE    ku̯elək-	to curve, vault
+630	k̑u̯en-	IE   	to celebrate; saint
+631	k̑u̯endh-ro-, -no-		(type of plant)
+631	ku̯erp-, also ku̯erb-	IE   	to turn, wind
+631-32	k̑u̯es-, k̑us-	IE   	to pant, puff, sigh, wheeze
+632	ku̯ēt-, ku̯ət- : kū̆t-	IE    (s)kū̆t-	to shake, winnow
+632	ku̯oi-, ku̯ī-		to want, wish for
+632-33	k̑u̯on-, k̑un-	IE   	hound, dog
+633	ku̯res-, ku̯ers-, ku̯r̥s-		small wood, trees
+634	kha kha		(laughter)
+635	ku̯alo-s	(s)ku̯alo-s	(big fish)
+635	ku̯as-i̯o-, -lo-		basket, plaited work
+635-36	1. ku̯e	IE    ku̯ene	(enclitic) and
+636	2. ku̯e-	ku̯o-	(indefinite/interrogative pronoun)
+636	ku̯ē̆d-, ku̯ō̆d-	IE   	to bore, drill, prick, stab
+636-37	1. ku̯ei(-t)-	IE   	to observe with respect, pay attention to
+637-38	2. ku̯ei-	IE   	to stow, gather, pile up
+638	ku̯ei̯ə-, ku̯ii̯ē-	IE   	to rest comfortably; quiet, peaceful, tranquil
+638-39	ku̯ek̑-, ku̯ōk̑-, ku̯ek̑-s-	IE   	to see, show, appear
+639-40	1. ku̯el-, ku̯elə-	IE   	to turn; wheel; neck?
+640	2. ku̯el-	IE   	far away
+640	3. ku̯el-	IE   	crowd, herd, swarm
+640-41	ku̯em-		to gulp, sip, swallow
+641	ku̯ene	1. ku̯e	(particle: uncertainty, generalization)
+641	ku̯enth-	IE   	to suffer, endure
+641-42	1. ku̯er-	IE    (s)ku̯er-	to do, make, form
+642	2. ku̯er-	IE   	dish, pot
+642	ku̯eru-		to chew, grind
+642-44	ku̯etu̯er-, ku̯etu̯ō̆r-, ku̯etur- (masc.), ku̯etes(o)r- (fem.)	IE   	four, fourth
+644-48	ku̯o-, ku̯e-, fem. ku̯ā, ku̯ei-	IE    2. ku̯e-	(indefinite/interrogative pronoun)
+648	ku̯rei-	IE   	to buy
+649	ku̯r̥mi-		grub, worm, maggot
+649	ku̯sep-		dark
+649	ku̯þei-	gu̯hðei(ə)-	to destroy, perish
+649	ku̯ās- : ku̯əs-	IE   	to cough
+650-51	1. lā-, and lē-	IE    lē-	(onomatopoeic: to bark, howl, etc.)
+651	2. lā-	IE   	to be hidden, covered, latent
+651	lab-, and labh-, lap(h)-	IE    lak-	to lap, lick, smack (the lips), etc.
+652	labh-	IE    rabh-	to grab, hold, seize
+652	lā̆gh-	lāgu̯h-	to cut; cutting tool
+652	lāgu̯h-	(s)lā̆gu̯-	to grab, seize
+652	lai-		fat, lard
+652	laidh-, lidh-	IE   	to cut, hurt, injure
+652	laiu̯o-	IE   	(on the) left
+652-53	lā[i]p-, ləip-, ləp-	IE   	to burn, shine
+653	lak-	lab-	to lap, lick
+653	lak̑-	IE   	to spot, sprinkle
+653	laku-	IE   	(water in) lake, pond, ditch, etc.
+653-54	lāmā		swamp, puddle
+654	lāp-		cow
+654	las-	IE   	greedy, covetous
+654-55	lat-	IE   	wet, damp; swamp
+655	lāu-	IE   	to acquire (as booty), enjoy something
+655	lauk(o)-, ləuk-	(s)leug-	jaw; throat
+655	lē-	3. lēu-	(onomatopoeic: to bark, howl, etc.)
+655-57	lē̆b-, lō̆b-, lāb-, leb-	IE    (s)leb-	lip; to slump, hang down slackly
+657	1. leg-	IE   	to leak, drip, dribble, ooze out
+658	2. leg-		to worry
+658	leg̑-	IE   	to gather, collect
+658-59	legh-	IE    2. lēg̑h-	to lie, recline, set down
+660	1. lēg̑(h)- : ləg̑(h)-		branch, twig
+660	2. lēg̑h- : ləg̑h-	IE    legh-	to crawl; low
+660-61	legu̯h-	IE   	to move easily
+661	1. lē̆i-, lek-	2. leik-	to flex, bend
+661-62	2. lei-	IE    1. leig-	to dissipate, disappear; thin, weak
+662-64	3. lei-	IE    4. lē̆i-	slimy; to slip, glide
+664-65	4. lē̆i-	IE    1. lendh-	to pour
+665	1. lē[i]- : ləi-	IE   	to want, wish
+665	2. lē(i)-	IE    3. lē(i)-	to grant/acquire possession
+666	3. lē(i)-	IE    lēs	to weaken, leave behind; feeble
+666	leibh-	1. leip-	to smear, stick
+666	leid-	IE   	to play, joke
+667	1. leig-, and leik-, better oleig-, oleik-	IE    1. leik-	needy, miserable
+667	2. lē̆ig-, līg-	IE   	form, appearance; like, similar
+667-68	3. leig-, loig-	IE   	to hop, jump, tremble
+668	4. leig-, leig̑-	IE   	to tie, bind, ligate
+668	leig̑h-, sleig̑h-	IE   	to lick
+669	1. leik-	2. leit(h)-	to offer for sale
+669	2. leik-	IE    8. el-	to bend
+669-70	leiku̯-	IE   	to leave, relinquish
+670-71	1. leip-	IE    leibh-	to smear (with fat), stick
+671	2. leip-		to desire, request, wish for
+671	leis-	IE   	to furrow; learn
+672	1. leit-	IE   	to loathe, detest, abhor; violate
+672	2. leit(h)-	IE    2. el-	to die, go away
+672-73	leizd-, loizd-	IE   	edge, fringe, hem
+673	1. lek-? : lok-		to blame, scold, reprove
+673	2. lek- : lek-, and lēk- : lək-	IE    r̥ksā	joint, leg, body member; to bend, wind
+673-74	1. lēk- : lək-	IE   	tendril; trap
+674	2. lēk- : lək-	IE   	to lacerate, tear to pieces
+674	1. lem-	IE   	to break, crush to pieces; lame, fragile
+675	2. lem-		astonishment (with the notion of wide open jaws)
+675	1. lendh-	(s)leidh-	spring (of water), wetness
+675	2. lendh-	IE   	hip, loins; kidney
+675	3. lendh-	IE   	heath, steppe, open land
+676	leng-	lenk-	to sway, bend oneself
+676	lengh-		to scold, scorn
+676-77	lenk-	IE    leng-	to bend
+677	lento-	IE   	lithe, flexible, pliable
+677-78	1. lep-		(onomatopoeic root)
+678	2. lep-	IE   	to flay, peel, skin
+678	3. lep-		rock, stone
+679	lēp-, lōp-, ləp-	IE   	flat
+679	lerd-		to twist, shrivel up
+679	lerg-	lorgā-	even, smooth, slippery
+680	les-	IE   	to lease, collect, pick up
+680	lēs : ləs-	2. lē(i)-	weak, slack, feeble
+680	leto-, lēti-, lēto-, lōto-		heat, burning, anger
+680	lēto-, ləto-	IE   	daytime; summer, warm season
+681	letro-	IE    3b. pel-	leather
+681	1. leu-, *leu̯ə- : lū̆-	IE    2. leu-g-	dirt
+681-82	2. leu-	IE    leup-	to free, cut off, separate
+682-83	1. lēu-		to leave behind
+683	2. lēu- : ləu-	IE   	stone
+683	3. lēu-, or lāu-	IE    1. lā-	(onomatopoeic: to bark, howl, etc.)
+683-84	leubh-	IE   	to love, like, care for
+684	leud-	IE   	to lout, bend over, duck down; bent, little, etc.
+684-85	1. leudh-	IE   	to grow up; free; people
+685	2. leu-dh-	6. el-	to go, move, drive
+685-86	1. leug-	IE   	to bend
+686	2. leu-g- : lu-g- : lū-g-	1. leu-	blackish; swamp
+686	leug̑-	IE   	to break
+686-87	1. leugh-	IE   	to lie, belie, prevaricate
+687	2. leugh-, lugh-		oath
+687-90	leuk-	IE   	to light, shine; see
+690-91	leup-, and leub-, leubh-	IE    2. leu-	to lift, peel, cut/break off, etc.
+691	lēut- : lūt-		angry, raging, wrathful
+691	lī̆-no-	IE   	flax, linen
+691	log̑-		rod, twig
+691-92	lorgā-, lorgi-	lerg-	stick, club
+692	lou-, lou̯ə-	IE   	to lave, wash
+692	lū̆s, genitive luu̯-ós	IE   	louse
+693	1. mā-		to beckon, wave (hand); deceive
+693	2. mā-	IE   	timely, opportune
+694	3. mā	IE    mātér-	ma, mama (nursery words)
+694-95	mad-	IE   	to drip; wet; fat, glossy, well-fed
+695	magh- : māgh-	IE   	to help, be able; might, power
+696	maghos	IE   	maiden, young person
+696-97	mag̑-	IE    2. māk-	to knead, press, stroke
+697	mag̑h-	IE   	to fight, struggle
+697	1. mai-	IE   	to maim, hew, cut with sharp instrument
+697	2. mai-, moi-?	IE   	to smudge, stain
+698	mak-	IE   	skin, leather bag
+698	1. mā̆k-	IE   	wet, damp; to soak
+698	2. māk-	IE    men(ə)k-	to knead, press
+698	mā̆k(en)-		poppy
+699	mak̑o-, or mok̑-o-		fly, gnat
+699	māk̑- : mək̑-	IE   	long and slender
+699	makh-o-s		bold, wild, frisky, unbridled
+699	mand-	mend-	pen/hurdle of plaited rods/twigs
+699-700	mā-no-, mā-ni-	IE   	wet, damp
+700	manu-s, or monu-s	IE   	man, human being
+700	marko-	IE   	mare, horse
+700	1. math-, or moth-	IE   	moth, harmful insect
+700	2. mat-	IE   	club, hoe, mattock
+700-1	mātér-	IE    3. mā	mother
+701	mau-ro-		tired, weak; dark
+701-2	mazdo-s	IE   	mast, pole
+702	1. me-	IE    eg̑-	me (1st pers. sg. oblique pronoun stem)
+702-3	2. me-	IE    medhi-	by, with, amidst, around
+703	1. mē-	IE    1. am-	(prohibitive particle: lest, that not)
+703	2. mē-, m-e-t-	IE    met-	to mow, reap
+703-4	3. mē-, m-e-t-	IE    1. med-	to measure
+704	4. mē-, mō-	IE   	big, important
+704-5	5. mē-, mō-, mə-	IE   	to be intent; of strong will
+705-6	1. med-	IE    mēnōt	to mete, allot; medicate, give advice
+706	2. med-	IE   	to swell
+706-7	medhi-, medhi̯o-	IE    2. me-	middle
+707	médhu	IE   	mead, honey
+707	mē̆gh-	IE   	friendly, well-disposed
+708-9	meg̑(h)- : meg̑(h)-	IE   	big, much, great, major, mega-
+709	1. mei-	IE    4. mei-	to mure, repair, strengthen; pole
+710	2. mei-	IE    mei-gu̯-	to change, mutate, exchange
+710	3. mei-	IE   	to go, wander
+710	4. mei-	IE    1. mei-	to tie, bind
+711	5. mei-, mi-neu-	IE   	to lessen, diminish; small, minor
+711	6. mei-, mei̯u-, min(u)-, mim(ei)-	mek-	(onomatopoeic: high thin sound)
+711-12	7. mēi- : mōi- : mī-	IE   	mild, soft
+712-13	meigh-, also meik-	meis-	to flicker, twinkle; mist
+713	meig̑h-	IE   	to micturate, urinate
+713	mei-gu̯-	IE    mei-k̑-	to (ex)change
+714	mei-k̑-, and mei-g̑-?	IE    2. mei-t(h)-	to mix, mash, stir
+714	mei-no-	IE   	view, opinion, intention
+714	meis-	meigh-	to flicker, twinkle; mist
+715	1. meit(h)-		place to stay
+715	2. mei-t(h)-	IE    2. mei-	to commute, (ex)change
+715-16	mek-	1. mū̆-	(onomatopoeic: to bleat)
+716-19	1. mel-, also smel-, melə- : mlē-, mel-d- : ml-ed-, mel-dh-, ml-ēi- : mlī̆-, melə-k- : mlā-k-, mlēu- : mlū̆-	IE   	to mill, grind; fine, ground
+719-20	2. mel-	IE   	to deceive
+720	3. mel-	IE   	to hesitate
+720	4. mel-	IE    melg̑h-	big, strong
+720	5. mel-	IE   	limb; to join
+720-21	6. mel-, melə-	IE    2. smel-	dark color (black, dirty, etc.)
+721	7. mel-		wool, woolen garment
+721-22	8. mel-, melə- : mlō-		to appear, come forth
+722	1. meldh-	IE   	to utter ritual words (to deity)
+722	2. meldh-	IE   	lightning
+722-23	mē̆lg̑-, or meləg̑-?	IE    1. melk-	to milk, pluck, wipe off
+723	melg̑h-	4. mel-	to swell
+723-24	meli-t, genitive mel-nés	IE   	honey
+724	1. melk-	mē̆lg̑-	to rub, stroke
+724	2. melk-, melg-	IE   	wet
+724	mēlo-, smēlo-	IE   	small animal
+725	melōdh-, molədh-, molədh-		head; elevation
+725	mels-		to taste
+725	membh-		to reproach
+725	mēmso-, mē(m)s-ro-	IE   	meat, flesh
+726	1. men-	IE    2. menth-	to rise, mount, tower
+726	2. men-		to press, step on, tread down
+726-28	3. men-	IE    5. men-	to think; mind, spiritual activity
+728-29	4. men-	IE    meni-	to diminish; small
+729	5. men-	IE    3. men-	to stay, remain, stand still
+729	mend-, mond-, mn̥d-?	mand-	to feed, suck(le); breast
+729-30	mendā	IE   	flaw, defect, mistake
+730	mendh-	IE   	to direct attention to; vivacious
+730	men(e)gh-, mon(e)gh-, mn̥gh-	IE   	many, copious, abundant, excessive
+730-31	men(ə)k-	IE    mag̑-	to knead
+731	meng-		to make pretty, beautiful
+731	meni-	IE    4. men-	minnow (or other type of fish)
+731-32	mēnōt, genitive mēneses, from which mēnes-, mēns-, mēs-, mēn-	IE    3. mē-	month; moon
+732	1. menth-, meth-	IE   	to stir, swirl, mix up
+732-33	2. menth-	IE    mono-	to chew, eat
+733	1. mer-		to plait, weave; rope
+733-34	2. mer-	IE   	to flicker, shimmer
+734	3. mer-, mor-(u-)		to blacken; dark color, dirt spot
+735	4. mer-, merə-	IE    5. mer-	to die
+735-37	5. mer-, merə-	IE    1. merg̑-	to rub, wipe; pack, rob
+737-38	6. mer-, mer-s-	IE   	to anger, bother, disturb, etc.
+738	merədh-, mrādh-		to boil, bubble up
+738	mereg̑-	IE   	march, edge, border, frontier
+738	meregh-	IE   	to soak, moisten, drizzle
+738	1. merg̑-	1. merk-	to wipe off
+738	2. merg̑-	merk̑-	to grab, seize
+738-39	meri̯o-	IE   	young man/woman
+739	merk̑-	IE    2. merg̑-	to grab, seize
+739-40	1. merk-, merg̑-, merək-, merəg̑-	2. merk-	to rot
+740	2. merk-, mork-	smerd-	vexed, sullen
+740-41	mə-r, genitive mə-n-és, mn̥tós	IE   	hand
+741	met-	2. am-	to reap, measure
+741-43	1. meu-, meu̯ə- : mū̆-	IE   	wet, damp; to wash; dirt, mud, mire
+743	2. meu̯-, meu̯ə-	IE    meu-s-	to move, push away
+743	mēudh-, məudh-, mūdh-	IE   	to complain, care about, be intent
+743-44	1. meug-		to lie in wait, take by surprise; wily
+744-45	2. meug-, meuk-	IE   	to slip, slide; meek
+745	meuk̑-		to tear, slit, scratch
+745	meu-s-	mūs	to steal
+745-46	1. mezg-	IE   	to dive, plunge, immerse
+746	2. mezg-	IE   	to bind, knit, knot, attach
+746	mizdhó-	IE   	fee, pay, meed, reward
+746	mō-, mo-lo-	IE   	to strain, trouble oneself
+746-47	mōd- : məd-, or mād- : məd-	IE   	to meet, approach
+747	modhro-, or madhro-	IE   	blue; madder
+747	moiso-s, or maiso-s		sheep; hide, pelt, leatherwork
+747	mok̑s, Indo-Iranian *mok̑sū̆	IE   	soon
+747	molko-	IE   	pouch, leather bag
+747-48	mono-	IE    1. men-	neck; mane
+748	mori, mōri	IE   	mere, sea
+748-49	mormor-, murmur-	IE   	to murmur (dully)
+749	mormo(ro)-		fear, dread, horror
+749	moro-	IE   	murrey, mulberry, blackberry
+749	moru̯ī̆-	IE   	maur, mire, ant
+750	mo[u]-lo- : mū-lo-		root, plant
+750	mō[u]-ro- : mū-ro-		crazy, stupid
+750	moz-g-o-, moz-g-en-, mos-k-o-	IE   	brain
+750	mozg̑ho-s		young cattle
+750	mrk-	IE   	more, carrot, edible root
+750	mregh-m(n)o-	IE   	brain, skull
+750-51	mreg̑hu-, mr̥g̑hu-	IE   	brief, short
+751-52	1. mū̆-	IE    6. mei-	(onomatopoeic: to moo, hum, etc.)
+752	2. mū-, mus-	IE   	fly, gnat, midge, muscid, mosquito
+752	mū̆k-		heap, etc.
+752-53	mūs	IE    2. meu̯-	mouse; muscle
+753	mut-o-s	IE   	trimmed, stunted, circumcised, mutilated
+754	1. nā-	IE   	to help, be useful
+754	2. nā-		to be afraid, ashamed
+754	nāgu̯h-		sober?
+754	nak-		fur, pelt
+754	nana, nena	IE   	nana (nursery word: (grand)mother, etc.)
+755	nant-	IE   	to dare, risk
+755	nas-	IE   	nose
+755-56	1. nāus-	IE   	boat, ship
+756	2. nāu- : nəu- : nū-	IE   	death; corpse
+756-58	1. nĕ, nē, nei	IE   	(negative particle: no, etc.)
+758	2. ne, nē	no-	that (enclitic particle)
+758	3. ne-, nō-, plural nē̆s-, nō̆s-	IE    1. u̯ē̆-	we
+758	1. nebh-		to burst
+758	2. nebh-	IE    snā-	wet, damp; clouds; water
+758-59	1. ned- : ned-	IE    2. ner-	to net, bind, connect, roll up, twist together
+759	2. ned-		to roar, sound, bellow
+759	nedo-		reed
+760	neg̑h-		to bore, pierce, stab, stick
+760	1. nei-, neiə- : nī-		to lead
+760	2. nei-, neiə-, nī-	IE   	to be moved, excited; to shine
+760	3. nei-, ni-	IE    ni-	in
+760	1. neid-		to scold, shame, abuse
+761	2. neid- : nid-		to flow; stream
+761	neigu̯-	IE   	to wash
+761	neik-		to winnow (grain)
+761	nēik- : nīk- : nik-	IE   	to rail, fight, assault
+762	nek̑-	IE    1. ank-	death, dying, necrosis; corpse
+762-63	neku̯-(t-), noku̯-t-s	IE    noku̯-(t-)	night
+763-64	1. nem-	IE   	to nim, take, give, count, apportion
+764	2. nem-	IE   	to bend
+764	nepōt-	IE   	nephew; grandchild
+765	1. ner(-t)-, aner-, əner-?	IE   	vital force; man
+765-66	2. ner-	IE    3. ner-	below, under
+766	3. ner-	nē-tr-	to penetrate; hiding place, hollow
+766-67	nes-	IE   	to unite; be concealed
+767	ni-, nei-	1. en	in
+767	nē-tr-, nə-tr-	IE    (s)nē-	snake, adder
+767	1. neu-	IE   	to call, praise
+767	2. neu-	IE   	to push (someone); to nod
+768	neu-d-	IE   	to grasp, make use of
+768	neu-dh-		to lust, desire, yearn for
+768	neuk-		dark, unclear, indistinct
+768-69	neu-ks-, neu-s-	IE   	to scent, smell, sniff
+769	neu̯os, neu̯i̯os	IE    nū̆-	new
+769	niz-do-	sed-	nest
+769	no-	eno-	that
+769	nogu̯-, nogu̯od(h)o-, nogu̯-no-	IE   	nude, naked
+770	nogu̯o-, or nagu̯o-	IE   	tree
+770	noku̯-(t-)	neku̯-(t-)	night
+770	nōmn̥	en(o)mn̥-	name
+770	nōt-, nət-	IE   	rump, nates, backside
+770	nū̆-	IE    e-neu̯en	now
+771	n̥dhos, n̥dheri	IE   	under
+771	n̥si-		black, dirty
+771	n̥si-s	IE   	sword
+772	1. o	1. ē̆	to, with
+772	2. ō	IE    2. ē	O (vocative particle)
+772	obhel-	IE   	to sweep; multiply
+772	obhi-	opi	to, from, around, etc.
+772-73	1. od-	IE    2. od-	to smell
+773	2. od-	IE    1. od-	hatred, disgust, odium, aversion
+773	ō̆d(e)go-, or ō̆d(e)gu̯o-		stem, stalk
+773	ōg-, əg-	IE   	to grow; fruit, berry
+773	oi-	oi-no-	(pronoun stem)
+774	oid-	IE    aid-	to swell; strong
+774	oi-no-, oi-u̯o-	IE    3. e-	(demonstrative particle: one, this, etc.)
+774	oiu̯ā	2. ē̆i	(vocative particle)
+774	ok-	IE    oku̯-	to consider
+775	ok̑tō(u)	IE    ōk̑ú-s	eight, octad
+775	ōk̑ú-s	IE    2. ak̑-	quick(ly)
+775-77	oku̯-	IE    ok-	to see, ogle; eye
+777	ol-(e-)	IE   	to destroy
+777-78	om-	IE   	raw, coarse, bitter
+778	om(e)so-s	IE   	shoulder
+778	omə-	amə-	to suffer; firm up, proceed energetically
+778	ond-, n̥d-		rock, stone
+779	oner-	IE   	dream
+779	ong-, better ang-		coal
+779	ongu̯-	IE   	to anoint
+779	ono-, and onə-, also (o)no-d-		to scold, abuse, revile
+780	onogh- : ongh-, nogh-, Celtic n̥gh-, ongh-li-	IE   	claw, (finger/toe) nail
+780	1. op-	IE   	to work, perform, operate, bring about
+781	2. op-	IE   	to opt, choose, opine, suggest
+781	opi	ambhi	at, by
+781	ōr-, ər-	IE    5. ar-	to call, speak, talk, orate
+781-82	orbho-	IE   	weak, abandoned; slave, orphan
+782	oreu̯-, ereu-		entrails
+782	org̑hi-, r̥g̑hi-	IE   	testicle
+782	org-	3. per-	to hit, kill
+782	ort-		vine
+782	*ōs, ōs-i-s, ō̆s-en-, os-k-	IE   	ash (tree)
+783	ost(h)-, ost(h)i, ost(h)r̥(g), oblique ost(h)-(e)n-	IE    ast(h)-	os, bone
+783	oug-, ou-?		cold
+783-84	ō(u̯)i̯-om	IE    au̯ei-	egg, ovum
+784	óu̯i-s	IE   	ewe, sheep
+784-85	1. ōus- : əus-	IE   	os, mouth
+785	2. ōus- : əus- : us-	IE   	ear
+785-86	ozdo-s	IE   	branch
+786	ozgho-		bud, sprout, twig
+787	pā- : pə-, and pā-t- : pə-t-	IE    1. pen-	to feed, graze, pasture
+787-88	pā̆k̑-, and pā̆g̑-	IE    pn̥ksti-	to repair, strengthen
+788	pā̆n-	IE    sp(h)ē-	pane, panel, woven fabric
+788	pando-s	1. pet-	crooked
+789	pank-, pang-	baˣb-	to swell
+789	pap(p)a	IE    pətḗ(r)	papa (nursery word); food, meal
+789	pā̆r-	IE   	to show, be visible
+789	parīkā		concubine
+789	pāsó-s	IE   	a relative
+789	pasto-	IE   	firm, fast, solid
+790	paus-	IE   	to free, let loose
+790	pāuson-, pūson-	3. peu-	(name of a deity)
+790	1. pē̆d-, pō̆d-	IE   	to hold; vat, vessel, container
+790-92	2. pē̆d-, pō̆d-	IE   	foot
+792	peg- : pog- : pōg-, pō̆k-s-	IE   	hip, side, shoulder
+792-93	pē(i)-, pī-	IE   	to hurt, scold, shame
+793-94	pei̯(ə)-, pī̆-	IE    peisk-	fat; milk
+794-95	1. peig-, and peik-	IE   	colored, speckled
+795	2. peig̑-, and peik̑-	IE   	to be hostile
+795	pei-m(i)-	IE   	swift, quick, rapid, nimble
+796	1. peis-? : pis-	IE   	to grind, trample
+796	2. peis-, speis-	IE   	to blow, fizz
+796	peisk-, pisk-	IE    pei̯(ə)-	fish
+796-97	1. pek̑-, pēk̑-, pōk̑-	IE   	to be joyful, make pretty
+797	2. pek̑-	IE    plek̑-	to fleece; fee, cattle
+798	peku̯-	IE   	to cook
+798-801	1. pel-, pelə-, plē-	IE    pleu-	to pour, fill; full, plenary; town?
+801-2	2a. pel-, pelə- : plā-	IE    3a. pel-	to drive, propel, set in motion
+802	2b. pel-, pel-en-, pel-t-, pel-u̯-	IE   	dust, powder; meal, flour
+802-3	3a. pel-	IE    4. pel-	to fold
+803-4	3b. pel-, pelə-, plē-	IE    letro-	to wrap, cover; cloth; fell, pelt
+804	4. pel-	2a. pel-	dish, vessel
+804	5. pel-	IE   	to earn, sell
+804-5	6. pel-	IE   	gray, dull color; pallor
+805	7. pel-, pol-, plē-, plō̆-	IE   	to burn, be warm
+805-7	pelə-, plā-	IE    1. plā-k-	plane, flat, wide, broad
+807	peli-s-, pel-s-	IE   	fell, rock
+807	pelk̑- : polk̑-	IE   	to turn, bend
+807	pelpo-, or polpo-		woodwork
+807	1. pen-	IE    pā-	to feed
+807-8	2. pen-, pen-ko-	IE   	mud, fen, swamp, water; wet
+808	penku̯e	IE   	five, fifth
+808-9	pent-	IE   	to go, walk, pad, tread; way, path
+809-10	1. per-, perə- : prē-, preu-	IE    2. perk̑-	to spray, sprinkle, drizzle
+810-16	2a. per-	IE    prō̆-	to pass over/beyond
+816-17	2b. per-, perə-	IE   	to fare, ferry, transport, go/carry over
+817	2c. per-, perə-	IE   	to sell, impart
+818	2d. per-	IE   	to bear (a child)
+818	2e. per-	IE   	to dare, risk, try; peril, danger
+818-19	3. per-, per-g-	IE    org-	to hit, kill
+819	perd-	IE    pezd-	to fart, break wind (loudly)
+819-20	1. perg-		pole, stem, trunk
+820	2. perg-	IE   	fear; to frighten
+820	1. perk-, prek-		to fill up
+820	2. perk- : pr̥k-		coals, glowing ash
+820	1. perk̑-		breast, rib cage
+820-21	2. perk̑-, prek̑-	IE    2. (s)p(h)er-	spotted, speckled
+821	3. perk̑-, pr̥k̑-	IE    pork̑o-s	to open, dig out, rip up; furrow
+821-22	4. perk̑-, prek̑-, pr̥k̑-	IE   	to request, ask/pray for
+822-23	perku̯u-s	IE   	oak
+823	pers-		to spray, sprinkle, drizzle; dust, ashes
+823	persnā, persnī̆-, persno-	IE   	heel
+823	perth-		pole, stick
+823-24	1. pē̆s-	IE    2. pēs-	to blow
+824	2. pēs-, nasalized pēns-	1. pē̆s-	dust, sand
+824	3. pes-, pesos	IE   	penis
+824-25	1. pet-, pet-, petə-	IE    pando-s	to stretch out (esp. arms)
+825-26	2. pet-, petə- : ptē-, ptō-, Hellenic ptā-	IE   	to fall, tumble down
+827	1. peu-, peu̯ə- : pū̆-	IE   	to sift, clean, purge, purify
+827	2. peu-	IE   	to repute, explore, understand
+827	3. peu-	1. pū̆-	foam, froth
+827	pēu- : pəu- : pū̆-	IE    3. pū̆-	to hit; sharp
+828	peuk̑-, and peug̑-	IE   	to pink, stab, stick
+828	peu̯ə-	2. pū̆-	to rot, stink
+828	peu̯ōr, pū̆r, genitive pu-n-és, locative puu̯éni	IE   	fire
+829	pezd-	IE    pīzdā-	to break wind (softly)
+829	pətḗ(r), genitive pətr-és	IE    appa	father
+830	pid-	IE   	to bear, give birth?
+830	pik(h)o-		knot, lump
+830	pi-lo-	IE   	hair, pile, pilus
+830	pi-n-	1. (s)p(h)ē̆i-	piece of wood
+830	pī̆p(p)-	IE   	to peep, squeak
+831	pīzdā-	IE    2. bhes-	vulva
+831	plab-	IE   	to babble, prattle, etc.
+831-32	1. plā-k- : plə-k-, ple-k- : plō̆-k-, plei-k-, and pelə-g- : plā-g- : plə-g-	IE    2. plāk-	flat, wide, broad; spread out
+832-33	2. plāk-, plāg-, also plēk-, plēg-	IE    plā̆t-	to hit, beat, fling
+833-34	plā̆t-, plā̆d-, plē̆t-, plō̆t-, plət-	IE    pləi-	flat, wide, broad; spread out
+834	plē-, plə-	IE    plēk̑-	to cut, split off
+834	plēi-, pləi-, plī-		bald, bare, naked
+834-35	plek̑-	IE    2. pek̑-	to ply, pleach, plait, weave
+835	plēk̑-, plək̑-, and plēik̑-, plīk̑-	IE    phel-	to flay, peel, rip, tear off
+835-37	pleu-	IE    pl(e)u-mon-	to flee, fly, run; flow, swim
+837	pleuk-	IE   	floc, hair, feather
+837-38	pl(e)u-mon-, pleu-ti̯o-	IE    1. pel-	lung
+838	pleus-	IE   	to pluck, deplume, pull out; plucked hair/feathers
+838	pləi-, pləu-	pelə-	to broaden, show off
+838	plouto-, pluto-		(wooden object)
+838-39	pneu-	IE   	to pant, breathe
+839	pn̥ksti-	IE    pā̆k̑-	fist
+839	1. pō(i)- : pəi-? : pī-	IE   	to graze, pasture
+839-40	2. pō(i)- : pī-, and (from pō-), po-	IE   	to bib, drink
+840-41	polo- : pōlo-	IE   	big, fat, thick, swollen
+841	pork̑o-s	IE    3. perk̑-	porker, pig(let)
+841-42	pos	IE    apo-	about, around; by, beside; in front of
+842	po-ti		against, opposite, toward
+842	poti-s	IE   	host, husband, lord, master, owner
+842-43	pōu- : pəu- : pū̆-	IE   	few, small, little; young (of animals)
+843	pougo-, or pougho-		pure, clear
+843-44	prā-	IE   	to bend
+844	prāi-, prəi-, prī-, pri-	IE   	to like, feel friendly/well-disposed
+845	preg-	IE   	greedy, covetous; willful, violent
+845	prep-	IE   	to catch sight of
+845	pret-, prō̆t-	IE   	to understand
+845-46	preu-	IE   	to hop, jump
+846	preus-	IE   	to burn, freeze
+846	prīs-		to granulate, reduce to small pieces
+846	prō̆-	2a. per-	to pass over/beyond
+846	prōk̑to- : prək̑to-	IE   	rump, backside
+846	pr̥so-		leek, onion, garlic
+846-47	pster-, pstereu-	IE   	to sneeze
+847	ptel(e)i̯ā	IE   	(type of tree, e.g. poplar/popple)
+847-48	1. pū̆-, peu-, pou-, also phu-	IE    phu-	to blow (up)
+848-49	2. pū̆- : peu̯ə-	IE    peu̯ə-	to rot, stink
+849	3. pū̆-	pēu-	to hit; sharp
+849	1. pū̆k-, peuk-	IE   	thick-haired
+849	2. puk̑-		to enclose, press together
+850	pu-lo-	IE   	(stiff) hair
+850	pū-ro-	IE   	grain, kernel
+851	phel-	1. (s)p(h)el-	to cut, split, tear off; board
+851	pher-	1. sp(h)er-	to rush, act rashly, push away, etc.
+851	phō̆l-	IE   	to fall
+851	phu-	2. b(e)u-	to blow (up)
+852	rabh-, or rebh- : rebh-	IE    labh-	to rage, be furious
+852	rāp-, rēp-	IE   	rape (plant), turnip
+852	rā̆s-	IE   	to cry, (re)sound
+853	1. rē-, rə-, extended rē-dh-	1. rēi-	to count, compute
+853	2. rē̆-, extended rē-dh-	ardi-	separate
+853	3. rē-	1. erə-	to row; oar
+853	4. rē-	2. erə-	to rest, be still
+853	5. rē-		dark
+853	6. rē-	3. rei-	to cry
+853	1. rebh-	rei̯ə-	to move, hurry about
+853	2. rebh-	IE   	to roof, thatch
+853	red-, rod-	ered-	to flow
+853	1. rēd-	IE   	to excite, cheer up, be joyful
+854	2. rēd- : rōd- : rəd-	IE   	to gnaw, scrape, scratch
+854	1. reg-, and sreg-?	IE   	to dye
+854	2. reg-	IE   	to see
+854-57	1. reg̑-	IE    reig̑-	to regulate, make just/right; king, reign
+857	2. reg̑-, rek̑-, rek-?	IE   	damp; rain
+857	regu̯os-	IE    ē̆reb(h)-	darkness
+857-59	1. rei-	IE    reig-	to cut, reap, rive, tear, scratch
+859	2. rei-, roi-	IE   	spotted, speckled, brightly variegated
+859-60	3. rei-, rē(i)-	IE    reibh-	to cry, scream, bellow, etc.
+860	4. rei- : rēi-	IE   	thing, possession
+860	5. rei-	reid-	to support
+860	1. rēi- : rī-	2. ar-	to count, arrange
+860	2. rēi-, rōi-	3. ar-	nut
+860	reibh-	1. reu-	(onomatopoeic: to resound?)
+860	reid-	reik-	to support, lean against
+861	reidh-	IE   	to ride, go (in vehicle)
+861-62	reig-, or reig̑-	IE    roi-no-	to rig, tie, bind
+862	reig̑-, rēig̑-	IE    1. reg̑-	to reach, stretch out
+862	rei̯ə-, rī-	2. reu-	to flow, move
+862	reik-	1. rek-	to stretch oneself; pole
+862	rei-r(ēi)-	IE   	(onomatopoeic: to quake, tremble)
+863	rēito-, rēiti-		joint, shoulder (of animals)
+863	1. rek-	IE    rem-	to project, tower up; pole
+863	2. rē̆k-	IE   	to reck, reckon, arrange, prepare
+863	rek̑-, reg̑-		to bind
+864	rek̑þh-	ŕ̥k̑þo-s	to harm, injure
+864	rem-, remə-	IE    5. rei-	to rest; to support
+864-65	remb-, romb-, romb-		to hack, hoe
+865	rendh-	IE   	to rend, rip, tear to pieces
+865	rent-		thing?
+865	rep-	IE   	to grab, rip out, ravish
+865	1. rēp-, rep-?	IE   	to creep, crawl
+866	2. rēp-, rəp-	IE   	pole, stake, beam, rafter
+866	rēs-, rōs-	2. ere-s-	to flow
+866	ret(h)-	IE   	to run, roll, rotate
+866	rēt-, rōt-, rət-	IE   	pole, rood; stem, stick, trunk
+867-68	1. reu-, rēu-, rū̆-	IE    6. rē-	(onomatopoeic: to roar, rout, round, etc.)
+868-71	2. reu-, reu̯ə- : rū̆-	IE    3. reu-	to open, tear out, dig/rip up, etc.
+871	3. reu-, reu-s-	3. er-	to hasten
+871	4. reu-	1. ereu-	to search
+871-72	reu-b-, and reu-g-	IE   	to belch, eruct, retch, vomit
+872-73	reudh-	IE   	red
+873	reugh-m(e)n-	IE   	ream, cream?
+873	reus-		elm (tree)
+873	reu-smen-	IE   	to chew, ruminate; throat, rumen
+873-74	reuto-, routo-, rut-		stomach, intestines (of an animal)
+874	reu̯ə- : rū-	IE   	to ream, open; wide, roomy
+874	rezg-	IE   	to plait, weave, wind
+874	roi-no-	1. rei-	hill, road
+874	rughi̯o-	u̯rughi̯o-	rye
+874	ruk(k)-, rouk(k)-	IE   	yarn; fabric
+875	r̥ksā	2. lek-	fetlock; tether
+875	ŕ̥k̑þo-s	IE    rek̑þh-	bear (animal)
+876	sā-, sə-	IE    sāno-s	enough, satiate, sufficient
+876-77	sāg-	IE   	to seek, track, trail
+877	sāi-	IE   	pain, illness; sore
+878	saip-	IE   	fence, stall, enclosure
+878	sak-	IE   	to sacrifice, sanctify, make a treaty
+878-79	1. sal-	IE    2. sal-	sal, salt; brackish water
+879	2. sal-	IE    1. sal-	gray, dirty, sallow
+879-80	sā̆lo-		wavy
+880	sāno-s	IE    sā-ti-	sane, healthy?
+880	sap-, sab-	IE   	to taste, savvy, perceive
+880	sasi̯o-		(type of grain)
+880	sā-ti-	sā-	satiated
+880-81	saus-, sus-	IE   	sere, dry
+881-82	sā́u̯el-, sāu̯ol-, suu̯él-, su̯el-, sūl-	IE    2. su̯el-	Sol, sun
+882-84	se-	IE    seni-	self, one's own
+884-87	sed-	IE    ē̆s-	to sit, set, settle
+887	1. seg-	1. sē(i)-	to sow (seed)
+887-88	2. seg-, nasalized seng-	IE   	to attach, tack on
+888-89	seg̑h-, seg̑hi-, seg̑hu-	IE   	to possess, hold fast, persevere, overcome; victory
+889	sei-, soi-	IE    seiku̯-	to drip, be damp
+889	1. sē(i)-	IE    2. sē(i)-	to sift
+889-91	2. sē(i)- : səi- : sī-, sē- : sə-, and sei- : si-	IE    3. sēk-	to sow, dispatch, disseminate, let fall
+891-92	3. sē(i)-, səi- : sī-, and sei- : si-	IE    si̯ē[u]-ro-	to bind, strap, tie
+892	sē[i]dh- : sī̆dh-, and sədh-		to aim at, strive for
+893	sē̆ik-, sī̆k-	IE   	to grip, reach for
+893-94	seiku̯-	IE    seip-	to spill, pour out
+894	seip-, seib-	IE    sei-	to sift, pour out
+894-95	1. sek-		to run off, dry out (re: water)
+895-96	2. sē̆k-	IE    (s)k(h)ed-	to cut, section, dissect
+896	3. sēk-	IE    1. seg-	to abate; lazy, quiet
+896-97	1. seku̯-	IE    2. seku̯-	to segue, follow
+897-98	2. seku̯-	IE    1. seku̯-	to see, notice; show, say, speak
+898	1. sel-	IE   	salon, dwelling place
+898-99	2. sel-, su̯el-	IE    4. su̯el-	sill, beam, board
+899	3. sel-	IE   	to grab, seize, take
+899	4. sel-	IE   	to jump, leap, spring, exult
+900	5. sel-		to creep, crawl
+900	6. sel-, selə- : slā-	IE    solo-	lucky, favorable; luck
+900-1	selg̑-	IE   	to pour out, set free, send/throw away
+901	selk-	IE    8. u̯el-	to pull, drag; sulcus, furrow
+901	selos-	IE   	sea, lake, swamp
+901	selp-	IE   	salve, fat, butter
+901-2	1. sem-		to draw, pour, scoop
+902-5	2. sem-	IE   	one, some, together
+905	3. sem-	IE   	summer
+905-6	sēmi-	IE   	half, semi-
+906	sen-, sene-, sen(e)u-, senə-	IE    sneubh-	to prepare, work on
+906	sendhro-	IE   	clotted, coagulated; fluid, melted, etc.
+906	sengu̯-	IE   	to sink, sag, fall
+906-7	sengu̯h-	IE    k̑ens-	to sing
+907	seni-, senu-, seni-, sn̥-ter-	IE    su-	for oneself; sundry, separate
+907	senk-	IE   	to singe, burn, dry
+907-8	sen(o)-	IE   	old, senile, senior
+908	sent-	IE   	to send, go, choose direction; to sense
+909	sep-	IE   	to honor, care for, concern oneself with
+909	septm̥	IE   	seven
+909-10	1. ser-	IE    sr-edh-	to flow, stream
+910	2. ser-	IE   	to serve, guard, protect, shelter
+910-11	3. ser-, sor-	IE   	red
+911	4. ser-	IE   	to insert, line up, put/bind together
+911-12	5. ser-, extended serp-	IE   	sickle
+912	serk-	IE   	to fence; hedge, plaited work
+912	serp-	IE   	to creep, crawl
+912-13	1. seu-, seu̯ə- : sū-	IE    sū-ro-	sop, soup, juice, liquid
+913-14	2. seu-, seu̯ə-, sū̆-	IE    sū̆-s	to bear (a child); son
+914	3. seu- : su-, seu̯ə- : sū-	seu̯i̯o-	to bend, turn
+914-15	4. seu-, seu-t-	IE   	to seethe, boil
+915	seug-	IE   	sad, sick, grievous, afflicted
+915	seu̯ə-, sū-		to leave behind?
+915	seu̯i̯o-	su̯ē̆(i)-	(to the) left
+915	si̯ē[u]-ro- : si̯ə-ur(i̯o)-	si̯ū-	brother-in-law
+915-16	si̯ū-, sīu̯-	IE    soi-to-	to sew
+916	skabh-, skambh-	IE   	to support
+916-17	(s)kāi-	IE    sk̑āi-	bright, shining
+917	(s)k(h)ai-, (s)k(h)ai-d-, (s)k(h)ai-t-	IE   	to cuff, kick
+917-18	sk̑āi-, sk̑əi- : sk̑ī-	IE    4. kāi-d-	to shine/shimmer dully; shadow
+918	(s)kamb-, and (s)kemb-	IE    kamb-	to bend, curve, hump
+918	(s)kand-, (s)kend-	kand-	to glow; bright
+918-19	(s)k(h)ed-, (s)k(h)e-n-d-	IE    skē̆i-	to crush, shatter, split to pieces
+919	sk̑ed-		to cover
+919-22	skē̆i-	IE    1. (s)kel-	to cut, skive, exscind, separate
+922	skē̆i-bh-, nasalized ski-m-bh-		to limp; slanting
+922-23	(s)kek-, skeg-	IE   	to jump, spring, move quickly; shake
+923-27	1. (s)kel-	IE    (s)ken-(d-)	to cut, halve
+927	2. (s)kel-	IE    9. kel-	to owe, be guilty
+927	3. (s)kel-	IE    10. kel-	to parch, dessicate, dry out
+928	4. (s)kel-, extended klā-, klō-	IE    11. kel-	to bend; crooked
+928	5. (s)ku̯el-, (s)kel-	2. gal-	to call, resound
+929	(s)k̑el-		to jump, spring
+929	skhel-		to stumble
+929	(s)k̑em-	IE    2. k̑em-	deformed, disabled, mutilated; hornless
+929-30	(s)ken-(d-)	IE    6. skēu(-t)-	to skin, flay, split off
+930	skendh-	IE   	to dive, plunge
+930	(s)keng-	IE   	to hobble; lame, slanted
+930	1. (s)kep-		to hide, cover
+930-33	2. (s)kē̆p-, (s)kō̆p-, and (s)kā̆p-, (s)kē̆b(h)-, skob(h)-, and skā̆b(h)-	IE   	to cut, shave, split with sharp tool
+933	1. (s)ker-		to shrink, dry out, wrinkle up; dry, thin
+933-35	2. (s)ker-, skerə- : skrē-	IE    7. ker-	to jump
+935-38	3. (s)ker-	IE   	to bend, curve, turn
+938-47	4. (s)ker-, (s)kerə-, (s)krē-	IE    (s)ker-dh-	to cut, shear, score, scribe
+947	5. (s)ker-	1. ker-	(onomatopoeic: hoarse sound)
+947	(s)ku̯er-	1. ku̯er-	to do, make
+947-48	sk̑er-(d-)	IE   	to defecate; dung, excrement
+948-49	(s)kerb(h)-, (s)kreb(h)-, nasalized (s)kremb-	IE   	to curve, turn
+949	(s)ker-dh-, (s)kor-dh-	(s)kert-s-	small, pitiful, miserable
+949-50	(s)kert-s-	2. ker-	across, straight along
+950	skēt- : skət-	IE   	to jump, spring
+950	skēth-, skəth-	IE   	to scold, scathe, injure, damage
+950-51	1. (s)keu-		to perform, carry out
+951-53	2. (s)keu-, (s)keu̯ə : (s)kū-	IE   	to hide, wrap, cover
+953	3. skē̆u-, ksē̆u-		to sneeze
+954	4. (s)keu-	1. keu-	to notice, observe, pay attention to
+954	5. skē̆u-	sk̑ē̆u-	to push, shoot, throw
+954	6. skēu(-t)-	IE    1. kal-	to cut, scratch, separate
+954-55	sk̑ē̆u-	IE    skeub-	to push, shoot, throw
+955	skeub-, skeubh-, skeug-	IE    2. (s)keud-	to shove, move, shoot, throw
+955	1. skeud-	keuəd-	to grumble, protest; unwilling
+955-56	2. (s)keud-	IE    5. skē̆u-	to shoot, throw
+956	(s)keup-, skeub(h)-	IE   	sheaf, bunch, flock, etc.
+956-57	(s)keut-, (s)keudh-		to shrink, shrivel up
+957	sk̑lēk-, sk̑lək-	sresk-	to spray, sprinkle; wet
+957	skordho-		pan, vessel; potsherd
+957	skot-	IE   	shade, shadow, darkness
+957-58	(s)kū̆t-	IE    ku̯ēt-	to shake, shudder
+958	(s)ku̯alo-s	IE    ku̯alo-s	(type of large fish, e.g. whale)
+958	sku̯erb(h)-		to pierce, stick (of thorns)
+958	sk(h)u̯oi̯-, sk(h)u̯i(i̯)-		thorn, needle
+958	(s)lā̆gu̯-	IE    lā̆gh-	to grab, latch, seize
+959	slak-	IE   	to hit, hammer
+959	(s)leb-, (s)lob-, (s)lep-, (s)lop-	lē̆b-	lip; to hang down slackly
+959-60	(s)lēg- : (s)ləg-, and (s)leg-	IE   	weak, feeble, languid
+960	slēgu̯-		to oppress, maltreat, mishandle
+960	(s)leib-	sleub(h)-	to slip; slimy
+960-61	(s)leidh-	IE    3. lei-	to slide; slippery
+961	(s)leig-		to hack, hit
+961-62	slenk-, sleng-	IE   	to turn, wind; creep, slink
+962	sler-	(s)lr̥g-	chasm
+962-63	(s)leu-	IE   	slack, feeble, loosely hanging
+963-64	sleub(h)-	IE    (s)leug̑-	to slide, slip
+964	(s)leug-, (s)leuk-	IE    lauk(o)-	to swallow
+964	(s)leug̑-, (s)leuk̑-	IE    (s)leib-	to slide, slip
+964-65	(s)leup-, (s)leub(h)-	IE   	to hang slackly
+965	(s)lī- : sləi-, or slōi-, slī-u̯o-	IE   	livid, bluish
+965	slougo-, slougā- (fem.)	IE   	help, service
+965-66	(s)lr̥g-, and sler-	sler-	(onomatopoeic: to swallow)
+966	sme, smā̆	IE   	really, truly (emphatic particle)
+966-67	smē-, smeī-, sm-ei-	IE    3. smēi-	to rub, smear
+967	smeg(h)-	IE   	to smack, taste
+967-68	1. (s)mei-, smeu-	IE    smeu-	to smile
+968	2. smēi- : sməi- : smī̆-	IE   	to carve, work with sharp tool
+968	3. smēi-, smeid-, smēig-, smēik-	smē-	to rub, smear
+968	smeit-, smit-	IE   	to throw
+968	smek-		beard, chin
+969	1. smel-	IE   	to smolder, burn slowly
+969	2. smel-	IE    6. mel-	gray
+969-70	(s)mer-	IE   	to mourn, remember, think of, care for
+970	smerd-, smord-	IE    4. mer-	to stink
+970-71	smeru-	IE   	fat, grease, smear
+971	smeu-	1. (s)mei-	to laugh, smile
+971	(s)meukh-, (s)meug-, (s)meugh-	IE   	to smoke; smoke
+971	smog-		heavy, burdensome
+971-72	snā-, snə-(t-), snāu-, sn-eu-, sn-et-	IE    sneu-	to flow, swim; damp
+972-73	(s)nadh-		to cut, slice
+973	(s)nē-, and (s)nēi-	IE    snēp-	to spin, twist threads together
+973-74	(s)nēbh-ri-, (s)nōbh-ri-		thin, narrow
+974	sneig-	IE   	to crawl, snake
+974	sneigu̯h-	IE   	to snow; snow
+974	sneit-	IE   	to cut
+974-75	snēp-, snōp-, snəp-	2. (s)ner-	to gather in sheaves/bundles; twist into rope
+975	1. (s)ner-, (s)nur-	IE   	to snarl, growl
+975-77	2. (s)ner-	IE    snēu-	to turn, wind, etc.
+977	(s)nerb-	IE   	to cut?
+977	sneu-	2. enebh-	to flow, swim; damp
+977	snēu- : snū-, and snĕu-	IE    1. ned-	to turn, bind, attach; band, sinew
+977-78	sneubh-	IE    snusós	to woo, marry
+978	1. sneud(h)-	IE    2. sneudh-	to drowse, slumber; drowsy, sleepy
+978	2. sneudh-	IE    1. sneud(h)-	fog, mist
+978	snusós	IE    sen-	daughter-in-law
+978-79	so(s), sā	IE    1. to-	(nom. sg. demonstrative stem: he, she)
+979	soi-to-	3. sē(i)-	magic
+979-80	solo-, sol(e)u̯o-	IE    6. sel-	whole, well-kept, salubrious
+980	sō[u]rā : sōrā		calf (of leg)
+980	spako-		point; small drop
+980	sp(h)ē-, sp(h)ə-(dh-)	IE    2. sp(h)ei	long flat piece of wood
+981	speg̑-, or spō̆g̑-	IE    spek̑-	to watch sharply, be attentive
+981-82	1. (s)p(h)ē̆i- : (s)p(h)ī̆-	IE    pi-n-	sharp/pointed stick: spile, spit, etc.
+982	2. sp(h)ei : sp(h)ī̆, and sp(h)ē : sp(h)ə-	IE    3. sp(h)ē(i)-	to pull, drag
+983-84	3. sp(h)ē(i)-, spī-, and sphē- : sphə-	IE    1. (s)pen(-d)-	to fatten, prosper, succeed, etc.
+984	spek̑-	IE    speg̑-	to watch, inspect, spy on
+985	(s)pel-	IE   	to speak aloud, tell with emphasis
+985-87	1. (s)p(h)el-	IE    (s)p(h)elg-	to cut, split, spall, tear off; board
+987	2. (s)p(h)el-	IE   	to shine, glitter
+987	(s)p(h)elg-	(s)plei-	to split, splinter
+987	sp(h)elg̑h(en), spleng̑h-, splē̆g̑h-	IE   	milt; spleen
+988	1. (s)pen(-d)-	IE    (s)p(h)eu-d-	to pull, spin
+989	2. *(s)pen-, (s)pon-, (s)pondho-		wooden pail
+989	spend-	IE   	to offer a libation
+989	sp(h)e(n)d-		to shake, quiver
+989-90	sp(h)eng-	IE   	to shine, glitter
+990	speno-, stē̆no-, p(ə)stē̆no-		teat, breast, nipple
+990-91	1. (s)per-	IE   	pole, spar, rafter
+991	2. sper(-g)-	IE   	(type of bird, esp. sparrow)
+991-92	3. sper-	IE   	to turn, wind
+992	4. (s)p(h)er-, (s)p(h)erəg-		to rip, tear; rag, snippet
+992-93	1. sp(h)er-, sp(h)erə-	IE    sp(h)erd(h)-	to rush, push away, act rashly, etc.
+993-95	2. (s)p(h)er-, sprei-, spreu-	IE    sprei-	to sow, strew, spread, scatter, sprinkle
+995	3. sp(h)er-		balls of goat/sheep excrement
+995-96	sp(h)erd(h)-, (s)p(h)red(h)-, nasalized sp(h)rend(h)-	IE    *(s)p(h)ereg-	to rush, sprint, spring; running
+996-98	*(s)p(h)ereg-, (s)p(h)erəg-, (s)p(h)rēg-, nasalized spreng-	IE    sperg̑h-	to rush, hurry; strew, sprinkle, disperse
+998	sperg̑h-, spreg̑h-, nasalized spreng̑h-	IE    pher-	to rush, hurry, spring, jump
+998-99	(s)p(h)eu-d-	pā̆n-	to press, hurry
+999	(s)pī̆ko-	IE   	woodpecker (or other large bird)
+999	(s)pingo-	IE   	finch, sparrow
+999-1000	(s)p(h)i̯ēu- : (s)pi̯ū-, (s)pīu̯-	IE   	to spit, spew, sputter
+1000	(s)plei-	IE    plē-	to cut, split
+1000	(s)pleig̑h-		to splay (legs)
+1001	(s)poimno-	IE   	foam, spume, spray
+1001	sprei-, spreu-	sp(h)reig-	to sow, strew, scatter
+1001	sp(h)reig-	1. per-	to teem, abound, overflow
+1001	sraku̯-to-		sharp-edged
+1001	srebh-, sr̥bh-, and serbh-	IE    su̯erbh-	to sip, slurp, swallow
+1001-2	sr-edh-, sr-et-	IE    sreu-	to boil, spout, whirl
+1002	(s)reigh-		to creep, climb, clamber
+1002	srenk-	IE   	to snore
+1002	srēno-		body part (e.g. hip, loins)
+1002	sresk-	klep-	to drip, drizzle
+1003	sreu-	IE    1. ser-	to stream, flow
+1004	sreup-		dirty, scabby
+1004	srīg-, srīgos-	IE   	cold, frost
+1004	srō̆mo-		lame
+1004-10	stā- : stə-	IE    stāk-	to stand
+1010	stag-	IE   	to drip, drizzle, trickle
+1010	(s)tāi-	IE    stāi-	to steal, do secretly
+1010-11	stāi-, stī̆-, sti̯-ā-	IE    stē̆ib(h)-	to condense, press together; stiff; stone
+1011	stāk-, stek-	IE    steb(h)-	to place, stand
+1011-13	steb(h)-, and stēb(h)- : stəbh-, nasalized stemb(h)-, step-, also stēp-?, nasalized stemp-, nominal stəbho-s, stemb(h)ro-s, stomb(h)o-s	IE    stā-	stump, post, pillar; to support, etc.
+1013-14	1. (s)teg-	IE    tāg-	to deck, thatch, cover; house, roof
+1014	2. (s)teg-	IE    stegh-	stake, pole, beam
+1014-15	stegh-, nasalized stengh-	IE    2. (s)teg-	stick, stalk, stang, etc.
+1015	(s)tei-	IE    tei-	sharp, pointed; spike, style, stylus
+1015-16	stē̆ib(h)-, stī̆b(h)-, stē̆ip-, stī̆p-	IE    steu̯ə-	stick, pole, stake; stiff
+1016-17	(s)teig-	IE    teig-	to stick, prick; sharp
+1017-18	steigh-	IE   	to climb, ascend; stride, march
+1018	(s)teigu̯-	IE    teigu̯-	arm, shoulder; thigh, hip
+1018	(s)teigu̯h-		to endure, wait patiently
+1018	1. (s)tel-	4. tel-	to urinate, let flow
+1018-19	2. stel-, stelə-	IE    3. stel-	to dilate, broaden, stretch out; broad
+1019-20	3. stel-	IE    2. stel-	to put, place
+1021	stem-		to push, thrust; stumble, stutter
+1021	1. (s)ten-	IE    2. ten-	to drone, groan, thunder, etc.
+1021-22	2. sten-	IE   	to narrow, hem in
+1022-27	1. (s)ter-, (s)terə- : (s)trē-	IE    6. ster-	stark, stiff, solid, rigid, etc.
+1027-28	2. stē̆r-	IE   	star
+1028	3. ster-	IE   	to rob, steal
+1028-29	4. ster-, also sterə- : strē-, strei-, streu-	IE   	line, streak, strip, stripe
+1029-31	5. ster-, sterə- : strē-, steru- : streu-	IE   	to strew, scatter, spread out
+1031	6. ster-	IE    7. (s)ter-n-	barren, sterile, unfruitful
+1031	7. (s)ter-n-	IE    2. streig-	thorn, prickly stalk
+1031-32	8. (s)ter-	IE   	dung, stercory, dirty water; to rot, befoul
+1032	sterg-, sterk-	IE   	to care for, pay careful attention to
+1032-34	1. (s)teu-	IE    1. teu-	to hit, push, thrust
+1035	2. steu-	IE   	to praise (aloud)
+1035	steu̯ə-	(s)tāi-	to coagulate, become dense/thick
+1035	stilp-, stilb-	IE   	to shine; to look, show
+1035	stomen-	IE   	mouth, stoma
+1036	storos, stornos, str̥nos?	IE   	starling, songbird
+1036	1. streig-	IE   	to halt, pause, falter, be(come) stuck
+1036	2. streig-	IE    strenk-	taut, stiff, strict; to twist; rope
+1036	3. (s)treig-, streid(h)-	IE    treig-	to hiss
+1036-37	strenk-, streng-	IE    7. ter-	tight, cramped; cord, string
+1037	(s)trep-, (s)treb-	IE    3. trep-	to cry, make wild noises
+1037	stru-		gray-haired, old (man)
+1037-38	su-, sū-	su̯e-lo-	good, well
+1038-39	sū̆-s, suu̯-ós	IE    2. sūs-	pig, sow, swine
+1039	sū-ro-, sou-ro-	IE    1. seu-	sour, bitter, salty; cheese
+1039	1. sūs-		to whistle (of wind)
+1039	2. sūs-	2. seu-	parent, creator, producer
+1039-40	su̯ād-	IE   	sweet; to enjoy something
+1040	su̯ard-		to laugh
+1040-41	su̯ei-, su̯i-	IE   	to pipe, whistle, sibilate
+1041-42	su̯ē̆(i)-	IE    su̯eng-	to bend, turn, swing, swivel
+1042	1. su̯eid-	IE    su̯ēid-	to shine, glisten
+1043	2. su̯eid-	IE   	to sweat, perspire; sweat
+1043	su̯ēid-	1. su̯eid-	milk
+1043	su̯ek-		to smell (good)
+1043-44	su̯ekrū́-		husband's mother
+1044	su̯ek̑s, sek̑s, ksek̑s, ksu̯ek̑s, u̯ek̑s : uk̑s	IE   	six
+1044	s(u̯)eku̯o-s	IE   	sap, pitch, resin
+1045	1. su̯el(-k)-	IE   	to eat, drink, swill, swallow
+1045	2. su̯el-	IE    su̯elplo-s	to burn, smolder, swelter
+1046	3. su̯el-, su̯ol-, sul-	IE   	sole of foot; ground
+1046	4. su̯el-	2. sel-	beam, board
+1046	su̯e-lo-, su̯elii̯o(n)-	se-	brother-in-law
+1046	su̯elplo-s	IE    sā́u̯el-	sulphur
+1046	su̯em-	IE   	to swim, move
+1046-47	su̯en-	IE   	to sound, resound
+1047	(s)u̯endh-	su̯ī-	to dwindle, disappear
+1047-48	su̯eng-, su̯enk- : su̯eg-, su̯ek-	IE    u̯eib-	to bend, swing, swag
+1048	su̯enk-, sunk-	IE   	heavy; pregnant
+1048	su̯ento-, sunto-	IE   	sound, active, healthy, vigorous
+1048-49	1. su̯ep-, sup-	IE   	to sleep
+1049	2. su̯ep-, sup-, su̯eb-	IE   	to throw
+1049	1. su̯er-, also ser-?	IE    2. su̯er-	to speak, swear, answer
+1049-50	2. su̯er-	IE    1. su̯er-	to buzz, hiss
+1050	3. su̯er-		stake
+1050	4. su̯er-	IE   	to cut, prick, pierce
+1050	5. su̯er-	1. u̯er-	heavy
+1050-51	su̯erbh-, also su̯er-?	IE    srebh-	to turn, sweep, swerve
+1051	su̯ergh-	IE   	to be ill; to sorrow, care for
+1051	su̯esor-	IE   	sister
+1052	su̯ī-	IE    2. u̯endh-	to fade, dwindle, become silent
+1052	su̯omb(h)o-s	IE   	porous, spongy, swampy
+1052	su̯ordo-s	IE   	black, swarthy; dark/dirty color
+1053-54	tā-, tə-, tāi-, təi-, tī̆-; [tāu-], təu-, tū̆-	IE   	to thaw, melt, decay, dissipate
+1054	tād-		to act purposefully
+1054-55	tag-, or teg- : tog- : teg-	IE    2. tong-	to grip, seize, touch
+1055	tāg-	IE    teg-	to tidy up
+1055	tak-, takē(i)-	IE   	to be tacit, silent
+1055	tāl-	IE   	to grow, turn green; plant, young sprout
+1056	1. tap-		to dip
+1056	2. tap-	IE   	to press down/together
+1056	tata-, and similarly tē̆ta-	IE   	daddy (nursery word)
+1056-57	taus-		calm, still, silent, peaceful
+1057	teg-	1. (s)teg-	to cover
+1057	tēg-, təg-		to burn
+1057	tegu-	IE   	thick, fat
+1057	tei-	(s)tei-	sharp, pointed; spike
+1057	teig-	(s)teig-	to prick, stick; sharp
+1057	teigu̯-	(s)teigu̯-	arm, shoulder; thigh, hip
+1057	1. tek-	IE   	to bear, produce
+1057-58	2. tek-	IE   	to reach, stretch out (hand) for
+1058	3. tek-	IE   	to plait, weave
+1058-59	tek̑þ-	IE   	to plait
+1059-60	teku̯-	IE   	to flow, run
+1060-61	1. tel-, telə-, tlē(i)-, tlā-	IE   	to bear, carry; weigh, lift up
+1061	2. tel-, telə-, telu-	IE   	flat (board, ground)
+1061-62	3. tel-		to be calm/still
+1062	4. tel-	1. (s)tel-	to urinate, let flow
+1062	teleg̑h-	telek-	to hit
+1062	telek-	IE    teleg̑h-	to hit, push
+1062	telp-		to have room; spacious
+1062-63	1. tem-, tend-	IE    tend-	to cut
+1063	2. tem-		stunned, confused
+1063-64	tem(ə)-	IE   	dark
+1064-65	temp-	IE    1. ten-	to span, stretch, extend
+1065-66	1. ten-, tend-	IE    tengh-	to span, stretch, extend
+1067	2. ten-	1. (s)ten-	to drone, groan, thunder, etc.
+1067	tend-	1. tem-	to cut
+1067	tenəgos, tenəgos		ground (under water)
+1067	1. teng-	IE   	to dunk, soak, wet
+1067	2. teng-	1. tong-	to feel, think
+1067	tengh-	1. tenk-	to span, extend; pull, stretch
+1067	1. tenk-	IE    2. tenk-	to span, extend; pull, stretch
+1068	2. tenk-	IE    tens-	to clot, thicken, contract; tight, solid
+1068-69	tens-	IE    temp-	to span, stretch, extend
+1069	tenu-s, tenu-s	IE   	thin
+1069-70	tep-	IE   	to be warm, tepid
+1070	1. ter-	trem-	to quiver, tremble
+1070-71	2. ter-, teru-	IE   	weak, feeble, tender, fragile
+1071-74	3. ter-, terə-, and teri-, trēi-, trī-, also teru- : treu-	IE    6. ter-	to bore, drill, rub, thresh
+1074-75	4. ter-, terə- : tr̥̄-, trā-, teru-	IE    5. ter-	to cross, get over, etc.
+1075-76	5. ter-	IE    tet(e)r-	through, over, etc.
+1076	6. ter-	3. ter-	(boring/gnawing insect)
+1076	7. ter-, terə-, terbh-, terd-, terg-, terp-	treg-	stiff, rigid, solid, etc.
+1076	terd-, tred-		to bore, drill through
+1076-77	tergu̯-		to warn, threaten; fright, horror
+1077	terk-, trek-, tork-, trok-	IE    trāgh-	to torque, turn
+1077-78	terp-, trep-	IE   	to enjoy, satisfy oneself
+1078-79	ters-	IE   	to toast, dry; thirst
+1079	tet(e)r-	tor-	(onomatopoeic: to quack)
+1079	1. teu-, teud-, teug-, teuk-, teup-	tu̯en-	to hit, push, thrust
+1079-80	2. teu-	IE   	to notice, observe, listen to
+1080-85	tēu-, təu-, teu̯ə-, tu̯ō-, tū̆-	IE    teuk-	to swell, intumesce
+1085	teuk-	tēu-	germ, seed, sprout, offspring
+1085	teup-	IE   	to crouch down, conceal oneself
+1085	teus-		to empty
+1085	teu̯ə-, tu̯ā-		to sift
+1086	ti-ti-, (ti)til-		(onomatopoeic: chirping of small bird)
+1086	ti̯egu̯-		to retreat, step back in fear; shy
+1086-87	1. to-, tā-, ti̯o-	IE    so(s)	that, him (neut. or non-nom. demonstrative stem)
+1088	2. to-	ati	(prefix)
+1088	tolku̯-	IE   	to speak
+1088	1. tong-, *teng-	IE    2. teng-	to think, feel
+1088	2. tong-	tag-	to touch, grip, seize
+1088	top-	IE   	to reach, stay; place
+1088-89	tor-, toro-s	IE    trozdos-	loud, distinct, audible
+1089	trāgh-, trō̆gh-, and trē̆gh-	IE    trek-	to drag, train, pull, move
+1090	trē̆b-, trōb-, treb-, or trəb-, tr̥b-	IE   	building, dwelling
+1090	treg-	1. (s)ter-	to make an effort, use all one's strength; battle, force; solid
+1090-92	trei-	IE   	three, trio
+1092	treig-	3. (s)treig-	to hiss
+1092	treisti-, or trīsti-		sulky, moody, stubborn
+1092	trek-	IE    dherāgh-	to pull, run
+1092-93	trem-, trems-	IE    1. trep-	to shake, tremble; to stomp, trample
+1093	1. trenk-	IE    2. trenk-	to throng, push, press together
+1094	2. trenk-	1. trenk-	to wash, bathe, cleanse
+1094	1. trep-	IE    tres-	to trip, tread, trample
+1094	2. trep-	IE   	to bow the head, turn away in shame
+1095	3. trep-, treb-	(s)trep-	to cry, make wild noises
+1095	tres-, ters-, *teres-	IE    1. ter-	to quiver, tremble
+1095	trē̆u-		to prosper
+1095-96	tr-eu-d-	IE    trū̆des-	to thrust, push, press, squash
+1096	trii̯əto-, trīto-		sea; wet, watery
+1096	tris-		vine; stem, stalk
+1096	trozdos- : tr̥zdos-	IE    4. ter-	thrush, blackbird
+1096-97	trū̆des-	tr-eu-d-	scratchy; leprosy?
+1097	truk̑-	tu̯erk̑-	to cut
+1097	trus-		reed
+1097	tu, tutu	IE   	(onomatopoeic: chirping of bird)
+1097-98	tū̆	IE   	thou, you
+1098	tū-lo-		slow, lazy, sluggish; boring
+1098	1. tu̯ā̆k-, tuk-		to bind, close up, pull together
+1098	2. tu̯ak-	IE   	to bathe
+1099	tu̯akos		skin
+1099	1. tu̯ē̆i-		to hack, hew, cut down, hit sharply
+1099	2. tu̯ei-, extended tu̯ei-s-	IE   	to shake, excite, move back and forth, shimmer
+1099	tu̯en-	1. (s)teu-	to hit, push, thrust
+1099-1100	tu̯eng̑h-	IE   	to twinge, oppress, constrain, close in
+1100-1	1. tu̯er- : tur-, and tu̯r̥-	IE   	to twirl, turn
+1101	2. tu̯er- : tur-, tu̯erə-	IE   	to grab, hold
+1102	tu̯erk̑-	IE    truk̑-	to cut
+1102	tu̯ī̆bh-		hollow
+1102	tu̯ō[u]- : tu̯əu- : tū-l-		pipe, tube
+1103	1. u-		(onomatopoeic: owl's hoot, etc.)
+1103	2. u-	5. u̯e-	ooh! (interjection of pain)
+1103	ub-		to drag, press down
+1103-4	ū̆d-	IE    ghe-	out, away, up(wards)
+1104-5	udero-, u̯ēdero-	IE   	belly, uterus
+1105	ul-	IE    albhi-	(onomatopoeic: to howl, ululate)
+1105-6	upér, upéri	IE    upo	over, above
+1106-7	upo, up, eup, (e)up-s-	IE    upér	under, (from) below, etc.
+1108	1. u̯ā-, u̯ō-, u̯ə-	2. u̯en-	to hit, wound
+1108	u̯en-	IE   	to hit, wound
+1108-9	2. u̯ā-	IE   	(to pull) apart
+1109	u̯āb-	IE    1. u̯ap-	to call, cry, weep, lament
+1109	u̯adh-	IE   	pledge
+1109	u̯ādh-, u̯ədh-	IE   	to go, wade, stride, march
+1110	1. u̯ā̆g-	IE   	sheath, cover, hollow lid
+1110	2. u̯ā̆g-	u̯ā̆gh-	to cry, shriek
+1110	u̯ā̆gh-, suā̆gh-	IE    2. u̯ā̆g-	to cry, shriek, sough
+1110-11	u̯ai	IE   	woe; wolf
+1111	u̯ā̆i-, u̯ī-	IE   	weak, miserable
+1111	u̯ā̆kā	IE   	cow
+1111-12	u̯al-, u̯al-d(h)-	IE   	to prevail, be strong
+1112	u̯ank̑-		beam
+1112	1. u̯ap-	2. u̯ap-	to chatter
+1112-13	2. u̯ap-, ū̆p-	IE    u̯āb-	to call, cry
+1113	u̯āsto-s	1. eu-	to lack; empty
+1113	1. u̯āt-, better u̯ōt-	IE   	wood, vatic, mentally animated
+1113	2. u̯ā̆t-	IE    u̯əg-	to bend, curve
+1113-14	u̯azdh-, better u̯ozdh-		long, wide
+1114	1. u̯ē̆-, u̯ei-	IE    3. ne-	we two (dual), we (plural)
+1114	2. u̯e-, u̯edh-	1. u̯ebh-	to weave
+1114	3. u̯ē-, u̯ə-	IE    u̯ēp-	to blow
+1114	4. u̯e-, u̯o-, u̯es-	3. au-	from, away, downward
+1114	5. u̯e-, u̯o-	4. au-	other; that (one)
+1114	1. u̯ebh-	IE    5. au̯-	to plait, weave, waver, move back and forth
+1114-15	2. u̯ebh-	u̯obhsā	to roam, swarm, wander
+1115	u̯ed-	2. u̯edh-	to lead
+1115	1. u̯edh-	IE   	to hit, push
+1115-16	2. u̯edh-, before nasals u̯ed-	IE    u̯ed-	to lead
+1116-17	3. u̯edh-	1. u̯endh-	to tie, bind, attach
+1117	u̯eg-	IE    u̯okso-	to bind, weave
+1117-18	u̯eg̑-	IE    au̯eg-	fresh, strong
+1118	u̯egu̯- : ū̆gu̯-, uku̯s-	IE   	damp, moist; to wet, sprinkle, irrigate; ox
+1118-20	u̯eg̑h-	IE   	to move, drive, carry, convey
+1120	u̯əg- : u̯āg-	1. u̯ei-	bent, curved
+1120-22	1. u̯ei-, u̯ei̯ə- : u̯ī̆-	IE    1. u̯eid-	to bend, turn, wind
+1123	2. u̯ei-, u̯ei̯ə- : u̯ī̆-	IE    3. u̯eis-	to wizen, wither
+1123-24	3. u̯ei-, u̯eiə- : u̯ī-	IE    u̯ī̆ro-s	to wish, pursue, go for, reach towards; strong, violent
+1124	u̯eib-	u̯eip-	to sway, turn
+1124	1. u̯eid-	4. u̯eik-	to bend, turn
+1125-27	2. u̯(e)id-	IE   	to vide, see, wit, know
+1127-28	u̯eidh-, u̯idh-	IE    1. u̯ī̆-	to divide, separate; widow
+1128	1. u̯eik-	IE   	to choose, filter, sort out
+1128-29	2. u̯eik-	IE   	force, energy (in battle, victory, etc.)
+1129	3. u̯eik-	IE   	to happen, become equal, come together
+1130-31	4. u̯eik-, u̯eig-, extended form of u̯ei-	IE    2. u̯eis-	to bend, curve; exchange, pass around
+1131	u̯eik̑-, u̯ik̑-, u̯oik̑o-	IE   	house, village, settlement
+1131-32	u̯eip-, u̯eib-	IE    3. seu-	to turn, whip, sway, vibrate
+1133	1. u̯eis-	IE   	to grow, sprout
+1133-34	2. u̯eis-	u̯ek-	to bend, turn
+1134	3. u̯eis-	IE    2. u̯ei-	to flow (away); ooze, virus, poison
+1134-35	u̯ek-, u̯e-n-k-	u̯ək-	to bend
+1135	u̯ək- : *u̯āk-	IE    u̯e-n-g-	bent
+1135	u̯ek̑-	IE   	to want, wish
+1135-36	u̯eku̯-	IE   	to voice, speak, evoke
+1136	u̯ek-ti-	IE   	whit, thing
+1136-37	1. u̯el-	IE   	to see
+1137-38	2. u̯el-, u̯lei-, u̯lē(i)-	IE    5. u̯el-	to will, want, wish, choose
+1138	3. u̯el-	IE    7. u̯el-	to crowd, press, push
+1139-40	4. u̯el-, u̯elə-	IE   	wool, hair; grass, wold, forest
+1140	5. u̯el-, u̯elə-	2. u̯el-	to deceive
+1140	6. u̯el-		warm
+1140-44	7. u̯el-, u̯elə-, u̯lē-	IE    3. u̯el-	to turn, wind; round, voluble
+1144-45	8. u̯el-	IE    1. u̯elk-	to steal; to wound, tear, avulse
+1145	1. u̯elk-	selk-	to pull, drag
+1145-46	2. u̯elk-, u̯elg-	IE   	wet, damp
+1146	u̯em-, u̯emə-	IE   	to spit, spew, wamble, vomit
+1146-47	1. u̯en-, u̯enə-	IE   	to love, venerate, strive/wish for
+1147	2. u̯en-	1. u̯ā-	to hit, wound
+1148	1. u̯endh-	IE    3. u̯edh-	to turn, wind, wend
+1148	2. u̯endh-	(s)u̯endh-	to wane, disappear
+1148	3. u̯endh-		hair, beard
+1148-49	u̯e-n-g-	IE    u̯e-n-gh-	bent
+1149	u̯e-n-gh-	IE    u̯e-n-k-	bent
+1149	u̯e-n-k-	2. u̯ā̆t-	bent
+1149	1. *u̯ep- : u̯ō̆p- : up-	ab-	water
+1149	2. u̯ep-		to strew, throw out
+1149-50	u̯ēp- : u̯əp-	10. au̯(e)-	to blow; to soar
+1150-51	1. u̯er-, also su̯er-	IE    3. u̯er-	to bind, attach; strive
+1151-52	2. u̯er-	IE   	highland, raised place; high, top
+1152	3. u̯er-	IE    5. u̯er-	to bend, turn, wrap
+1152	3a. u̯er-, u̯r̥mi-s, u̯r̥mo-s	IE   	worm
+1153	3b. u̯er-, u̯er-b-, and u̯er-bh-	IE   	to bend, turn, warp
+1153-54	3c. u̯er-, u̯(e)r-ed-	IE   	to sway, bend down
+1154	3d. u̯er-, u̯er-g-	IE    3e. u̯er-	to turn, wrench
+1154-55	3e. u̯er-, u̯er-g̑h-	IE    3f. u̯er-	to turn, press, wring, strangle
+1155	3f. u̯er-, u̯er-k-	IE    u̯er-g-	to bend, turn, wind
+1156	3g. u̯er-, u̯er-p-, u̯r-ep-	IE   	to turn, wind
+1156-58	3h. u̯er-, u̯er-t-	IE   	to turn, wind, invert
+1158-60	3i. u̯er-, u̯r-ei-	IE   	to clench the teeth; wroth, confused
+1160	4. u̯er-	IE   	to find, take
+1160-62	5. u̯er-	IE    1. u̯erg̑-	to shut, close, cover; guard, warn, save
+1162-63	6. u̯er-	IE    u̯rek-	to speak, talk formally
+1163-64	7. u̯er-	IE   	to root, open, tear up
+1164	8. u̯er-	IE   	to notice, observe, attend, be aware
+1165	9. u̯er- : u̯eru-s	IE   	wide, broad
+1165	10. u̯er-	9. au̯(e)-	to flow; wet; water, river, etc.
+1165-66	11. u̯er-, u̯erə-	IE   	to show friendship; true, very, veracious, trustworthy
+1166	12. u̯er-	IE   	to burn
+1166	13. u̯er-	IE   	squirrel, weasel, etc.
+1167	u̯(e)rād-, u̯erəd-, u̯rəd-	IE   	root, branch, twig
+1167	u̯erdh-, u̯redh-	IE   	to grow; high
+1168	1. u̯erg̑-, u̯reg̑-	IE    u̯ōro-	to (en)close, shut off; pen
+1168-69	2. u̯erg̑-, u̯reg̑-	IE   	to do, work, be effective
+1169	3. u̯erg̑-, u̯org̑-	IE   	to abound, be very strong; to swarm, swell
+1169	u̯er-g-, u̯er-g̑h-, u̯er-k-	3d. u̯er-	to bend, turn
+1169	u̯er-(e)nā	IE   	alder, poplar
+1169-70	u̯ers-	IE   	to drag along the ground
+1170	u̯eren-	IE   	lamb, ram, sheep
+1170-71	1. u̯es-	IE    2. au-	to live, stay overnight
+1171	2. u̯es-	IE    u̯ē̆su-	to feast
+1171-72	3. u̯es-	IE   	to ooze, dampen; wet
+1172	4. u̯es-		to stick, stab, pierce
+1172-73	5. u̯es-	IE   	to dress, clothe, wear
+1173	6. u̯ē̆s-	1. i̯u-	you (plural)
+1173	7. u̯es-		to turn, wind, wrap
+1173	8. u̯es-	IE   	to buy, sell, exchange
+1173	u̯es-no-		price
+1173	9. u̯es-	u̯es-r̥	to shine
+1173-74	u̯esperos, u̯ekeros	IE   	vesper, evening
+1174	u̯es-r̥	IE    au̯es-	spring
+1174-75	u̯ē̆su-	IE    2. u̯es-	good
+1175	u̯et-	IE   	year
+1175-76	1. u̯ī̆-	IE    2. dhē-	apart, separate from, in two; both
+1176	2. u̯ī̆-, u̯oi-		(onomatopoeic root)
+1177	u̯idhu-	IE   	tree, wood
+1177	u̯ī-k̑m̥t-ī	IE    dek̑m̥	twenty
+1177	u̯ī̆ks-		mistletoe, tree with sticky(?) sap
+1177	u̯ing̑-, and u̯eig̑-, u̯ig̑-?	ang̑h-	elm (tree)
+1177-78	u̯ī̆ro-s	IE    3. u̯ei-	man, warrior
+1178	u̯i̯eth-, u̯ith-		to shake
+1178	u̯lek-, u̯l̥k-		to light, shine; fiery
+1178-79	u̯l̥ku̯os	IE   	wolf, lobo
+1179	u̯l̥p-, lup-	IE   	(carnivorous animal, esp. fox, wolf, etc.)
+1179	u̯obhsā	IE    2. u̯ebh-	wasp
+1179-80	u̯ogu̯hni-s, u̯ogu̯hnes-	IE   	plowshare
+1180	u̯okso-	IE    u̯eg-	wax
+1180	u̯ōro-	IE    5. su̯er-	madness; dizziness, weariness
+1180	u̯ortoko-	IE   	quail
+1180	1. u̯rā̆g̑h- : u̯rəg̑h-		spike, thorn
+1181	2. u̯rāg̑h- : u̯rəg̑h-		to hit, push
+1181	u̯reg-, and u̯erg-?	IE   	to drag, push, drive, thrust
+1181-82	u̯rēg̑-, u̯rōg̑-, u̯rəg̑-	IE   	to break
+1182	u̯rek-	6. u̯er-	to speak, talk formally
+1182	u̯reik-, u̯ereik-		heather
+1182	u̯ren-		to splash, sprinkle
+1183	u̯reth- : u̯roth-, or u̯rath-		to support
+1183	u̯rughi̯o-	IE    rughi̯o-	rye
