@@ -1,2 +1,2 @@
 # ClAi
-Chrono-Linguistic Ai Matrix
+Chrono-Lexicon Ai Matrix
